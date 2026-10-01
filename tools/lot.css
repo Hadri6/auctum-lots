@@ -39,3 +39,9 @@ td a{color:var(--acc)}
 .fab{position:fixed;bottom:16px;inset-inline-end:16px;background:#25d366;color:#fff;text-decoration:none;border-radius:999px;padding:12px 18px;font-weight:700;box-shadow:0 4px 14px rgba(0,0,0,.25);z-index:9}
 footer{max-width:1300px;margin:auto;padding:0 16px 90px;color:var(--mut);font-size:13px}
 @media (max-width:480px){.grid{grid-template-columns:repeat(2,1fr);gap:8px}h1{font-size:21px}table{display:block;overflow-x:auto}}
+#summary h3{margin:18px 0 6px;font-size:15px;color:var(--mut)}
+.sum{overflow-x:auto;max-width:760px}
+.sum table{margin-top:0}
+.sum td:not(:first-child),.sum th:not(:first-child){text-align:end;white-space:nowrap}
+.sum tr.tot td{font-weight:700;border-top:2px solid var(--ink)}
+.sum a{color:inherit}

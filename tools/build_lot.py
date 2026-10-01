@@ -104,6 +104,36 @@ def build(lot_dir):
                 sec += f'<table>{head}<tbody>{rows}</tbody></table>'
         sec += '</section>'
 
+    # Summary of all contents at the end of the page: by product type, then by group.
+    by_type = collections.OrderedDict()
+    for it in items:
+        key = (it.get('type_en') or 'Item', it.get('type_ar') or 'صنف')
+        n, q = by_type.get(key, (0, 0))
+        by_type[key] = (n + 1, q + it['qty'])
+    type_rows = ''.join(f'<tr><td>{t(en, ar)}</td><td>{n:,}</td><td>{q:,}</td><td>{q * 100 / total_qty:.1f}%</td></tr>'
+                        for (en, ar), (n, q) in sorted(by_type.items(), key=lambda x: -x[1][1]))
+    total_row = (f'<tr class="tot"><td>{t("Total", "المجموع")}</td><td>{len(items):,}</td>'
+                 f'<td>{total_qty:,}</td><td>100%</td></tr>')
+    head = (f'<thead><tr>{t("{0}", "{1}", tag="th")}{t("Items", "الأصناف", tag="th")}'
+            f'{t(f"Quantity ({unit_en})", f"الكمية ({unit_ar})", tag="th")}{t("Share", "النسبة", tag="th")}</tr></thead>')
+    summary = (f'<section id="summary"><h2>{t("Summary of contents", "ملخص المحتويات")}</h2>'
+               f'<h3>{t("By product type", "حسب نوع القطعة")}</h3><div class="sum">'
+               f'<table>{head.replace("{0}", "Product type").replace("{1}", "نوع القطعة")}<tbody>{type_rows}{total_row}</tbody></table></div>')
+    if len(groups) > 1:
+        grp_word = lot.get('groups_word', ['Group', 'المجموعة'])
+        grp_rows = ''
+        for k in order:
+            q = sum(x['qty'] for x in groups[k])
+            en, ar = label(k)
+            grp_rows += (f'<tr><td><a href="#c-{k}">{t(en, ar)}</a></td><td>{len(groups[k]):,}</td>'
+                         f'<td>{q:,}</td><td>{q * 100 / total_qty:.1f}%</td></tr>')
+        summary += (f'<h3>{t("By " + grp_word[0].lower().rstrip("s"), "حسب " + grp_word[1])}</h3><div class="sum">'
+                    f'<table>{head.replace("{0}", grp_word[0].rstrip("s")).replace("{1}", grp_word[1])}'
+                    f'<tbody>{grp_rows}{total_row}</tbody></table></div>')
+    summary += '</section>'
+    sec += summary
+    nav += f'<a href="#summary">{t("Summary", "الملخص")}</a>'
+
     kpis = [('Pieces', 'قطعة', f'≈ {total_qty:,}'), ('Items', 'صنف', f'{len(items):,}')]
     if len(groups) > 1:
         kpis.append(('Groups' if lot.get('groups_word') is None else lot['groups_word'][0],
