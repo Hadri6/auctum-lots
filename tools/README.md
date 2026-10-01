@@ -8,6 +8,9 @@ Reference result: `minet/` (Meubles Minet furniture, 2026-10-01).
 - Manifest only: **no prices, no WhatsApp/phone/email/contact buttons**, no liquidator/estate/source names, no purchase price.
 - Same visual identity every time: `tools/lot.css` + `tools/lot.js` + `tools/build_lot.py`. Do not restyle per lot.
 - `noindex`; root `index.html` stays a neutral page that links to no lot (traders get only their lot's link).
+- Every page ends with a **summary-of-contents table** (founder, 2026-10-01): by product type (items, quantity, share, total)
+  and, when there are several groups, by group. The builder generates it automatically from `type_en/type_ar` and `group`,
+  so give every line a meaningful type — keep generic "Item"/"Furniture" to a minimum and use one spelling per type.
 
 ## Steps
 1. **Read the manifest** and normalize every line into `lots/<slug>/items.json`:
