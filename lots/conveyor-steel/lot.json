@@ -47,6 +47,20 @@
   "دفعات"
  ],
  "qty_exact": true,
+ "shipping": {
+  "volume_m3": [
+   40,
+   60
+  ],
+  "weight_t": [
+   45,
+   55
+  ],
+  "note": {
+   "en": "Rough estimate from the inventory (no weights listed yet). Steel bars longer than 5.9 m need 40′ containers. Final figures after the detailed packing list.",
+   "ar": "تقدير أولي من بيانات الجرد (لا توجد أوزان مسجلة بعد). قضبان الفولاذ الأطول من 5.9 م تحتاج حاويات 40 قدم. الأرقام النهائية بعد قائمة التعبئة المفصلة."
+  }
+ },
  "all_cards": true,
  "other_group": "autres",
  "credits": "Representative photos: #124: el cajon yacht club (CC BY 2.0) · #214: Dietmar Rabich (CC BY-SA 4.0) · #215: Kalpnah (CC BY-SA 3.0) · #216: Simon Waldherr (CC BY-SA 3.0) · #217: Ulrichulrich (CC BY-SA 3.0) · #218: Unknown photographer (Public domain 1.0) · #219: Belt777 (CC BY-SA 3.0) · #220: W.carter (CC0)"

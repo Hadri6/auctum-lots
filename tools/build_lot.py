@@ -25,6 +25,54 @@ def t(en, ar, tag='span', cls=''):
     return f'<{tag}{c} data-en="{E(en)}" data-ar="{E(ar)}">{E(en)}</{tag}>'
 
 
+# Practical loading capacity per container (not the nominal internal volume).
+CONTAINERS = [
+    ("40′ High Cube", "حاوية 40 قدم High Cube", 68.0, 26.5),
+    ("20′ Standard", "حاوية 20 قدم عادية", 28.0, 24.0),
+]
+
+
+def _rng(v):
+    if v is None:
+        return None
+    return (float(v[0]), float(v[1])) if isinstance(v, (list, tuple)) else (float(v), float(v))
+
+
+def _fmt(lo, hi, unit=''):
+    f = lambda x: f'{x:,.0f}'
+    return f'≈ {f(lo)}{unit}' if round(lo) == round(hi) else f'≈ {f(lo)}–{f(hi)}{unit}'
+
+
+def shipping_table(lot):
+    """Shipping estimate under the last summary table: total volume/weight and how many containers it fills."""
+    sh = lot.get('shipping')
+    if not sh:
+        return ''
+    vol, wt = _rng(sh.get('volume_m3')), _rng(sh.get('weight_t'))
+    rows = ''
+    if vol:
+        rows += f'<tr><td>{t("Total volume (approx.)", "الحجم الإجمالي (تقريبي)")}</td><td>{_fmt(*vol, " m³")}</td></tr>'
+    if wt:
+        rows += f'<tr><td>{t("Total weight (approx.)", "الوزن الإجمالي (تقريبي)")}</td><td>{_fmt(*wt, " t")}</td></tr>'
+    for en, ar, cap_v, cap_w in CONTAINERS:
+        if en.startswith('20') and sh.get('no_20ft'):
+            continue
+        need = []
+        for i in (0, 1):
+            n = max((vol[i] / cap_v) if vol else 0, (wt[i] / cap_w) if wt else 0)
+            need.append(max(1, -(-n // 1)))  # ceil, at least one container
+        lo, hi = int(need[0]), int(need[1])
+        val = f'{lo}' if lo == hi else f'{lo}–{hi}'
+        rows += f'<tr><td>{t(en + " containers", ar)}</td><td><b>{val}</b></td></tr>'
+    note = sh.get('note', {'en': 'Estimate based on the inventory data; final loading plan confirmed before shipment.',
+                           'ar': 'تقدير مبني على بيانات الجرد؛ يُؤكَّد مخطط التحميل النهائي قبل الشحن.'})
+    basis = t('Container capacity used: 40′ HC ≈ 68 m³ / 26.5 t, 20′ ≈ 28 m³ / 24 t (practical loading).',
+              'السعة المعتمدة: 40 قدم HC ≈ 68 م³ / 26.5 طن، 20 قدم ≈ 28 م³ / 24 طن (تحميل عملي).')
+    return (f'<h3 id="shipping">{t("Shipping estimate", "تقدير الشحن")}</h3><div class="sum">'
+            f'<table><tbody>{rows}</tbody></table></div>'
+            f'<div class="note">{t(note["en"], note["ar"])}<br>{basis}</div>')
+
+
 def build(lot_dir):
     lot = json.load(open(os.path.join(lot_dir, 'lot.json'), encoding='utf8'))
     items = json.load(open(os.path.join(lot_dir, 'items.json'), encoding='utf8'))
@@ -135,6 +183,7 @@ def build(lot_dir):
         summary += (f'<h3>{t("By " + grp_word[0].lower().rstrip("s"), "حسب " + grp_word[1])}</h3><div class="sum">'
                     f'<table>{head.replace("{0}", grp_word[0].rstrip("s")).replace("{1}", grp_word[1])}'
                     f'<tbody>{grp_rows}{total_row}</tbody></table></div>')
+    summary += shipping_table(lot)
     summary += '</section>'
     sec += summary
     nav += f'<a href="#summary">{t("Summary", "الملخص")}</a>'

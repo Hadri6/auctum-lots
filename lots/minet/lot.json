@@ -24,5 +24,13 @@
   "en": "France",
   "ar": "فرنسا"
  },
- "other_group": "autres"
+ "other_group": "autres",
+ "shipping": {
+  "volume_m3": 566,
+  "weight_t": 124,
+  "note": {
+   "en": "Calculated from the unit volumes and weights in the stock list (packed furniture); final loading plan confirmed before shipment.",
+   "ar": "محسوب من حجم ووزن كل قطعة في قائمة المخزون (أثاث مغلّف)؛ يُؤكَّد مخطط التحميل النهائي قبل الشحن."
+  }
+ }
 }

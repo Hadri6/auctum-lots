@@ -8,6 +8,11 @@ Reference result: `minet/` (Meubles Minet furniture, 2026-10-01).
 - Manifest only: **no prices, no WhatsApp/phone/email/contact buttons**, no liquidator/estate/source names, no purchase price.
 - Same visual identity every time: `tools/lot.css` + `tools/lot.js` + `tools/build_lot.py`. Do not restyle per lot.
 - `noindex`; root `index.html` stays a neutral page that links to no lot (traders get only their lot's link).
+- Under the last summary table every page shows a **shipping estimate** (founder, 2026-10-01): total volume and weight
+  (approx.) and how many 40′ HC and 20′ containers the lot fills. Set `lot.json` → `"shipping": {"volume_m3": x | [lo, hi],
+  "weight_t": y | [lo, hi], "note": {en, ar}, "no_20ft": false}`; the builder computes containers with practical capacity
+  40′ HC ≈ 68 m³ / 26.5 t and 20′ ≈ 28 m³ / 24 t (whichever limit binds). Use exact volume/weight from the manifest when
+  given (sum qty × unit volume/weight); otherwise estimate a range and say so in the note (e.g. long steel > 5.9 m → 40′ only).
 - The repo is public: everything under `lots/` and `<slug>/` is served. Use a **neutral slug and neutral photo file names**
   (e.g. `conveyor-steel`, `p_<ref>.jpg`) whenever the company name would reveal the estate; only a product brand
   (like `minet`) may appear. Parsing/photo scripts and raw lists live outside the repo in
