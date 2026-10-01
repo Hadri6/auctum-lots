@@ -4,8 +4,8 @@
   "name": "Conveyor idler stations and idler rollers – various standard sizes (new, see inventory)",
   "qty": 1,
   "group": "conv",
-  "type_en": "Conveyor belt parts",
-  "type_ar": "قطع سيور النقل",
+  "type_en": "Conveyor idlers & rollers",
+  "type_ar": "محطات وبكرات حمل السيور",
   "img": null,
   "photo": null
  },
@@ -14,8 +14,8 @@
   "name": "Conveyor drum pulleys – various standard sizes (new, see inventory)",
   "qty": 1,
   "group": "conv",
-  "type_en": "Conveyor belt parts",
-  "type_ar": "قطع سيور النقل",
+  "type_en": "Conveyor drum pulleys",
+  "type_ar": "أسطوانات السيور",
   "img": null,
   "photo": null
  },
@@ -24,8 +24,8 @@
   "name": "Conveyor belt covers – various standard sizes (new, see inventory)",
   "qty": 1,
   "group": "conv",
-  "type_en": "Conveyor belt parts",
-  "type_ar": "قطع سيور النقل",
+  "type_en": "Conveyor belt covers",
+  "type_ar": "أغطية السيور",
   "img": "img/p_217.jpg",
   "photo": "rep"
  },
@@ -34,8 +34,8 @@
   "name": "Steel stock: flat bar, hollow sections, beams, plates, tubes, square and angle steel – various sizes and cuts, partly unopened deliveries",
   "qty": 1,
   "group": "steel",
-  "type_en": "Steel stock",
-  "type_ar": "مخزون فولاذ",
+  "type_en": "Steel sections, plates & tubes",
+  "type_ar": "مقاطع وصفائح وأنابيب فولاذية",
   "img": "img/p_220.jpg",
   "photo": "rep"
  },
