@@ -1,0 +1,28 @@
+{
+ "slug": "minet",
+ "page_title": "Meubles Minet Furniture Lot",
+ "title": {
+  "en": "New French furniture – Meubles Minet lot",
+  "ar": "أثاث فرنسي جديد – دفعة Meubles Minet"
+ },
+ "subtitle": {
+  "en": "Brand-new bedroom and dining furniture made in France by Meubles Minet: wardrobes, beds, headboards, nightstands, chests, dining tables and sideboards. Available as one complete lot or by collection.",
+  "ar": "أثاث غرف نوم وطعام جديد بالكامل من صنع Meubles Minet في فرنسا: خزائن ملابس، أسرّة، رؤوس أسرّة، طاولات جانبية، كومودينو، طاولات طعام وبوفيهات. متوفر كدفعة كاملة أو حسب التشكيلة."
+ },
+ "groups_word": [
+  "Collections",
+  "تشكيلة"
+ ],
+ "kpis": [
+  {
+   "en": "Volume",
+   "ar": "الحجم",
+   "value": "≈ 566 m³"
+  }
+ ],
+ "location": {
+  "en": "France",
+  "ar": "فرنسا"
+ },
+ "other_group": "autres"
+}

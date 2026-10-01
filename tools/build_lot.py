@@ -1,0 +1,141 @@
+"""Build a professional lot manifest page ("قائمة احترافية") in the Auctum visual identity.
+
+Usage:  python tools/build_lot.py lots/<slug>
+Input:  lots/<slug>/lot.json    lot metadata (title, subtitle, KPIs, group labels)
+        lots/<slug>/items.json  normalized items (see tools/README.md)
+        lots/<slug>/img/        optional photos referenced by items[].img
+Output: <slug>/index.html + <slug>/img/  (published by GitHub Pages)
+
+The page is a manifest only: no prices, no contact links, no source/liquidator names.
+"""
+import collections
+import html
+import json
+import os
+import shutil
+import sys
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+TOOLS = os.path.join(ROOT, 'tools')
+E = html.escape
+
+
+def t(en, ar, tag='span', cls=''):
+    c = f' class="{cls}"' if cls else ''
+    return f'<{tag}{c} data-en="{E(en)}" data-ar="{E(ar)}">{E(en)}</{tag}>'
+
+
+def build(lot_dir):
+    lot = json.load(open(os.path.join(lot_dir, 'lot.json'), encoding='utf8'))
+    items = json.load(open(os.path.join(lot_dir, 'items.json'), encoding='utf8'))
+    slug = lot['slug']
+    out = os.path.join(ROOT, slug)
+    if os.path.isdir(os.path.join(out, 'img')):
+        shutil.rmtree(os.path.join(out, 'img'))
+    os.makedirs(os.path.join(out, 'img'), exist_ok=True)
+
+    labels = lot.get('groups', {})
+    other = lot.get('other_group', 'autres')
+    groups = collections.defaultdict(list)
+    for it in items:
+        groups[it.get('group') or other].append(it)
+    order = sorted(groups, key=lambda k: (k == other, -sum(x['qty'] for x in groups[k])))
+
+    def label(k):
+        if k in labels:
+            return labels[k]['en'], labels[k]['ar']
+        if k == other:
+            return 'Other items', 'قطع أخرى'
+        return f'{k.upper()} collection', f'تشكيلة {k.upper()}'
+
+    def short(k):
+        return labels.get(k, {}).get('short') or ('Others' if k == other else k.upper())
+
+    copied = set()
+
+    def photo(it):
+        p = it.get('img')
+        if not p:
+            return None
+        src = os.path.join(lot_dir, p)
+        if not os.path.exists(src):
+            return None
+        name = os.path.basename(src)
+        if name not in copied:
+            shutil.copy(src, os.path.join(out, 'img', name))
+            copied.add(name)
+        return 'img/' + name
+
+    unit_en, unit_ar = lot.get('unit', ['pcs', 'قطعة'])
+    total_qty = sum(it['qty'] for it in items)
+    nav = ''.join(f'<a href="#c-{k}">{E(short(k))} <span>{sum(x["qty"] for x in groups[k])}</span></a>' for k in order)
+
+    sec = ''
+    for k in order:
+        L = sorted(groups[k], key=lambda x: -x['qty'])
+        cards, rows, nrows = '', '', 0
+        for it in L:
+            ten, tar = it.get('type_en') or 'Item', it.get('type_ar') or 'صنف'
+            src = photo(it)
+            ref = f"#{it['ref']}"
+            if src:
+                badge = (t('Product photo', 'صورة المنتج', cls='tag ok') if it.get('photo') == 'exact'
+                         else t('Representative photo', 'صورة توضيحية', cls='tag rep'))
+                cards += (f'<figure class="card"><img loading="lazy" src="{src}" alt="{E(ten)}">{badge}<figcaption>'
+                          f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>'
+                          f'<div class="row"><span class="q"><b>{it["qty"]:,}</b> {t(unit_en, unit_ar)}</span>'
+                          f'<span class="ref">Ref {E(ref)}</span></div></figcaption></figure>')
+            else:
+                nrows += 1
+                rows += (f'<tr><td>Ref {E(ref)}</td><td dir="ltr">{E(it["name"])}</td>'
+                         f'<td>{t(ten, tar)}</td><td>{it["qty"]:,}</td></tr>')
+        en, ar = label(k)
+        sec += (f'<section id="c-{k}"><h2>{t(en, ar)} <small>{len(L)} {t("items", "صنف")} · '
+                f'{sum(x["qty"] for x in L):,} {t(unit_en, unit_ar)}</small></h2>')
+        if cards:
+            sec += f'<div class="grid">{cards}</div>'
+        if rows:
+            head = (f'<thead><tr><th>Ref</th>{t("Item", "الصنف", tag="th")}{t("Type", "النوع", tag="th")}'
+                    f'{t("Qty", "الكمية", tag="th")}</tr></thead>')
+            if cards:
+                sec += (f'<details>{t(f"More items without photo ({nrows})", f"أصناف أخرى بدون صورة ({nrows})", tag="summary")}'
+                        f'<table>{head}<tbody>{rows}</tbody></table></details>')
+            else:
+                sec += f'<table>{head}<tbody>{rows}</tbody></table>'
+        sec += '</section>'
+
+    kpis = [('Pieces', 'قطعة', f'≈ {total_qty:,}'), ('Items', 'صنف', f'{len(items):,}')]
+    if len(groups) > 1:
+        kpis.append(('Groups' if lot.get('groups_word') is None else lot['groups_word'][0],
+                     'مجموعة' if lot.get('groups_word') is None else lot['groups_word'][1],
+                     str(len([g for g in groups if g != other]))))
+    for extra in lot.get('kpis', []):
+        kpis.append((extra['en'], extra['ar'], extra['value']))
+    kpi_html = ''.join(f'<div>{t(a, b)}<b>{E(v)}</b></div>' for a, b, v in kpis)
+    loc = lot.get('location')
+    if loc:
+        kpi_html += f'<div>{t("Location", "الموقع")}{t(loc["en"], loc["ar"], tag="b")}</div>'
+
+    note = lot.get('note', {'en': 'Photos are catalogue pictures of the same models; finishes and colours may differ. Subject to prior sale.',
+                            'ar': 'الصور من كتالوج نفس الموديلات وقد يختلف اللون أو التشطيب. البضاعة متاحة حتى نفادها.'})
+    css = open(os.path.join(TOOLS, 'lot.css'), encoding='utf8').read()
+    js = open(os.path.join(TOOLS, 'lot.js'), encoding='utf8').read()
+    page = f'''<!doctype html><html lang="en" dir="ltr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{E(lot["page_title"])}</title>
+<meta name="description" content="{E(lot["subtitle"]["en"])}">
+<meta name="robots" content="noindex"><style>{css}</style></head><body>
+<header><div class="top"><div class="brand">AUCTUM GMBH · GERMANY</div><button class="lang" id="lang">العربية</button></div>
+{t(lot["title"]["en"], lot["title"]["ar"], tag="h1")}
+{t(lot["subtitle"]["en"], lot["subtitle"]["ar"], tag="div", cls="sub")}
+<div class="kpi">{kpi_html}</div>
+{t(note["en"], note["ar"], tag="div", cls="note")}
+</header>
+<nav>{nav}</nav><main>{sec}</main>
+<script>{js}</script></body></html>'''
+    open(os.path.join(out, 'index.html'), 'w', encoding='utf8').write(page)
+    print(f'built {slug}/index.html: {len(items)} items, {total_qty} {unit_en}, {len(copied)} photos, '
+          f'{sum(1 for it in items if photo(it))} items with photo')
+
+
+if __name__ == '__main__':
+    build(os.path.abspath(sys.argv[1]))
