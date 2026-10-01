@@ -1,0 +1,113 @@
+{
+ "slug": "it-tools-de",
+ "page_title": "IT & Tools Stock Lot",
+ "title": {
+  "en": "IT hardware & tools – stock lot Germany",
+  "ar": "أجهزة IT وعدد – دفعة مخزون من ألمانيا"
+ },
+ "subtitle": {
+  "en": "Business notebooks, PCs and monitors, SSDs and memory, networking, PC accessories, power tools, hand tools and soldering equipment from a German electronics distributor warehouse. Available as one lot or by group.",
+  "ar": "لابتوبات وكمبيوترات وشاشات أعمال، أقراص SSD وذاكرة، معدات شبكات، ملحقات كمبيوتر، عدد كهربائية ويدوية ومعدات لحام من مستودع موزّع إلكترونيات ألماني. متوفرة كدفعة كاملة أو حسب المجموعة."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعات"
+ ],
+ "kpis": [
+  {
+   "en": "Product lines",
+   "ar": "عدد الأصناف",
+   "value": "3,945"
+  },
+  {
+   "en": "Units",
+   "ar": "القطع",
+   "value": "196,329"
+  }
+ ],
+ "location": {
+  "en": "Germany",
+  "ar": "ألمانيا"
+ },
+ "other_group": "autres",
+ "groups": {
+  "it-computers": {
+   "en": "Notebooks, PCs, monitors & tablets",
+   "ar": "لابتوبات وكمبيوترات وشاشات وتابلت",
+   "short": "Notebooks, PCs, monitors & tablets"
+  },
+  "it-storage": {
+   "en": "Storage & memory",
+   "ar": "تخزين وذاكرة",
+   "short": "Storage & memory"
+  },
+  "it-components": {
+   "en": "PC components & UPS",
+   "ar": "قطع كمبيوتر وUPS",
+   "short": "PC components & UPS"
+  },
+  "it-network": {
+   "en": "Networking",
+   "ar": "شبكات",
+   "short": "Networking"
+  },
+  "it-peripherals": {
+   "en": "Peripherals & accessories",
+   "ar": "ملحقات",
+   "short": "Peripherals & accessories"
+  },
+  "it-cables": {
+   "en": "Cables & adapters",
+   "ar": "كابلات ومحوّلات",
+   "short": "Cables & adapters"
+  },
+  "tools-power": {
+   "en": "Power tools",
+   "ar": "عدد كهربائية",
+   "short": "Power tools"
+  },
+  "tools-hand": {
+   "en": "Hand tools & cases",
+   "ar": "عدد يدوية وحقائب",
+   "short": "Hand tools & cases"
+  },
+  "tools-drill": {
+   "en": "Drill bits & accessories",
+   "ar": "لقم حفر",
+   "short": "Drill bits & accessories"
+  },
+  "tools-solder": {
+   "en": "Soldering",
+   "ar": "لحام إلكتروني",
+   "short": "Soldering"
+  },
+  "tools-measure": {
+   "en": "Measuring tools",
+   "ar": "أدوات قياس",
+   "short": "Measuring tools"
+  },
+  "tools-workshop": {
+   "en": "Workshop equipment",
+   "ar": "معدات ورشة",
+   "short": "Workshop equipment"
+  }
+ },
+ "note": {
+  "en": "Quantities per stock list; final availability confirmed at offer.",
+  "ar": "الكميات حسب قائمة المخزون؛ يُؤكَّد التوفر النهائي عند العرض."
+ },
+ "shipping": {
+  "volume_m3": [
+   589,
+   884
+  ],
+  "weight_t": [
+   126.5,
+   189.8
+  ],
+  "note": {
+   "en": "Estimated from typical packed unit sizes per product type (no unit dimensions in the stock list).",
+   "ar": "تقدير من الأحجام المعتادة لكل نوع منتج مغلّف (القائمة لا تتضمن أبعاد القطع)."
+  }
+ }
+}
