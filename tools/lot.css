@@ -47,3 +47,4 @@ footer{max-width:1300px;margin:auto;padding:0 16px 90px;color:var(--mut);font-si
 .sum a{color:inherit}
 .credits{max-width:1300px;margin:0 auto;padding:0 16px 40px;color:var(--mut);font-size:12px}
 .ph{width:100%;aspect-ratio:4/3;display:grid;place-items:center;background:repeating-linear-gradient(135deg,var(--bg) 0 12px,var(--card) 12px 24px);color:var(--mut);font-weight:600;font-size:14px;text-align:center;padding:12px;border-bottom:1px solid var(--line)}
+.wt{font-size:12px;color:var(--mut)}.wt b{color:var(--ink)}

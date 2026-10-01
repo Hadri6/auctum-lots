@@ -43,12 +43,19 @@ def _fmt(lo, hi, unit=''):
     return f'≈ {f(lo)}{unit}' if round(lo) == round(hi) else f'≈ {f(lo)}–{f(hi)}{unit}'
 
 
-def shipping_table(lot):
-    """Shipping estimate under the last summary table: total volume/weight and how many containers it fills."""
+def _fmt_t(lo, hi):
+    """Tonnes with sensible precision: below 10 t one decimal, else whole tonnes."""
+    f = (lambda x: f'{x:,.1f}') if hi < 10 else (lambda x: f'{x:,.0f}')
+    return f'≈ {f(lo)} t' if f(lo) == f(hi) else f'≈ {f(lo)}–{f(hi)} t'
+
+
+def shipping_table(lot, item_weight=None):
+    """Shipping estimate under the last summary table: total volume/weight and how many containers it fills.
+    When items carry weights and lot.json gives no total, the item sum is used."""
     sh = lot.get('shipping')
     if not sh:
         return ''
-    vol, wt = _rng(sh.get('volume_m3')), _rng(sh.get('weight_t'))
+    vol, wt = _rng(sh.get('volume_m3')), _rng(sh.get('weight_t')) or item_weight
     rows = ''
     if vol:
         rows += f'<tr><td>{t("Total volume (approx.)", "الحجم الإجمالي (تقريبي)")}</td><td>{_fmt(*vol, " m³")}</td></tr>'
@@ -118,6 +125,13 @@ def build(lot_dir):
     total_qty = sum(it['qty'] for it in items)
     nav = ''.join(f'<a href="#c-{k}">{E(short(k))} <span>{sum(x["qty"] for x in groups[k])}</span></a>' for k in order)
 
+    # Optional per-item weight (tonnes, number or [lo, hi]) → shown on cards, summary tables and shipping estimate.
+    has_w = any(it.get('weight_t') is not None for it in items)
+
+    def wsum(lst):
+        ws = [_rng(x.get('weight_t')) for x in lst if x.get('weight_t') is not None]
+        return (sum(a for a, _ in ws), sum(b for _, b in ws)) if ws else None
+
     sec = ''
     for k in order:
         L = sorted(groups[k], key=lambda x: -x['qty'])
@@ -134,14 +148,18 @@ def build(lot_dir):
                     visual = f'<img loading="lazy" src="{src}" alt="{E(ten)}">{badge}'
                 else:
                     visual = f'<div class="ph">{t(ten, tar)}</div>'
+                w = _rng(it.get('weight_t'))
+                wline = (f'<div class="wt">{t("Est. weight", "الوزن التقديري")} <b>{_fmt_t(*w)}</b></div>' if w else '')
                 cards += (f'<figure class="card">{visual}<figcaption>'
-                          f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>'
+                          f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>{wline}'
                           f'<div class="row"><span class="q"><b>{it["qty"]:,}</b> {t(unit_en, unit_ar)}</span>'
                           f'<span class="ref">Ref {E(ref)}</span></div></figcaption></figure>')
             else:
                 nrows += 1
+                w = _rng(it.get('weight_t'))
+                wcell = f'<td>{_fmt_t(*w) if w else "–"}</td>' if has_w else ''
                 rows += (f'<tr><td>Ref {E(ref)}</td><td dir="ltr">{E(it["name"])}</td>'
-                         f'<td>{t(ten, tar)}</td><td>{it["qty"]:,}</td></tr>')
+                         f'<td>{t(ten, tar)}</td><td>{it["qty"]:,}</td>{wcell}</tr>')
         en, ar = label(k)
         sec += (f'<section id="c-{k}"><h2>{t(en, ar)} <small>{len(L)} {t("items", "صنف")} · '
                 f'{sum(x["qty"] for x in L):,} {t(unit_en, unit_ar)}</small></h2>')
@@ -149,7 +167,7 @@ def build(lot_dir):
             sec += f'<div class="grid">{cards}</div>'
         if rows:
             head = (f'<thead><tr><th>Ref</th>{t("Item", "الصنف", tag="th")}{t("Type", "النوع", tag="th")}'
-                    f'{t("Qty", "الكمية", tag="th")}</tr></thead>')
+                    f'{t("Qty", "الكمية", tag="th")}{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}</tr></thead>')
             if cards:
                 sec += (f'<details>{t(f"More items without photo ({nrows})", f"أصناف أخرى بدون صورة ({nrows})", tag="summary")}'
                         f'<table>{head}<tbody>{rows}</tbody></table></details>')
@@ -161,14 +179,22 @@ def build(lot_dir):
     by_type = collections.OrderedDict()
     for it in items:
         key = (it.get('type_en') or 'Item', it.get('type_ar') or 'صنف')
-        n, q = by_type.get(key, (0, 0))
-        by_type[key] = (n + 1, q + it['qty'])
-    type_rows = ''.join(f'<tr><td>{t(en, ar)}</td><td>{n:,}</td><td>{q:,}</td><td>{q * 100 / total_qty:.1f}%</td></tr>'
-                        for (en, ar), (n, q) in sorted(by_type.items(), key=lambda x: -x[1][1]))
+        by_type.setdefault(key, []).append(it)
+
+    def wcol(lst):
+        if not has_w:
+            return ''
+        w = wsum(lst)
+        return f'<td>{_fmt_t(*w) if w else "–"}</td>'
+
+    type_rows = ''.join(f'<tr><td>{t(en, ar)}</td><td>{len(L):,}</td><td>{sum(x["qty"] for x in L):,}</td>'
+                        f'<td>{sum(x["qty"] for x in L) * 100 / total_qty:.1f}%</td>{wcol(L)}</tr>'
+                        for (en, ar), L in sorted(by_type.items(), key=lambda x: -sum(i['qty'] for i in x[1])))
     total_row = (f'<tr class="tot"><td>{t("Total", "المجموع")}</td><td>{len(items):,}</td>'
-                 f'<td>{total_qty:,}</td><td>100%</td></tr>')
+                 f'<td>{total_qty:,}</td><td>100%</td>{wcol(items)}</tr>')
     head = (f'<thead><tr>{t("{0}", "{1}", tag="th")}{t("Items", "الأصناف", tag="th")}'
-            f'{t(f"Quantity ({unit_en})", f"الكمية ({unit_ar})", tag="th")}{t("Share", "النسبة", tag="th")}</tr></thead>')
+            f'{t(f"Quantity ({unit_en})", f"الكمية ({unit_ar})", tag="th")}{t("Share", "النسبة", tag="th")}'
+            f'{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}</tr></thead>')
     summary = (f'<section id="summary"><h2>{t("Summary of contents", "ملخص المحتويات")}</h2>'
                f'<h3>{t("By product type", "حسب نوع القطعة")}</h3><div class="sum">'
                f'<table>{head.replace("{0}", "Product type").replace("{1}", "نوع القطعة")}<tbody>{type_rows}{total_row}</tbody></table></div>')
@@ -179,11 +205,11 @@ def build(lot_dir):
             q = sum(x['qty'] for x in groups[k])
             en, ar = label(k)
             grp_rows += (f'<tr><td><a href="#c-{k}">{t(en, ar)}</a></td><td>{len(groups[k]):,}</td>'
-                         f'<td>{q:,}</td><td>{q * 100 / total_qty:.1f}%</td></tr>')
+                         f'<td>{q:,}</td><td>{q * 100 / total_qty:.1f}%</td>{wcol(groups[k])}</tr>')
         summary += (f'<h3>{t("By " + grp_word[0].lower().rstrip("s"), "حسب " + grp_word[1])}</h3><div class="sum">'
                     f'<table>{head.replace("{0}", grp_word[0].rstrip("s")).replace("{1}", grp_word[1])}'
                     f'<tbody>{grp_rows}{total_row}</tbody></table></div>')
-    summary += shipping_table(lot)
+    summary += shipping_table(lot, wsum(items) if has_w else None)
     summary += '</section>'
     sec += summary
     nav += f'<a href="#summary">{t("Summary", "الملخص")}</a>'

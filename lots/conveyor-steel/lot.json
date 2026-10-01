@@ -49,16 +49,12 @@
  "qty_exact": true,
  "shipping": {
   "volume_m3": [
-   40,
-   60
-  ],
-  "weight_t": [
    45,
-   55
+   80
   ],
   "note": {
-   "en": "Rough estimate from the inventory (no weights listed yet). Steel bars longer than 5.9 m need 40′ containers. Final figures after the detailed packing list.",
-   "ar": "تقدير أولي من بيانات الجرد (لا توجد أوزان مسجلة بعد). قضبان الفولاذ الأطول من 5.9 م تحتاج حاويات 40 قدم. الأرقام النهائية بعد قائمة التعبئة المفصلة."
+   "en": "Weights per line are estimates from the inventory and typical weights for each product type (no weighing yet); total = sum of the lines. Steel bars longer than 5.9 m need 40′ containers. Final figures after the detailed packing list.",
+   "ar": "وزن كل سطر تقدير مبني على بيانات الجرد والأوزان المعتادة لكل نوع منتج (لم يتم الوزن بعد)؛ الإجمالي = مجموع الأسطر. قضبان الفولاذ الأطول من 5.9 م تحتاج حاويات 40 قدم. الأرقام النهائية بعد قائمة التعبئة المفصلة."
   }
  },
  "all_cards": true,

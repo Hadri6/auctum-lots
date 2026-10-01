@@ -13,6 +13,10 @@ Reference result: `minet/` (Meubles Minet furniture, 2026-10-01).
   "weight_t": y | [lo, hi], "note": {en, ar}, "no_20ft": false}`; the builder computes containers with practical capacity
   40′ HC ≈ 68 m³ / 26.5 t and 20′ ≈ 28 m³ / 24 t (whichever limit binds). Use exact volume/weight from the manifest when
   given (sum qty × unit volume/weight); otherwise estimate a range and say so in the note (e.g. long steel > 5.9 m → 40′ only).
+- Optional per-line weight: `items[].weight_t` (number or `[lo, hi]` tonnes). When present it appears on each card
+  ("Est. weight"), as a column in both summary tables, and the shipping total uses the sum of the lines unless
+  `shipping.weight_t` is set. Use it whenever the manifest lacks weights for bulk goods (steel, parts): estimate per line from
+  quantities/dimensions or inventory value ÷ typical €/kg for the product type; keep the basis in the private source script.
 - The repo is public: everything under `lots/` and `<slug>/` is served. Use a **neutral slug and neutral photo file names**
   (e.g. `conveyor-steel`, `p_<ref>.jpg`) whenever the company name would reveal the estate; only a product brand
   (like `minet`) may appear. Parsing/photo scripts and raw lists live outside the repo in
