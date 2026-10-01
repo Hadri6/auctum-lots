@@ -29,7 +29,10 @@ Reference result: `minet/` (Meubles Minet furniture, 2026-10-01).
 2. **Find photos** (optional but expected): identify maker/brand from the codes and names, then look for the maker's
    catalogue images — official site, Wayback Machine (`web.archive.org/cdx/search/cdx?url=<site>/*`), retailer catalogues
    (e.g. the `images4.memoiredimages.fr/user/images/galerie_<maker>_*` CDN used by French furniture shops),
-   Firecrawl search. Match each line by brand + type + variant tokens; download, resize to ≤420 px JPEG q72
+   Firecrawl search. For generic industrial goods (no brand catalogue) use freely licensed images: Wikimedia Commons API
+   (search English and German terms) and Openverse (`api.openverse.org/v1/images/?license_type=commercial&q=...`);
+   review a contact sheet before using, and list author + licence per photo in `lot.json` `credits`.
+   Every line should end up with at least a representative photo (founder, 2026-10-01). Match each line by brand + type + variant tokens; download, resize to ≤420 px JPEG q72
    into `lots/<slug>/img/`. Lines without a convincing match keep `img: null` (listed in a table).
 3. **Write `lots/<slug>/lot.json`** (see `lots/minet/lot.json`): `slug`, `page_title`, `title{en,ar}`, `subtitle{en,ar}`,
    optional `groups_word`, `kpis[]` (e.g. volume/weight), `location{en,ar}`, `groups{key:{en,ar,short}}`, `note{en,ar}`, `unit`.
