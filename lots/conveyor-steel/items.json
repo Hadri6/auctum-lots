@@ -6,8 +6,8 @@
   "group": "conv",
   "type_en": "Conveyor idlers & rollers",
   "type_ar": "محطات وبكرات حمل السيور",
-  "img": null,
-  "photo": null
+  "img": "img/p_218.jpg",
+  "photo": "rep"
  },
  {
   "ref": "216",
@@ -16,8 +16,8 @@
   "group": "conv",
   "type_en": "Conveyor drum pulleys",
   "type_ar": "أسطوانات السيور",
-  "img": null,
-  "photo": null
+  "img": "img/p_216.jpg",
+  "photo": "rep"
  },
  {
   "ref": "217",
@@ -56,8 +56,8 @@
   "group": "cons",
   "type_en": "Welding wire",
   "type_ar": "سلك لحام",
-  "img": null,
-  "photo": null
+  "img": "img/p_215.jpg",
+  "photo": "rep"
  },
  {
   "ref": "214",
@@ -76,7 +76,7 @@
   "group": "cons",
   "type_en": "Fasteners & small parts",
   "type_ar": "مثبتات وقطع صغيرة",
-  "img": null,
-  "photo": null
+  "img": "img/p_124.jpg",
+  "photo": "rep"
  }
 ]
