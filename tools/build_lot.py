@@ -78,10 +78,15 @@ def build(lot_dir):
             ten, tar = it.get('type_en') or 'Item', it.get('type_ar') or 'صنف'
             src = photo(it)
             ref = f"#{it['ref']}"
-            if src:
-                badge = (t('Product photo', 'صورة المنتج', cls='tag ok') if it.get('photo') == 'exact'
-                         else t('Representative photo', 'صورة توضيحية', cls='tag rep'))
-                cards += (f'<figure class="card"><img loading="lazy" src="{src}" alt="{E(ten)}">{badge}<figcaption>'
+            # Small lots (lot.json "all_cards": true) show photo-less lines as cards with a placeholder too.
+            if src or lot.get('all_cards'):
+                if src:
+                    badge = (t('Product photo', 'صورة المنتج', cls='tag ok') if it.get('photo') == 'exact'
+                             else t('Representative photo', 'صورة توضيحية', cls='tag rep'))
+                    visual = f'<img loading="lazy" src="{src}" alt="{E(ten)}">{badge}'
+                else:
+                    visual = f'<div class="ph">{t(ten, tar)}</div>'
+                cards += (f'<figure class="card">{visual}<figcaption>'
                           f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>'
                           f'<div class="row"><span class="q"><b>{it["qty"]:,}</b> {t(unit_en, unit_ar)}</span>'
                           f'<span class="ref">Ref {E(ref)}</span></div></figcaption></figure>')
@@ -135,7 +140,7 @@ def build(lot_dir):
     nav += f'<a href="#summary">{t("Summary", "الملخص")}</a>'
 
     ql_en, ql_ar = lot.get('qty_label', ['Pieces', 'قطعة'])
-    kpis = [(ql_en, ql_ar, f'≈ {total_qty:,}'), ('Items', 'صنف', f'{len(items):,}')]
+    kpis = [(ql_en, ql_ar, (f'{total_qty:,}' if lot.get('qty_exact') else f'≈ {total_qty:,}')), ('Items', 'صنف', f'{len(items):,}')]
     if len(groups) > 1:
         kpis.append(('Groups' if lot.get('groups_word') is None else lot['groups_word'][0],
                      'مجموعة' if lot.get('groups_word') is None else lot['groups_word'][1],

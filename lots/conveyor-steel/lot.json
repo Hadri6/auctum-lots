@@ -46,6 +46,8 @@
   "Lots",
   "دفعات"
  ],
+ "qty_exact": true,
+ "all_cards": true,
  "other_group": "autres",
  "credits": "Representative photos: Wikimedia Commons (CC BY-SA 3.0; CC BY-SA 4.0; CC0)"
 }
