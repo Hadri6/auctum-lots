@@ -45,3 +45,4 @@ footer{max-width:1300px;margin:auto;padding:0 16px 90px;color:var(--mut);font-si
 .sum td:not(:first-child),.sum th:not(:first-child){text-align:end;white-space:nowrap}
 .sum tr.tot td{font-weight:700;border-top:2px solid var(--ink)}
 .sum a{color:inherit}
+.credits{max-width:1300px;margin:0 auto;padding:0 16px 40px;color:var(--mut);font-size:12px}

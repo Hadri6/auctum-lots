@@ -1,0 +1,82 @@
+[
+ {
+  "ref": "218",
+  "name": "Conveyor idler stations and idler rollers – various standard sizes (new, see inventory)",
+  "qty": 1,
+  "group": "conv",
+  "type_en": "Conveyor belt parts",
+  "type_ar": "قطع سيور النقل",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "216",
+  "name": "Conveyor drum pulleys – various standard sizes (new, see inventory)",
+  "qty": 1,
+  "group": "conv",
+  "type_en": "Conveyor belt parts",
+  "type_ar": "قطع سيور النقل",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "217",
+  "name": "Conveyor belt covers – various standard sizes (new, see inventory)",
+  "qty": 1,
+  "group": "conv",
+  "type_en": "Conveyor belt parts",
+  "type_ar": "قطع سيور النقل",
+  "img": "img/p_217.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "220",
+  "name": "Steel stock: flat bar, hollow sections, beams, plates, tubes, square and angle steel – various sizes and cuts, partly unopened deliveries",
+  "qty": 1,
+  "group": "steel",
+  "type_en": "Steel stock",
+  "type_ar": "مخزون فولاذ",
+  "img": "img/p_220.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "219",
+  "name": "Gratings and stair treads – various sizes (standard products)",
+  "qty": 1,
+  "group": "steel",
+  "type_en": "Gratings & stair treads",
+  "type_ar": "شبكات أرضيات ودرج",
+  "img": "img/p_219.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "215",
+  "name": "ESAB OK Autrod 12.51 welding wire (new)",
+  "qty": 1,
+  "group": "cons",
+  "type_en": "Welding wire",
+  "type_ar": "سلك لحام",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "214",
+  "name": "Small-parts store: HILTI anchors, machine screws, fasteners, lifting accessories, bearings (unsorted)",
+  "qty": 1,
+  "group": "cons",
+  "type_en": "Fasteners & small parts",
+  "type_ar": "مثبتات وقطع صغيرة",
+  "img": "img/p_214.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "124",
+  "name": "Stainless parts, hydraulic parts, trapezoidal sheet profile fillers (remaining stock)",
+  "qty": 1,
+  "group": "cons",
+  "type_en": "Fasteners & small parts",
+  "type_ar": "مثبتات وقطع صغيرة",
+  "img": null,
+  "photo": null
+ }
+]

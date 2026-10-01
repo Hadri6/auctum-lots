@@ -134,7 +134,8 @@ def build(lot_dir):
     sec += summary
     nav += f'<a href="#summary">{t("Summary", "الملخص")}</a>'
 
-    kpis = [('Pieces', 'قطعة', f'≈ {total_qty:,}'), ('Items', 'صنف', f'{len(items):,}')]
+    ql_en, ql_ar = lot.get('qty_label', ['Pieces', 'قطعة'])
+    kpis = [(ql_en, ql_ar, f'≈ {total_qty:,}'), ('Items', 'صنف', f'{len(items):,}')]
     if len(groups) > 1:
         kpis.append(('Groups' if lot.get('groups_word') is None else lot['groups_word'][0],
                      'مجموعة' if lot.get('groups_word') is None else lot['groups_word'][1],
@@ -148,6 +149,7 @@ def build(lot_dir):
 
     note = lot.get('note', {'en': 'Photos are catalogue pictures of the same models; finishes and colours may differ. Subject to prior sale.',
                             'ar': 'الصور من كتالوج نفس الموديلات وقد يختلف اللون أو التشطيب. البضاعة متاحة حتى نفادها.'})
+    credits = f'<footer class="credits">{E(lot["credits"])}</footer>\n' if lot.get('credits') else ''
     css = open(os.path.join(TOOLS, 'lot.css'), encoding='utf8').read()
     js = open(os.path.join(TOOLS, 'lot.js'), encoding='utf8').read()
     page = f'''<!doctype html><html lang="en" dir="ltr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -161,7 +163,7 @@ def build(lot_dir):
 {t(note["en"], note["ar"], tag="div", cls="note")}
 </header>
 <nav>{nav}</nav><main>{sec}</main>
-<script>{js}</script></body></html>'''
+{credits}<script>{js}</script></body></html>'''
     open(os.path.join(out, 'index.html'), 'w', encoding='utf8').write(page)
     print(f'built {slug}/index.html: {len(items)} items, {total_qty} {unit_en}, {len(copied)} photos, '
           f'{sum(1 for it in items if photo(it))} items with photo')

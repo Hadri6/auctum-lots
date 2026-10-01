@@ -1,0 +1,51 @@
+{
+ "slug": "conveyor-steel",
+ "page_title": "Conveyor Parts & Steel Stock",
+ "title": {
+  "en": "Conveyor belt components & steel stock",
+  "ar": "مكونات سيور النقل ومخزون الفولاذ"
+ },
+ "subtitle": {
+  "en": "New stock from an Austrian steel and plant construction company: conveyor idler stations and rollers, drum pulleys and belt covers in standard sizes, plus steel sections, plates, tubes, gratings, welding wire and fasteners. Available as one lot or by group; detailed inventory with dimensions available.",
+  "ar": "مخزون جديد من شركة نمساوية للإنشاءات الفولاذية وبناء المنشآت: محطات وبكرات حمل لسيور النقل، أسطوانات وأغطية سيور بمقاسات قياسية، إضافة إلى مقاطع وصفائح وأنابيب فولاذية، شبكات أرضيات ودرج، سلك لحام ومثبتات. متاح كدفعة كاملة أو حسب المجموعة، وتتوفر قائمة جرد مفصلة بالمقاسات."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعة"
+ ],
+ "groups": {
+  "conv": {
+   "en": "Conveyor belt components",
+   "ar": "مكونات سيور النقل",
+   "short": "Conveyor parts"
+  },
+  "steel": {
+   "en": "Steel stock & gratings",
+   "ar": "مخزون الفولاذ والشبكات",
+   "short": "Steel"
+  },
+  "cons": {
+   "en": "Welding wire, fasteners & parts",
+   "ar": "سلك لحام ومثبتات وقطع",
+   "short": "Parts & consumables"
+  }
+ },
+ "location": {
+  "en": "Austria",
+  "ar": "النمسا"
+ },
+ "note": {
+  "en": "Photos are representative pictures of the product type, not of the actual stock. Sold as one lot per line. Subject to prior sale.",
+  "ar": "الصور توضيحية لنوع المنتج وليست للمخزون الفعلي. كل سطر يُباع كدفعة واحدة. البضاعة متاحة حتى نفادها."
+ },
+ "unit": [
+  "lot",
+  "دفعة"
+ ],
+ "qty_label": [
+  "Lots",
+  "دفعات"
+ ],
+ "other_group": "autres",
+ "credits": "Representative photos: Wikimedia Commons (CC BY-SA 3.0; CC BY-SA 4.0; CC0)"
+}
