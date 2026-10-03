@@ -1,0 +1,78 @@
+{
+ "slug": "metalwork-workshop",
+ "page_title": "Metalworking & Welding Workshop Equipment",
+ "title": {
+  "en": "Metalworking & welding workshop equipment",
+  "ar": "معدات ورشة تشغيل معادن ولحام"
+ },
+ "subtitle": {
+  "en": "Complete equipment of a German steel-construction workshop: 11 MIG/MAG welding machines (Fronius VarioSynergic / VarioStar), hydraulic guillotine shear 3 m / 6.5 mm (HACO), CNC plasma and oxy-fuel cutting machine (ZINSER), mitre band saws (Bauer VG 450, PEHAKA HS310), radial drill, folding machine, magnetic core drills (BDS), power tools, steel cabinets with contents, welding tables and workshop furniture. Used, sold as seen. Available as one lot.",
+  "ar": "تجهيزات ورشة إنشاءات فولاذية ألمانية: 11 آلة لحام MIG/MAG ‏(Fronius VarioSynergic / VarioStar)، مقص صفائح هيدروليكي 3 م / 6.5 مم ‏(HACO)، ماكينة قص بلازما وأكسجين CNC ‏(ZINSER)، مناشير شريطية بزاوية ‏(Bauer VG 450، PEHAKA HS310)، مثقب ذراع، ثنّاية صفائح، مثاقب مغناطيسية ‏(BDS)، عدد كهربائية، خزائن صاج بمحتوياتها، طاولات لحام وأثاث ورشة. مستعملة وتُباع بحالتها. متاحة كدفعة كاملة."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعة"
+ ],
+ "groups": {
+  "welding": {
+   "en": "Welding machines",
+   "ar": "آلات اللحام",
+   "short": "Welding"
+  },
+  "machines": {
+   "en": "Sheet-metal & cutting machines",
+   "ar": "آلات الصفائح والقص",
+   "short": "Machines"
+  },
+  "power": {
+   "en": "Power tools & core drills",
+   "ar": "عدد كهربائية ومثاقب",
+   "short": "Power tools"
+  },
+  "hand": {
+   "en": "Hand, measuring & lifting tools",
+   "ar": "عدد يدوية وقياس ورفع",
+   "short": "Hand tools"
+  },
+  "furniture": {
+   "en": "Workshop furniture & storage",
+   "ar": "أثاث الورشة والتخزين",
+   "short": "Workshop"
+  },
+  "office": {
+   "en": "Office & staff room",
+   "ar": "المكتب وغرفة الاستراحة",
+   "short": "Office"
+  }
+ },
+ "location": {
+  "en": "Germany",
+  "ar": "ألمانيا"
+ },
+ "note": {
+  "en": "Photos are representative pictures of the product type, not of the actual items; model, serial and year as stated per line. Used equipment, sold as seen without warranty; viewing on site by appointment. Subject to prior sale.",
+  "ar": "الصور توضيحية لنوع المنتج وليست للقطع الفعلية؛ الموديل والرقم التسلسلي وسنة الصنع كما هي مذكورة في كل سطر. معدات مستعملة تُباع بحالتها دون ضمان؛ المعاينة في الموقع بموعد. البضاعة متاحة حتى بيعها."
+ },
+ "unit": [
+  "lot",
+  "دفعة"
+ ],
+ "qty_label": [
+  "Lots",
+  "دفعات"
+ ],
+ "qty_exact": true,
+ "shipping": {
+  "volume_m3": [
+   55,
+   90
+  ],
+  "note": {
+   "en": "Weights per line are estimates (machine data where stated: shear ≈ 5 t, radial drill 4.7 t); total = sum of the lines. Heavy machines need crane/forklift loading; the shear, radial drill and CNC cutter may require open-top or flat-rack containers. Final figures after the packing list.",
+   "ar": "أوزان الأسطر تقديرية (حيث ذُكرت بيانات الآلة: المقص ≈ 5 طن، مثقب الذراع 4.7 طن)؛ الإجمالي = مجموع الأسطر. الآلات الثقيلة تحتاج رافعة للتحميل؛ وقد يحتاج المقص ومثقب الذراع وماكينة CNC حاويات مفتوحة السقف أو flat-rack. الأرقام النهائية بعد قائمة التعبئة."
+  }
+ },
+ "all_cards": true,
+ "other_group": "autres",
+ "credits": "Representative photos (Wikimedia Commons): Office & staff-room equipment: Jeff Sheldon ugmonk (CC0) · Magnetic core drill: Rohan von Indien (CC BY-SA 4.0) · Power tools: Wikimedia Commons (CC BY-SA 2.0) · Hammer drill / chisel hammer: toolstop (CC BY 2.0) · Tapping machine: Rohan von Indien (CC BY-SA 4.0) · Powder-actuated fastening tool: Charles & Hudson (CC BY-SA 2.0) · Hand tools & lifting gear: State Government Photographer (CC0) · Measuring & torque tools: Cvstr (CC BY 4.0) · Steel cabinet (with contents): Charles & Hudson (CC BY-SA 2.0) · MIG/MAG welding machine: Asurnipal (CC BY-SA 4.0) · Workbench: Dietmar Rabich (CC BY-SA 4.0) · CNC plasma / oxy-fuel cutting machine: Zgyricky (CC BY-SA 4.0) · Cold circular saw: Quantum Machinery (CC BY-SA 4.0) · Welding / fitter's table: MAURI (Public domain) · Aluminium ladders: Amin (CC BY-SA 4.0) · Mitre band saw: Revolution Machine Tools (CC BY-SA 4.0) · Welding curtains: Wikimedia Commons (Public domain) · Heavy-duty shelving (with contents): Axisadman (CC BY-SA 3.0) · Electrical cables: Ildar Sagdejev (Specious) (CC BY-SA 3.0) · Folding machine: GaspariniIndustries (CC BY-SA 4.0) · Radial drilling machine: Richard Hoare (CC BY-SA 2.0) · Hydraulic guillotine shear: GaspariniMB (CC BY-SA 4.0) · Trailer: Ra Boe (CC BY-SA 3.0 de)"
+}

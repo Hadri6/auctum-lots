@@ -1,0 +1,928 @@
+[
+ {
+  "ref": "2",
+  "name": "Posten Büroausstattung",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office & staff-room equipment",
+  "type_ar": "تجهيزات مكتب واستراحة",
+  "img": "img/t_office-staff-room-equipment.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.25
+  ]
+ },
+ {
+  "ref": "4",
+  "name": "Posten Büroausstattung",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office & staff-room equipment",
+  "type_ar": "تجهيزات مكتب واستراحة",
+  "img": "img/t_office-staff-room-equipment.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.25
+  ]
+ },
+ {
+  "ref": "5",
+  "name": "Posten Büroausstattung",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office & staff-room equipment",
+  "type_ar": "تجهيزات مكتب واستراحة",
+  "img": "img/t_office-staff-room-equipment.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.25
+  ]
+ },
+ {
+  "ref": "6",
+  "name": "Posten Holzregale",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office & staff-room equipment",
+  "type_ar": "تجهيزات مكتب واستراحة",
+  "img": "img/t_office-staff-room-equipment.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.25
+  ]
+ },
+ {
+  "ref": "7",
+  "name": "Multifunktionsgerät, Samsung",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office & staff-room equipment",
+  "type_ar": "تجهيزات مكتب واستراحة",
+  "img": "img/t_office-staff-room-equipment.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.25
+  ]
+ },
+ {
+  "ref": "8",
+  "name": "Miniküche",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office & staff-room equipment",
+  "type_ar": "تجهيزات مكتب واستراحة",
+  "img": "img/t_office-staff-room-equipment.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.25
+  ]
+ },
+ {
+  "ref": "10",
+  "name": "Magnet-Kernbohrmaschine, BDS",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Magnetic core drill",
+  "type_ar": "مثقب مغناطيسي",
+  "img": "img/t_magnetic-core-drill.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.015,
+   0.03
+  ]
+ },
+ {
+  "ref": "12",
+  "name": "Handbohrmaschine",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Power tools",
+  "type_ar": "عدد كهربائية يدوية",
+  "img": "img/t_power-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "14",
+  "name": "Handbohrmaschine, Eibenstock",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Power tools",
+  "type_ar": "عدد كهربائية يدوية",
+  "img": "img/t_power-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "17",
+  "name": "Bandschleifer, BLACK DECKER",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Power tools",
+  "type_ar": "عدد كهربائية يدوية",
+  "img": "img/t_power-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "20",
+  "name": "Druckluft Meisselhammer Set, BODCRAFT",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Hammer drill / chisel hammer",
+  "type_ar": "مطرقة ثقب / تكسير",
+  "img": "img/t_hammer-drill-chisel-hammer.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.02
+  ]
+ },
+ {
+  "ref": "21",
+  "name": "Lötpistole, Meisterkraft",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Power tools",
+  "type_ar": "عدد كهربائية يدوية",
+  "img": "img/t_power-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "22",
+  "name": "Posten Handbohrmaschine, Zweihandflex",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Power tools",
+  "type_ar": "عدد كهربائية يدوية",
+  "img": "img/t_power-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "23",
+  "name": "Gewindescheidmaschine, FEIN",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Tapping machine",
+  "type_ar": "آلة قلاووظ",
+  "img": "img/t_tapping-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.05
+  ]
+ },
+ {
+  "ref": "25",
+  "name": "Handbohrmaschine, BOSCH",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Power tools",
+  "type_ar": "عدد كهربائية يدوية",
+  "img": "img/t_power-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "30",
+  "name": "Kombihammer, MAKITA",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Hammer drill / chisel hammer",
+  "type_ar": "مطرقة ثقب / تكسير",
+  "img": "img/t_hammer-drill-chisel-hammer.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.02
+  ]
+ },
+ {
+  "ref": "31",
+  "name": "Posten Flex-Geräte",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Power tools",
+  "type_ar": "عدد كهربائية يدوية",
+  "img": "img/t_power-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "32",
+  "name": "Magnet-Kernbohrmaschine, BDS",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Magnetic core drill",
+  "type_ar": "مثقب مغناطيسي",
+  "img": "img/t_magnetic-core-drill.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.015,
+   0.03
+  ]
+ },
+ {
+  "ref": "33",
+  "name": "Magnet-Kernbohrmaschine, BDS",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Magnetic core drill",
+  "type_ar": "مثقب مغناطيسي",
+  "img": "img/t_magnetic-core-drill.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.015,
+   0.03
+  ]
+ },
+ {
+  "ref": "35",
+  "name": "Halbautomatisches Bolzensetzgerät, HILTI",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Powder-actuated fastening tool",
+  "type_ar": "مسدس تثبيت مسامير",
+  "img": "img/t_powder-actuated-fastening-to.jpg",
+  "photo": "rep",
+  "weight_t": 0.01
+ },
+ {
+  "ref": "37",
+  "name": "Posten Kleinwerkzeug",
+  "qty": 1,
+  "group": "hand",
+  "type_en": "Hand tools & lifting gear",
+  "type_ar": "عدد يدوية وأدوات رفع",
+  "img": "img/t_hand-tools-lifting-gear.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.1
+  ]
+ },
+ {
+  "ref": "42",
+  "name": "Posten Stative für Rotationslaser",
+  "qty": 1,
+  "group": "hand",
+  "type_en": "Measuring & torque tools",
+  "type_ar": "أدوات قياس وعزم",
+  "img": "img/t_measuring-torque-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "43",
+  "name": "Werkzeugkiste, YATO",
+  "qty": 1,
+  "group": "hand",
+  "type_en": "Hand tools & lifting gear",
+  "type_ar": "عدد يدوية وأدوات رفع",
+  "img": "img/t_hand-tools-lifting-gear.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.1
+  ]
+ },
+ {
+  "ref": "46",
+  "name": "Vermessungsgerät, Nedo",
+  "qty": 1,
+  "group": "hand",
+  "type_en": "Measuring & torque tools",
+  "type_ar": "أدوات قياس وعزم",
+  "img": "img/t_measuring-torque-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "50",
+  "name": "Drehmomentvervielfältiger, Stahlwille",
+  "qty": 1,
+  "group": "hand",
+  "type_en": "Measuring & torque tools",
+  "type_ar": "أدوات قياس وعزم",
+  "img": "img/t_measuring-torque-tools.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.03
+  ]
+ },
+ {
+  "ref": "52",
+  "name": "Rauminhalt Sozialraum",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office & staff-room equipment",
+  "type_ar": "تجهيزات مكتب واستراحة",
+  "img": "img/t_office-staff-room-equipment.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.25
+  ]
+ },
+ {
+  "ref": "57",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "60",
+  "name": "Magnetbohrmaschine, VEVOR",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Magnetic core drill",
+  "type_ar": "مثقب مغناطيسي",
+  "img": "img/t_magnetic-core-drill.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.015,
+   0.03
+  ]
+ },
+ {
+  "ref": "62",
+  "name": "Posten Gehänge",
+  "qty": 1,
+  "group": "hand",
+  "type_en": "Hand tools & lifting gear",
+  "type_ar": "عدد يدوية وأدوات رفع",
+  "img": "img/t_hand-tools-lifting-gear.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.1
+  ]
+ },
+ {
+  "ref": "66",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "68",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "71",
+  "name": "Mikroprozessor-gesteuertes MIG/MAG -u. Elektrodenschweißen, FRONIUS",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "72",
+  "name": "Werkbank",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Workbench",
+  "type_ar": "طاولة عمل",
+  "img": "img/t_workbench.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.15
+  ]
+ },
+ {
+  "ref": "73",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "75",
+  "name": "Mikroprozessor-gesteuertes MIG/MAG -u. Elektrodenschweißen FRONIUS",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "78",
+  "name": "CNC-Plasmaschneid- und Autogen-Brennschneidmaschine, ZINSER",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "CNC plasma / oxy-fuel cutting machine",
+  "type_ar": "ماكينة قص بلازما وأكسجين CNC",
+  "img": "img/t_cnc-plasma-oxy-fuel-cutting-.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.0,
+   4.0
+  ]
+ },
+ {
+  "ref": "85",
+  "name": "Kaltkreissäge, Tiger",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Cold circular saw",
+  "type_ar": "منشار قرصي للمعادن",
+  "img": "img/t_cold-circular-saw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.15,
+   0.25
+  ]
+ },
+ {
+  "ref": "88",
+  "name": "Stahlblechschrank",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "89",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "90",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "91",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "94",
+  "name": "Magnetbohrmaschine, MABasic",
+  "qty": 1,
+  "group": "power",
+  "type_en": "Magnetic core drill",
+  "type_ar": "مثقب مغناطيسي",
+  "img": "img/t_magnetic-core-drill.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.015,
+   0.03
+  ]
+ },
+ {
+  "ref": "96",
+  "name": "Schweißtisch Eigenbau",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Welding / fitter's table",
+  "type_ar": "طاولة لحام / عمل",
+  "img": "img/t_welding-fitter-s-table.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.15,
+   0.4
+  ]
+ },
+ {
+  "ref": "97",
+  "name": "Schweißtisch Eigenbau",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Welding / fitter's table",
+  "type_ar": "طاولة لحام / عمل",
+  "img": "img/t_welding-fitter-s-table.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.15,
+   0.4
+  ]
+ },
+ {
+  "ref": "99",
+  "name": "Schweißtisch Eigenbau",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Welding / fitter's table",
+  "type_ar": "طاولة لحام / عمل",
+  "img": "img/t_welding-fitter-s-table.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.15,
+   0.4
+  ]
+ },
+ {
+  "ref": "100",
+  "name": "Posten Alu-Leitern",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Aluminium ladders",
+  "type_ar": "سلالم ألمنيوم",
+  "img": "img/t_aluminium-ladders.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.06
+  ]
+ },
+ {
+  "ref": "102",
+  "name": "Schweißgerät, Fronius",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "103",
+  "name": "Schweißgerät, Fronius",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "107",
+  "name": "Elektro-hydraulische Vertikal-Gehrungsbandsäge, Bauer",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Mitre band saw",
+  "type_ar": "منشار شريطي بزاوية",
+  "img": "img/t_mitre-band-saw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.2,
+   1.8
+  ]
+ },
+ {
+  "ref": "108",
+  "name": "Horizontal-Gehrungsbandsäge Halbautomat, PEHAKA",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Mitre band saw",
+  "type_ar": "منشار شريطي بزاوية",
+  "img": "img/t_mitre-band-saw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.8,
+   1.2
+  ]
+ },
+ {
+  "ref": "112",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "114",
+  "name": "Posten Schweißvorhänge",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Welding curtains",
+  "type_ar": "ستائر لحام",
+  "img": "img/t_welding-curtains.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.05
+  ]
+ },
+ {
+  "ref": "115",
+  "name": "Schwerlastregal mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Heavy-duty shelving (with contents)",
+  "type_ar": "رفوف ثقيلة (مع محتوياتها)",
+  "img": "img/t_heavy-duty-shelving-with-con.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.1,
+   0.3
+  ]
+ },
+ {
+  "ref": "116",
+  "name": "Posten Elektrokabel",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Electrical cables",
+  "type_ar": "كابلات كهربائية",
+  "img": "img/t_electrical-cables.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.2
+  ]
+ },
+ {
+  "ref": "120",
+  "name": "Manuelle Schwenkbiegemaschine, DURMAZLAR",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Folding machine",
+  "type_ar": "ثنّاية صفائح",
+  "img": "img/t_folding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.4,
+   0.7
+  ]
+ },
+ {
+  "ref": "121",
+  "name": "MIG/MAG Schweißgerät, Fronius",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "122",
+  "name": "MIG/MAG Schweißgerät, Fronius",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "123",
+  "name": "Schlosserarbeitstisch, ca 300x120cm",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Welding / fitter's table",
+  "type_ar": "طاولة لحام / عمل",
+  "img": "img/t_welding-fitter-s-table.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.15,
+   0.4
+  ]
+ },
+ {
+  "ref": "125",
+  "name": "Stahlblechschrank mit Inhalt",
+  "qty": 1,
+  "group": "furniture",
+  "type_en": "Steel cabinet (with contents)",
+  "type_ar": "خزانة صاج (مع محتوياتها)",
+  "img": "img/t_steel-cabinet-with-contents.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.2
+  ]
+ },
+ {
+  "ref": "128",
+  "name": "MIG/MAG Schweißgerät, MERKLE",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "129",
+  "name": "MIG/MAG Schweißgerät, MERKLE",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "130",
+  "name": "MIG/MAG Schweißgerät, MERKLE",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "131",
+  "name": "MIG/MAG Schweißgerät, MERKLE",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "133",
+  "name": "MIG/MAG Schweißgerät, MERKLE",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "MIG/MAG welding machine",
+  "type_ar": "آلة لحام MIG/MAG",
+  "img": "img/t_mig-mag-welding-machine.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.2
+  ]
+ },
+ {
+  "ref": "138",
+  "name": "Radialbohrmaschine, МОДЕЛЬ",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Radial drilling machine",
+  "type_ar": "مثقب ذراع",
+  "img": "img/t_radial-drilling-machine.jpg",
+  "photo": "rep",
+  "weight_t": 4.7
+ },
+ {
+  "ref": "140",
+  "name": "Hydraulische Tafelschere / Blechschere, HACO",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Hydraulic guillotine shear",
+  "type_ar": "مقص صفائح هيدروليكي",
+  "img": "img/t_hydraulic-guillotine-shear.jpg",
+  "photo": "rep",
+  "weight_t": 5.0
+ },
+ {
+  "ref": "148",
+  "name": "Anhänger offener Kasten",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Trailer",
+  "type_ar": "مقطورة",
+  "img": "img/t_trailer.jpg",
+  "photo": "rep",
+  "weight_t": 0.4
+ }
+]
