@@ -50,8 +50,8 @@
   "ar": "ألمانيا"
  },
  "note": {
-  "en": "Photos are representative pictures of the product type, not of the actual items; model, serial and year as stated per line. Used equipment, sold as seen without warranty; viewing on site by appointment. Subject to prior sale.",
-  "ar": "الصور توضيحية لنوع المنتج وليست للقطع الفعلية؛ الموديل والرقم التسلسلي وسنة الصنع كما هي مذكورة في كل سطر. معدات مستعملة تُباع بحالتها دون ضمان؛ المعاينة في الموقع بموعد. البضاعة متاحة حتى بيعها."
+  "en": "Photos show the actual items on site. Model, serial number and year as stated per line. Used equipment, sold as seen without warranty; viewing on site by appointment. Subject to prior sale.",
+  "ar": "الصور للقطع الفعلية في الموقع. الموديل والرقم التسلسلي وسنة الصنع كما هي مذكورة في كل سطر. معدات مستعملة تُباع بحالتها دون ضمان؛ المعاينة في الموقع بموعد. البضاعة متاحة حتى بيعها."
  },
  "unit": [
   "lot",
@@ -74,7 +74,6 @@
  },
  "all_cards": true,
  "other_group": "autres",
- "credits": "Representative photos (Wikimedia Commons): Office & staff-room equipment: Jeff Sheldon ugmonk (CC0) · Magnetic core drill: Rohan von Indien (CC BY-SA 4.0) · Power tools: Wikimedia Commons (CC BY-SA 2.0) · Hammer drill / chisel hammer: toolstop (CC BY 2.0) · Tapping machine: Rohan von Indien (CC BY-SA 4.0) · Powder-actuated fastening tool: Charles & Hudson (CC BY-SA 2.0) · Hand tools & lifting gear: State Government Photographer (CC0) · Measuring & torque tools: Cvstr (CC BY 4.0) · Steel cabinet (with contents): Charles & Hudson (CC BY-SA 2.0) · MIG/MAG welding machine: Asurnipal (CC BY-SA 4.0) · Workbench: Dietmar Rabich (CC BY-SA 4.0) · CNC plasma / oxy-fuel cutting machine: Zgyricky (CC BY-SA 4.0) · Cold circular saw: Quantum Machinery (CC BY-SA 4.0) · Welding / fitter's table: MAURI (Public domain) · Aluminium ladders: Amin (CC BY-SA 4.0) · Mitre band saw: Revolution Machine Tools (CC BY-SA 4.0) · Welding curtains: Wikimedia Commons (Public domain) · Heavy-duty shelving (with contents): Axisadman (CC BY-SA 3.0) · Electrical cables: Ildar Sagdejev (Specious) (CC BY-SA 3.0) · Folding machine: GaspariniIndustries (CC BY-SA 4.0) · Radial drilling machine: Richard Hoare (CC BY-SA 2.0) · Hydraulic guillotine shear: GaspariniMB (CC BY-SA 4.0) · Trailer: Ra Boe (CC BY-SA 3.0 de)",
  "group_order": [
   "machines",
   "welding",

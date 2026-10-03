@@ -6,8 +6,8 @@
   "group": "office",
   "type_en": "Office & staff-room equipment",
   "type_ar": "تجهيزات مكتب واستراحة",
-  "img": "img/t_office-staff-room-equipment.jpg",
-  "photo": "rep",
+  "img": "img/p_2.jpg",
+  "photo": "exact",
   "weight_t": [
    0.05,
    0.25
@@ -20,8 +20,8 @@
   "group": "office",
   "type_en": "Office & staff-room equipment",
   "type_ar": "تجهيزات مكتب واستراحة",
-  "img": "img/t_office-staff-room-equipment.jpg",
-  "photo": "rep",
+  "img": "img/p_4.jpg",
+  "photo": "exact",
   "weight_t": [
    0.05,
    0.25
@@ -34,8 +34,8 @@
   "group": "office",
   "type_en": "Office & staff-room equipment",
   "type_ar": "تجهيزات مكتب واستراحة",
-  "img": "img/t_office-staff-room-equipment.jpg",
-  "photo": "rep",
+  "img": "img/p_5.jpg",
+  "photo": "exact",
   "weight_t": [
    0.05,
    0.25
@@ -48,8 +48,8 @@
   "group": "office",
   "type_en": "Office & staff-room equipment",
   "type_ar": "تجهيزات مكتب واستراحة",
-  "img": "img/t_office-staff-room-equipment.jpg",
-  "photo": "rep",
+  "img": "img/p_6.jpg",
+  "photo": "exact",
   "weight_t": [
    0.05,
    0.25
@@ -62,8 +62,8 @@
   "group": "office",
   "type_en": "Office & staff-room equipment",
   "type_ar": "تجهيزات مكتب واستراحة",
-  "img": "img/t_office-staff-room-equipment.jpg",
-  "photo": "rep",
+  "img": "img/p_7.jpg",
+  "photo": "exact",
   "weight_t": [
    0.05,
    0.25
@@ -76,8 +76,8 @@
   "group": "office",
   "type_en": "Office & staff-room equipment",
   "type_ar": "تجهيزات مكتب واستراحة",
-  "img": "img/t_office-staff-room-equipment.jpg",
-  "photo": "rep",
+  "img": "img/p_8.jpg",
+  "photo": "exact",
   "weight_t": [
    0.05,
    0.25
@@ -90,8 +90,8 @@
   "group": "power",
   "type_en": "Magnetic core drill",
   "type_ar": "مثقب مغناطيسي",
-  "img": "img/t_magnetic-core-drill.jpg",
-  "photo": "rep",
+  "img": "img/p_10.jpg",
+  "photo": "exact",
   "weight_t": [
    0.015,
    0.03
@@ -104,8 +104,8 @@
   "group": "power",
   "type_en": "Power tools",
   "type_ar": "عدد كهربائية يدوية",
-  "img": "img/t_power-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_12.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -118,8 +118,8 @@
   "group": "power",
   "type_en": "Power tools",
   "type_ar": "عدد كهربائية يدوية",
-  "img": "img/t_power-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_14.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -132,8 +132,8 @@
   "group": "power",
   "type_en": "Power tools",
   "type_ar": "عدد كهربائية يدوية",
-  "img": "img/t_power-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_17.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -146,8 +146,8 @@
   "group": "power",
   "type_en": "Hammer drill / chisel hammer",
   "type_ar": "مطرقة ثقب / تكسير",
-  "img": "img/t_hammer-drill-chisel-hammer.jpg",
-  "photo": "rep",
+  "img": "img/p_20.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.02
@@ -160,8 +160,8 @@
   "group": "power",
   "type_en": "Power tools",
   "type_ar": "عدد كهربائية يدوية",
-  "img": "img/t_power-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_21.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -174,8 +174,8 @@
   "group": "power",
   "type_en": "Power tools",
   "type_ar": "عدد كهربائية يدوية",
-  "img": "img/t_power-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_22.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -188,8 +188,8 @@
   "group": "power",
   "type_en": "Tapping machine",
   "type_ar": "آلة قلاووظ",
-  "img": "img/t_tapping-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_23.jpg",
+  "photo": "exact",
   "weight_t": [
    0.02,
    0.05
@@ -202,8 +202,8 @@
   "group": "power",
   "type_en": "Power tools",
   "type_ar": "عدد كهربائية يدوية",
-  "img": "img/t_power-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_25.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -216,8 +216,8 @@
   "group": "power",
   "type_en": "Hammer drill / chisel hammer",
   "type_ar": "مطرقة ثقب / تكسير",
-  "img": "img/t_hammer-drill-chisel-hammer.jpg",
-  "photo": "rep",
+  "img": "img/p_30.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.02
@@ -230,8 +230,8 @@
   "group": "power",
   "type_en": "Power tools",
   "type_ar": "عدد كهربائية يدوية",
-  "img": "img/t_power-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_31.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -244,8 +244,8 @@
   "group": "power",
   "type_en": "Magnetic core drill",
   "type_ar": "مثقب مغناطيسي",
-  "img": "img/t_magnetic-core-drill.jpg",
-  "photo": "rep",
+  "img": "img/p_32.jpg",
+  "photo": "exact",
   "weight_t": [
    0.015,
    0.03
@@ -258,8 +258,8 @@
   "group": "power",
   "type_en": "Magnetic core drill",
   "type_ar": "مثقب مغناطيسي",
-  "img": "img/t_magnetic-core-drill.jpg",
-  "photo": "rep",
+  "img": "img/p_33.jpg",
+  "photo": "exact",
   "weight_t": [
    0.015,
    0.03
@@ -272,8 +272,8 @@
   "group": "power",
   "type_en": "Powder-actuated fastening tool",
   "type_ar": "مسدس تثبيت مسامير",
-  "img": "img/t_powder-actuated-fastening-to.jpg",
-  "photo": "rep",
+  "img": "img/p_35.jpg",
+  "photo": "exact",
   "weight_t": 0.01
  },
  {
@@ -283,8 +283,8 @@
   "group": "hand",
   "type_en": "Hand tools & lifting gear",
   "type_ar": "عدد يدوية وأدوات رفع",
-  "img": "img/t_hand-tools-lifting-gear.jpg",
-  "photo": "rep",
+  "img": "img/p_37.jpg",
+  "photo": "exact",
   "weight_t": [
    0.02,
    0.1
@@ -297,8 +297,8 @@
   "group": "hand",
   "type_en": "Measuring & torque tools",
   "type_ar": "أدوات قياس وعزم",
-  "img": "img/t_measuring-torque-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_42.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -311,8 +311,8 @@
   "group": "hand",
   "type_en": "Hand tools & lifting gear",
   "type_ar": "عدد يدوية وأدوات رفع",
-  "img": "img/t_hand-tools-lifting-gear.jpg",
-  "photo": "rep",
+  "img": "img/p_43.jpg",
+  "photo": "exact",
   "weight_t": [
    0.02,
    0.1
@@ -325,8 +325,8 @@
   "group": "hand",
   "type_en": "Measuring & torque tools",
   "type_ar": "أدوات قياس وعزم",
-  "img": "img/t_measuring-torque-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_46.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -339,8 +339,8 @@
   "group": "hand",
   "type_en": "Measuring & torque tools",
   "type_ar": "أدوات قياس وعزم",
-  "img": "img/t_measuring-torque-tools.jpg",
-  "photo": "rep",
+  "img": "img/p_50.jpg",
+  "photo": "exact",
   "weight_t": [
    0.005,
    0.03
@@ -353,8 +353,8 @@
   "group": "office",
   "type_en": "Office & staff-room equipment",
   "type_ar": "تجهيزات مكتب واستراحة",
-  "img": "img/t_office-staff-room-equipment.jpg",
-  "photo": "rep",
+  "img": "img/p_52.jpg",
+  "photo": "exact",
   "weight_t": [
    0.05,
    0.25
@@ -367,8 +367,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_57.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -381,8 +381,8 @@
   "group": "power",
   "type_en": "Magnetic core drill",
   "type_ar": "مثقب مغناطيسي",
-  "img": "img/t_magnetic-core-drill.jpg",
-  "photo": "rep",
+  "img": "img/p_60.jpg",
+  "photo": "exact",
   "weight_t": [
    0.015,
    0.03
@@ -395,8 +395,8 @@
   "group": "hand",
   "type_en": "Hand tools & lifting gear",
   "type_ar": "عدد يدوية وأدوات رفع",
-  "img": "img/t_hand-tools-lifting-gear.jpg",
-  "photo": "rep",
+  "img": "img/p_62.jpg",
+  "photo": "exact",
   "weight_t": [
    0.02,
    0.1
@@ -409,8 +409,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_66.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -423,8 +423,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_68.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -437,8 +437,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_71.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -451,8 +451,8 @@
   "group": "furniture",
   "type_en": "Workbench",
   "type_ar": "طاولة عمل",
-  "img": "img/t_workbench.jpg",
-  "photo": "rep",
+  "img": "img/p_72.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.15
@@ -465,8 +465,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_73.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -479,8 +479,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_75.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -493,8 +493,8 @@
   "group": "machines",
   "type_en": "CNC plasma / oxy-fuel cutting machine",
   "type_ar": "ماكينة قص بلازما وأكسجين CNC",
-  "img": "img/t_cnc-plasma-oxy-fuel-cutting-.jpg",
-  "photo": "rep",
+  "img": "img/p_78.jpg",
+  "photo": "exact",
   "weight_t": [
    2.0,
    4.0
@@ -507,8 +507,8 @@
   "group": "machines",
   "type_en": "Cold circular saw",
   "type_ar": "منشار قرصي للمعادن",
-  "img": "img/t_cold-circular-saw.jpg",
-  "photo": "rep",
+  "img": "img/p_85.jpg",
+  "photo": "exact",
   "weight_t": [
    0.15,
    0.25
@@ -521,8 +521,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_88.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -535,8 +535,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_89.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -549,8 +549,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_90.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -563,8 +563,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_91.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -577,8 +577,8 @@
   "group": "power",
   "type_en": "Magnetic core drill",
   "type_ar": "مثقب مغناطيسي",
-  "img": "img/t_magnetic-core-drill.jpg",
-  "photo": "rep",
+  "img": "img/p_94.jpg",
+  "photo": "exact",
   "weight_t": [
    0.015,
    0.03
@@ -591,8 +591,8 @@
   "group": "furniture",
   "type_en": "Welding / fitter's table",
   "type_ar": "طاولة لحام / عمل",
-  "img": "img/t_welding-fitter-s-table.jpg",
-  "photo": "rep",
+  "img": "img/p_96.jpg",
+  "photo": "exact",
   "weight_t": [
    0.15,
    0.4
@@ -605,8 +605,8 @@
   "group": "furniture",
   "type_en": "Welding / fitter's table",
   "type_ar": "طاولة لحام / عمل",
-  "img": "img/t_welding-fitter-s-table.jpg",
-  "photo": "rep",
+  "img": "img/p_97.jpg",
+  "photo": "exact",
   "weight_t": [
    0.15,
    0.4
@@ -619,8 +619,8 @@
   "group": "furniture",
   "type_en": "Welding / fitter's table",
   "type_ar": "طاولة لحام / عمل",
-  "img": "img/t_welding-fitter-s-table.jpg",
-  "photo": "rep",
+  "img": "img/p_99.jpg",
+  "photo": "exact",
   "weight_t": [
    0.15,
    0.4
@@ -633,8 +633,8 @@
   "group": "furniture",
   "type_en": "Aluminium ladders",
   "type_ar": "سلالم ألمنيوم",
-  "img": "img/t_aluminium-ladders.jpg",
-  "photo": "rep",
+  "img": "img/p_100.jpg",
+  "photo": "exact",
   "weight_t": [
    0.02,
    0.06
@@ -647,8 +647,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_102.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -661,8 +661,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_103.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -675,8 +675,8 @@
   "group": "machines",
   "type_en": "Mitre band saw",
   "type_ar": "منشار شريطي بزاوية",
-  "img": "img/t_mitre-band-saw.jpg",
-  "photo": "rep",
+  "img": "img/p_107.jpg",
+  "photo": "exact",
   "weight_t": [
    1.2,
    1.8
@@ -689,8 +689,8 @@
   "group": "machines",
   "type_en": "Mitre band saw",
   "type_ar": "منشار شريطي بزاوية",
-  "img": "img/t_mitre-band-saw.jpg",
-  "photo": "rep",
+  "img": "img/p_108.jpg",
+  "photo": "exact",
   "weight_t": [
    0.8,
    1.2
@@ -703,8 +703,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_112.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -717,8 +717,8 @@
   "group": "furniture",
   "type_en": "Welding curtains",
   "type_ar": "ستائر لحام",
-  "img": "img/t_welding-curtains.jpg",
-  "photo": "rep",
+  "img": "img/p_114.jpg",
+  "photo": "exact",
   "weight_t": [
    0.02,
    0.05
@@ -731,8 +731,8 @@
   "group": "furniture",
   "type_en": "Heavy-duty shelving (with contents)",
   "type_ar": "رفوف ثقيلة (مع محتوياتها)",
-  "img": "img/t_heavy-duty-shelving-with-con.jpg",
-  "photo": "rep",
+  "img": "img/p_115.jpg",
+  "photo": "exact",
   "weight_t": [
    0.1,
    0.3
@@ -745,8 +745,8 @@
   "group": "furniture",
   "type_en": "Electrical cables",
   "type_ar": "كابلات كهربائية",
-  "img": "img/t_electrical-cables.jpg",
-  "photo": "rep",
+  "img": "img/p_116.jpg",
+  "photo": "exact",
   "weight_t": [
    0.05,
    0.2
@@ -759,8 +759,8 @@
   "group": "machines",
   "type_en": "Folding machine",
   "type_ar": "ثنّاية صفائح",
-  "img": "img/t_folding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_120.jpg",
+  "photo": "exact",
   "weight_t": [
    0.4,
    0.7
@@ -773,8 +773,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_121.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -787,8 +787,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_122.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -801,8 +801,8 @@
   "group": "furniture",
   "type_en": "Welding / fitter's table",
   "type_ar": "طاولة لحام / عمل",
-  "img": "img/t_welding-fitter-s-table.jpg",
-  "photo": "rep",
+  "img": "img/p_123.jpg",
+  "photo": "exact",
   "weight_t": [
    0.15,
    0.4
@@ -815,8 +815,8 @@
   "group": "furniture",
   "type_en": "Steel cabinet (with contents)",
   "type_ar": "خزانة صاج (مع محتوياتها)",
-  "img": "img/t_steel-cabinet-with-contents.jpg",
-  "photo": "rep",
+  "img": "img/p_125.jpg",
+  "photo": "exact",
   "weight_t": [
    0.08,
    0.2
@@ -829,8 +829,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_128.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -843,8 +843,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_129.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -857,8 +857,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_130.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -871,8 +871,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_131.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -885,8 +885,8 @@
   "group": "welding",
   "type_en": "MIG/MAG welding machine",
   "type_ar": "آلة لحام MIG/MAG",
-  "img": "img/t_mig-mag-welding-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_133.jpg",
+  "photo": "exact",
   "weight_t": [
    0.12,
    0.2
@@ -899,8 +899,8 @@
   "group": "machines",
   "type_en": "Radial drilling machine",
   "type_ar": "مثقب ذراع",
-  "img": "img/t_radial-drilling-machine.jpg",
-  "photo": "rep",
+  "img": "img/p_138.jpg",
+  "photo": "exact",
   "weight_t": 4.7
  },
  {
@@ -910,8 +910,8 @@
   "group": "machines",
   "type_en": "Hydraulic guillotine shear",
   "type_ar": "مقص صفائح هيدروليكي",
-  "img": "img/t_hydraulic-guillotine-shear.jpg",
-  "photo": "rep",
+  "img": "img/p_140.jpg",
+  "photo": "exact",
   "weight_t": 5.0
  },
  {
@@ -921,8 +921,8 @@
   "group": "autres",
   "type_en": "Trailer",
   "type_ar": "مقطورة",
-  "img": "img/t_trailer.jpg",
-  "photo": "rep",
+  "img": "img/p_148.jpg",
+  "photo": "exact",
   "weight_t": 0.4
  }
 ]
