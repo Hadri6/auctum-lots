@@ -95,6 +95,9 @@ def build(lot_dir):
     for it in items:
         groups[it.get('group') or other].append(it)
     order = sorted(groups, key=lambda k: (k == other, -sum(x['qty'] for x in groups[k])))
+    if lot.get('group_order'):  # optional explicit order (e.g. most valuable groups first)
+        pref = lot['group_order']
+        order = sorted(order, key=lambda k: (k == other, pref.index(k) if k in pref else len(pref)))
 
     def label(k):
         if k in labels:
