@@ -124,6 +124,21 @@ def build(lot_dir):
             copied.add(name)
         return 'img/' + name
 
+    # Optional completeness status per line (lot.json "statuses": {key: {en, ar, cls, desc_en, desc_ar}}):
+    # shown as a chip on cards/rows, as a filter bar and as a summary table.
+    statuses = lot.get('statuses', {})
+
+    def st_chip(it):
+        s = statuses.get(it.get('status'))
+        return t(s['en'], s['ar'], cls=f'st {s.get("cls", it["status"])}') if s else ''
+
+    def st_attr(it):
+        return f' data-st="{E(it["status"])}"' if it.get('status') in statuses else ''
+
+    def note_html(it):
+        n = it.get('note')
+        return t(n['en'], n['ar'], tag='div', cls='nt') if n else ''
+
     unit_en, unit_ar = lot.get('unit', ['pcs', 'قطعة'])
     total_qty = sum(it['qty'] for it in items)
     nav = ''.join(f'<a href="#c-{k}">{E(short(k))} <span>{sum(x["qty"] for x in groups[k])}</span></a>' for k in order)
@@ -137,7 +152,9 @@ def build(lot_dir):
 
     sec = ''
     for k in order:
-        L = sorted(groups[k], key=lambda x: -x['qty'])
+        # With statuses: complete pieces first, components and incomplete pieces last; then by quantity.
+        st_order = list(statuses)
+        L = sorted(groups[k], key=lambda x: (st_order.index(x['status']) if x.get('status') in st_order else 0, -x['qty']))
         cards, rows, nrows = '', '', 0
         for it in L:
             ten, tar = it.get('type_en') or 'Item', it.get('type_ar') or 'صنف'
@@ -146,23 +163,29 @@ def build(lot_dir):
             # Small lots (lot.json "all_cards": true) show photo-less lines as cards with a placeholder too.
             if src or lot.get('all_cards'):
                 if src:
-                    badge = (t('Product photo', 'صورة المنتج', cls='tag ok') if it.get('photo') == 'exact'
+                    pl = it.get('photo_label')  # per-line override, e.g. "Photo shows the complete bed"
+                    badge = (t(pl['en'], pl['ar'], cls='tag warn') if pl else
+                             t('Product photo', 'صورة المنتج', cls='tag ok') if it.get('photo') == 'exact'
                              else t('Representative photo', 'صورة توضيحية', cls='tag rep'))
                     visual = f'<img loading="lazy" src="{src}" alt="{E(ten)}">{badge}'
                 else:
                     visual = f'<div class="ph">{t(ten, tar)}</div>'
                 w = _rng(it.get('weight_t'))
                 wline = (f'<div class="wt">{t("Est. weight", "الوزن التقديري")} <b>{_fmt_t(*w)}</b></div>' if w else '')
-                cards += (f'<figure class="card">{visual}<figcaption>'
-                          f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>{wline}'
+                cards += (f'<figure class="card"{st_attr(it)}>{visual}<figcaption>{st_chip(it)}'
+                          f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>'
+                          f'{note_html(it)}{wline}'
                           f'<div class="row"><span class="q"><b>{it["qty"]:,}</b> {t(unit_en, unit_ar)}</span>'
                           f'<span class="ref">Ref {E(ref)}</span></div></figcaption></figure>')
             else:
                 nrows += 1
                 w = _rng(it.get('weight_t'))
                 wcell = f'<td>{_fmt_t(*w) if w else "–"}</td>' if has_w else ''
-                rows += (f'<tr><td>Ref {E(ref)}</td><td dir="ltr">{E(it["name"])}</td>'
-                         f'<td>{t(ten, tar)}</td><td>{it["qty"]:,}</td>{wcell}</tr>')
+                scell = f'<td>{st_chip(it)}</td>' if statuses else ''
+                ncell = (f'<td><span dir="ltr">{E(it["name"])}</span>{note_html(it)}</td>' if it.get('note')
+                         else f'<td dir="ltr">{E(it["name"])}</td>')
+                rows += (f'<tr{st_attr(it)}><td>Ref {E(ref)}</td>{ncell}'
+                         f'<td>{t(ten, tar)}</td>{scell}<td>{it["qty"]:,}</td>{wcell}</tr>')
         en, ar = label(k)
         sec += (f'<section id="c-{k}"><h2>{t(en, ar)} <small>{len(L)} {t("items", "صنف")} · '
                 f'{sum(x["qty"] for x in L):,} {t(unit_en, unit_ar)}</small></h2>')
@@ -170,7 +193,7 @@ def build(lot_dir):
             sec += f'<div class="grid">{cards}</div>'
         if rows:
             head = (f'<thead><tr><th>Ref</th>{t("Item", "الصنف", tag="th")}{t("Type", "النوع", tag="th")}'
-                    f'{t("Qty", "الكمية", tag="th")}{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}</tr></thead>')
+                    f'{t("Status", "الحالة", tag="th") if statuses else ""}{t("Qty", "الكمية", tag="th")}{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}</tr></thead>')
             if cards:
                 sec += (f'<details>{t(f"More items without photo ({nrows})", f"أصناف أخرى بدون صورة ({nrows})", tag="summary")}'
                         f'<table>{head}<tbody>{rows}</tbody></table></details>')
@@ -198,8 +221,20 @@ def build(lot_dir):
     head = (f'<thead><tr>{t("{0}", "{1}", tag="th")}{t("Items", "الأصناف", tag="th")}'
             f'{t(f"Quantity ({unit_en})", f"الكمية ({unit_ar})", tag="th")}{t("Share", "النسبة", tag="th")}'
             f'{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}</tr></thead>')
-    summary = (f'<section id="summary"><h2>{t("Summary of contents", "ملخص المحتويات")}</h2>'
-               f'<h3>{t("By product type", "حسب نوع القطعة")}</h3><div class="sum">'
+    summary = f'<section id="summary"><h2>{t("Summary of contents", "ملخص المحتويات")}</h2>'
+    if statuses:
+        st_rows = ''
+        for key, s in statuses.items():
+            L = [x for x in items if x.get('status') == key]
+            if not L:
+                continue
+            q = sum(x['qty'] for x in L)
+            desc = t(s['desc_en'], s['desc_ar'], tag='div', cls='nt') if s.get('desc_en') else ''
+            st_rows += (f'<tr><td>{st_chip({"status": key})}{desc}</td><td>{len(L):,}</td><td>{q:,}</td>'
+                        f'<td>{q * 100 / total_qty:.1f}%</td>{wcol(L)}</tr>')
+        summary += (f'<h3>{t("By completeness", "حسب اكتمال القطعة")}</h3><div class="sum">'
+                    f'<table>{head.replace("{0}", "Status").replace("{1}", "الحالة")}<tbody>{st_rows}{total_row}</tbody></table></div>')
+    summary += (f'<h3>{t("By product type", "حسب نوع القطعة")}</h3><div class="sum">'
                f'<table>{head.replace("{0}", "Product type").replace("{1}", "نوع القطعة")}<tbody>{type_rows}{total_row}</tbody></table></div>')
     if len(groups) > 1:
         grp_word = lot.get('groups_word', ['Group', 'المجموعة'])
@@ -216,6 +251,27 @@ def build(lot_dir):
     summary += '</section>'
     sec += summary
     nav += f'<a href="#summary">{t("Summary", "الملخص")}</a>'
+
+    # Optional "read first" block at the top of the page (lot.json "sets"): what can be assembled into complete
+    # products from the lines of this lot. Rows: {en, ar, qty, detail: {en, ar}}.
+    sets, top = lot.get('sets'), ''
+    if sets:
+        srows = ''.join(f'<tr><td>{t(r["en"], r["ar"], tag="b")}'
+                        f'{t(r["detail"]["en"], r["detail"]["ar"], tag="div", cls="nt") if r.get("detail") else ""}</td>'
+                        f'<td>{E(str(r["qty"]))}</td></tr>' for r in sets['rows'])
+        intro = t(sets['intro']['en'], sets['intro']['ar'], tag='p', cls='intro') if sets.get('intro') else ''
+        snote = t(sets['note']['en'], sets['note']['ar'], tag='div', cls='note') if sets.get('note') else ''
+        top = (f'<section id="sets" class="sets"><h2>{t(sets["title"]["en"], sets["title"]["ar"])}</h2>{intro}'
+               f'<div class="sum"><table><thead><tr>{t("What", "الصنف", tag="th")}'
+               f'{t("Quantity", "الكمية", tag="th")}</tr></thead><tbody>{srows}</tbody></table></div>{snote}</section>')
+        nav = f'<a href="#sets">{t(sets.get("nav", {}).get("en", "Read first"), sets.get("nav", {}).get("ar", "اقرأ أولاً"))}</a>' + nav
+    if statuses:
+        btns = ''.join(f'<button data-f="{E(k)}">{t(s["en"], s["ar"])} <span>'
+                       f'{sum(x["qty"] for x in items if x.get("status") == k):,}</span></button>'
+                       for k, s in statuses.items() if any(x.get('status') == k for x in items))
+        top += (f'<div class="flt" id="flt">{t("Show:", "عرض:", cls="lbl")}<button data-f="" class="on">'
+                f'{t("All", "الكل")}</button>{btns}</div>')
+    sec = top + sec
 
     ql_en, ql_ar = lot.get('qty_label', ['Pieces', 'قطعة'])
     kpis = [(ql_en, ql_ar, (f'{total_qty:,}' if lot.get('qty_exact') else f'≈ {total_qty:,}')), ('Items', 'صنف', f'{len(items):,}')]

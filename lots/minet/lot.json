@@ -6,8 +6,8 @@
   "ar": "أثاث فرنسي جديد – دفعة Meubles Minet"
  },
  "subtitle": {
-  "en": "Brand-new bedroom and dining furniture made in France by Meubles Minet: wardrobes, beds, headboards, nightstands, chests, dining tables and sideboards. Available as one complete lot or by collection.",
-  "ar": "أثاث غرف نوم وطعام جديد بالكامل من صنع Meubles Minet في فرنسا: خزائن ملابس، أسرّة، رؤوس أسرّة، طاولات جانبية، كومودينو، طاولات طعام وبوفيهات. متوفر كدفعة كاملة أو حسب التشكيلة."
+  "en": "New bedroom and dining furniture made in France by Meubles Minet, from the factory stock. Beds come the way Minet sells them: complete beds with headboard, bed frames without headboard and stand-alone headboards. Every line is marked Complete, Frame/headboard, Add-on, Component or Incomplete.",
+  "ar": "أثاث غرف نوم وطعام جديد من صنع Meubles Minet في فرنسا، من مخزون المصنع. الأسرّة كما تبيعها Minet: أسرّة كاملة برؤوسها، وهياكل أسرّة بدون رأس، ورؤوس أسرّة مستقلة. وكل بند موسوم: كاملة، هيكل/رأس، ملحق، مكوّن، أو ناقصة."
  },
  "groups_word": [
   "Collections",
@@ -32,5 +32,222 @@
    "en": "Calculated from the unit volumes and weights in the stock list (packed furniture); final loading plan confirmed before shipment.",
    "ar": "محسوب من حجم ووزن كل قطعة في قائمة المخزون (أثاث مغلّف)؛ يُؤكَّد مخطط التحميل النهائي قبل الشحن."
   }
- }
+ },
+ "statuses": {
+  "complete": {
+   "en": "Complete",
+   "ar": "كاملة",
+   "cls": "ok",
+   "desc_en": "Finished product, ready to use. Flat-packed (KD) items are complete kits.",
+   "desc_ar": "منتج نهائي جاهز للاستعمال. القطع المفكّكة (DEMONTE) أطقم كاملة للتركيب."
+  },
+  "modular": {
+   "en": "Frame / headboard",
+   "ar": "هيكل / رأس سرير",
+   "cls": "mod",
+   "desc_en": "Sold separately by design (Minet catalogue): a bed frame without headboard, or a stand-alone headboard.",
+   "desc_ar": "يُباع منفصلاً بحسب تصميم Minet نفسه: هيكل سرير بدون رأس، أو رأس سرير مستقل."
+  },
+  "kit": {
+   "en": "Completed by parts in this lot",
+   "ar": "تكتمل بقطع من الدفعة",
+   "cls": "kit",
+   "desc_en": "Needs one more component that is included in this lot (see “Read first”).",
+   "desc_ar": "تحتاج مكوّناً إضافياً موجوداً في نفس الدفعة (انظر «اقرأ أولاً»)."
+  },
+  "addon": {
+   "en": "Add-on / accessory",
+   "ar": "ملحق إضافي",
+   "cls": "add",
+   "desc_en": "Complete accessory or option that goes with another piece (shelves, drawers, lights, system modules).",
+   "desc_ar": "ملحق أو خيار كامل يُركَّب مع قطعة أخرى (رفوف، أدراج، إضاءة، وحدات نظام)."
+  },
+  "part": {
+   "en": "Component / spare part",
+   "ar": "مكوّن / قطعة غيار",
+   "cls": "part",
+   "desc_en": "A single component, not usable on its own (décor panels, side rails, loose panels).",
+   "desc_ar": "مكوّن منفرد لا يُستعمل وحده (ألواح ديكور، جوانب، ألواح منفصلة)."
+  },
+  "incomplete": {
+   "en": "Incomplete",
+   "ar": "ناقصة",
+   "cls": "bad",
+   "desc_en": "Missing parts that are NOT in this lot (carcass without doors, top without legs…).",
+   "desc_ar": "ينقصها أجزاء غير موجودة في الدفعة (جسم بدون أبواب، سطح بدون أرجل…)."
+  }
+ },
+ "groups": {
+  "galaxie": {
+   "en": "Galaxie bed frames",
+   "ar": "هياكل أسرّة Galaxie",
+   "short": "GALAXIE"
+  },
+  "zodiaque": {
+   "en": "Zodiaque frames & zodiac headboards",
+   "ar": "هياكل Zodiaque ورؤوس الأبراج",
+   "short": "ZODIAQUE"
+  },
+  "nuitdange": {
+   "en": "Nuit d'Ange – kids & baby",
+   "ar": "Nuit d'Ange – أطفال ورضّع",
+   "short": "Kids"
+  },
+  "findeserie": {
+   "en": "End-of-series bedroom models",
+   "ar": "موديلات غرف نوم نهاية السلسلة",
+   "short": "End of series"
+  },
+  "literie": {
+   "en": "Mattresses, slatted bases & textiles",
+   "ar": "مراتب وقواعد شرائح ومفروشات",
+   "short": "Bedding"
+  },
+  "autres": {
+   "en": "Wardrobe accessories & other",
+   "ar": "ملحقات خزائن وأخرى",
+   "short": "Accessories"
+  }
+ },
+ "note": {
+  "en": "Photos are the maker’s catalogue pictures of the same models; finishes and colours may differ. An orange label on a photo means the photo shows more than the line contains. Subject to prior sale.",
+  "ar": "الصور من كتالوج الشركة المصنّعة لنفس الموديلات وقد يختلف اللون أو التشطيب. الشارة البرتقالية على الصورة تعني أن الصورة تُظهر أكثر مما يحتويه البند. البضاعة متاحة حتى نفادها."
+ },
+ "sets": {
+  "title": {
+   "en": "Read first – what is complete in this lot",
+   "ar": "اقرأ أولاً – ما الكامل في هذه الدفعة"
+  },
+  "nav": {
+   "en": "Read first",
+   "ar": "اقرأ أولاً"
+  },
+  "intro": {
+   "en": "Minet sells a bed in two ways: as a complete bed (“LIT”, headboard included) or as a bed frame with a headboard bought separately. Both kinds are in this stock, so not every bed line is a whole bed. The table counts what is complete and what can be put together from this lot alone.",
+   "ar": "تبيع Minet السرير بطريقتين: سريراً كاملاً («LIT» مع رأسه)، أو هيكل سرير يُشترى رأسه منفصلاً. وفي هذا المخزون النوعان معاً، لذلك ليس كل بند سرير سريراً كاملاً. الجدول يحصي الكامل وما يمكن تجميعه من هذه الدفعة وحدها."
+  },
+  "rows": [
+   {
+    "en": "Complete beds – headboard included",
+    "ar": "أسرّة كاملة مع رؤوسها",
+    "qty": 145,
+    "detail": {
+     "en": "Aria, Thalya, Calypso, Eden, Pégase, Epsilon and end-of-series models (“LIT” lines). Mattress and slatted base not included.",
+     "ar": "Aria وThalya وCalypso وEden وPégase وEpsilon وموديلات نهاية السلسلة (بنود «LIT»). المرتبة وقاعدة الشرائح غير مشمولتين."
+    }
+   },
+   {
+    "en": "Kids and baby beds – complete",
+    "ar": "أسرّة أطفال ورضّع كاملة",
+    "qty": 21,
+    "detail": {
+     "en": "Nuit d’Ange: Carline, Lilas, Ebène, Island.",
+     "ar": "Nuit d’Ange: Carline وLilas وEbène وIsland."
+    }
+   },
+   {
+    "en": "Wave beds + Wave headboards – finished with colour panels from this lot",
+    "ar": "أسرّة Wave + رؤوس Wave – تكتمل بألواح الألوان الموجودة في الدفعة",
+    "qty": "45 + 20",
+    "detail": {
+     "en": "45 beds and 20 headboards are stocked in oak; the 114 coloured “amande” panels in this lot (4 colours) cover all of them (≈ 84 needed – metal-leg beds take two).",
+     "ar": "45 سريراً و20 رأساً مخزّنة بالخشب فقط؛ وألواح «amande» الملوّنة في الدفعة (114 لوحاً بأربعة ألوان) تكفيها كلها (المطلوب ≈ 84 – السرير بأرجل معدنية يحتاج لوحين)."
+    }
+   },
+   {
+    "en": "Palma headboards – complete with upholstered panel",
+    "ar": "رؤوس Palma – كاملة مع اللوح المنجّد",
+    "qty": 13,
+    "detail": {
+     "en": "Headboard frame + upholstered panel (Brume / Cappuccino / Gris); 3 spare panels.",
+     "ar": "هيكل الرأس + اللوح المنجّد (Brume / Cappuccino / Gris)؛ ويتبقى 3 ألواح إضافية."
+    }
+   },
+   {
+    "en": "Kids beds 90×190 – bed ends + side rails",
+    "ar": "أسرّة أطفال 90×190 – الطرفان + الجانبان",
+    "qty": 29,
+    "detail": {
+     "en": "Nuit d’Ange Florence / Montréal / Moscou / New Delhi / Tahiti: 11 argile, 7 blanc, 11 carbone (colour as written in the stock list). 4 white bed-end sets have no matching rails. 27 slatted bases 90×190 are in the lot.",
+     "ar": "Nuit d’Ange Florence / Montréal / Moscou / New Delhi / Tahiti: 11 argile و7 blanc و11 carbone (اللون كما في قائمة المخزون). 4 أطقم أطراف بيضاء بلا جوانب مطابقة. وفي الدفعة 27 قاعدة شرائح 90×190."
+    }
+   },
+   {
+    "en": "Galaxie bed frames (no headboard)",
+    "ar": "هياكل أسرّة Galaxie (بدون رأس)",
+    "qty": 148,
+    "detail": {
+     "en": "Up to 79 of them can be matched with a Cortina, Niagara, Denver, Palma or Luba headboard of the same width and finish from this lot – the pairing Minet shows in its own catalogue. The other 69 are sold as frames.",
+     "ar": "يمكن تزويد حتى 79 منها برأس Cortina أو Niagara أو Denver أو Palma أو Luba من نفس العرض والتشطيب من هذه الدفعة – وهو التركيب الذي تعرضه Minet في كتالوجها. والباقي (69) يُباع هياكل فقط."
+    }
+   },
+   {
+    "en": "Zodiaque bed frames (no headboard)",
+    "ar": "هياكل أسرّة Zodiaque (بدون رأس)",
+    "qty": 21,
+    "detail": {
+     "en": "8 can be matched with a Capricorne or Verseau headboard of the same width and finish.",
+     "ar": "يمكن تزويد 8 منها برأس Capricorne أو Verseau من نفس العرض والتشطيب."
+    }
+   },
+   {
+    "en": "Stand-alone headboards",
+    "ar": "رؤوس أسرّة مستقلة",
+    "qty": 212,
+    "detail": {
+     "en": "Separate Minet products: they fit behind a divan or one of the frames above. They are not headboards missing from the complete beds.",
+     "ar": "منتجات مستقلة في كتالوج Minet: تُركَّب خلف قاعدة سرير أو أحد الهياكل أعلاه، وليست رؤوساً ناقصة من الأسرّة الكاملة."
+    }
+   },
+   {
+    "en": "Incomplete pieces",
+    "ar": "قطع ناقصة",
+    "qty": 164,
+    "detail": {
+     "en": "Wardrobe and cabinet carcasses without doors, table tops without legs, one storage frame without lid, loose bed-end panels. The missing parts are not in this lot.",
+     "ar": "أجسام خزائن بدون أبواب، أسطح طاولات بدون أرجل، هيكل بصندوق بدون غطاء، ألواح أطراف أسرّة. والأجزاء الناقصة غير موجودة في الدفعة."
+    }
+   },
+   {
+    "en": "Components and spare parts",
+    "ar": "مكوّنات وقطع غيار",
+    "qty": 227,
+    "detail": {
+     "en": "Colour panels, upholstered panels, side rails, trundle fronts, shelf boards and covers; most of them complete the kits above.",
+     "ar": "ألواح ألوان وألواح منجّدة وجوانب وواجهات أسرّة منزلقة وألواح رفوف وأغطية؛ ومعظمها يُكمِّل الأطقم أعلاه."
+    }
+   }
+  ],
+  "note": {
+   "en": "Quantities in pieces from the stock list. Pairing figures are maximums and use the lines of this lot only.",
+   "ar": "الكميات بالقطع من قائمة المخزون. أرقام التركيب حدّ أقصى وتعتمد على بنود هذه الدفعة فقط."
+  }
+ },
+ "group_order": [
+  "galaxie",
+  "calypso",
+  "wave",
+  "aria",
+  "thalya",
+  "eden",
+  "pegase",
+  "epsilon",
+  "cortina",
+  "niagara",
+  "denver",
+  "palma",
+  "luba",
+  "zodiaque",
+  "everest",
+  "gaia",
+  "etna",
+  "himalaya",
+  "mila",
+  "manhattan",
+  "newyork",
+  "olympe",
+  "findeserie",
+  "nuitdange",
+  "literie"
+ ]
 }

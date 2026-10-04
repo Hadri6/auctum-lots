@@ -49,3 +49,16 @@ Reference result: `minet/` (Meubles Minet furniture, 2026-10-01).
 5. **Check:** card count, every `ref` present, and no `€|wa.me|whatsapp|+49|@|liquidat|insolv|Konkurs` in the page.
 6. **Publish:** `git add -A && git commit -m "lot: <slug>" && git push` → GitHub Pages rebuilds in ~1 min.
    Hand the founder the link `https://hadri6.github.io/auctum-lots/<slug>/` (tell them `?v=2` busts phone caches).
+
+## Completeness status (founder, 2026-10-04)
+Traders read a line like "LIT …" or a bed photo as a whole product. Whenever a manifest mixes complete goods with frames,
+stand-alone parts or incomplete pieces, mark every line:
+- `items[].status` – a key of `lot.json` → `"statuses": {key: {en, ar, cls, desc_en, desc_ar}}` (cls: ok, mod, kit, add,
+  part, bad). The page then shows a chip on each card/row, a filter bar ("Show: …") and a "By completeness" summary
+  table; within each group complete lines come first.
+- `items[].note` `{en, ar}` – one line under the item name (what is / is not included).
+- `items[].photo_label` `{en, ar}` – replaces the photo badge (orange) when the photo shows more than the line contains.
+- `lot.json` → `"sets": {title, nav, intro, rows: [{en, ar, qty, detail: {en, ar}}], note}` – a "Read first" table at the top
+  of the page: what is complete and what can be assembled from this lot alone.
+Verify against the maker's own catalogue (Wayback Machine of the maker's site) before deciding what a line contains.
+Reference: `minet/` (source script `auctum-lots-src/minet/build_items.py` + `lot_meta.py`).
