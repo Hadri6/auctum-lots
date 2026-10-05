@@ -7,6 +7,9 @@ Input:  lots/<slug>/lot.json    lot metadata (title, subtitle, KPIs, group label
 Output: <slug>/index.html + <slug>/img/  (published by GitHub Pages)
 
 The page is a manifest only: no prices, no contact links, no source/liquidator names.
+Private price list:  python tools/build_lot.py <lot_dir> --private <out_dir>
+  items[].price (EUR, line total) / items[].price_label {en, ar} are shown only in this mode, and the output
+  goes to <out_dir> (never into the public repo). A public build refuses items that carry prices.
 """
 import collections
 import html
@@ -80,11 +83,15 @@ def shipping_table(lot, item_weight=None):
             f'<div class="note">{t(note["en"], note["ar"])}<br>{basis}</div>')
 
 
-def build(lot_dir):
+def build(lot_dir, out_dir=None, private=False):
     lot = json.load(open(os.path.join(lot_dir, 'lot.json'), encoding='utf8'))
     items = json.load(open(os.path.join(lot_dir, 'items.json'), encoding='utf8'))
     slug = lot['slug']
-    out = os.path.join(ROOT, slug)
+    if not private and any(it.get('price') is not None for it in items):
+        sys.exit('items carry prices: build them only with --private <out_dir> (public pages never show prices)')
+    out = os.path.abspath(out_dir) if out_dir else os.path.join(ROOT, slug)
+    if private and os.path.commonpath([out, ROOT]) == ROOT:
+        sys.exit('--private output must be outside the public repo')
     if os.path.isdir(os.path.join(out, 'img')):
         shutil.rmtree(os.path.join(out, 'img'))
     os.makedirs(os.path.join(out, 'img'), exist_ok=True)
@@ -139,6 +146,33 @@ def build(lot_dir):
         n = it.get('note')
         return t(n['en'], n['ar'], tag='div', cls='nt') if n else ''
 
+    def money(v):
+        return f'€ {v:,.0f}'
+
+    def psum(lst):
+        return sum(x.get('price') or 0 for x in lst)
+
+    def pr_html(it):
+        if not private:
+            return ''
+        if it.get('price') is not None:
+            return f'<div class="pr">{t("Price", "السعر")} <b>{money(it["price"])}</b></div>'
+        pl = it.get('price_label')
+        return f'<div class="pr">{t(pl["en"], pl["ar"], tag="b")}</div>' if pl else ''
+
+    def pcell(it):
+        if not private:
+            return ''
+        if it.get('price') is not None:
+            return f'<td class="num">{money(it["price"])}</td>'
+        pl = it.get('price_label')
+        return f'<td>{t(pl["en"], pl["ar"]) if pl else "–"}</td>'
+
+    def pcol(lst):
+        return f'<td class="num">{money(psum(lst))}</td>' if private else ''
+
+    pth = t('Price (EUR)', 'السعر (يورو)', tag='th') if private else ''
+
     unit_en, unit_ar = lot.get('unit', ['pcs', 'قطعة'])
     total_qty = sum(it['qty'] for it in items)
     nav = ''.join(f'<a href="#c-{k}">{E(short(k))} <span>{sum(x["qty"] for x in groups[k])}</span></a>' for k in order)
@@ -174,7 +208,7 @@ def build(lot_dir):
                 wline = (f'<div class="wt">{t("Est. weight", "الوزن التقديري")} <b>{_fmt_t(*w)}</b></div>' if w else '')
                 cards += (f'<figure class="card"{st_attr(it)}>{visual}<figcaption>{st_chip(it)}'
                           f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>'
-                          f'{note_html(it)}{wline}'
+                          f'{note_html(it)}{wline}{pr_html(it)}'
                           f'<div class="row"><span class="q"><b>{it["qty"]:,}</b> {t(unit_en, unit_ar)}</span>'
                           f'<span class="ref">Ref {E(ref)}</span></div></figcaption></figure>')
             else:
@@ -185,7 +219,7 @@ def build(lot_dir):
                 ncell = (f'<td><span dir="ltr">{E(it["name"])}</span>{note_html(it)}</td>' if it.get('note')
                          else f'<td dir="ltr">{E(it["name"])}</td>')
                 rows += (f'<tr{st_attr(it)}><td>Ref {E(ref)}</td>{ncell}'
-                         f'<td>{t(ten, tar)}</td>{scell}<td>{it["qty"]:,}</td>{wcell}</tr>')
+                         f'<td>{t(ten, tar)}</td>{scell}<td>{it["qty"]:,}</td>{wcell}{pcell(it)}</tr>')
         en, ar = label(k)
         sec += (f'<section id="c-{k}"><h2>{t(en, ar)} <small>{len(L)} {t("items", "صنف")} · '
                 f'{sum(x["qty"] for x in L):,} {t(unit_en, unit_ar)}</small></h2>')
@@ -193,9 +227,9 @@ def build(lot_dir):
             sec += f'<div class="grid">{cards}</div>'
         if rows:
             head = (f'<thead><tr><th>Ref</th>{t("Item", "الصنف", tag="th")}{t("Type", "النوع", tag="th")}'
-                    f'{t("Status", "الحالة", tag="th") if statuses else ""}{t("Qty", "الكمية", tag="th")}{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}</tr></thead>')
+                    f'{t("Status", "الحالة", tag="th") if statuses else ""}{t("Qty", "الكمية", tag="th")}{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}{pth}</tr></thead>')
             if cards:
-                sec += (f'<details>{t(f"More items without photo ({nrows})", f"أصناف أخرى بدون صورة ({nrows})", tag="summary")}'
+                sec += (f'<details{" open" if private else ""}>{t(f"More items without photo ({nrows})", f"أصناف أخرى بدون صورة ({nrows})", tag="summary")}'
                         f'<table>{head}<tbody>{rows}</tbody></table></details>')
             else:
                 sec += f'<table>{head}<tbody>{rows}</tbody></table>'
@@ -214,13 +248,13 @@ def build(lot_dir):
         return f'<td>{_fmt_t(*w) if w else "–"}</td>'
 
     type_rows = ''.join(f'<tr><td>{t(en, ar)}</td><td>{len(L):,}</td><td>{sum(x["qty"] for x in L):,}</td>'
-                        f'<td>{sum(x["qty"] for x in L) * 100 / total_qty:.1f}%</td>{wcol(L)}</tr>'
+                        f'<td>{sum(x["qty"] for x in L) * 100 / total_qty:.1f}%</td>{wcol(L)}{pcol(L)}</tr>'
                         for (en, ar), L in sorted(by_type.items(), key=lambda x: -sum(i['qty'] for i in x[1])))
     total_row = (f'<tr class="tot"><td>{t("Total", "المجموع")}</td><td>{len(items):,}</td>'
-                 f'<td>{total_qty:,}</td><td>100%</td>{wcol(items)}</tr>')
+                 f'<td>{total_qty:,}</td><td>100%</td>{wcol(items)}{pcol(items)}</tr>')
     head = (f'<thead><tr>{t("{0}", "{1}", tag="th")}{t("Items", "الأصناف", tag="th")}'
             f'{t(f"Quantity ({unit_en})", f"الكمية ({unit_ar})", tag="th")}{t("Share", "النسبة", tag="th")}'
-            f'{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}</tr></thead>')
+            f'{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}{pth}</tr></thead>')
     summary = f'<section id="summary"><h2>{t("Summary of contents", "ملخص المحتويات")}</h2>'
     if statuses:
         st_rows = ''
@@ -231,7 +265,7 @@ def build(lot_dir):
             q = sum(x['qty'] for x in L)
             desc = t(s['desc_en'], s['desc_ar'], tag='div', cls='nt') if s.get('desc_en') else ''
             st_rows += (f'<tr><td>{st_chip({"status": key})}{desc}</td><td>{len(L):,}</td><td>{q:,}</td>'
-                        f'<td>{q * 100 / total_qty:.1f}%</td>{wcol(L)}</tr>')
+                        f'<td>{q * 100 / total_qty:.1f}%</td>{wcol(L)}{pcol(L)}</tr>')
         summary += (f'<h3>{t("By completeness", "حسب اكتمال القطعة")}</h3><div class="sum">'
                     f'<table>{head.replace("{0}", "Status").replace("{1}", "الحالة")}<tbody>{st_rows}{total_row}</tbody></table></div>')
     summary += (f'<h3>{t("By product type", "حسب نوع القطعة")}</h3><div class="sum">'
@@ -243,7 +277,7 @@ def build(lot_dir):
             q = sum(x['qty'] for x in groups[k])
             en, ar = label(k)
             grp_rows += (f'<tr><td><a href="#c-{k}">{t(en, ar)}</a></td><td>{len(groups[k]):,}</td>'
-                         f'<td>{q:,}</td><td>{q * 100 / total_qty:.1f}%</td>{wcol(groups[k])}</tr>')
+                         f'<td>{q:,}</td><td>{q * 100 / total_qty:.1f}%</td>{wcol(groups[k])}{pcol(groups[k])}</tr>')
         summary += (f'<h3>{t("By " + grp_word[0].lower().rstrip("s"), "حسب " + grp_word[1])}</h3><div class="sum">'
                     f'<table>{head.replace("{0}", grp_word[0].rstrip("s")).replace("{1}", grp_word[1])}'
                     f'<tbody>{grp_rows}{total_row}</tbody></table></div>')
@@ -263,7 +297,7 @@ def build(lot_dir):
         snote = t(sets['note']['en'], sets['note']['ar'], tag='div', cls='note') if sets.get('note') else ''
         top = (f'<section id="sets" class="sets"><h2>{t(sets["title"]["en"], sets["title"]["ar"])}</h2>{intro}'
                f'<div class="sum"><table><thead><tr>{t("What", "الصنف", tag="th")}'
-               f'{t("Quantity", "الكمية", tag="th")}</tr></thead><tbody>{srows}</tbody></table></div>{snote}</section>')
+               f'{t(*sets.get("col", ["Quantity", "الكمية"]), tag="th")}</tr></thead><tbody>{srows}</tbody></table></div>{snote}</section>')
         nav = f'<a href="#sets">{t(sets.get("nav", {}).get("en", "Read first"), sets.get("nav", {}).get("ar", "اقرأ أولاً"))}</a>' + nav
     if statuses:
         btns = ''.join(f'<button data-f="{E(k)}">{t(s["en"], s["ar"])} <span>'
@@ -279,6 +313,8 @@ def build(lot_dir):
         kpis.append(('Groups' if lot.get('groups_word') is None else lot['groups_word'][0],
                      'مجموعة' if lot.get('groups_word') is None else lot['groups_word'][1],
                      str(len([g for g in groups if g != other]))))
+    if private:
+        kpis.append(('Package price', 'سعر الحزمة', money(psum(items))))
     for extra in lot.get('kpis', []):
         kpis.append((extra['en'], extra['ar'], extra['value']))
     kpi_html = ''.join(f'<div>{t(a, b)}<b>{E(v)}</b></div>' for a, b, v in kpis)
@@ -291,6 +327,9 @@ def build(lot_dir):
     credits = f'<footer class="credits">{E(lot["credits"])}</footer>\n' if lot.get('credits') else ''
     css = open(os.path.join(TOOLS, 'lot.css'), encoding='utf8').read()
     js = open(os.path.join(TOOLS, 'lot.js'), encoding='utf8').read()
+    if private:
+        css += ('.pr{margin-top:6px;font-size:14px;color:var(--mut)}.pr b{color:var(--acc);font-size:17px}'
+                'td.num{text-align:end;white-space:nowrap;font-variant-numeric:tabular-nums}')
     page = f'''<!doctype html><html lang="en" dir="ltr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(lot["page_title"])}</title>
 <meta name="description" content="{E(lot["subtitle"]["en"])}">
@@ -309,4 +348,9 @@ def build(lot_dir):
 
 
 if __name__ == '__main__':
-    build(os.path.abspath(sys.argv[1]))
+    a = sys.argv[1:]
+    if '--private' in a:
+        i = a.index('--private')
+        build(os.path.abspath(a[0]), out_dir=a[i + 1], private=True)
+    else:
+        build(os.path.abspath(a[0]))
