@@ -1,0 +1,41 @@
+{
+ "slug": "sanitary-pl",
+ "page_title": "Sanitary, Heating & Plumbing Stock",
+ "title": {
+  "en": "Sanitary, heating & plumbing wholesale stock",
+  "ar": "مخزون جملة للأدوات الصحية والتدفئة والسباكة"
+ },
+ "subtitle": {
+  "en": "Complete warehouse stock of a plumbing and heating wholesaler: deep-well, booster and circulation pumps, immersion heaters, hot-water cylinders and pressure tanks, radiators and heating controls, shower doors and trays, taps, siphons and drains, brass, PP-R and multilayer fittings, valves, chimney liners, fans and hoses. About 15,800 pieces in 1,378 lines, partly on pallets and partly loose. Sold only as one complete lot, as seen.",
+  "ar": "كامل مخزون مستودع لتاجر جملة في السباكة والتدفئة: مضخات أعماق وضغط وتدوير، سخانات غاطسة، خزانات ماء ساخن وخزانات ضغط، مشعاعات وأجهزة تحكم بالتدفئة، أبواب وقواعد دش، خلاطات وسيفونات ومصارف، وصلات نحاسية وPP-R ومتعددة الطبقات، صمامات، بطانات مداخن، مراوح وخراطيم. نحو 15,800 قطعة في 1,378 صنفاً، جزء منها على طبليات وجزء سائب. يُباع كدفعة واحدة كاملة كما هو."
+ },
+ "groups_word": ["Groups", "المجموعة"],
+ "groups": {
+  "pumps": {"en": "Pumps & pump accessories", "ar": "المضخات وملحقاتها", "short": "Pumps"},
+  "heating": {"en": "Heating & hot water", "ar": "التدفئة والماء الساخن", "short": "Heating"},
+  "bath": {"en": "Bathroom & sanitary ware", "ar": "الحمّام والأدوات الصحية", "short": "Bathroom"},
+  "fittings": {"en": "Pipes, fittings & valves", "ar": "الأنابيب والوصلات والصمامات", "short": "Fittings & valves"},
+  "vent": {"en": "Ventilation & chimney", "ar": "التهوية والمداخن", "short": "Ventilation"},
+  "hoses": {"en": "Hoses", "ar": "الخراطيم", "short": "Hoses"},
+  "other": {"en": "Other items", "ar": "قطع أخرى", "short": "Other"}
+ },
+ "group_order": ["pumps", "heating", "bath", "fittings", "vent", "hoses", "other"],
+ "other_group": "other",
+ "location": {"en": "Poland", "ar": "بولندا"},
+ "note": {
+  "en": "Item names, codes and quantities as recorded in the warehouse inventory; the actual stock may differ. Photos marked as catalogue pictures show the same model; the others are representative pictures of the product type. Some goods are in opened or incomplete packaging. Sold only as one complete lot, as seen.",
+  "ar": "أسماء الأصناف ورموزها وكمياتها كما وردت في جرد المستودع، وقد يختلف المخزون الفعلي. الصور المعلّمة كصور كتالوج تُظهر نفس الموديل، والبقية صور توضيحية لنوع المنتج. بعض البضائع في عبوات مفتوحة أو ناقصة. يُباع كدفعة واحدة كاملة فقط كما هو."
+ },
+ "unit": ["pcs", "قطعة"],
+ "qty_label": ["Pieces", "قطعة"],
+ "qty_exact": true,
+ "all_cards": true,
+ "shipping": {
+  "volume_m3": [110, 170],
+  "weight_t": [15, 25],
+  "note": {
+   "en": "Estimate from the inventory and warehouse photos (several dozen pallets plus loose goods, bulky items such as shower doors, trays, tanks and cylinders); no packing list yet. Final figures after loading.",
+   "ar": "تقدير مبني على الجرد وصور المستودع (عشرات الطبليات إضافة إلى بضائع سائبة وقطع كبيرة الحجم كأبواب وقواعد الدش والخزانات)؛ لا توجد قائمة تعبئة بعد. الأرقام النهائية بعد التحميل."
+  }
+ }
+}
