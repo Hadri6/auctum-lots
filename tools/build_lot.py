@@ -188,7 +188,8 @@ def build(lot_dir, out_dir=None, private=False):
     for k in order:
         # With statuses: complete pieces first, components and incomplete pieces last; then by quantity.
         st_order = list(statuses)
-        L = sorted(groups[k], key=lambda x: (st_order.index(x['status']) if x.get('status') in st_order else 0, -x['qty']))
+        L = sorted(groups[k], key=lambda x: (st_order.index(x['status']) if x.get('status') in st_order else 0,
+                                             0 if lot.get('keep_order') else -x['qty']))  # keep_order: items.json order
         cards, rows, nrows = '', '', 0
         for it in L:
             ten, tar = it.get('type_en') or 'Item', it.get('type_ar') or 'صنف'
@@ -266,7 +267,8 @@ def build(lot_dir, out_dir=None, private=False):
             desc = t(s['desc_en'], s['desc_ar'], tag='div', cls='nt') if s.get('desc_en') else ''
             st_rows += (f'<tr><td>{st_chip({"status": key})}{desc}</td><td>{len(L):,}</td><td>{q:,}</td>'
                         f'<td>{q * 100 / total_qty:.1f}%</td>{wcol(L)}{pcol(L)}</tr>')
-        summary += (f'<h3>{t("By completeness", "حسب اكتمال القطعة")}</h3><div class="sum">'
+        stt = lot.get('status_title', {'en': 'By completeness', 'ar': 'حسب اكتمال القطعة'})
+        summary += (f'<h3>{t(stt["en"], stt["ar"])}</h3><div class="sum">'
                     f'<table>{head.replace("{0}", "Status").replace("{1}", "الحالة")}<tbody>{st_rows}{total_row}</tbody></table></div>')
     summary += (f'<h3>{t("By product type", "حسب نوع القطعة")}</h3><div class="sum">'
                f'<table>{head.replace("{0}", "Product type").replace("{1}", "نوع القطعة")}<tbody>{type_rows}{total_row}</tbody></table></div>')
