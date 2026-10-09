@@ -6,8 +6,8 @@
   "ar": "بلاط جدران إيطالي مزجج – مخزون مصنع"
  },
  "subtitle": {
-  "en": "Factory stock of an Italian tile manufacturer: glazed wall tiles in subway 7.5×30 and 7.6×30.5, slim brick 4.5×23, 7×28, decor 10×20, hexagons, diamonds and 16.5×16.5 squares, in porcelain, glazed stoneware and white body, 10 mm, from 19 collections. About 28,800 m² in 113 lines: 2nd choice plus two discontinued 1st-choice collections. On pallets in the original boxes. Offered as one complete lot, as seen.",
-  "ar": "مخزون مصنع بلاط إيطالي: بلاط جدران مزجج بمقاسات طوبي 7.5×30 و7.6×30.5، وطوبي رفيع 4.5×23، و7×28، ومزخرف 10×20، وسداسي ومعيّني ومربع 16.5×16.5، من البورسلان والحجري المزجج والعجينة البيضاء، بسماكة 10 مم، من 19 مجموعة. نحو 28,800 م² في 113 صنفاً: فرز ثانٍ إضافة إلى مجموعتين من الفرز الأول متوقفتين عن الإنتاج. على طبليات في الكراتين الأصلية. يُعرض كدفعة واحدة كاملة كما هو."
+  "en": "Factory stock of an Italian tile manufacturer: glazed wall tiles in subway 7.5×30 and 7.6×30.5, slim brick 4.5×23, decor 10×20, hexagons, diamonds and 16.5×16.5 squares, in porcelain, glazed stoneware and white body, 10 mm, from 17 collections. About 26,600 m² in 91 lines, all commercial 2nd choice. On pallets in the original boxes. Offered as one complete lot, as seen.",
+  "ar": "مخزون مصنع بلاط إيطالي: بلاط جدران مزجج بمقاسات طوبي 7.5×30 و7.6×30.5، وطوبي رفيع 4.5×23، ومزخرف 10×20، وسداسي ومعيّني ومربع 16.5×16.5، من البورسلان والحجري المزجج والعجينة البيضاء، بسماكة 10 مم، من 17 مجموعة. نحو 26,600 م² في 91 صنفاً، كلها فرز تجاري ثانٍ. على طبليات في الكراتين الأصلية. يُعرض كدفعة واحدة كاملة كما هو."
  },
  "groups_word": [
   "Collections",
@@ -17,7 +17,7 @@
   {
    "en": "Weight",
    "ar": "الوزن",
-   "value": "≈ 497 t"
+   "value": "≈ 458 t"
   }
  ],
  "location": {
@@ -35,16 +35,6 @@
  "qty_exact": true,
  "all_cards": true,
  "groups": {
-  "traces": {
-   "en": "TRACES – 7×28 cm, glazed porcelain · 1st choice, discontinued",
-   "ar": "TRACES – 7×28 سم، بورسلان مزجج · فرز أول، موديل متوقف",
-   "short": "Traces"
-  },
-  "skema": {
-   "en": "SKEMA – subway 7.5×30 cm, white-body wall tile, double-fired · 1st choice, discontinued",
-   "ar": "SKEMA – طوبي 7.5×30 سم، بلاط جدران بعجينة بيضاء، حرق مزدوج · فرز أول، موديل متوقف",
-   "short": "Skema"
-  },
   "allure": {
    "en": "ALLURE – subway 7.5×30 cm, glazed porcelain",
    "ar": "ALLURE – طوبي 7.5×30 سم، بورسلان مزجج",
@@ -132,8 +122,6 @@
   }
  },
  "group_order": [
-  "traces",
-  "skema",
   "crayons",
   "matter",
   "sketches",
@@ -153,45 +141,18 @@
   "the-wharfs"
  ],
  "other_group": "autres",
- "statuses": {
-  "first": {
-   "en": "1st choice",
-   "ar": "فرز أول",
-   "cls": "ok",
-   "desc_en": "First commercial grade; collection discontinued by the maker.",
-   "desc_ar": "الفرز التجاري الأول؛ المجموعة متوقفة عن الإنتاج لدى المصنع."
-  },
-  "ft": {
-   "en": "1st choice, off-shade",
-   "ar": "فرز أول، اختلاف درجة",
-   "cls": "add",
-   "desc_en": "First-grade tiles from a shade batch that differs from the standard colour (fuori tono).",
-   "desc_ar": "بلاط من الفرز الأول بدرجة لون تختلف عن اللون القياسي (fuori tono)."
-  },
-  "second": {
-   "en": "2nd choice",
-   "ar": "فرز ثانٍ",
-   "cls": "mod",
-   "desc_en": "Commercial second grade: minor surface or shade deviations possible.",
-   "desc_ar": "فرز تجاري ثانٍ: قد توجد عيوب سطحية أو فروق لون طفيفة."
-  }
- },
- "status_title": {
-  "en": "By grade",
-  "ar": "حسب الفرز"
- },
  "note": {
   "en": "Item names, article codes and quantities (m²) as given in the stock list. Photos: the maker's room photo of the collection with the exact colour sample inset; lines marked otherwise show the collection or a similar tile. Subject to prior sale.",
   "ar": "أسماء الأصناف ورموزها وكمياتها (م²) كما وردت في قائمة المخزون. الصور: صورة المصنع للمجموعة مركّبة في غرفة، وفي زاويتها عيّنة اللون الدقيق؛ الأصناف المعلّمة بغير ذلك تُظهر المجموعة أو بلاطاً مشابهاً. البضاعة متاحة حتى نفادها."
  },
  "shipping": {
   "volume_m3": [
-   430,
-   560
+   400,
+   520
   ],
   "note": {
-   "en": "Weights from the maker's packing data (kg per box) where published, otherwise estimated for the same material and thickness (white body ≈ 14.6 kg/m², porcelain and stoneware ≈ 21–23 kg/m²). Volume estimated from tile thickness plus boxes and pallets (about 1,000 small pallets of 22–34 m² each). Tiles fill containers by weight; final loading plan before shipment.",
-   "ar": "الأوزان من بيانات التعبئة لدى المصنع (كغ لكل كرتونة) حيث نُشرت، وإلا فهي تقدير لنفس الخامة والسماكة (العجينة البيضاء ≈ 14.6 كغ/م²، البورسلان والحجري ≈ 21–23 كغ/م²). الحجم تقدير من سماكة البلاط مع الكراتين والطبليات (نحو 1,000 طبلية صغيرة بين 22 و34 م²). البلاط يملأ الحاوية بالوزن قبل الحجم؛ يُؤكَّد مخطط التحميل قبل الشحن."
+   "en": "Weights from the maker's packing data (kg per box) where published, otherwise estimated for the same material and thickness (white body ≈ 14.6 kg/m², porcelain and stoneware ≈ 21–23 kg/m²). Volume estimated from tile thickness plus boxes and pallets (about 900 small pallets of 22–34 m² each). Tiles fill containers by weight; final loading plan before shipment.",
+   "ar": "الأوزان من بيانات التعبئة لدى المصنع (كغ لكل كرتونة) حيث نُشرت، وإلا فهي تقدير لنفس الخامة والسماكة (العجينة البيضاء ≈ 14.6 كغ/م²، البورسلان والحجري ≈ 21–23 كغ/م²). الحجم تقدير من سماكة البلاط مع الكراتين والطبليات (نحو 900 طبلية صغيرة بين 22 و34 م²). البلاط يملأ الحاوية بالوزن قبل الحجم؛ يُؤكَّد مخطط التحميل قبل الشحن."
   }
  }
 }
