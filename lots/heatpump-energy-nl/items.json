@@ -1,0 +1,169 @@
+[
+ {
+  "ref": "1",
+  "name": "PW030",
+  "qty": 2,
+  "group": "heat-pumps",
+  "type_en": "Air-to-water heat pump (R290)",
+  "type_ar": "مضخة حرارية هواء-ماء (R290)",
+  "img": "img/p_1.jpg",
+  "photo": "exact",
+  "weight_t": 0.25,
+  "note": {
+   "en": "Power World R290 monoblock · heating 3.3–8.3 kW (A7/W35) · A+++",
+   "ar": "مونوبلوك Power World بغاز R290 · تدفئة 3.3–8.3 كيلوواط · A+++"
+  }
+ },
+ {
+  "ref": "2",
+  "name": "PW050",
+  "qty": 23,
+  "group": "heat-pumps",
+  "type_en": "Air-to-water heat pump (R290)",
+  "type_ar": "مضخة حرارية هواء-ماء (R290)",
+  "img": "img/p_2.jpg",
+  "photo": "exact",
+  "weight_t": 3.52,
+  "note": {
+   "en": "Power World R290 monoblock · heating 5.9–14.8 kW (A7/W35) · A+++",
+   "ar": "مونوبلوك Power World بغاز R290 · تدفئة 5.9–14.8 كيلوواط · A+++"
+  }
+ },
+ {
+  "ref": "3",
+  "name": "PW060",
+  "qty": 30,
+  "group": "heat-pumps",
+  "type_en": "Air-to-water heat pump (R290)",
+  "type_ar": "مضخة حرارية هواء-ماء (R290)",
+  "img": "img/p_3.jpg",
+  "photo": "rep",
+  "weight_t": 5.55,
+  "note": {
+   "en": "Power World R290 monoblock · heating 8.8–22.0 kW (A7/W35) · A+++",
+   "ar": "مونوبلوك Power World بغاز R290 · تدفئة 8.8–22.0 كيلوواط · A+++"
+  }
+ },
+ {
+  "ref": "4",
+  "name": "PW150",
+  "qty": 15,
+  "group": "heat-pumps",
+  "type_en": "Air-to-water heat pump (R290)",
+  "type_ar": "مضخة حرارية هواء-ماء (R290)",
+  "img": "img/p_4.jpg",
+  "photo": "rep",
+  "weight_t": [
+   3.9,
+   5.1
+  ],
+  "note": {
+   "en": "Power World R290 commercial monoblock · ≈25 kW rated output",
+   "ar": "مونوبلوك تجاري Power World بغاز R290 · قدرة مقدّرة ≈25 كيلوواط"
+  }
+ },
+ {
+  "ref": "5",
+  "name": "APB-10-PO",
+  "qty": 50,
+  "group": "batteries",
+  "type_en": "Home storage battery",
+  "type_ar": "بطارية تخزين منزلية",
+  "img": "img/p_5.jpg",
+  "photo": "rep",
+  "weight_t": [
+   4.75,
+   6.25
+  ],
+  "note": {
+   "en": "Home battery, 10 kWh class per model code · specifications to be confirmed",
+   "ar": "بطارية منزلية من فئة 10 كيلوواط ساعة حسب رمز الموديل · المواصفات تُؤكَّد لاحقاً"
+  },
+  "photo_label": {
+   "en": "Illustration",
+   "ar": "صورة توضيحية"
+  }
+ },
+ {
+  "ref": "6",
+  "name": "APB-15-PO",
+  "qty": 50,
+  "group": "batteries",
+  "type_en": "Home storage battery",
+  "type_ar": "بطارية تخزين منزلية",
+  "img": "img/p_6.jpg",
+  "photo": "rep",
+  "weight_t": [
+   7.0,
+   9.0
+  ],
+  "note": {
+   "en": "Home battery, 15 kWh class per model code · specifications to be confirmed",
+   "ar": "بطارية منزلية من فئة 15 كيلوواط ساعة حسب رمز الموديل · المواصفات تُؤكَّد لاحقاً"
+  },
+  "photo_label": {
+   "en": "Illustration",
+   "ar": "صورة توضيحية"
+  }
+ },
+ {
+  "ref": "7",
+  "name": "Gw3600-ES-20",
+  "qty": 20,
+  "group": "inverters",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "img": "img/p_7.jpg",
+  "photo": "exact",
+  "weight_t": 0.5,
+  "note": {
+   "en": "GoodWe ES G2 hybrid inverter · 3.6 kW · single-phase",
+   "ar": "انفرتر هجين GoodWe ES G2 · 3.6 كيلوواط · أحادي الطور"
+  }
+ },
+ {
+  "ref": "8",
+  "name": "Gw5000-ES-20",
+  "qty": 20,
+  "group": "inverters",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "img": "img/p_8.jpg",
+  "photo": "exact",
+  "weight_t": 0.5,
+  "note": {
+   "en": "GoodWe ES G2 hybrid inverter · 5 kW · single-phase",
+   "ar": "انفرتر هجين GoodWe ES G2 · 5 كيلوواط · أحادي الطور"
+  }
+ },
+ {
+  "ref": "9",
+  "name": "SUN-6K-SG05LP3",
+  "qty": 30,
+  "group": "inverters",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "img": "img/p_9.jpg",
+  "photo": "exact",
+  "weight_t": 1.26,
+  "note": {
+   "en": "Deye hybrid inverter · 6 kW · three-phase · low-voltage battery",
+   "ar": "انفرتر هجين Deye · 6 كيلوواط · ثلاثي الطور · لبطاريات الجهد المنخفض"
+  }
+ },
+ {
+  "ref": "10",
+  "name": "SUN-10K-SG05LP3",
+  "qty": 30,
+  "group": "inverters",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "img": "img/p_10.jpg",
+  "photo": "exact",
+  "weight_t": 1.26,
+  "note": {
+   "en": "Deye hybrid inverter · 10 kW · three-phase · low-voltage battery",
+   "ar": "انفرتر هجين Deye · 10 كيلوواط · ثلاثي الطور · لبطاريات الجهد المنخفض"
+  }
+ }
+]

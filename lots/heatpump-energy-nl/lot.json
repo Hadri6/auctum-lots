@@ -1,0 +1,86 @@
+{
+ "slug": "heatpump-energy-nl",
+ "page_title": "Heat Pumps & Energy Storage Lot",
+ "title": {
+  "en": "Heat pumps, home batteries & hybrid inverters – stock lot Netherlands",
+  "ar": "مضخات حرارية وبطاريات منزلية وانفرترات هجينة – دفعة مخزون من هولندا"
+ },
+ "subtitle": {
+  "en": "70 R290 air-to-water heat pumps (Power World monoblock, 3–25 kW), 100 home storage batteries and 100 GoodWe and Deye hybrid inverters, stored in the Netherlands. Offered as one complete lot.",
+  "ar": "70 مضخة حرارية هواء-ماء بغاز R290 (مونوبلوك Power World من 3 إلى 25 كيلوواط)، و100 بطارية تخزين منزلية، و100 انفرتر هجين من GoodWe وDeye، مخزّنة في هولندا. تُعرض كدفعة واحدة كاملة."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعات"
+ ],
+ "qty_label": [
+  "Units",
+  "وحدة"
+ ],
+ "qty_exact": true,
+ "unit": [
+  "units",
+  "وحدة"
+ ],
+ "all_cards": true,
+ "keep_order": true,
+ "kpis": [
+  {
+   "en": "Heat pumps",
+   "ar": "مضخات حرارية",
+   "value": "70"
+  },
+  {
+   "en": "Batteries",
+   "ar": "بطاريات",
+   "value": "100"
+  },
+  {
+   "en": "Inverters",
+   "ar": "انفرترات",
+   "value": "100"
+  }
+ ],
+ "location": {
+  "en": "Netherlands",
+  "ar": "هولندا"
+ },
+ "other_group": "autres",
+ "group_order": [
+  "heat-pumps",
+  "batteries",
+  "inverters"
+ ],
+ "groups": {
+  "heat-pumps": {
+   "en": "Heat pumps (R290)",
+   "ar": "مضخات حرارية (R290)",
+   "short": "Heat pumps"
+  },
+  "batteries": {
+   "en": "Home storage batteries",
+   "ar": "بطاريات تخزين منزلية",
+   "short": "Batteries"
+  },
+  "inverters": {
+   "en": "Hybrid inverters",
+   "ar": "انفرترات هجينة",
+   "short": "Inverters"
+  }
+ },
+ "note": {
+  "en": "Quantities per stock list; condition as is, final availability confirmed at offer. Photos are catalogue pictures of the same series; battery pictures are illustrations.",
+  "ar": "الكميات حسب قائمة المخزون؛ البضاعة بحالتها، ويُؤكَّد التوفر النهائي عند العرض. الصور من كتالوج السلسلة نفسها؛ صور البطاريات توضيحية."
+ },
+ "shipping": {
+  "volume_m3": [
+   95,
+   120
+  ],
+  "note": {
+   "en": "Estimated from catalogue packing sizes and weights (heat pumps, inverters) and typical sizes (batteries). Lithium batteries ship as dangerous goods (UN3480, class 9); R290 heat pumps as UN3358.",
+   "ar": "تقدير من أحجام وأوزان التغليف في الكتالوج (المضخات والانفرترات) ومن الأحجام المعتادة (البطاريات). بطاريات الليثيوم تُشحن كبضائع خطرة (UN3480، الفئة 9)، ومضخات R290 تحت UN3358."
+  }
+ },
+ "credits": "Product photos: manufacturer and distributor catalogue images (Power World, GoodWe, Deye)."
+}
