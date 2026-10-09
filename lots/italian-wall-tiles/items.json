@@ -1,0 +1,1834 @@
+[
+ {
+  "ref": "148001",
+  "name": "TRACES BIANCO 7X28",
+  "qty": 104,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148001.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 2.32,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 1st choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "148003",
+  "name": "TRACES ACERO 7X28",
+  "qty": 139,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148003.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 3.1,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 1st choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "148006",
+  "name": "TRACES CALACATTA 7X28",
+  "qty": 14,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148006.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 0.31,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 1st choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "148007",
+  "name": "TRACES DOLOMITE 7X28",
+  "qty": 3,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148007.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 0.07,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 1st choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "148009",
+  "name": "TRACES TRAVERTINO 7X28",
+  "qty": 229,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148009.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 5.11,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 1st choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "148008",
+  "name": "TRACES MARFIL 7X28",
+  "qty": 206,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148008.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 4.59,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 1st choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "148003-2",
+  "name": "TRACES ACERO 7X28",
+  "qty": 26,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148003-2.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.58,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "148004",
+  "name": "TRACES NOCE 7X28",
+  "qty": 23,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148004.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.51,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "148007-2",
+  "name": "TRACES DOLOMITE 7X28",
+  "qty": 11,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148007-2.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.25,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "148009-2",
+  "name": "TRACES TRAVERTINO 7X28",
+  "qty": 12,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148009-2.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.27,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "148008-2",
+  "name": "TRACES MARFIL 7X28",
+  "qty": 15,
+  "group": "traces",
+  "type_en": "Wall tile 7×28 cm",
+  "type_ar": "بلاط جدران 7×28 سم",
+  "img": "img/p_148008-2.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.33,
+  "note": {
+   "en": "7×28 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7×28 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167201",
+  "name": "SKEMA BRIGHT WHITE 7,5X30",
+  "qty": 239,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167201.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 3.49,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "167200",
+  "name": "SKEMA MATT WHITE 7,5X30",
+  "qty": 200,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167200.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 2.92,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "167203",
+  "name": "SKEMA BRIGHT SMOKE 7,5X30",
+  "qty": 180,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167203.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 2.63,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "167202",
+  "name": "SKEMA MATT GREY 7,5X30",
+  "qty": 178,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167202.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 2.6,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "167205",
+  "name": "SKEMA BRIGHT GREEN 7,5X30",
+  "qty": 143,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167205.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 2.09,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "167204",
+  "name": "SKEMA MATT GREEN 7,5X30",
+  "qty": 197,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167204.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 2.88,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "167206",
+  "name": "SKEMA BRIGHT DENIM 7,5X30",
+  "qty": 223,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167206.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 3.26,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "167207",
+  "name": "SKEMA BRIGHT SCARLET 7,5X30",
+  "qty": 35,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167207.jpg",
+  "photo": "exact",
+  "status": "first",
+  "weight_t": 0.51,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول"
+  }
+ },
+ {
+  "ref": "167203-FT",
+  "name": "SKEMA BRIGHT SMOKE 7,5X30",
+  "qty": 23,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167203-FT.jpg",
+  "photo": "exact",
+  "status": "ft",
+  "weight_t": 0.34,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice, off-shade",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول، اختلاف درجة اللون"
+  }
+ },
+ {
+  "ref": "167207-FT",
+  "name": "SKEMA BRIGHT SCARLET 7,5X30",
+  "qty": 13,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167207-FT.jpg",
+  "photo": "exact",
+  "status": "ft",
+  "weight_t": 0.19,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 1st choice, off-shade",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز أول، اختلاف درجة اللون"
+  }
+ },
+ {
+  "ref": "167202-2",
+  "name": "SKEMA MATT GREY 7,5X30",
+  "qty": 13,
+  "group": "skema",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167202-2.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.19,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154200",
+  "name": "ALLURE COTTON 7,5X30",
+  "qty": 378,
+  "group": "allure",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_154200.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 7.9,
+  "note": {
+   "en": "7.5×30 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154201",
+  "name": "ALLURE SILK 7,5X30",
+  "qty": 24,
+  "group": "allure",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_154201.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.5,
+  "note": {
+   "en": "7.5×30 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154202",
+  "name": "ALLURE VELVET 7,5X30",
+  "qty": 23,
+  "group": "allure",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_154202.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.48,
+  "note": {
+   "en": "7.5×30 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "147004",
+  "name": "ANTIQUE AUTUMN 4,5x23",
+  "qty": 98,
+  "group": "antique",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_147004.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 2.22,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "147005",
+  "name": "ANTIQUE SILVER 4,5x23",
+  "qty": 22,
+  "group": "antique",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_147005.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.5,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "147006",
+  "name": "ANTIQUE BLACK 4,5x23",
+  "qty": 31,
+  "group": "antique",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_147006.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.7,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "147007",
+  "name": "ANTIQUE WHITE 4,5x23",
+  "qty": 248,
+  "group": "antique",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_147007.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 5.63,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "147008",
+  "name": "ANTIQUE BLUE 4,5x23",
+  "qty": 54,
+  "group": "antique",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_147008.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.23,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "168011",
+  "name": "BRICKART HALF WHITE 4,5x23",
+  "qty": 121,
+  "group": "brickart",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_168011.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 2.75,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "168013",
+  "name": "BRICKART SAVANNAH 4,5x23",
+  "qty": 43,
+  "group": "brickart",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_168013.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.98,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167015",
+  "name": "CRAYONS MATT WHITE 7.5X30",
+  "qty": 2494,
+  "group": "crayons",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167015.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 36.41,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167016",
+  "name": "CRAYONS BRIGHT WHITE 7.5X30",
+  "qty": 756,
+  "group": "crayons",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167016.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 11.04,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167018",
+  "name": "CRAYONS CARAMEL 7.5X30",
+  "qty": 857,
+  "group": "crayons",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167018.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 12.51,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167019",
+  "name": "CRAYONS TAUPE 7.5X30",
+  "qty": 78,
+  "group": "crayons",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167019.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.14,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167020",
+  "name": "CRAYONS CHARCOAL 7.5X30",
+  "qty": 1308,
+  "group": "crayons",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167020.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 19.1,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167021",
+  "name": "CRAYONS SMOKE 7.5X30",
+  "qty": 543,
+  "group": "crayons",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167021.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 7.93,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167022",
+  "name": "CRAYONS STORM 7.5X30",
+  "qty": 2501,
+  "group": "crayons",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167022.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 36.51,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151001",
+  "name": "DRESSCODE PIANO BLACK MATT",
+  "qty": 289,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151001.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 4.22,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151002",
+  "name": "DRESSCODE PIANO WHITE GLOSSY",
+  "qty": 69,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151002.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.01,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151003",
+  "name": "DRESSCODE PIANO STORM GLOSSY",
+  "qty": 22,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151003.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.32,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151004",
+  "name": "DRESSCODE PIANO CHARCOAL GLOS",
+  "qty": 136,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151004.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.99,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151005",
+  "name": "DRESSCODE PIANO CARAMEL GLOS",
+  "qty": 68,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151005.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.99,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151010",
+  "name": "DRESSCODE VERSO WHITE MATT",
+  "qty": 106,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151010.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.55,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151011",
+  "name": "DRESSCODE VERSO BLACK MATT",
+  "qty": 165,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151011.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 2.41,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151013",
+  "name": "DRESSCODE VERSO STORM GLOSSY",
+  "qty": 47,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151013.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.69,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "151014",
+  "name": "DRESSCODE VERSO CHARCOAL GLOS",
+  "qty": 100,
+  "group": "dresscode",
+  "type_en": "Diamond-shape wall tile 14.8×12.9 cm",
+  "type_ar": "بلاط جدران معيّني 14.8×12.9 سم",
+  "img": "img/p_151014.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.46,
+  "note": {
+   "en": "14.8×12.9 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "14.8×12.9 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167012",
+  "name": "HAMPTONS MATT CHARCOAL 7.5X30",
+  "qty": 494,
+  "group": "hamptons",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167012.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 7.21,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154100",
+  "name": "KARMA BRICK BIANCO 7,6X30,5",
+  "qty": 431,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154100.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 9.31,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154101",
+  "name": "KARMA BRICK PERLA 7,6x30,5",
+  "qty": 571,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154101.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 12.33,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154103",
+  "name": "KARMA BRICK GRIGIO 7,6x30,5",
+  "qty": 264,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154103.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 5.7,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154104",
+  "name": "KARMA BRICK FUMO 7,6x30,5",
+  "qty": 162,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154104.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 3.5,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154105",
+  "name": "KARMA BRICK GRAFITE 7,6x30,5",
+  "qty": 37,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154105.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.8,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154111",
+  "name": "KARMA ESAGONA PERLA 15,1X17,3",
+  "qty": 57,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154111.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.23,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154113",
+  "name": "KARMA ESAGONA GRIGIO 15,1X17,3",
+  "qty": 44,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154113.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.95,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154114",
+  "name": "KARMA ESAGONA FUMO 15,1X17,3",
+  "qty": 43,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154114.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.93,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154115",
+  "name": "KARMA ESAGONA GRAFITE 15,1X17,3",
+  "qty": 274,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154115.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 5.92,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154116",
+  "name": "KARMA ESAGONA BLU 15,1X17,3",
+  "qty": 185,
+  "group": "karma",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154116.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 4.0,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "157000",
+  "name": "MAGNOLIA ESAGONA MATT WHITE",
+  "qty": 48,
+  "group": "magnolia",
+  "type_en": "Hexagon wall tile",
+  "type_ar": "بلاط جدران سداسي",
+  "img": "img/p_157000.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.7,
+  "note": {
+   "en": "15.6×18 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "15.6×18 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "157003",
+  "name": "MAGNOLIA ESAGONA SMOKE",
+  "qty": 30,
+  "group": "magnolia",
+  "type_en": "Hexagon wall tile",
+  "type_ar": "بلاط جدران سداسي",
+  "img": "img/p_157003.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.44,
+  "note": {
+   "en": "15.6×18 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "15.6×18 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "157005",
+  "name": "MAGNOLIA ESAGONA STORM",
+  "qty": 28,
+  "group": "magnolia",
+  "type_en": "Hexagon wall tile",
+  "type_ar": "بلاط جدران سداسي",
+  "img": "img/p_157005.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.41,
+  "note": {
+   "en": "15.6×18 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "15.6×18 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "111120",
+  "name": "MATTER PLASTER STICK 7,5X30",
+  "qty": 1405,
+  "group": "matter",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_111120.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 29.5,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "111121",
+  "name": "MATTER ROPE STICK 7,5X30",
+  "qty": 243,
+  "group": "matter",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_111121.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 5.1,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "111122",
+  "name": "MATTER LEATHER STICK 7,5X30",
+  "qty": 702,
+  "group": "matter",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_111122.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 14.74,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "111123",
+  "name": "MATTER GREY BLUE STICK 7,5X30",
+  "qty": 196,
+  "group": "matter",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_111123.jpg",
+  "photo": "rep",
+  "status": "second",
+  "weight_t": 4.12,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 10 مم · فرز ثانٍ"
+  },
+  "photo_label": {
+   "en": "Series photo, colour differs",
+   "ar": "صورة المجموعة، اللون مختلف"
+  }
+ },
+ {
+  "ref": "111124",
+  "name": "MATTER EGGPLANT STICK 7,5X30",
+  "qty": 307,
+  "group": "matter",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_111124.jpg",
+  "photo": "rep",
+  "status": "second",
+  "weight_t": 6.45,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 10 مم · فرز ثانٍ"
+  },
+  "photo_label": {
+   "en": "Series photo, colour differs",
+   "ar": "صورة المجموعة، اللون مختلف"
+  }
+ },
+ {
+  "ref": "111125",
+  "name": "MATTER ORANGE STICK 7,5X30",
+  "qty": 93,
+  "group": "matter",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_111125.jpg",
+  "photo": "rep",
+  "status": "second",
+  "weight_t": 1.95,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 10 مم · فرز ثانٍ"
+  },
+  "photo_label": {
+   "en": "Series photo, colour differs",
+   "ar": "صورة المجموعة، اللون مختلف"
+  }
+ },
+ {
+  "ref": "167002",
+  "name": "NEW YORKER TAUPE 7.5X30",
+  "qty": 46,
+  "group": "new-yorker",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167002.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.67,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167004",
+  "name": "NEW YORKER SMOKE 7.5X30",
+  "qty": 54,
+  "group": "new-yorker",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167004.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.79,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167005",
+  "name": "NEW YORKER CHARCOAL 7.5X30",
+  "qty": 1425,
+  "group": "new-yorker",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167005.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 20.8,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167006",
+  "name": "NEW YORKER NIGHT 7.5X30",
+  "qty": 248,
+  "group": "new-yorker",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167006.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 3.62,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167111",
+  "name": "OUTFIT BRICK MATT WHITE 7.5X30",
+  "qty": 43,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167111.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.63,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167112",
+  "name": "OUTFIT BRICK BRIGHT WHITE",
+  "qty": 232,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167112.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 3.39,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167113",
+  "name": "OUTFIT BRICK CARAMEL 7.5X30",
+  "qty": 104,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167113.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.52,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167114",
+  "name": "OUTFIT BRICK SMOKE 7.5X30",
+  "qty": 246,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167114.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 3.59,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167115",
+  "name": "OUTFIT BRICK CHARCOAL 7.5X30",
+  "qty": 216,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167115.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 3.15,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167116",
+  "name": "OUTFIT BRICK STORM 7.5X30",
+  "qty": 338,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167116.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 4.93,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167117",
+  "name": "OUTFIT BRICK DENIM 7.5X30",
+  "qty": 24,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167117.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.35,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167118",
+  "name": "OUTFIT BRICK SCARLET 7.5X30",
+  "qty": 62,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167118.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.91,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167121",
+  "name": "OUTFIT ESAGONA MATT WHITE",
+  "qty": 211,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167121.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 3.08,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167122",
+  "name": "OUTFIT ESAGONA BRIGHT WHITE",
+  "qty": 185,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167122.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 2.7,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167123",
+  "name": "OUTFIT ESAGONA CARAMEL",
+  "qty": 40,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167123.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.58,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167124",
+  "name": "OUTFIT ESAGONA SMOKE 15,6x18",
+  "qty": 53,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167124.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.77,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167125",
+  "name": "OUTFIT ESAGONA CHARCOAL",
+  "qty": 47,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167125.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.69,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167126",
+  "name": "OUTFIT ESAGONA STORM 15,6x18",
+  "qty": 54,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167126.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.79,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "167128",
+  "name": "OUTFIT ESAGONA SCARLET 15,6x18",
+  "qty": 25,
+  "group": "outfit",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_167128.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.36,
+  "note": {
+   "en": "7.5×30 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "7.5×30 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154211",
+  "name": "PULSE DUNE 7,6x30,5",
+  "qty": 89,
+  "group": "pulse",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154211.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.92,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154212",
+  "name": "PULSE MISTY 7,6x30,5",
+  "qty": 69,
+  "group": "pulse",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154212.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.49,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154213",
+  "name": "PULSE GRAY 7,6x30,5",
+  "qty": 459,
+  "group": "pulse",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154213.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 9.91,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "154216",
+  "name": "PULSE RUBY 7,6x30,5",
+  "qty": 47,
+  "group": "pulse",
+  "type_en": "Wall tile 7.6×30.5 cm (subway)",
+  "type_ar": "بلاط جدران 7.6×30.5 سم (طوبي)",
+  "img": "img/p_154216.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.02,
+  "note": {
+   "en": "7.6×30.5 cm · glazed stoneware (grès), 10 mm · 2nd choice",
+   "ar": "7.6×30.5 سم · حجري مزجج (grès)، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "118022",
+  "name": "RIGA SMALL CLOUD 7,5X30",
+  "qty": 669,
+  "group": "riga",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_118022.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 13.71,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 9.5 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 9.5 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "118023",
+  "name": "RIGA SMALL DOVE 7,5X30",
+  "qty": 27,
+  "group": "riga",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_118023.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.55,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 9.5 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 9.5 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "118024",
+  "name": "RIGA SMALL COFFEE 7,5X30",
+  "qty": 62,
+  "group": "riga",
+  "type_en": "Wall tile 7.5×30 cm (subway)",
+  "type_ar": "بلاط جدران 7.5×30 سم (طوبي)",
+  "img": "img/p_118024.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.27,
+  "note": {
+   "en": "7.5×30 cm · rectified glazed porcelain, 9.5 mm · 2nd choice",
+   "ar": "7.5×30 سم · بورسلان مزجج مُشطَّب الحواف، 9.5 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "158011",
+  "name": "SASSOSCRITTO SHORE 16,5X16,5",
+  "qty": 310,
+  "group": "sassoscritto",
+  "type_en": "Square wall tile 16.5×16.5 cm",
+  "type_ar": "بلاط جدران مربع 16.5×16.5 سم",
+  "img": "img/p_158011.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 6.82,
+  "note": {
+   "en": "16.5×16.5 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "16.5×16.5 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "158012",
+  "name": "SASSOSCRITTO ROPE 16,5X16,5",
+  "qty": 56,
+  "group": "sassoscritto",
+  "type_en": "Square wall tile 16.5×16.5 cm",
+  "type_ar": "بلاط جدران مربع 16.5×16.5 سم",
+  "img": "img/p_158012.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.23,
+  "note": {
+   "en": "16.5×16.5 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "16.5×16.5 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "158013",
+  "name": "SASSOSCRITTO CORAL 16,5X16,5",
+  "qty": 33,
+  "group": "sassoscritto",
+  "type_en": "Square wall tile 16.5×16.5 cm",
+  "type_ar": "بلاط جدران مربع 16.5×16.5 سم",
+  "img": "img/p_158013.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 0.73,
+  "note": {
+   "en": "16.5×16.5 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "16.5×16.5 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "158014",
+  "name": "SASSOSCRITTO ABYSS 16,5X16,5",
+  "qty": 49,
+  "group": "sassoscritto",
+  "type_en": "Square wall tile 16.5×16.5 cm",
+  "type_ar": "بلاط جدران مربع 16.5×16.5 سم",
+  "img": "img/p_158014.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 1.08,
+  "note": {
+   "en": "16.5×16.5 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "16.5×16.5 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "150001",
+  "name": "SKETCHES HOR 1 BRIGHT WHITE 10X20",
+  "qty": 268,
+  "group": "sketches",
+  "type_en": "Wall tile 10×20 cm (decor)",
+  "type_ar": "بلاط جدران 10×20 سم (مزخرف)",
+  "img": "img/p_150001.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 3.91,
+  "note": {
+   "en": "10×20 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "10×20 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "150002",
+  "name": "SKETCHES VERT BRIGHT WHITE 10X20",
+  "qty": 575,
+  "group": "sketches",
+  "type_en": "Wall tile 10×20 cm (decor)",
+  "type_ar": "بلاط جدران 10×20 سم (مزخرف)",
+  "img": "img/p_150002.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 8.39,
+  "note": {
+   "en": "10×20 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "10×20 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "150003",
+  "name": "SKETCHES HOR 2 BRIGHT WHITE 10X20",
+  "qty": 417,
+  "group": "sketches",
+  "type_en": "Wall tile 10×20 cm (decor)",
+  "type_ar": "بلاط جدران 10×20 سم (مزخرف)",
+  "img": "img/p_150003.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 6.09,
+  "note": {
+   "en": "10×20 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "10×20 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "150004",
+  "name": "SKETCHES DOTS BRIGHT WHITE 10X20",
+  "qty": 179,
+  "group": "sketches",
+  "type_en": "Wall tile 10×20 cm (decor)",
+  "type_ar": "بلاط جدران 10×20 سم (مزخرف)",
+  "img": "img/p_150004.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 2.61,
+  "note": {
+   "en": "10×20 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "10×20 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "150005",
+  "name": "SKETCHES HOR 1 CHARCOAL 10X20",
+  "qty": 220,
+  "group": "sketches",
+  "type_en": "Wall tile 10×20 cm (decor)",
+  "type_ar": "بلاط جدران 10×20 سم (مزخرف)",
+  "img": "img/p_150005.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 3.21,
+  "note": {
+   "en": "10×20 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "10×20 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "150006",
+  "name": "SKETCHES VERT CHARCOAL 10X20",
+  "qty": 302,
+  "group": "sketches",
+  "type_en": "Wall tile 10×20 cm (decor)",
+  "type_ar": "بلاط جدران 10×20 سم (مزخرف)",
+  "img": "img/p_150006.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 4.41,
+  "note": {
+   "en": "10×20 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "10×20 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "150007",
+  "name": "SKETCHES HOR 2 CHARCOAL 10X20",
+  "qty": 458,
+  "group": "sketches",
+  "type_en": "Wall tile 10×20 cm (decor)",
+  "type_ar": "بلاط جدران 10×20 سم (مزخرف)",
+  "img": "img/p_150007.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 6.69,
+  "note": {
+   "en": "10×20 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "10×20 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "150008",
+  "name": "SKETCHES DOTS CHARCOAL 10X20",
+  "qty": 325,
+  "group": "sketches",
+  "type_en": "Wall tile 10×20 cm (decor)",
+  "type_ar": "بلاط جدران 10×20 سم (مزخرف)",
+  "img": "img/p_150008.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 4.75,
+  "note": {
+   "en": "10×20 cm · white-body wall tile, double-fired, 10 mm · 2nd choice",
+   "ar": "10×20 سم · بلاط جدران بعجينة بيضاء، حرق مزدوج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "760090",
+  "name": "THE WHARFS ESAGONA PURE WH",
+  "qty": 36,
+  "group": "the-wharfs",
+  "type_en": "Hexagon wall tile",
+  "type_ar": "بلاط جدران سداسي",
+  "img": "img/p_760090.jpg",
+  "photo": "rep",
+  "status": "second",
+  "weight_t": 0.53,
+  "note": {
+   "en": "hexagon · wall tile · 2nd choice",
+   "ar": "سداسي · بلاط جدران · فرز ثانٍ"
+  },
+  "photo_label": {
+   "en": "Similar hexagon tile",
+   "ar": "بلاط سداسي مشابه"
+  }
+ },
+ {
+  "ref": "760093",
+  "name": "THE WHARFS ESAGONA SMOKE",
+  "qty": 24,
+  "group": "the-wharfs",
+  "type_en": "Hexagon wall tile",
+  "type_ar": "بلاط جدران سداسي",
+  "img": "img/p_760093.jpg",
+  "photo": "rep",
+  "status": "second",
+  "weight_t": 0.35,
+  "note": {
+   "en": "hexagon · wall tile · 2nd choice",
+   "ar": "سداسي · بلاط جدران · فرز ثانٍ"
+  },
+  "photo_label": {
+   "en": "Similar hexagon tile",
+   "ar": "بلاط سداسي مشابه"
+  }
+ },
+ {
+  "ref": "760094",
+  "name": "THE WHARFS ESAGONA CHARCOAL",
+  "qty": 24,
+  "group": "the-wharfs",
+  "type_en": "Hexagon wall tile",
+  "type_ar": "بلاط جدران سداسي",
+  "img": "img/p_760094.jpg",
+  "photo": "rep",
+  "status": "second",
+  "weight_t": 0.35,
+  "note": {
+   "en": "hexagon · wall tile · 2nd choice",
+   "ar": "سداسي · بلاط جدران · فرز ثانٍ"
+  },
+  "photo_label": {
+   "en": "Similar hexagon tile",
+   "ar": "بلاط سداسي مشابه"
+  }
+ },
+ {
+  "ref": "168100",
+  "name": "VIBRANT WHITE 4,5x23",
+  "qty": 800,
+  "group": "vibrant",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_168100.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 18.16,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "168101",
+  "name": "VIBRANT GREY 4,5x23",
+  "qty": 211,
+  "group": "vibrant",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_168101.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 4.79,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "168102",
+  "name": "VIBRANT BEIGE 4,5x23",
+  "qty": 368,
+  "group": "vibrant",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_168102.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 8.35,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ },
+ {
+  "ref": "168103",
+  "name": "VIBRANT PEWTER 4,5x23",
+  "qty": 656,
+  "group": "vibrant",
+  "type_en": "Wall tile 4.5×23 cm (slim brick)",
+  "type_ar": "بلاط جدران 4.5×23 سم (طوبي رفيع)",
+  "img": "img/p_168103.jpg",
+  "photo": "exact",
+  "status": "second",
+  "weight_t": 14.89,
+  "note": {
+   "en": "4.5×23 cm · glazed porcelain, 10 mm · 2nd choice",
+   "ar": "4.5×23 سم · بورسلان مزجج، 10 مم · فرز ثانٍ"
+  }
+ }
+]
