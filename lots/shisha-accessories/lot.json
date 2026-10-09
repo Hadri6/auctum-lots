@@ -1,0 +1,45 @@
+{
+ "slug": "shisha-accessories",
+ "page_title": "Shisha Accessories Stock",
+ "title": {
+  "en": "Shisha accessories stock – wholesale warehouse",
+  "ar": "مخزون إكسسوارات الشيشة — مستودع جملة"
+ },
+ "subtitle": {
+  "en": "Complete warehouse stock of a shisha accessories wholesaler: 10,259 heat management devices (HMD), 9,578 bowls and phunnels (Jookah, Dschinni, Hookain, KS Appo), 8,862 mouthpieces (glass, ice, aluminium, stainless steel), silicone hoses with 23,226 hose adapters and end pieces, coal tongs, tobacco cutlery, molasses catchers, wind covers, stainless-steel spare parts and large quantities of gaskets, valve balls and bowl screens. 190,951 pieces in 206 lines, mostly under the Jookah brand. Accessories only – no tobacco products. Offered as one complete lot.",
+  "ar": "كامل مخزون مستودع لتاجر جملة في إكسسوارات الشيشة: ‏10,259 جهاز تحكم بالحرارة (HMD)، و9,578 رأس شيشة وPhunnel (Jookah وDschinni وHookain وKS Appo)، و8,862 مبسماً (زجاج، ثلج، ألمنيوم، ستانلس ستيل)، وخراطيم سيليكون مع 23,226 وصلة وطرف خرطوم، وملاقط فحم، وأدوات تحضير التبغ، ومصائد دبس، وأغطية واقية من الهواء، وقطع غيار ستانلس ستيل، وكميات كبيرة من الجلدات وكرات الصمامات ومصافي الرؤوس. ‏190,951 قطعة في 206 أصناف، أغلبها بعلامة Jookah. إكسسوارات فقط — لا منتجات تبغ. تُعرض كدفعة واحدة كاملة."
+ },
+ "groups_word": ["Groups", "المجموعة"],
+ "groups": {
+  "a_hmd": {"en": "Heat management devices (HMD)", "ar": "أجهزة التحكم بالحرارة (HMD)", "short": "HMD"},
+  "b_bowls": {"en": "Bowls & phunnels", "ar": "رؤوس الشيشة وPhunnel", "short": "Bowls"},
+  "c_mouth": {"en": "Mouthpieces", "ar": "المباسم", "short": "Mouthpieces"},
+  "d_hose": {"en": "Hoses, adapters & hose parts", "ar": "الخراطيم والوصلات وقطعها", "short": "Hose parts"},
+  "e_tools": {"en": "Tools & accessories", "ar": "الأدوات والإكسسوارات", "short": "Tools"},
+  "f_parts": {"en": "Spare parts & small parts", "ar": "قطع الغيار والقطع الصغيرة", "short": "Parts"},
+  "g_promo": {"en": "Promotional material", "ar": "مواد دعائية", "short": "Promo"}
+ },
+ "group_order": ["a_hmd", "b_bowls", "c_mouth", "d_hose", "e_tools", "f_parts", "g_promo"],
+ "other_group": "autres",
+ "location": {"en": "Germany", "ar": "ألمانيا"},
+ "unit": ["pcs", "قطعة"],
+ "qty_label": ["Pieces", "قطعة"],
+ "qty_exact": true,
+ "kpis": [
+  {"en": "Main brand", "ar": "العلامة الرئيسية", "value": "Jookah"},
+  {"en": "Brands", "ar": "الماركات", "value": "10+"}
+ ],
+ "note": {
+  "en": "Product names, codes and quantities as recorded in the stock inventory (status 30.09.2026); the actual stock may differ. There are no product photos of these exact models: the photos are representative pictures of the product type, and lines without a suitable picture are listed in tables. Wholesale stock, partly older lines. Sold as one complete lot, as seen. Subject to prior sale.",
+  "ar": "أسماء الأصناف ورموزها وكمياتها كما وردت في جرد المخزون (بتاريخ 30.09.2026)، وقد يختلف المخزون الفعلي. لا تتوفر صور لهذه الموديلات نفسها: الصور توضيحية لنوع المنتج، والأصناف التي لا تتوفر لها صورة مناسبة مُدرجة في جداول. مخزون جملة، وجزء منه موديلات أقدم. تُباع كدفعة واحدة كاملة كما هي. البضاعة متاحة حتى نفادها."
+ },
+ "shipping": {
+  "volume_m3": [25, 40],
+  "weight_t": [5, 9],
+  "note": {
+   "en": "Estimate from the stock list: mostly small boxed goods (HMDs, bowls, mouthpieces) plus loose small parts; no packing list yet. Final figures after loading.",
+   "ar": "تقدير مبني على قائمة المخزون: أغلبها بضائع صغيرة في علب (أجهزة HMD ورؤوس ومباسم) إضافة إلى قطع صغيرة سائبة؛ لا توجد قائمة تعبئة بعد. الأرقام النهائية بعد التحميل."
+  }
+ },
+ "credits": "Photos (representative): \"Shisha Phunnel Kopf\", \"Shisha Phunnel Kopf mit HMD\", \"Komplette Shisha Rauchsäule\", \"Moderne Shisha Bowl\" by HookahFloW, CC BY-SA 4.0, via Wikimedia Commons · \"VortexBowls\" by Mrperrel, CC BY-SA 3.0, via Wikimedia Commons · \"Hookah and hose\" by quinn.anya, CC BY-SA 2.0, via Flickr. Resized."
+}

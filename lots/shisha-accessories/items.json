@@ -1,0 +1,2190 @@
+[
+ {
+  "ref": "3035TT",
+  "name": "187 Sweedz Aktivkohlefilter 6mm - BONEZ MC",
+  "qty": 7,
+  "group": "e_tools",
+  "type_en": "Activated-carbon filters 6 mm",
+  "type_ar": "فلاتر كربون نشط 6 مم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "3032TT",
+  "name": "187 Sweedz Aktivkohlefilter 6mm - GZUZ",
+  "qty": 5,
+  "group": "e_tools",
+  "type_en": "Activated-carbon filters 6 mm",
+  "type_ar": "فلاتر كربون نشط 6 مم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "3031TT",
+  "name": "187 Sweedz Aktivkohlefilter 6mm - LX",
+  "qty": 6,
+  "group": "e_tools",
+  "type_en": "Activated-carbon filters 6 mm",
+  "type_ar": "فلاتر كربون نشط 6 مم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "3033TT",
+  "name": "187 Sweedz Aktivkohlefilter 6mm - MAXWELL",
+  "qty": 7,
+  "group": "e_tools",
+  "type_en": "Activated-carbon filters 6 mm",
+  "type_ar": "فلاتر كربون نشط 6 مم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "3034TT",
+  "name": "187 Sweedz Aktivkohlefilter 6mm - SA 4",
+  "qty": 18,
+  "group": "e_tools",
+  "type_en": "Activated-carbon filters 6 mm",
+  "type_ar": "فلاتر كربون نشط 6 مم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1599TT",
+  "name": "Aeon Invert Rauchsäule - Fusion White Purge V2",
+  "qty": 1,
+  "group": "f_parts",
+  "type_en": "Stem (spare part)",
+  "type_ar": "جسم الشيشة (قطعة غيار)",
+  "img": "img/t_stem.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1415TT",
+  "name": "Alligator - Kohleteller Bremsscheibe Grün",
+  "qty": 24,
+  "group": "e_tools",
+  "type_en": "Coal tray",
+  "type_ar": "صحن فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1709TT",
+  "name": "ATH Hookah Bowl - Alamut Ortoklaz",
+  "qty": 10,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1369TT",
+  "name": "Caesar - Schlauch Adapter Silber/Chrome",
+  "qty": 3,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1971TT",
+  "name": "Cataleya by Samra Display",
+  "qty": 184,
+  "group": "g_promo",
+  "type_en": "Display / poster",
+  "type_ar": "ستاند عرض / بوستر",
+  "img": null,
+  "photo": null,
+  "note": {
+   "en": "Advertising material only (posters / displays), no products.",
+   "ar": "مواد دعائية فقط (بوسترات / ستاندات عرض)، بلا منتجات."
+  }
+ },
+ {
+  "ref": "2098TT",
+  "name": "Cataleya by Samra Poster DinA3 Pods",
+  "qty": 39,
+  "group": "g_promo",
+  "type_en": "Display / poster",
+  "type_ar": "ستاند عرض / بوستر",
+  "img": null,
+  "photo": null,
+  "note": {
+   "en": "Advertising material only (posters / displays), no products.",
+   "ar": "مواد دعائية فقط (بوسترات / ستاندات عرض)، بلا منتجات."
+  }
+ },
+ {
+  "ref": "2099TT",
+  "name": "Cataleya by Samra Poster DinA3 Tabak",
+  "qty": 165,
+  "group": "g_promo",
+  "type_en": "Display / poster",
+  "type_ar": "ستاند عرض / بوستر",
+  "img": null,
+  "photo": null,
+  "note": {
+   "en": "Advertising material only (posters / displays), no products.",
+   "ar": "مواد دعائية فقط (بوسترات / ستاندات عرض)، بلا منتجات."
+  }
+ },
+ {
+  "ref": "2097TT",
+  "name": "Cataleya by Samra Poster DinA3 Vapez",
+  "qty": 72,
+  "group": "g_promo",
+  "type_en": "Display / poster",
+  "type_ar": "ستاند عرض / بوستر",
+  "img": null,
+  "photo": null,
+  "note": {
+   "en": "Advertising material only (posters / displays), no products.",
+   "ar": "مواد دعائية فقط (بوسترات / ستاندات عرض)، بلا منتجات."
+  }
+ },
+ {
+  "ref": "1580TT",
+  "name": "Dschinni Aluminium Mundstück - Hokus Pokus Soldier Flat Earth",
+  "qty": 107,
+  "group": "c_mouth",
+  "type_en": "Aluminium mouthpiece",
+  "type_ar": "مبسم ألمنيوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1579TT",
+  "name": "Dschinni Aluminium Mundstück - Hokus Pokus Soldier Light Blue",
+  "qty": 76,
+  "group": "c_mouth",
+  "type_en": "Aluminium mouthpiece",
+  "type_ar": "مبسم ألمنيوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1578TT",
+  "name": "Dschinni Aluminium Mundstück - Hokus Pokus Soldier Pink",
+  "qty": 87,
+  "group": "c_mouth",
+  "type_en": "Aluminium mouthpiece",
+  "type_ar": "مبسم ألمنيوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1581TT",
+  "name": "Dschinni Aluminium Mundstück - Hokus Pokus Soldier Tan Earth",
+  "qty": 148,
+  "group": "c_mouth",
+  "type_en": "Aluminium mouthpiece",
+  "type_ar": "مبسم ألمنيوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1575TT",
+  "name": "Dschinni Aluminium Mundstück - Soldier Blue",
+  "qty": 47,
+  "group": "c_mouth",
+  "type_en": "Aluminium mouthpiece",
+  "type_ar": "مبسم ألمنيوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1574TT",
+  "name": "Dschinni Aluminium Mundstück - Soldier Pink Black",
+  "qty": 70,
+  "group": "c_mouth",
+  "type_en": "Aluminium mouthpiece",
+  "type_ar": "مبسم ألمنيوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1714TT",
+  "name": "Dschinni Phunnel - Calyx Brown (7)",
+  "qty": 171,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1716TT",
+  "name": "Dschinni Phunnel - Easy OP Brown (5)",
+  "qty": 170,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1715TT",
+  "name": "Dschinni Phunnel - Onyx (4)",
+  "qty": 48,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1713TT",
+  "name": "Dschinni Phunnel - Shiva (8)",
+  "qty": 129,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1720TT",
+  "name": "Dschinni Phunnel - Superbowl Jade (1)",
+  "qty": 8,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1717TT",
+  "name": "Dschinni Phunnel - Tiger Eye (6)",
+  "qty": 171,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "3052TT",
+  "name": "Edelstahl Mundstück Ersatzteil",
+  "qty": 198,
+  "group": "c_mouth",
+  "type_en": "Stainless-steel mouthpiece",
+  "type_ar": "مبسم ستانلس ستيل",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "3051TT",
+  "name": "Edelstahl Rauchsäule Ersatzteil",
+  "qty": 223,
+  "group": "f_parts",
+  "type_en": "Stem (spare part)",
+  "type_ar": "جسم الشيشة (قطعة غيار)",
+  "img": "img/t_stem.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "3053TT",
+  "name": "Edelstahl Tauchrohr Ersatzteil",
+  "qty": 107,
+  "group": "f_parts",
+  "type_en": "Downstem (spare part)",
+  "type_ar": "أنبوب الغطس (قطعة غيار)",
+  "img": "img/t_stem.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: complete stem",
+   "ar": "صورة مثال: جسم شيشة كامل"
+  }
+ },
+ {
+  "ref": "1696TT",
+  "name": "Hookain LESH LIP Phunnel - Cheddar",
+  "qty": 41,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1698TT",
+  "name": "Hookain LESH LIP Phunnel - Dicke Nudel",
+  "qty": 7,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1703TT",
+  "name": "Hookain LESH LIP Phunnel - Fette Q",
+  "qty": 83,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1695TT",
+  "name": "Hookain LESH LIP Phunnel - Libanese Luv",
+  "qty": 51,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1700TT",
+  "name": "Hookain LESH LIP Phunnel - Marine Blue",
+  "qty": 26,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1697TT",
+  "name": "Hookain LESH LIP Phunnel - Vintage Cringe",
+  "qty": 11,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1702TT",
+  "name": "Hookain LESH LIP Phunnel - X.O.X.O.",
+  "qty": 50,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1359TT",
+  "name": "Jookah - Diffusor Blau",
+  "qty": 9,
+  "group": "e_tools",
+  "type_en": "Diffuser",
+  "type_ar": "ناشر (Diffuser)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1357TT",
+  "name": "Jookah - Diffusor Grün",
+  "qty": 140,
+  "group": "e_tools",
+  "type_en": "Diffuser",
+  "type_ar": "ناشر (Diffuser)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1358TT",
+  "name": "Jookah - Diffusor Rot",
+  "qty": 262,
+  "group": "e_tools",
+  "type_en": "Diffuser",
+  "type_ar": "ناشر (Diffuser)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1414TT",
+  "name": "Jookah - Edelstahl Kohleteller Biegbar",
+  "qty": 4,
+  "group": "e_tools",
+  "type_en": "Coal tray",
+  "type_ar": "صحن فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1663TT",
+  "name": "Jookah - Flach Sieb für Schubladen | Fronten Weiß Tonkopf",
+  "qty": 10438,
+  "group": "f_parts",
+  "type_en": "Bowl screen",
+  "type_ar": "مصفاة رأس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1680TT",
+  "name": "Jookah - Folienstecher Epoxidharz Mix inkl. Hülle",
+  "qty": 1029,
+  "group": "e_tools",
+  "type_en": "Foil poker",
+  "type_ar": "مثقب ورق الألمنيوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1475TT",
+  "name": "Jookah - Glas Mundstück JK-022 Glow of Flash Glow Blue",
+  "qty": 6,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1476TT",
+  "name": "Jookah - Glas Mundstück JK-022 Glow of Flash Glow Green",
+  "qty": 80,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1477TT",
+  "name": "Jookah - Glas Mundstück JK-022 Glow of Flash Glow Orange",
+  "qty": 193,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1478TT",
+  "name": "Jookah - Glas Mundstück JK-022 Glow of Flash Glow Pink",
+  "qty": 69,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1474TT",
+  "name": "Jookah - Glas Mundstück JK-022 Glow of Flash Glow Red",
+  "qty": 131,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1484TT",
+  "name": "Jookah - Glas Mundstück JK-024 Whirlwind Green Matt",
+  "qty": 26,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1483TT",
+  "name": "Jookah - Glas Mundstück JK-024 Whirlwind Purple Matt",
+  "qty": 30,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1482TT",
+  "name": "Jookah - Glas Mundstück JK-024 Whirlwind Yellow Matt",
+  "qty": 80,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1487TT",
+  "name": "Jookah - Glas Mundstück JK-025 Landlords Germany",
+  "qty": 146,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1489TT",
+  "name": "Jookah - Glas Mundstück JK-025 Landlords Italia",
+  "qty": 237,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1488TT",
+  "name": "Jookah - Glas Mundstück JK-025 Landlords Rusian",
+  "qty": 274,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1490TT",
+  "name": "Jookah - Glas Mundstück JK-025 Landlords Spain",
+  "qty": 334,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1486TT",
+  "name": "Jookah - Glas Mundstück JK-025 Landlords Türkiye",
+  "qty": 491,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1491TT",
+  "name": "Jookah - Glas Mundstück JK-027 Great Tornado Black",
+  "qty": 174,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1495TT",
+  "name": "Jookah - Glas Mundstück JK-027 Great Tornado Blue",
+  "qty": 91,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1493TT",
+  "name": "Jookah - Glas Mundstück JK-027 Great Tornado Pink",
+  "qty": 220,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1494TT",
+  "name": "Jookah - Glas Mundstück JK-027 Great Tornado Purple",
+  "qty": 332,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1492TT",
+  "name": "Jookah - Glas Mundstück JK-027 Great Tornado Red",
+  "qty": 225,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1496TT",
+  "name": "Jookah - Glas Mundstück JK-028 Gusts of Wind Blue",
+  "qty": 43,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1498TT",
+  "name": "Jookah - Glas Mundstück JK-028 Gusts of Wind Green",
+  "qty": 157,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1501TT",
+  "name": "Jookah - Glas Mundstück JK-028 Gusts of Wind light Blue",
+  "qty": 196,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1502TT",
+  "name": "Jookah - Glas Mundstück JK-028 Gusts of Wind light Gelb",
+  "qty": 268,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1500TT",
+  "name": "Jookah - Glas Mundstück JK-028 Gusts of Wind Pink",
+  "qty": 119,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1499TT",
+  "name": "Jookah - Glas Mundstück JK-028 Gusts of Wind Purple",
+  "qty": 343,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1497TT",
+  "name": "Jookah - Glas Mundstück JK-028 Gusts of Wind Red",
+  "qty": 173,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1505TT",
+  "name": "Jookah - Glas Mundstück JK-030 Lila (flach)",
+  "qty": 89,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1504TT",
+  "name": "Jookah - Glas Mundstück JK-030 Pink (flach)",
+  "qty": 39,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1506TT",
+  "name": "Jookah - Glas Mundstück JK-030 Rot (flach)",
+  "qty": 66,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1509TT",
+  "name": "Jookah - Glas Mundstück JK-034 Spiral Flash Glow Blue",
+  "qty": 363,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1510TT",
+  "name": "Jookah - Glas Mundstück JK-034 Spiral Flash Glow Green",
+  "qty": 377,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1507TT",
+  "name": "Jookah - Glas Mundstück JK-034 Spiral Flash Glow Pink",
+  "qty": 218,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1508TT",
+  "name": "Jookah - Glas Mundstück JK-034 Spiral Flash Glow Red",
+  "qty": 312,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1511TT",
+  "name": "Jookah - Glas Mundstück JK-034 Spiral Flash Glow Yellow",
+  "qty": 236,
+  "group": "c_mouth",
+  "type_en": "Glass mouthpiece",
+  "type_ar": "مبسم زجاج",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1741TT",
+  "name": "Jookah - JK-080 Phunnel Deutschland",
+  "qty": 424,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1742TT",
+  "name": "Jookah - JK-080 Phunnel Italien",
+  "qty": 551,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1744TT",
+  "name": "Jookah - JK-080 Phunnel Polen",
+  "qty": 608,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1743TT",
+  "name": "Jookah - JK-080 Phunnel Russland",
+  "qty": 591,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1400TT",
+  "name": "Jookah - Molassefänger Diamond No.12",
+  "qty": 384,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1954TT",
+  "name": "Jookah - Molassefänger Glow Blue No.2",
+  "qty": 296,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1391TT",
+  "name": "Jookah - Molassefänger Glow Green No.1",
+  "qty": 375,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1395TT",
+  "name": "Jookah - Molassefänger Glow in to Darkness Allie Blue No.6",
+  "qty": 325,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1393TT",
+  "name": "Jookah - Molassefänger Glow in to Darkness Blue No.4",
+  "qty": 2,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1392TT",
+  "name": "Jookah - Molassefänger Glow in to Darkness Green No.3",
+  "qty": 244,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1399TT",
+  "name": "Jookah - Molassefänger Green Galaxy No.10",
+  "qty": 88,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1396TT",
+  "name": "Jookah - Molassefänger Out of Space Glow Green No.7",
+  "qty": 27,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1398TT",
+  "name": "Jookah - Molassefänger Out of Space Glow Red No.9",
+  "qty": 18,
+  "group": "e_tools",
+  "type_en": "Molasses catcher",
+  "type_ar": "مصيدة دبس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1725TT",
+  "name": "Jookah - Phunnel JK-81 Creamy Stoneage BLAU",
+  "qty": 51,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1728TT",
+  "name": "Jookah - Phunnel JK-81 Creamy Stoneage Dunkel Blau",
+  "qty": 232,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1727TT",
+  "name": "Jookah - Phunnel JK-81 Creamy Stoneage GELB",
+  "qty": 271,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1724TT",
+  "name": "Jookah - Phunnel JK-81 Creamy Stoneage GRÜN",
+  "qty": 27,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1726TT",
+  "name": "Jookah - Phunnel JK-81 Creamy Stoneage ROT",
+  "qty": 192,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1731TT",
+  "name": "Jookah - Phunnel JK-82 Cream Dream BLACK",
+  "qty": 287,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1729TT",
+  "name": "Jookah - Phunnel JK-82 Cream Dream BLAU",
+  "qty": 122,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1732TT",
+  "name": "Jookah - Phunnel JK-82 Cream Dream GRÜN",
+  "qty": 439,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1730TT",
+  "name": "Jookah - Phunnel JK-82 Cream Dream ROT",
+  "qty": 133,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1735TT",
+  "name": "Jookah - Phunnel JK-83 Woody Vintage BLAU",
+  "qty": 310,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1736TT",
+  "name": "Jookah - Phunnel JK-83 Woody Vintage GELB",
+  "qty": 331,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1733TT",
+  "name": "Jookah - Phunnel JK-83 Woody Vintage GRÜN",
+  "qty": 53,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1734TT",
+  "name": "Jookah - Phunnel JK-83 Woody Vintage ORANGE",
+  "qty": 247,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1738TT",
+  "name": "Jookah - Phunnel JK-84 (Mini) Choc de Coca ROT",
+  "qty": 537,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1739TT",
+  "name": "Jookah - Phunnel JK-84 (Mini) Choc de Coca BLACK",
+  "qty": 447,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1737TT",
+  "name": "Jookah - Phunnel JK-84 (Mini) Choc de Coca BLAU",
+  "qty": 446,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1740TT",
+  "name": "Jookah - Phunnel JK-84 (Mini) Choc de Coca GELB",
+  "qty": 890,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1723TT",
+  "name": "Jookah - Phunnel Tiger",
+  "qty": 30,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1365TT",
+  "name": "Jookah - Schlauch Adapter Blau matt",
+  "qty": 910,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1361TT",
+  "name": "Jookah - Schlauch Adapter Gold Glänzend",
+  "qty": 1006,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1364TT",
+  "name": "Jookah - Schlauch Adapter Grün matt",
+  "qty": 10,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1360TT",
+  "name": "Jookah - Schlauch Adapter Light Black Glänzend",
+  "qty": 2804,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1362TT",
+  "name": "Jookah - Schlauch Adapter Lila Matt",
+  "qty": 961,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1366TT",
+  "name": "Jookah - Schlauch Adapter Rot matt",
+  "qty": 935,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1363TT",
+  "name": "Jookah - Schlauch Adapter Steel Glänzend",
+  "qty": 1840,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1367TT",
+  "name": "Jookah - Schlauch Adapter Weiß Glänzend",
+  "qty": 1000,
+  "group": "d_hose",
+  "type_en": "Hose adapter",
+  "type_ar": "وصلة خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1376TT",
+  "name": "Jookah - Schlauch Dichtung",
+  "qty": 1108,
+  "group": "d_hose",
+  "type_en": "Hose gasket",
+  "type_ar": "جلدة خرطوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1375TT",
+  "name": "Jookah - Schlauch Dichtung Black",
+  "qty": 3461,
+  "group": "d_hose",
+  "type_en": "Hose gasket",
+  "type_ar": "جلدة خرطوم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1349TT",
+  "name": "Jookah - Schlauch Endstück Blau",
+  "qty": 992,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1342TT",
+  "name": "Jookah - Schlauch Endstück Gold",
+  "qty": 951,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1348TT",
+  "name": "Jookah - Schlauch Endstück Grau",
+  "qty": 961,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1345TT",
+  "name": "Jookah - Schlauch Endstück Grün",
+  "qty": 1201,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1346TT",
+  "name": "Jookah - Schlauch Endstück Lila",
+  "qty": 1097,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1344TT",
+  "name": "Jookah - Schlauch Endstück Pink",
+  "qty": 1074,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1343TT",
+  "name": "Jookah - Schlauch Endstück Rot",
+  "qty": 968,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1351TT",
+  "name": "Jookah - Schlauch Endstück Schwarz",
+  "qty": 2792,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1350TT",
+  "name": "Jookah - Schlauch Endstück Silber",
+  "qty": 1735,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1338TT",
+  "name": "Jookah - Schlauch Endstück Sky Blue",
+  "qty": 975,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1347TT",
+  "name": "Jookah - Schlauch Endstück Weiß Glänzend",
+  "qty": 1011,
+  "group": "d_hose",
+  "type_en": "Hose end piece",
+  "type_ar": "طرف خرطوم",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1329TT",
+  "name": "Jookah - Silikonschlauch Schwarz Matt",
+  "qty": 1131,
+  "group": "d_hose",
+  "type_en": "Silicone hose",
+  "type_ar": "خرطوم سيليكون",
+  "img": "img/t_hose.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: hose on a hookah",
+   "ar": "صورة مثال: خرطوم على شيشة"
+  }
+ },
+ {
+  "ref": "1674TT",
+  "name": "Jookah - Tabak Besteck Allure Black",
+  "qty": 14,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1665TT",
+  "name": "Jookah - Tabak Besteck Allure Copper",
+  "qty": 32,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1673TT",
+  "name": "Jookah - Tabak Besteck Allure Rainbow",
+  "qty": 40,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1670TT",
+  "name": "Jookah - Tabak Besteck Draga Black",
+  "qty": 108,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1664TT",
+  "name": "Jookah - Tabak Besteck Draga Copper",
+  "qty": 214,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1671TT",
+  "name": "Jookah - Tabak Besteck Draga Gold",
+  "qty": 180,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1672TT",
+  "name": "Jookah - Tabak Besteck Draga Rainbow",
+  "qty": 164,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1669TT",
+  "name": "Jookah - Tabak Besteck Skull Black",
+  "qty": 6,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1666TT",
+  "name": "Jookah - Tabak Besteck Skull Copper",
+  "qty": 208,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1668TT",
+  "name": "Jookah - Tabak Besteck Skull Gold",
+  "qty": 134,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1667TT",
+  "name": "Jookah - Tabak Besteck Skull Rainbow",
+  "qty": 140,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1677TT",
+  "name": "Jookah - Tabak Besteck Tivisted Copper",
+  "qty": 239,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1679TT",
+  "name": "Jookah - Tabak Besteck Tivisted Gold",
+  "qty": 159,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1676TT",
+  "name": "Jookah - Tabak Besteck Tivisted Rainbow",
+  "qty": 72,
+  "group": "e_tools",
+  "type_en": "Tobacco cutlery set",
+  "type_ar": "أدوات تحضير التبغ",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1378TT",
+  "name": "Jookah - Tabakkopf Dichtung",
+  "qty": 54495,
+  "group": "f_parts",
+  "type_en": "Bowl gasket",
+  "type_ar": "جلدة رأس الشيشة",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1377TT",
+  "name": "Jookah - Tabakkopf Dichtung Black",
+  "qty": 6696,
+  "group": "f_parts",
+  "type_en": "Bowl gasket",
+  "type_ar": "جلدة رأس الشيشة",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1373TT",
+  "name": "Jookah - Ventilkugel Polyamid 10mm",
+  "qty": 15133,
+  "group": "f_parts",
+  "type_en": "Valve ball",
+  "type_ar": "كرة صمام",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1374TT",
+  "name": "Jookah - Ventilkugel Polyamid 12 mm",
+  "qty": 15755,
+  "group": "f_parts",
+  "type_en": "Valve ball",
+  "type_ar": "كرة صمام",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1372TT",
+  "name": "Jookah - Ventilkugel Polyamid 8 mm",
+  "qty": 16533,
+  "group": "f_parts",
+  "type_en": "Valve ball",
+  "type_ar": "كرة صمام",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1402TT",
+  "name": "Jookah - Windschutzgitter XXL Blue",
+  "qty": 122,
+  "group": "e_tools",
+  "type_en": "Wind cover",
+  "type_ar": "غطاء واقٍ من الهواء",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1404TT",
+  "name": "Jookah - Windschutzgitter XXL Pink",
+  "qty": 149,
+  "group": "e_tools",
+  "type_en": "Wind cover",
+  "type_ar": "غطاء واقٍ من الهواء",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1403TT",
+  "name": "Jookah - Windschutzgitter XXL Red",
+  "qty": 72,
+  "group": "e_tools",
+  "type_en": "Wind cover",
+  "type_ar": "غطاء واقٍ من الهواء",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1466TT",
+  "name": "Jookah - Zange JK-004-1 Edelstahl Box",
+  "qty": 237,
+  "group": "e_tools",
+  "type_en": "Coal tongs",
+  "type_ar": "ملقط فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1467TT",
+  "name": "Jookah - Zange JK-004-2 Edelstahl Box",
+  "qty": 260,
+  "group": "e_tools",
+  "type_en": "Coal tongs",
+  "type_ar": "ملقط فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1468TT",
+  "name": "Jookah - Zange JK-004-3 Edelstahl Box",
+  "qty": 185,
+  "group": "e_tools",
+  "type_en": "Coal tongs",
+  "type_ar": "ملقط فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1469TT",
+  "name": "Jookah - Zange JK-004-4 Edelstahl Box",
+  "qty": 115,
+  "group": "e_tools",
+  "type_en": "Coal tongs",
+  "type_ar": "ملقط فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1470TT",
+  "name": "Jookah - Zange JK-004-5 Rainbow Box",
+  "qty": 235,
+  "group": "e_tools",
+  "type_en": "Coal tongs",
+  "type_ar": "ملقط فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1471TT",
+  "name": "Jookah - Zange JK-004-6 Rainbow Box",
+  "qty": 237,
+  "group": "e_tools",
+  "type_en": "Coal tongs",
+  "type_ar": "ملقط فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1472TT",
+  "name": "Jookah - Zange JK-004-7 Rainbow Box",
+  "qty": 263,
+  "group": "e_tools",
+  "type_en": "Coal tongs",
+  "type_ar": "ملقط فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1473TT",
+  "name": "Jookah - Zange JK-004-8 Rainbow Box",
+  "qty": 408,
+  "group": "e_tools",
+  "type_en": "Coal tongs",
+  "type_ar": "ملقط فحم",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1440TT",
+  "name": "Jookah Ersatzglas ALK002-A mit Gewinde Klein Blue",
+  "qty": 1,
+  "group": "f_parts",
+  "type_en": "Replacement glass base",
+  "type_ar": "قاعدة زجاج بديلة",
+  "img": "img/t_glass.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1438TT",
+  "name": "Jookah Ersatzglas ALK002-A mit Gewinde Klein Sky Blue",
+  "qty": 1,
+  "group": "f_parts",
+  "type_en": "Replacement glass base",
+  "type_ar": "قاعدة زجاج بديلة",
+  "img": "img/t_glass.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1685TT",
+  "name": "Jookah HMD Box MONSTER Dark - Black",
+  "qty": 2018,
+  "group": "a_hmd",
+  "type_en": "Heat management device (HMD)",
+  "type_ar": "جهاز تحكم بالحرارة (HMD)",
+  "img": "img/t_hmd.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: an HMD on a bowl",
+   "ar": "صورة مثال: جهاز HMD فوق رأس شيشة"
+  }
+ },
+ {
+  "ref": "1684TT",
+  "name": "Jookah HMD Box MONSTER Light - Frosting",
+  "qty": 2220,
+  "group": "a_hmd",
+  "type_en": "Heat management device (HMD)",
+  "type_ar": "جهاز تحكم بالحرارة (HMD)",
+  "img": "img/t_hmd.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: an HMD on a bowl",
+   "ar": "صورة مثال: جهاز HMD فوق رأس شيشة"
+  }
+ },
+ {
+  "ref": "1687TT",
+  "name": "Jookah HMD Box Poker Face Dark - Black",
+  "qty": 1737,
+  "group": "a_hmd",
+  "type_en": "Heat management device (HMD)",
+  "type_ar": "جهاز تحكم بالحرارة (HMD)",
+  "img": "img/t_hmd.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: an HMD on a bowl",
+   "ar": "صورة مثال: جهاز HMD فوق رأس شيشة"
+  }
+ },
+ {
+  "ref": "1686TT",
+  "name": "Jookah HMD Box Poker Face Light - Frosting",
+  "qty": 1878,
+  "group": "a_hmd",
+  "type_en": "Heat management device (HMD)",
+  "type_ar": "جهاز تحكم بالحرارة (HMD)",
+  "img": "img/t_hmd.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: an HMD on a bowl",
+   "ar": "صورة مثال: جهاز HMD فوق رأس شيشة"
+  }
+ },
+ {
+  "ref": "1683TT",
+  "name": "Jookah HMD Box Sunshine Dark - Black",
+  "qty": 724,
+  "group": "a_hmd",
+  "type_en": "Heat management device (HMD)",
+  "type_ar": "جهاز تحكم بالحرارة (HMD)",
+  "img": "img/t_hmd.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: an HMD on a bowl",
+   "ar": "صورة مثال: جهاز HMD فوق رأس شيشة"
+  }
+ },
+ {
+  "ref": "1682TT",
+  "name": "Jookah HMD Box Sunshine Light - Frosting",
+  "qty": 1682,
+  "group": "a_hmd",
+  "type_en": "Heat management device (HMD)",
+  "type_ar": "جهاز تحكم بالحرارة (HMD)",
+  "img": "img/t_hmd.jpg",
+  "photo": "rep",
+  "photo_label": {
+   "en": "Example photo: an HMD on a bowl",
+   "ar": "صورة مثال: جهاز HMD فوق رأس شيشة"
+  }
+ },
+ {
+  "ref": "1530TT",
+  "name": "Jookah Ice Bazooka - Blizzard Gold-Green",
+  "qty": 379,
+  "group": "c_mouth",
+  "type_en": "Ice mouthpiece",
+  "type_ar": "مبسم ثلج (تبريد)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1529TT",
+  "name": "Jookah Ice Bazooka - Blizzard Gold-Pink",
+  "qty": 209,
+  "group": "c_mouth",
+  "type_en": "Ice mouthpiece",
+  "type_ar": "مبسم ثلج (تبريد)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1527TT",
+  "name": "Jookah Ice Bazooka - Blizzard Gold-Red",
+  "qty": 355,
+  "group": "c_mouth",
+  "type_en": "Ice mouthpiece",
+  "type_ar": "مبسم ثلج (تبريد)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1525TT",
+  "name": "Jookah Ice Bazooka - Blizzard Green",
+  "qty": 17,
+  "group": "c_mouth",
+  "type_en": "Ice mouthpiece",
+  "type_ar": "مبسم ثلج (تبريد)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1523TT",
+  "name": "Jookah Ice Bazooka - Blizzard Orange",
+  "qty": 276,
+  "group": "c_mouth",
+  "type_en": "Ice mouthpiece",
+  "type_ar": "مبسم ثلج (تبريد)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1524TT",
+  "name": "Jookah Ice Bazooka - Blizzard Pink",
+  "qty": 500,
+  "group": "c_mouth",
+  "type_en": "Ice mouthpiece",
+  "type_ar": "مبسم ثلج (تبريد)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1526TT",
+  "name": "Jookah Ice Bazooka - Blizzard Purple",
+  "qty": 107,
+  "group": "c_mouth",
+  "type_en": "Ice mouthpiece",
+  "type_ar": "مبسم ثلج (تبريد)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1522TT",
+  "name": "Jookah Ice Bazooka - Blizzard Red",
+  "qty": 148,
+  "group": "c_mouth",
+  "type_en": "Ice mouthpiece",
+  "type_ar": "مبسم ثلج (تبريد)",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2078TT",
+  "name": "Jookah Twa Face Phunnel L - Khaki",
+  "qty": 17,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2079TT",
+  "name": "Jookah Twa Face Phunnel L - Lemon",
+  "qty": 25,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2076TT",
+  "name": "Jookah Twa Face Phunnel L - Lime",
+  "qty": 37,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2074TT",
+  "name": "Jookah Twa Face Phunnel L - Limited White",
+  "qty": 5,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2077TT",
+  "name": "Jookah Twa Face Phunnel L - Purple",
+  "qty": 4,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2075TT",
+  "name": "Jookah Twa Face Phunnel L - Turquoise",
+  "qty": 33,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2080TT",
+  "name": "Jookah Twa Face Phunnel L - Yellow",
+  "qty": 11,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2085TT",
+  "name": "Jookah Twa Face Phunnel M - Khaki",
+  "qty": 77,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2089TT",
+  "name": "Jookah Twa Face Phunnel M - Lemon",
+  "qty": 46,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2084TT",
+  "name": "Jookah Twa Face Phunnel M - Lime",
+  "qty": 82,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2082TT",
+  "name": "Jookah Twa Face Phunnel M - Limited Black",
+  "qty": 20,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2081TT",
+  "name": "Jookah Twa Face Phunnel M - Limited White",
+  "qty": 15,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2086TT",
+  "name": "Jookah Twa Face Phunnel M - Purple",
+  "qty": 37,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2083TT",
+  "name": "Jookah Twa Face Phunnel M - Turquoise",
+  "qty": 51,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2088TT",
+  "name": "Jookah Twa Face Phunnel M - Yellow",
+  "qty": 61,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1780TT",
+  "name": "KS Appo Monster Platin",
+  "qty": 27,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1770TT",
+  "name": "KS Appo Rauchkopf Death Edition Blue",
+  "qty": 76,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1771TT",
+  "name": "KS Appo Rauchkopf Death Edition Red",
+  "qty": 86,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1769TT",
+  "name": "KS Appo Rauchkopf Death Edition White",
+  "qty": 24,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1774TT",
+  "name": "KS Appo Rauchkopf Ice Edition Black",
+  "qty": 103,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1775TT",
+  "name": "KS Appo Rauchkopf Ice Edition Brown",
+  "qty": 151,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1772TT",
+  "name": "KS Appo Rauchkopf Ice Edition Orange",
+  "qty": 65,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1773TT",
+  "name": "KS Appo Rauchkopf Ice Edition Red",
+  "qty": 68,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1768TT",
+  "name": "KS Appo Rauchkopf Yellow",
+  "qty": 4,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1776TT",
+  "name": "KS Appo Tornado - Black",
+  "qty": 32,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1778TT",
+  "name": "KS Appo Tornado - Blue",
+  "qty": 116,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1777TT",
+  "name": "KS Appo Tornado - Red",
+  "qty": 96,
+  "group": "b_bowls",
+  "type_en": "Hookah bowl",
+  "type_ar": "رأس شيشة",
+  "img": "img/t_bowl.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1705TT",
+  "name": "Moon X Zomo Phunnel Orange Dot",
+  "qty": 14,
+  "group": "b_bowls",
+  "type_en": "Phunnel bowl",
+  "type_ar": "رأس شيشة Phunnel",
+  "img": "img/t_phunnel.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "2885TT",
+  "name": "Octopuz Ersatz Bowl für Nautiluz (4 Anschlüsse) ERSATZGLAS - Rot Lüster",
+  "qty": 2,
+  "group": "f_parts",
+  "type_en": "Replacement glass base",
+  "type_ar": "قاعدة زجاج بديلة",
+  "img": "img/t_glass.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1370TT",
+  "name": "Smokah - 18/8 Schliff Adapter Glas Clear",
+  "qty": 19,
+  "group": "d_hose",
+  "type_en": "Glass joint adapter 18/8",
+  "type_ar": "وصلة زجاج 18/8",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1371TT",
+  "name": "Smokah - 18/8 Schliff Adapter Rainbow",
+  "qty": 45,
+  "group": "d_hose",
+  "type_en": "Glass joint adapter 18/8",
+  "type_ar": "وصلة زجاج 18/8",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1662TT",
+  "name": "Steinkopf Sieb Ks Kopf",
+  "qty": 6133,
+  "group": "f_parts",
+  "type_en": "Bowl screen",
+  "type_ar": "مصفاة رأس",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2094TT",
+  "name": "Xschischa X-Pulver 50g",
+  "qty": 21,
+  "group": "e_tools",
+  "type_en": "Shisha powder 50 g",
+  "type_ar": "بودرة شيشة 50 غ",
+  "img": null,
+  "photo": null
+ }
+]
