@@ -20,7 +20,7 @@
   "f_control": {"en": "Lighting control – Casambi / DALI", "ar": "التحكم بالإضاءة – Casambi / DALI", "short": "Control"}
  },
  "group_order": ["b_industrial", "g_indoor", "a_flood", "e_lamps", "c_linear", "d_drivers", "f_control"],
- "other_group": "g_indoor",
+ "other_group": "autres",
  "keep_order": true,
  "location": {"en": "Austria", "ar": "النمسا"},
  "unit": ["pcs", "قطعة"],
