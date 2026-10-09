@@ -1,0 +1,45 @@
+{
+ "slug": "lighting-at",
+ "page_title": "Professional LED Lighting Stock",
+ "title": {
+  "en": "Professional LED lighting stock – new goods",
+  "ar": "مخزون إضاءة LED احترافية — بضاعة جديدة"
+ },
+ "subtitle": {
+  "en": "Complete warehouse stock of a professional lighting wholesaler: LED floodlights and high-bay luminaires (Tec-Mar, Duralamp, VARION), moisture-proof, office and indoor luminaires, LED strips and aluminium profiles (Duralamp, BILTON, Nordic Aluminium), LED drivers (Mean Well, Tridonic, TCI), lamps (Osram, Philips, LEDVANCE, Duralamp) and Casambi / DALI lighting controls. 26,754 new pieces in 1,842 lines, mostly in original single packaging, stored on labelled shelves (about 30–40 euro pallets). Offered as one complete lot.",
+  "ar": "كامل مخزون مستودع لتاجر جملة متخصص في الإضاءة الاحترافية: كشافات LED خارجية وكشافات قاعات صناعية (Tec-Mar وDuralamp وVARION)، مصابيح مقاومة للرطوبة ومصابيح مكاتب وإضاءة داخلية، أشرطة LED وبروفيلات ألمنيوم (Duralamp وBILTON وNordic Aluminium)، مشغّلات LED (Mean Well وTridonic وTCI)، لمبات (Osram وPhilips وLEDVANCE وDuralamp)، وأنظمة تحكم بالإضاءة Casambi / DALI. ‏26,754 قطعة جديدة في 1,842 صنفاً، أغلبها في عبوتها الفردية الأصلية، ومرتبة على رفوف معلَّمة (نحو 30–40 طبلية أوروبية). يُعرض كدفعة واحدة كاملة."
+ },
+ "groups_word": ["Groups", "المجموعة"],
+ "groups": {
+  "b_industrial": {"en": "LED industrial & high-bay lighting", "ar": "إضاءة LED صناعية وكشافات القاعات", "short": "Industrial"},
+  "g_indoor": {"en": "Indoor luminaires, downlights & panels", "ar": "مصابيح داخلية وسبوتات وألواح LED", "short": "Indoor"},
+  "a_flood": {"en": "Brand floodlights & series luminaires", "ar": "كشافات ومصابيح من ماركات معروفة", "short": "Floodlights"},
+  "e_lamps": {"en": "Lamps – LED, fluorescent, halogen, HID", "ar": "اللمبات – LED وفلورسنت وهالوجين وتفريغ عالي الشدة", "short": "Lamps"},
+  "c_linear": {"en": "Linear lighting – LED strips & aluminium profiles", "ar": "الإضاءة الخطية – أشرطة LED وبروفيلات ألمنيوم", "short": "Linear"},
+  "d_drivers": {"en": "LED drivers, ballasts & electrical installation", "ar": "مشغّلات LED وكوابح ومواد تمديدات كهربائية", "short": "Drivers"},
+  "f_control": {"en": "Lighting control – Casambi / DALI", "ar": "التحكم بالإضاءة – Casambi / DALI", "short": "Control"}
+ },
+ "group_order": ["b_industrial", "g_indoor", "a_flood", "e_lamps", "c_linear", "d_drivers", "f_control"],
+ "other_group": "g_indoor",
+ "keep_order": true,
+ "location": {"en": "Austria", "ar": "النمسا"},
+ "unit": ["pcs", "قطعة"],
+ "qty_label": ["Pieces", "قطعة"],
+ "qty_exact": true,
+ "kpis": [
+  {"en": "Brands", "ar": "الماركات", "value": "50+"},
+  {"en": "Pallets", "ar": "طبليات", "value": "≈ 30–40"}
+ ],
+ "note": {
+  "en": "Product names, codes and quantities as recorded in the stock inventory; the actual stock may differ. Photos marked as product photos are manufacturer pictures of the same model; the others are representative pictures of the product type. New goods, mostly in original packaging; display samples are marked. Sold as one complete lot, as seen. Subject to prior sale.",
+  "ar": "أسماء الأصناف ورموزها وكمياتها كما وردت في جرد المخزون، وقد يختلف المخزون الفعلي. الصور المعلَّمة كصور منتج هي صور الشركة المصنِّعة لنفس الموديل، والبقية صور توضيحية لنوع المنتج. البضاعة جديدة وأغلبها في عبوتها الأصلية، وعيّنات العرض معلَّمة. تُباع كدفعة واحدة كاملة كما هي. البضاعة متاحة حتى نفادها."
+ },
+ "shipping": {
+  "volume_m3": [40, 60],
+  "weight_t": [5, 9],
+  "note": {
+   "en": "Estimate from the stock data and warehouse photos: about 30–40 euro pallets (120 × 80 cm), mostly boxed small goods on shelves; no packing list yet. Final figures after loading.",
+   "ar": "تقدير مبني على بيانات المخزون وصور المستودع: نحو 30–40 طبلية أوروبية (120 × 80 سم)، أغلبها بضائع صغيرة معبّأة في كراتين على الرفوف؛ لا توجد قائمة تعبئة بعد. الأرقام النهائية بعد التحميل."
+  }
+ }
+}
