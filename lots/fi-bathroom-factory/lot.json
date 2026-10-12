@@ -1,0 +1,279 @@
+{
+ "slug": "fi-bathroom-factory",
+ "page_title": "Bathroom Furniture Factory Stock",
+ "title": {
+  "en": "Bathroom furniture factory – complete remaining stock",
+  "ar": "مصنع أثاث حمّامات – كامل المخزون المتبقي"
+ },
+ "subtitle": {
+  "en": "Remaining stock of a Nordic bathroom-furniture and washbasin factory: about 5,502 enamelled steel washbasins (countertop, inset, bowl and utility sinks), vanity units, mirror cabinets and LED mirrors, tall, wall and base cabinets, and the complete parts store – doors and fronts, carcass panels, drawer systems, mirror glass, glass shelves, boards, edge banding, lighting, hinges, handles, runners and fixings. 5,343 lines, as recorded in the warehouse inventory.",
+  "ar": "المخزون المتبقي لمصنع أثاث حمّامات ومغاسل في شمال أوروبا: نحو 5,502 مغسلة من الفولاذ المطلي بالمينا (مغاسل سطح، ومدمجة، ووعاء، وأحواض غسالات)، ووحدات مغاسل، وخزائن مرايا ومرايا LED، وخزائن طويلة وحائطية وسفلية، إضافة إلى مستودع القطع كاملاً: أبواب وواجهات، وألواح هياكل، وأنظمة أدراج، وزجاج مرايا، ورفوف زجاجية، وألواح خام، وأشرطة حواف، وإضاءة، ومفصّلات، ومقابض، وسكك، ومثبتات. 5,343 صنفاً كما وردت في جرد المستودع."
+ },
+ "groups_word": [
+  "Categories",
+  "الفئة"
+ ],
+ "groups": {
+  "sinks": {
+   "en": "★ Enamelled steel washbasins & sinks",
+   "ar": "★ مغاسل وأحواض من الفولاذ المطلي بالمينا",
+   "short": "★ Washbasins"
+  },
+  "vanity": {
+   "en": "★ Vanity units",
+   "ar": "★ وحدات المغاسل",
+   "short": "★ Vanity units"
+  },
+  "mirrors": {
+   "en": "★ Mirror cabinets, LED mirrors & mirrors",
+   "ar": "★ خزائن المرايا ومرايا LED والمرايا",
+   "short": "★ Mirror cabinets"
+  },
+  "cabinets": {
+   "en": "★ Bathroom & utility cabinets (complete)",
+   "ar": "★ خزائن الحمّام وغرف الغسيل (جاهزة)",
+   "short": "★ Cabinets"
+  },
+  "access": {
+   "en": "Accessories, baskets, taps & drain parts",
+   "ar": "إكسسوارات وسلال وخلاطات وقطع مصارف",
+   "short": "Accessories",
+   "img": [
+    "img/p_basket.jpg",
+    "img/p_ov_trap_4.jpg"
+   ]
+  },
+  "lighting": {
+   "en": "Lighting & electrical",
+   "ar": "الإضاءة والكهرباء",
+   "short": "Lighting"
+  },
+  "hardware": {
+   "en": "Hardware – hinges, handles, runners, brackets & fixings",
+   "ar": "عُدد – مفصّلات ومقابض وسكك ودعامات ومثبتات",
+   "short": "Hardware",
+   "img": [
+    "img/p_handle_mc.jpg",
+    "img/p_ov_runner_0.jpg"
+   ]
+  },
+  "fronts": {
+   "en": "Furniture parts – doors & fronts",
+   "ar": "قطع أثاث – أبواب وواجهات",
+   "short": "Doors & fronts",
+   "img": [
+    "img/p_v_mondo.jpg"
+   ]
+  },
+  "carcass": {
+   "en": "Furniture parts – carcass panels & shelves",
+   "ar": "قطع أثاث – ألواح الهياكل والرفوف",
+   "short": "Carcass panels",
+   "img": [
+    "img/p_clean.jpg"
+   ]
+  },
+  "mirparts": {
+   "en": "Mirror-cabinet parts & mirror glass",
+   "ar": "قطع خزائن المرايا وزجاج المرايا",
+   "short": "Mirror parts",
+   "img": [
+    "img/p_m_highlight.jpg"
+   ]
+  },
+  "drawers": {
+   "en": "Drawer & box parts",
+   "ar": "قطع الأدراج والصناديق",
+   "short": "Drawer parts",
+   "img": [
+    "img/p_drawer_open.jpg",
+    "img/p_onni_div.jpg"
+   ]
+  },
+  "boards": {
+   "en": "Boards, worktops, mirror sheets & glass shelves",
+   "ar": "ألواح خام وأسطح عمل وألواح مرايا ورفوف زجاج",
+   "short": "Boards & glass"
+  },
+  "edge": {
+   "en": "Edge banding (by the metre)",
+   "ar": "أشرطة الحواف (بالمتر)",
+   "short": "Edge banding"
+  },
+  "extra": {
+   "en": "Additional stock at other sites in Finland (approx.)",
+   "ar": "مخزون إضافي في مواقع أخرى بفنلندا (تقريبي)",
+   "short": "Other sites"
+  },
+  "other": {
+   "en": "Packaging, printed matter, samples & workshop supplies",
+   "ar": "تغليف ومطبوعات وعيّنات ومستلزمات ورشة",
+   "short": "Other"
+  }
+ },
+ "group_order": [
+  "sinks",
+  "vanity",
+  "mirrors",
+  "cabinets",
+  "access",
+  "lighting",
+  "hardware",
+  "fronts",
+  "carcass",
+  "mirparts",
+  "drawers",
+  "boards",
+  "edge",
+  "extra",
+  "other"
+ ],
+ "other_group": "other",
+ "keep_order": true,
+ "statuses": {
+  "a": {
+   "en": "1st quality",
+   "ar": "درجة أولى",
+   "cls": "ok",
+   "desc_en": "Regular warehouse stock",
+   "desc_ar": "مخزون مستودع عادي"
+  },
+  "b": {
+   "en": "2nd quality (B-goods)",
+   "ar": "درجة ثانية (B)",
+   "cls": "mod",
+   "desc_en": "Booked as 2nd quality in the inventory – cosmetic defects possible",
+   "desc_ar": "مسجّلة درجة ثانية في الجرد – عيوب شكلية محتملة"
+  },
+  "q": {
+   "en": "Quarantine stock",
+   "ar": "مخزون محجوز للفحص",
+   "cls": "part",
+   "desc_en": "Booked in a separate quarantine location – condition to be checked",
+   "desc_ar": "مسجّل في موقع حجز منفصل – الحالة تُفحص"
+  },
+  "x": {
+   "en": "At other sites (approx.)",
+   "ar": "في مواقع أخرى (تقريبي)",
+   "cls": "add",
+   "desc_en": "Not in the inventory lists; approximate quantities at partner sites in Finland",
+   "desc_ar": "غير مدرج في قوائم الجرد؛ كميات تقريبية لدى مواقع شريكة في فنلندا"
+  }
+ },
+ "status_title": {
+  "en": "By quality / stock status",
+  "ar": "حسب الجودة / حالة المخزون"
+ },
+ "sets": {
+  "title": {
+   "en": "At a glance",
+   "ar": "نظرة سريعة"
+  },
+  "nav": {
+   "en": "At a glance",
+   "ar": "نظرة سريعة"
+  },
+  "intro": {
+   "en": "What the stock consists of – finished goods first, then parts and supplies.",
+   "ar": "مكوّنات المخزون – المنتجات الجاهزة أولاً، ثم القطع والمستلزمات."
+  },
+  "rows": [
+   {
+    "en": "Enamelled steel washbasins – finished",
+    "ar": "مغاسل فولاذ مطلي بالمينا – جاهزة",
+    "qty": "5,502 pcs",
+    "detail": {
+     "en": "Countertop 4,993 · inset 282 · bowl 170 · utility 40",
+     "ar": "سطح 4,993 · مدمجة 282 · وعاء 170 · أحواض غسالات 40"
+    }
+   },
+   {
+    "en": "Vanity units & bathroom cabinets – complete",
+    "ar": "وحدات مغاسل وخزائن حمّام – جاهزة",
+    "qty": "218 pcs",
+    "detail": {
+     "en": "Vanity units, tall, wall and base cabinets (see the two ★ furniture categories)",
+     "ar": "وحدات مغاسل وخزائن طويلة وحائطية وسفلية (انظر فئتي الأثاث ★)"
+    }
+   },
+   {
+    "en": "Mirror cabinets, LED mirrors & mirrors",
+    "ar": "خزائن مرايا ومرايا LED ومرايا",
+    "qty": "641 pcs",
+    "detail": {
+     "en": "Mirror cabinets 156 · LED mirrors 192 · wall mirrors 293",
+     "ar": "خزائن مرايا 156 · مرايا LED 192 · مرايا حائط 293"
+    }
+   },
+   {
+    "en": "Furniture parts store",
+    "ar": "مستودع قطع الأثاث",
+    "qty": "27,650 pcs",
+    "detail": {
+     "en": "Doors & fronts, carcass panels, mirror-cabinet parts and mirror glass, drawer parts – enough to assemble further cabinets",
+     "ar": "أبواب وواجهات، وألواح هياكل، وقطع خزائن مرايا وزجاج مرايا، وقطع أدراج – تكفي لتجميع خزائن إضافية"
+    }
+   },
+   {
+    "en": "Hardware & fixings",
+    "ar": "عُدد ومثبتات",
+    "qty": "528,599 pcs",
+    "detail": {
+     "en": "Hinges, handles, drawer runners, brackets, legs; incl. about 268,466 wooden dowels",
+     "ar": "مفصّلات ومقابض وسكك أدراج ودعامات وأرجل؛ منها نحو 268,466 وتد خشبي"
+    }
+   },
+   {
+    "en": "At other sites in Finland (approx.)",
+    "ar": "في مواقع أخرى بفنلندا (تقريبي)",
+    "qty": "≈ 1,000 pcs + ≈ 12 t",
+    "detail": {
+     "en": "Raw washbasin bodies before enamelling, steel sheet, 10–20 deep-drawing press tools",
+     "ar": "أجسام مغاسل خام قبل التطلية، وصفائح فولاذ، ومن 10 إلى 20 قالب سحب عميق"
+    }
+   }
+  ],
+  "note": {
+   "en": "Colour codes used in the item names: MW matt white · M01 white · GA1 gloss white · MG matt greige · E2 light oak · RS2 brown ash · MP2 black wood · E01 white enamel (basins) · Polaris 2902/2904/2905/2909/2910 black/white/brown/graphite/greige · Velvet 421/478 black/greige.",
+   "ar": "رموز الألوان في أسماء الأصناف: MW أبيض مطفأ · M01 أبيض · GA1 أبيض لامع · MG رمادي بيج مطفأ · E2 بلوط فاتح · RS2 دردار بني · MP2 خشب أسود · E01 مينا بيضاء (للمغاسل) · Polaris 2902/2904/2905/2909/2910 أسود/أبيض/بني/غرافيتي/رمادي بيج · Velvet 421/478 أسود/رمادي بيج."
+  }
+ },
+ "kpis": [
+  {
+   "en": "Finished washbasins",
+   "ar": "مغاسل جاهزة",
+   "value": "5,502"
+  }
+ ],
+ "location": {
+  "en": "Finland",
+  "ar": "فنلندا"
+ },
+ "note": {
+  "en": "Item names, codes and quantities as recorded in the warehouse inventory (names machine-translated from Finnish); the actual stock may differ. Product photos are catalogue pictures of the same models (colour and size may differ); representative photos show the product type only. Parts groups are listed as tables. Colour codes used in the item names: MW matt white · M01 white · GA1 gloss white · MG matt greige · E2 light oak · RS2 brown ash · MP2 black wood · E01 white enamel (basins) · Polaris 2902/2904/2905/2909/2910 black/white/brown/graphite/greige · Velvet 421/478 black/greige.",
+  "ar": "أسماء الأصناف ورموزها وكمياتها كما وردت في جرد المستودع (الأسماء مترجمة آلياً من الفنلندية)، وقد يختلف المخزون الفعلي. صور المنتجات من كتالوج نفس الموديلات (قد يختلف اللون والمقاس)، والصور التوضيحية تبيّن نوع المنتج فقط. فئات القطع معروضة في جداول. رموز الألوان في أسماء الأصناف: MW أبيض مطفأ · M01 أبيض · GA1 أبيض لامع · MG رمادي بيج مطفأ · E2 بلوط فاتح · RS2 دردار بني · MP2 خشب أسود · E01 مينا بيضاء (للمغاسل) · Polaris 2902/2904/2905/2909/2910 أسود/أبيض/بني/غرافيتي/رمادي بيج · Velvet 421/478 أسود/رمادي بيج."
+ },
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
+ "shipping": {
+  "volume_m3": [
+   600.0,
+   980.0
+  ],
+  "weight_t": [
+   157,
+   245
+  ],
+  "note": {
+   "en": "Estimate from the item dimensions in the inventory (boxed basins, flat-packed furniture, panels ≈ 720 kg/m³, hardware in cartons). Not included: the stock at other sites (≈ 1,000 raw basins, ≈ 12 t steel sheet, 10–20 press tools). Final loading plan confirmed after viewing.",
+   "ar": "تقدير من أبعاد الأصناف في الجرد (مغاسل في كراتين، أثاث مفكك، ألواح ≈ 720 كغ/م³، عُدد في كراتين). غير مشمول: المخزون في المواقع الأخرى (≈ 1,000 مغسلة خام، ≈ 12 طن صفائح فولاذ، 10–20 قالب كبس). يُؤكَّد مخطط التحميل النهائي بعد المعاينة."
+  }
+ },
+ "credits": "Representative photos: drawer slide – oskay (CC BY 2.0); sink trap – Lord Rex (CC BY 2.0), via Flickr. Other photos: manufacturer catalogue."
+}

@@ -101,7 +101,7 @@ def build(lot_dir, out_dir=None, private=False):
     groups = collections.defaultdict(list)
     for it in items:
         groups[it.get('group') or other].append(it)
-    order = sorted(groups, key=lambda k: (k == other, -sum(x['qty'] for x in groups[k])))
+    order = sorted(groups, key=lambda k: (k == other, -sum(0 if x.get('unit') else x['qty'] for x in groups[k])))
     if lot.get('group_order'):  # optional explicit order (e.g. most valuable groups first)
         pref = lot['group_order']
         order = sorted(order, key=lambda k: (k == other, pref.index(k) if k in pref else len(pref)))
@@ -174,8 +174,24 @@ def build(lot_dir, out_dir=None, private=False):
     pth = t('Price (EUR)', 'السعر (يورو)', tag='th') if private else ''
 
     unit_en, unit_ar = lot.get('unit', ['pcs', 'قطعة'])
-    total_qty = sum(it['qty'] for it in items)
-    nav = ''.join(f'<a href="#c-{k}">{E(short(k))} <span>{sum(x["qty"] for x in groups[k])}</span></a>' for k in order)
+
+    # Optional per-line measure unit (items[].unit = [en, ar], e.g. ["m", "م"] for edge banding by the metre):
+    # such lines show their own unit and are kept out of the piece totals, which list them separately instead.
+    def pq(x):
+        return 0 if x.get('unit') else x['qty']
+
+    def fq(q):
+        return f'{q:,.0f}' if float(q).is_integer() else f'{q:,.1f}'
+
+    def mtxt(lst):
+        d = collections.OrderedDict()
+        for x in lst:
+            if x.get('unit'):
+                d[tuple(x['unit'])] = d.get(tuple(x['unit']), 0) + x['qty']
+        return ''.join(f' · {fq(q)} {t(u[0], u[1])}' for u, q in d.items())
+
+    total_qty = sum(pq(it) for it in items)
+    nav = ''.join(f'<a href="#c-{k}">{E(short(k))} <span>{sum(pq(x) for x in groups[k]):,}</span></a>' for k in order)
 
     # Optional per-item weight (tonnes, number or [lo, hi]) → shown on cards, summary tables and shipping estimate.
     has_w = any(it.get('weight_t') is not None for it in items)
@@ -210,7 +226,7 @@ def build(lot_dir, out_dir=None, private=False):
                 cards += (f'<figure class="card"{st_attr(it)}>{visual}<figcaption>{st_chip(it)}'
                           f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>'
                           f'{note_html(it)}{wline}{pr_html(it)}'
-                          f'<div class="row"><span class="q"><b>{it["qty"]:,}</b> {t(unit_en, unit_ar)}</span>'
+                          f'<div class="row"><span class="q"><b>{fq(it["qty"])}</b> {t(*it.get("unit", [unit_en, unit_ar]))}</span>'
                           f'<span class="ref">Ref {E(ref)}</span></div></figcaption></figure>')
             else:
                 nrows += 1
@@ -220,10 +236,18 @@ def build(lot_dir, out_dir=None, private=False):
                 ncell = (f'<td><span dir="ltr">{E(it["name"])}</span>{note_html(it)}</td>' if it.get('note')
                          else f'<td dir="ltr">{E(it["name"])}</td>')
                 rows += (f'<tr{st_attr(it)}><td>Ref {E(ref)}</td>{ncell}'
-                         f'<td>{t(ten, tar)}</td>{scell}<td>{it["qty"]:,}</td>{wcell}{pcell(it)}</tr>')
+                         f'<td>{t(ten, tar)}</td>{scell}<td>{fq(it["qty"])}'
+                         f'{" " + t(*it["unit"]) if it.get("unit") else ""}</td>{wcell}{pcell(it)}</tr>')
         en, ar = label(k)
-        sec += (f'<section id="c-{k}"><h2>{t(en, ar)} <small>{len(L)} {t("items", "صنف")} · '
-                f'{sum(x["qty"] for x in L):,} {t(unit_en, unit_ar)}</small></h2>')
+        pcs = sum(pq(x) for x in L)
+        sec += (f'<section id="c-{k}"><h2>{t(en, ar)} <small>{len(L):,} {t("items", "صنف")}'
+                f'{f" · {pcs:,} " + t(unit_en, unit_ar) if pcs or not mtxt(L) else ""}{mtxt(L)}</small></h2>')
+        gimg = labels.get(k, {}).get('img') or []  # optional representative photos for a group shown as a table
+        if gimg:
+            figs = ''.join(f'<figure><img loading="lazy" src="{photo({"img": p})}" alt="">'
+                           f'{t("Representative photo", "صورة توضيحية", cls="tag rep")}</figure>'
+                           for p in gimg if photo({'img': p}))
+            sec += f'<div class="gimg">{figs}</div>'
         if cards:
             sec += f'<div class="grid">{cards}</div>'
         if rows:
@@ -248,11 +272,18 @@ def build(lot_dir, out_dir=None, private=False):
         w = wsum(lst)
         return f'<td>{_fmt_t(*w) if w else "–"}</td>'
 
-    type_rows = ''.join(f'<tr><td>{t(en, ar)}</td><td>{len(L):,}</td><td>{sum(x["qty"] for x in L):,}</td>'
-                        f'<td>{sum(x["qty"] for x in L) * 100 / total_qty:.1f}%</td>{wcol(L)}{pcol(L)}</tr>'
-                        for (en, ar), L in sorted(by_type.items(), key=lambda x: -sum(i['qty'] for i in x[1])))
+    def qcells(L):
+        """Quantity + share cells: pieces, or the measured total for lines kept in their own unit (m, m², L…)."""
+        q, m = sum(pq(x) for x in L), mtxt(L)[3:]
+        if q or not m:
+            return f'<td>{q:,}{f"<div class=nt>+ {m}</div>" if m else ""}</td><td>{q * 100 / total_qty:.1f}%</td>'
+        return f'<td>{m}</td><td>–</td>'
+
+    type_rows = ''.join(f'<tr><td>{t(en, ar)}</td><td>{len(L):,}</td>{qcells(L)}{wcol(L)}{pcol(L)}</tr>'
+                        for (en, ar), L in sorted(by_type.items(), key=lambda x: -sum(pq(i) for i in x[1])))
     total_row = (f'<tr class="tot"><td>{t("Total", "المجموع")}</td><td>{len(items):,}</td>'
-                 f'<td>{total_qty:,}</td><td>100%</td>{wcol(items)}{pcol(items)}</tr>')
+                 f'<td>{total_qty:,}{f"<div class=nt>+ {mtxt(items)[3:]}</div>" if mtxt(items) else ""}</td>'
+                 f'<td>100%</td>{wcol(items)}{pcol(items)}</tr>')
     head = (f'<thead><tr>{t("{0}", "{1}", tag="th")}{t("Items", "الأصناف", tag="th")}'
             f'{t(f"Quantity ({unit_en})", f"الكمية ({unit_ar})", tag="th")}{t("Share", "النسبة", tag="th")}'
             f'{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}{pth}</tr></thead>')
@@ -263,10 +294,9 @@ def build(lot_dir, out_dir=None, private=False):
             L = [x for x in items if x.get('status') == key]
             if not L:
                 continue
-            q = sum(x['qty'] for x in L)
             desc = t(s['desc_en'], s['desc_ar'], tag='div', cls='nt') if s.get('desc_en') else ''
-            st_rows += (f'<tr><td>{st_chip({"status": key})}{desc}</td><td>{len(L):,}</td><td>{q:,}</td>'
-                        f'<td>{q * 100 / total_qty:.1f}%</td>{wcol(L)}{pcol(L)}</tr>')
+            st_rows += (f'<tr><td>{st_chip({"status": key})}{desc}</td><td>{len(L):,}</td>{qcells(L)}'
+                        f'{wcol(L)}{pcol(L)}</tr>')
         stt = lot.get('status_title', {'en': 'By completeness', 'ar': 'حسب اكتمال القطعة'})
         summary += (f'<h3>{t(stt["en"], stt["ar"])}</h3><div class="sum">'
                     f'<table>{head.replace("{0}", "Status").replace("{1}", "الحالة")}<tbody>{st_rows}{total_row}</tbody></table></div>')
@@ -276,10 +306,9 @@ def build(lot_dir, out_dir=None, private=False):
         grp_word = lot.get('groups_word', ['Group', 'المجموعة'])
         grp_rows = ''
         for k in order:
-            q = sum(x['qty'] for x in groups[k])
             en, ar = label(k)
             grp_rows += (f'<tr><td><a href="#c-{k}">{t(en, ar)}</a></td><td>{len(groups[k]):,}</td>'
-                         f'<td>{q:,}</td><td>{q * 100 / total_qty:.1f}%</td>{wcol(groups[k])}{pcol(groups[k])}</tr>')
+                         f'{qcells(groups[k])}{wcol(groups[k])}{pcol(groups[k])}</tr>')
         summary += (f'<h3>{t("By " + grp_word[0].lower().rstrip("s"), "حسب " + grp_word[1])}</h3><div class="sum">'
                     f'<table>{head.replace("{0}", grp_word[0].rstrip("s")).replace("{1}", grp_word[1])}'
                     f'<tbody>{grp_rows}{total_row}</tbody></table></div>')
@@ -303,7 +332,7 @@ def build(lot_dir, out_dir=None, private=False):
         nav = f'<a href="#sets">{t(sets.get("nav", {}).get("en", "Read first"), sets.get("nav", {}).get("ar", "اقرأ أولاً"))}</a>' + nav
     if statuses:
         btns = ''.join(f'<button data-f="{E(k)}">{t(s["en"], s["ar"])} <span>'
-                       f'{sum(x["qty"] for x in items if x.get("status") == k):,}</span></button>'
+                       f'{sum(pq(x) for x in items if x.get("status") == k):,}</span></button>'
                        for k, s in statuses.items() if any(x.get('status') == k for x in items))
         top += (f'<div class="flt" id="flt">{t("Show:", "عرض:", cls="lbl")}<button data-f="" class="on">'
                 f'{t("All", "الكل")}</button>{btns}</div>')

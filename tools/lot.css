@@ -63,3 +63,6 @@ td .st{margin:0}
 .flt button span{color:var(--mut)}
 .flt button.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}.flt button.on span{color:inherit;opacity:.75}
 .hid{display:none!important}
+.gimg{display:flex;gap:10px;overflow-x:auto;margin:4px 0 10px}
+.gimg figure{margin:0;position:relative;flex:0 0 auto;width:180px;background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.gimg img{width:100%;aspect-ratio:4/3;object-fit:contain;display:block}

@@ -50,6 +50,14 @@ Reference result: `minet/` (Meubles Minet furniture, 2026-10-01).
 6. **Publish:** `git add -A && git commit -m "lot: <slug>" && git push` → GitHub Pages rebuilds in ~1 min.
    Hand the founder the link `https://hadri6.github.io/auctum-lots/<slug>/` (tell them `?v=2` busts phone caches).
 
+## Large factory inventories (2026-10-12, reference `fi-bathroom-factory/`, 5,343 lines)
+- Lines measured in metres, m², litres, kg or part-sheets: set `items[].unit` = `["m", "م"]` (etc.). They show their own
+  unit and stay out of the piece totals; section headers and summary tables list them as "+ 52,285 m · 4,309 m²".
+- Groups shown only as tables (parts, hardware) can carry representative photos: `lot.json` →
+  `groups[k].img = ["img/p_x.jpg", …]` renders a photo strip under the group heading.
+- `keep_order: true` + items.json pre-sorted group → type → quantity keeps each category readable type by type.
+- Source scripts: `auctum-lots-src/fi-sinks/` (parse.py → classify.py → make_items.py → lot_meta.py).
+
 ## Completeness status (founder, 2026-10-04)
 Traders read a line like "LIT …" or a bed photo as a whole product. Whenever a manifest mixes complete goods with frames,
 stand-alone parts or incomplete pieces, mark every line:
