@@ -70,3 +70,11 @@ stand-alone parts or incomplete pieces, mark every line:
   of the page: what is complete and what can be assembled from this lot alone.
 Verify against the maker's own catalogue (Wayback Machine of the maker's site) before deciding what a line contains.
 Reference: `minet/` (source script `auctum-lots-src/minet/build_items.py` + `lot_meta.py`).
+
+## Private priced version (founder asks for prices, 2026-10-12, reference `auctum-lots-src/business-it-fr/`)
+- Prices never go on Pages. Keep the whole lot dir (items with `price`) outside the repo, e.g. `auctum-lots-src/<slug>/lot/`,
+  and build with `python tools/build_lot.py <lot_dir> --private <Downloads/...>`.
+- `items[].unit_price` (EUR) shows "Unit price" + "Line total" on cards and as two table columns; `price` stays the line total.
+- `lot.json` → `rows_title {en, ar}` (with `{n}`) renames the "More items without photo" table, e.g. for small lines.
+- Send the customer the PDF (Chrome `--headless=new --print-to-pdf`) and/or an xlsx price list; keep a private ref map
+  (our ref → supplier lines) next to the source scripts for ordering.

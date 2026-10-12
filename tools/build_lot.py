@@ -152,9 +152,15 @@ def build(lot_dir, out_dir=None, private=False):
     def psum(lst):
         return sum(x.get('price') or 0 for x in lst)
 
+    # Optional items[].unit_price (private mode): shown next to the line total on cards and as its own table column.
+    has_up = private and any(it.get('unit_price') is not None for it in items)
+
     def pr_html(it):
         if not private:
             return ''
+        if it.get('unit_price') is not None:
+            return (f'<div class="pr">{t("Unit price", "سعر القطعة")} <b>{money(it["unit_price"])}</b>'
+                    f'<div class="nt">{t("Line total", "مجموع البند")} {money(it.get("price") or 0)}</div></div>')
         if it.get('price') is not None:
             return f'<div class="pr">{t("Price", "السعر")} <b>{money(it["price"])}</b></div>'
         pl = it.get('price_label')
@@ -163,15 +169,20 @@ def build(lot_dir, out_dir=None, private=False):
     def pcell(it):
         if not private:
             return ''
+        up = (f'<td class="num">{money(it["unit_price"]) if it.get("unit_price") is not None else "–"}</td>'
+              if has_up else '')
         if it.get('price') is not None:
-            return f'<td class="num">{money(it["price"])}</td>'
+            return f'{up}<td class="num">{money(it["price"])}</td>'
         pl = it.get('price_label')
-        return f'<td>{t(pl["en"], pl["ar"]) if pl else "–"}</td>'
+        return f'{up}<td>{t(pl["en"], pl["ar"]) if pl else "–"}</td>'
 
     def pcol(lst):
         return f'<td class="num">{money(psum(lst))}</td>' if private else ''
 
     pth = t('Price (EUR)', 'السعر (يورو)', tag='th') if private else ''
+    pth_rows = (t('Unit price (EUR)', 'سعر القطعة (يورو)', tag='th') + t('Line total (EUR)', 'مجموع البند (يورو)', tag='th')
+                if has_up else pth)
+    rows_title = lot.get('rows_title', {'en': 'More items without photo ({n})', 'ar': 'أصناف أخرى بدون صورة ({n})'})
 
     unit_en, unit_ar = lot.get('unit', ['pcs', 'قطعة'])
 
@@ -252,9 +263,9 @@ def build(lot_dir, out_dir=None, private=False):
             sec += f'<div class="grid">{cards}</div>'
         if rows:
             head = (f'<thead><tr><th>Ref</th>{t("Item", "الصنف", tag="th")}{t("Type", "النوع", tag="th")}'
-                    f'{t("Status", "الحالة", tag="th") if statuses else ""}{t("Qty", "الكمية", tag="th")}{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}{pth}</tr></thead>')
+                    f'{t("Status", "الحالة", tag="th") if statuses else ""}{t("Qty", "الكمية", tag="th")}{t("Est. weight", "الوزن التقديري", tag="th") if has_w else ""}{pth_rows}</tr></thead>')
             if cards:
-                sec += (f'<details{" open" if private else ""}>{t(f"More items without photo ({nrows})", f"أصناف أخرى بدون صورة ({nrows})", tag="summary")}'
+                sec += (f'<details{" open" if private else ""}>{t(rows_title["en"].replace("{n}", f"{nrows:,}"), rows_title["ar"].replace("{n}", f"{nrows:,}"), tag="summary")}'
                         f'<table>{head}<tbody>{rows}</tbody></table></details>')
             else:
                 sec += f'<table>{head}<tbody>{rows}</tbody></table>'
