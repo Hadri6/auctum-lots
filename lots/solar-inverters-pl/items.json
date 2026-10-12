@@ -1,100 +1,5 @@
 [
  {
-  "ref": "183",
-  "name": "Deye SUN-16K-SG01LP1-EU",
-  "qty": 15,
-  "group": "hybrid",
-  "type_en": "Hybrid inverter, 1-phase",
-  "type_ar": "انفرتر هجين أحادي الطور",
-  "status": "complete",
-  "img": "img/p_deye_lp1.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.484,
-   0.655
-  ],
-  "note": {
-   "en": "16 kW · low-voltage (48 V) battery input",
-   "ar": "16 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
-  }
- },
- {
-  "ref": "39",
-  "name": "Inverter Deye SUN-12K-SG02LP1-EU-AM3",
-  "qty": 14,
-  "group": "hybrid",
-  "type_en": "Hybrid inverter, 1-phase",
-  "type_ar": "انفرتر هجين أحادي الطور",
-  "status": "complete",
-  "img": "img/p_deye_lp1.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.452,
-   0.612
-  ],
-  "note": {
-   "en": "Deye · 12 kW · low-voltage (48 V) battery input",
-   "ar": "Deye · 12 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
-  }
- },
- {
-  "ref": "106",
-  "name": "FOXESS H1-4.6-E1",
-  "qty": 14,
-  "group": "hybrid",
-  "type_en": "Hybrid inverter, 1-phase",
-  "type_ar": "انفرتر هجين أحادي الطور",
-  "status": "complete",
-  "img": "img/p_foxess_h1.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.262,
-   0.354
-  ],
-  "note": {
-   "en": "FoxESS · 4.6 kW",
-   "ar": "FoxESS · 4.6 كيلوواط"
-  }
- },
- {
-  "ref": "78",
-  "name": "Inverter Solax X1-Hybrid-5.0-D",
-  "qty": 13,
-  "group": "hybrid",
-  "type_en": "Hybrid inverter, 1-phase",
-  "type_ar": "انفرتر هجين أحادي الطور",
-  "status": "complete",
-  "img": "img/p_solax_x1hyb_d.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.276,
-   0.374
-  ],
-  "note": {
-   "en": "Solax · 5 kW",
-   "ar": "Solax · 5 كيلوواط"
-  }
- },
- {
-  "ref": "46",
-  "name": "Inverter Deye SUN-3.6K-SG04LP1-EU",
-  "qty": 6,
-  "group": "hybrid",
-  "type_en": "Hybrid inverter, 1-phase",
-  "type_ar": "انفرتر هجين أحادي الطور",
-  "status": "complete",
-  "img": "img/p_deye_sg04lp1.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.122,
-   0.166
-  ],
-  "note": {
-   "en": "Deye · 3.6 kW · low-voltage (48 V) battery input",
-   "ar": "Deye · 3.6 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
-  }
- },
- {
   "ref": "35",
   "name": "Inverter Deye SUN-12K-SG01HP3-EU-AM2",
   "qty": 79,
@@ -437,6 +342,101 @@
   }
  },
  {
+  "ref": "183",
+  "name": "Deye SUN-16K-SG01LP1-EU",
+  "qty": 15,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_deye_lp1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.484,
+   0.655
+  ],
+  "note": {
+   "en": "16 kW · low-voltage (48 V) battery input",
+   "ar": "16 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "39",
+  "name": "Inverter Deye SUN-12K-SG02LP1-EU-AM3",
+  "qty": 14,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_deye_lp1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.452,
+   0.612
+  ],
+  "note": {
+   "en": "Deye · 12 kW · low-voltage (48 V) battery input",
+   "ar": "Deye · 12 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "106",
+  "name": "FOXESS H1-4.6-E1",
+  "qty": 14,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_foxess_h1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.262,
+   0.354
+  ],
+  "note": {
+   "en": "FoxESS · 4.6 kW",
+   "ar": "FoxESS · 4.6 كيلوواط"
+  }
+ },
+ {
+  "ref": "78",
+  "name": "Inverter Solax X1-Hybrid-5.0-D",
+  "qty": 13,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x1hyb_d.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.276,
+   0.374
+  ],
+  "note": {
+   "en": "Solax · 5 kW",
+   "ar": "Solax · 5 كيلوواط"
+  }
+ },
+ {
+  "ref": "46",
+  "name": "Inverter Deye SUN-3.6K-SG04LP1-EU",
+  "qty": 6,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_deye_sg04lp1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.122,
+   0.166
+  ],
+  "note": {
+   "en": "Deye · 3.6 kW · low-voltage (48 V) battery input",
+   "ar": "Deye · 3.6 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
   "ref": "66",
   "name": "Inverter Solaredge SE5K-RWS48BEN4",
   "qty": 28,
@@ -472,44 +472,6 @@
   "note": {
    "en": "SolarEdge · 7 kW · works with SolarEdge power optimizers (not included)",
    "ar": "SolarEdge · 7 كيلوواط · يعمل مع محسّنات SolarEdge (غير مشمولة)"
-  }
- },
- {
-  "ref": "44",
-  "name": "Deye GB-S6K-EU",
-  "qty": 27,
-  "group": "ongrid",
-  "type_en": "Deye GB-S unit (model as listed)",
-  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
-  "status": "complete",
-  "img": "img/p_deye_gbs.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.574,
-   0.776
-  ],
-  "note": {
-   "en": "Deye · 6 kW",
-   "ar": "Deye · 6 كيلوواط"
-  }
- },
- {
-  "ref": "52",
-  "name": "Deye GB-S8K-EU",
-  "qty": 4,
-  "group": "ongrid",
-  "type_en": "Deye GB-S unit (model as listed)",
-  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
-  "status": "complete",
-  "img": "img/p_deye_gbs.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.085,
-   0.115
-  ],
-  "note": {
-   "en": "Deye · 8 kW",
-   "ar": "Deye · 8 كيلوواط"
   }
  },
  {
@@ -757,6 +719,44 @@
   "note": {
    "en": "Solax · 6 kW",
    "ar": "Solax · 6 كيلوواط"
+  }
+ },
+ {
+  "ref": "44",
+  "name": "Deye GB-S6K-EU",
+  "qty": 27,
+  "group": "ongrid",
+  "type_en": "Deye GB-S unit (model as listed)",
+  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
+  "status": "complete",
+  "img": "img/p_deye_gbs.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.574,
+   0.776
+  ],
+  "note": {
+   "en": "Deye · 6 kW",
+   "ar": "Deye · 6 كيلوواط"
+  }
+ },
+ {
+  "ref": "52",
+  "name": "Deye GB-S8K-EU",
+  "qty": 4,
+  "group": "ongrid",
+  "type_en": "Deye GB-S unit (model as listed)",
+  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
+  "status": "complete",
+  "img": "img/p_deye_gbs.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.085,
+   0.115
+  ],
+  "note": {
+   "en": "Deye · 8 kW",
+   "ar": "Deye · 8 كيلوواط"
   }
  },
  {
@@ -1121,25 +1121,6 @@
   }
  },
  {
-  "ref": "51",
-  "name": "Deye GB-S20K-EU",
-  "qty": 1,
-  "group": "commercial",
-  "type_en": "Deye GB-S unit (model as listed)",
-  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
-  "status": "complete",
-  "img": "img/p_deye_gbs.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.038,
-   0.052
-  ],
-  "note": {
-   "en": "Deye · 20 kW",
-   "ar": "Deye · 20 كيلوواط"
-  }
- },
- {
   "ref": "80",
   "name": "Inverter Solax X3-FTH-136K",
   "qty": 3,
@@ -1216,6 +1197,25 @@
   }
  },
  {
+  "ref": "51",
+  "name": "Deye GB-S20K-EU",
+  "qty": 1,
+  "group": "commercial",
+  "type_en": "Deye GB-S unit (model as listed)",
+  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
+  "status": "complete",
+  "img": "img/p_deye_gbs.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.038,
+   0.052
+  ],
+  "note": {
+   "en": "Deye · 20 kW",
+   "ar": "Deye · 20 كيلوواط"
+  }
+ },
+ {
   "ref": "68",
   "name": "Solaredge SESUK-RW00INNN4",
   "qty": 1,
@@ -1228,36 +1228,6 @@
   "weight_t": [
    0.034,
    0.046
-  ]
- },
- {
-  "ref": "104",
-  "name": "Mira HV25 battery bracket (pair)",
-  "qty": 431,
-  "group": "batteries",
-  "type_en": "Battery bracket",
-  "type_ar": "حامل بطارية",
-  "status": "component",
-  "img": "img/p_mira_bracket.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.55,
-   0.743
-  ]
- },
- {
-  "ref": "107",
-  "name": "HV2600 battery bracket",
-  "qty": 199,
-  "group": "batteries",
-  "type_en": "Battery bracket",
-  "type_ar": "حامل بطارية",
-  "status": "component",
-  "img": "img/p_mira_bracket.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.254,
-   0.343
   ]
  },
  {
@@ -1381,23 +1351,34 @@
   ]
  },
  {
-  "ref": "166",
-  "name": "Sungrow SBR Battery Module 3,2 kWh (SMR0-V12) - empty module",
-  "qty": 130,
+  "ref": "104",
+  "name": "Mira HV25 battery bracket (pair)",
+  "qty": 431,
   "group": "batteries",
-  "type_en": "Battery module housing (listed as empty)",
-  "type_ar": "هيكل وحدة بطارية (مذكور فارغاً)",
-  "status": "incomplete",
-  "img": "img/p_sungrow_sbr.jpg",
+  "type_en": "Battery bracket",
+  "type_ar": "حامل بطارية",
+  "status": "component",
+  "img": "img/p_mira_bracket.jpg",
   "photo": "rep",
   "weight_t": [
-   1.326,
-   1.794
-  ],
-  "note": {
-   "en": "Sungrow · Listed as “empty module” – contents to be checked at inspection",
-   "ar": "Sungrow · مذكورة «وحدة فارغة» – يُتحقَّق من محتواها عند المعاينة"
-  }
+   0.55,
+   0.743
+  ]
+ },
+ {
+  "ref": "107",
+  "name": "HV2600 battery bracket",
+  "qty": 199,
+  "group": "batteries",
+  "type_en": "Battery bracket",
+  "type_ar": "حامل بطارية",
+  "status": "component",
+  "img": "img/p_mira_bracket.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.254,
+   0.343
+  ]
  },
  {
   "ref": "103",
@@ -1580,37 +1561,22 @@
   ]
  },
  {
-  "ref": "134",
-  "name": "Sungrow ColumnAC011E",
-  "qty": 75,
-  "group": "chargers",
-  "type_en": "Charger mounting (pole / column)",
-  "type_ar": "عمود تثبيت شاحن",
-  "status": "accessory",
-  "img": "img/p_sungrow_column.jpg",
+  "ref": "166",
+  "name": "Sungrow SBR Battery Module 3,2 kWh (SMR0-V12) - empty module",
+  "qty": 130,
+  "group": "batteries",
+  "type_en": "Battery module housing (listed as empty)",
+  "type_ar": "هيكل وحدة بطارية (مذكور فارغاً)",
+  "status": "incomplete",
+  "img": "img/p_sungrow_sbr.jpg",
   "photo": "rep",
   "weight_t": [
-   0.956,
-   1.294
-  ]
- },
- {
-  "ref": "180",
-  "name": "Sungrow Mounting Pole IDC30E",
-  "qty": 7,
-  "group": "chargers",
-  "type_en": "Charger mounting (pole / column)",
-  "type_ar": "عمود تثبيت شاحن",
-  "status": "accessory",
-  "img": "img/p_sungrow_idc30e.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.149,
-   0.201
+   1.326,
+   1.794
   ],
   "note": {
-   "en": "Sungrow · 30 kW DC fast charger for car parks and fleets",
-   "ar": "Sungrow · شاحن سريع DC ‏30 كيلوواط للمواقف والأساطيل"
+   "en": "Sungrow · Listed as “empty module” – contents to be checked at inspection",
+   "ar": "Sungrow · مذكورة «وحدة فارغة» – يُتحقَّق من محتواها عند المعاينة"
   }
  },
  {
@@ -1656,51 +1622,6 @@
   "weight_t": [
    0.143,
    0.193
-  ]
- },
- {
-  "ref": "117",
-  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.4.5m,Type 1,32A",
-  "qty": 10,
-  "group": "chargers",
-  "type_en": "EV charging cable kit",
-  "type_ar": "طقم كابل شحن سيارات",
-  "status": "accessory",
-  "img": "img/p_se_evkit.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.025,
-   0.035
-  ]
- },
- {
-  "ref": "118",
-  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.4.5m,Type 2,32A",
-  "qty": 8,
-  "group": "chargers",
-  "type_en": "EV charging cable kit",
-  "type_ar": "طقم كابل شحن سيارات",
-  "status": "accessory",
-  "img": "img/p_se_evkit.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.02,
-   0.028
-  ]
- },
- {
-  "ref": "114",
-  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.7.6m,Type 1,32A",
-  "qty": 6,
-  "group": "chargers",
-  "type_en": "EV charging cable kit",
-  "type_ar": "طقم كابل شحن سيارات",
-  "status": "accessory",
-  "img": "img/p_se_evkit.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.015,
-   0.021
   ]
  },
  {
@@ -1759,6 +1680,85 @@
    "en": "Sungrow · 30 kW DC fast charger for car parks and fleets",
    "ar": "Sungrow · شاحن سريع DC ‏30 كيلوواط للمواقف والأساطيل"
   }
+ },
+ {
+  "ref": "134",
+  "name": "Sungrow ColumnAC011E",
+  "qty": 75,
+  "group": "chargers",
+  "type_en": "Charger mounting (pole / column)",
+  "type_ar": "عمود تثبيت شاحن",
+  "status": "accessory",
+  "img": "img/p_sungrow_column.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.956,
+   1.294
+  ]
+ },
+ {
+  "ref": "180",
+  "name": "Sungrow Mounting Pole IDC30E",
+  "qty": 7,
+  "group": "chargers",
+  "type_en": "Charger mounting (pole / column)",
+  "type_ar": "عمود تثبيت شاحن",
+  "status": "accessory",
+  "img": "img/p_sungrow_idc30e.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.149,
+   0.201
+  ],
+  "note": {
+   "en": "Sungrow · 30 kW DC fast charger for car parks and fleets",
+   "ar": "Sungrow · شاحن سريع DC ‏30 كيلوواط للمواقف والأساطيل"
+  }
+ },
+ {
+  "ref": "117",
+  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.4.5m,Type 1,32A",
+  "qty": 10,
+  "group": "chargers",
+  "type_en": "EV charging cable kit",
+  "type_ar": "طقم كابل شحن سيارات",
+  "status": "accessory",
+  "img": "img/p_se_evkit.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.025,
+   0.035
+  ]
+ },
+ {
+  "ref": "118",
+  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.4.5m,Type 2,32A",
+  "qty": 8,
+  "group": "chargers",
+  "type_en": "EV charging cable kit",
+  "type_ar": "طقم كابل شحن سيارات",
+  "status": "accessory",
+  "img": "img/p_se_evkit.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ]
+ },
+ {
+  "ref": "114",
+  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.7.6m,Type 1,32A",
+  "qty": 6,
+  "group": "chargers",
+  "type_en": "EV charging cable kit",
+  "type_ar": "طقم كابل شحن سيارات",
+  "status": "accessory",
+  "img": "img/p_se_evkit.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.015,
+   0.021
+  ]
  },
  {
   "ref": "5",
@@ -2331,6 +2331,111 @@
   }
  },
  {
+  "ref": "145",
+  "name": "Photonica PAC-3D-F16RC",
+  "qty": 42,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.143,
+   0.193
+  ]
+ },
+ {
+  "ref": "144",
+  "name": "Photonica PDC-D2-B",
+  "qty": 41,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.139,
+   0.189
+  ]
+ },
+ {
+  "ref": "142",
+  "name": "Photonica PAC-3D-F16",
+  "qty": 40,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.136,
+   0.184
+  ]
+ },
+ {
+  "ref": "141",
+  "name": "Photonica PDC-2D2-C",
+  "qty": 36,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.122,
+   0.166
+  ]
+ },
+ {
+  "ref": "143",
+  "name": "Photonica PAC-3D-F25",
+  "qty": 34,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.116,
+   0.156
+  ]
+ },
+ {
+  "ref": "146",
+  "name": "Photonica PDC-2D2-B",
+  "qty": 33,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.112,
+   0.152
+  ]
+ },
+ {
+  "ref": "147",
+  "name": "Photonica PAD-2D2-C-F16C",
+  "qty": 7,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.024,
+   0.032
+  ]
+ },
+ {
   "ref": "184",
   "name": "EMS Zeronest",
   "qty": 17,
@@ -2346,153 +2451,48 @@
   ]
  },
  {
-  "ref": "105",
-  "name": "Foxess Power Meter 3PH",
-  "qty": 77,
+  "ref": "175",
+  "name": "Emiter ZRP-PV Current source to configure and test photovoltaic inverters",
+  "qty": 2,
   "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
-  "photo": "rep",
+  "type_en": "PV test equipment",
+  "type_ar": "جهاز اختبار للطاقة الشمسية",
+  "status": "complete",
+  "img": null,
+  "photo": null,
   "weight_t": [
-   0.033,
-   0.044
+   0.014,
+   0.018
   ]
  },
  {
-  "ref": "140",
-  "name": "YHDC SCT024TS-300A/5A current transformer",
-  "qty": 35,
-  "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.015,
-   0.02
-  ]
- },
- {
-  "ref": "100",
-  "name": "Deye Energy Meter 3PH",
+  "ref": "124",
+  "name": "Solax X3-EPS-150KW-G2 Box Three Phase parallel box for 10pcs",
   "qty": 25,
   "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
+  "type_en": "Parallel / backup box",
+  "type_ar": "صندوق توازي / طاقة احتياطية",
+  "status": "component",
+  "img": "img/p_solax_eps_box.jpg",
   "photo": "rep",
   "weight_t": [
-   0.011,
-   0.014
+   0.531,
+   0.719
   ]
  },
  {
-  "ref": "115",
-  "name": "Solaredge SEHAZB-SCKT-MTR-FR",
-  "qty": 21,
+  "ref": "125",
+  "name": "Solax X3-EPS-60KW-G2 Three Phase parallel box for 6pcs",
+  "qty": 24,
   "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
+  "type_en": "Parallel / backup box",
+  "type_ar": "صندوق توازي / طاقة احتياطية",
+  "status": "component",
+  "img": "img/p_solax_eps_box.jpg",
   "photo": "rep",
   "weight_t": [
-   0.009,
-   0.012
-  ]
- },
- {
-  "ref": "167",
-  "name": "EASTRON transformer ESCT-T24-100A/5A",
-  "qty": 15,
-  "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.006,
-   0.009
-  ]
- },
- {
-  "ref": "123",
-  "name": "Solax Chint Single Phase DDSU666-CT",
-  "qty": 3,
-  "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.001,
-   0.002
-  ]
- },
- {
-  "ref": "102",
-  "name": "Deye Energy Meter 1PH",
-  "qty": 2,
-  "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.001,
-   0.001
-  ]
- },
- {
-  "ref": "110",
-  "name": "Huawei DDSU666-H",
-  "qty": 2,
-  "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.001,
-   0.001
-  ]
- },
- {
-  "ref": "176",
-  "name": "CT Clamp",
-  "qty": 2,
-  "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.001,
-   0.001
-  ]
- },
- {
-  "ref": "108",
-  "name": "Foxess Power Meter 1PH",
-  "qty": 1,
-  "group": "electrical",
-  "type_en": "Energy meter / current sensor",
-  "type_ar": "عداد طاقة / حساس تيار",
-  "status": "accessory",
-  "img": "img/p_meter.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.0,
-   0.001
+   0.51,
+   0.69
   ]
  },
  {
@@ -2646,153 +2646,168 @@
   ]
  },
  {
-  "ref": "145",
-  "name": "Photonica PAC-3D-F16RC",
-  "qty": 42,
+  "ref": "105",
+  "name": "Foxess Power Meter 3PH",
+  "qty": 77,
   "group": "electrical",
-  "type_en": "PV switchboard (AC/DC protection box)",
-  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
-  "status": "complete",
-  "img": "img/p_photonica_box.jpg",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
   "photo": "rep",
   "weight_t": [
-   0.143,
-   0.193
+   0.033,
+   0.044
   ]
  },
  {
-  "ref": "144",
-  "name": "Photonica PDC-D2-B",
-  "qty": 41,
+  "ref": "140",
+  "name": "YHDC SCT024TS-300A/5A current transformer",
+  "qty": 35,
   "group": "electrical",
-  "type_en": "PV switchboard (AC/DC protection box)",
-  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
-  "status": "complete",
-  "img": "img/p_photonica_box.jpg",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
   "photo": "rep",
   "weight_t": [
-   0.139,
-   0.189
+   0.015,
+   0.02
   ]
  },
  {
-  "ref": "142",
-  "name": "Photonica PAC-3D-F16",
-  "qty": 40,
-  "group": "electrical",
-  "type_en": "PV switchboard (AC/DC protection box)",
-  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
-  "status": "complete",
-  "img": "img/p_photonica_box.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.136,
-   0.184
-  ]
- },
- {
-  "ref": "141",
-  "name": "Photonica PDC-2D2-C",
-  "qty": 36,
-  "group": "electrical",
-  "type_en": "PV switchboard (AC/DC protection box)",
-  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
-  "status": "complete",
-  "img": "img/p_photonica_box.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.122,
-   0.166
-  ]
- },
- {
-  "ref": "143",
-  "name": "Photonica PAC-3D-F25",
-  "qty": 34,
-  "group": "electrical",
-  "type_en": "PV switchboard (AC/DC protection box)",
-  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
-  "status": "complete",
-  "img": "img/p_photonica_box.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.116,
-   0.156
-  ]
- },
- {
-  "ref": "146",
-  "name": "Photonica PDC-2D2-B",
-  "qty": 33,
-  "group": "electrical",
-  "type_en": "PV switchboard (AC/DC protection box)",
-  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
-  "status": "complete",
-  "img": "img/p_photonica_box.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.112,
-   0.152
-  ]
- },
- {
-  "ref": "147",
-  "name": "Photonica PAD-2D2-C-F16C",
-  "qty": 7,
-  "group": "electrical",
-  "type_en": "PV switchboard (AC/DC protection box)",
-  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
-  "status": "complete",
-  "img": "img/p_photonica_box.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.024,
-   0.032
-  ]
- },
- {
-  "ref": "175",
-  "name": "Emiter ZRP-PV Current source to configure and test photovoltaic inverters",
-  "qty": 2,
-  "group": "electrical",
-  "type_en": "PV test equipment",
-  "type_ar": "جهاز اختبار للطاقة الشمسية",
-  "status": "complete",
-  "img": null,
-  "photo": null,
-  "weight_t": [
-   0.014,
-   0.018
-  ]
- },
- {
-  "ref": "124",
-  "name": "Solax X3-EPS-150KW-G2 Box Three Phase parallel box for 10pcs",
+  "ref": "100",
+  "name": "Deye Energy Meter 3PH",
   "qty": 25,
   "group": "electrical",
-  "type_en": "Parallel / backup box",
-  "type_ar": "صندوق توازي / طاقة احتياطية",
-  "status": "component",
-  "img": "img/p_solax_eps_box.jpg",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
   "photo": "rep",
   "weight_t": [
-   0.531,
-   0.719
+   0.011,
+   0.014
   ]
  },
  {
-  "ref": "125",
-  "name": "Solax X3-EPS-60KW-G2 Three Phase parallel box for 6pcs",
-  "qty": 24,
+  "ref": "115",
+  "name": "Solaredge SEHAZB-SCKT-MTR-FR",
+  "qty": 21,
   "group": "electrical",
-  "type_en": "Parallel / backup box",
-  "type_ar": "صندوق توازي / طاقة احتياطية",
-  "status": "component",
-  "img": "img/p_solax_eps_box.jpg",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
   "photo": "rep",
   "weight_t": [
-   0.51,
-   0.69
+   0.009,
+   0.012
+  ]
+ },
+ {
+  "ref": "167",
+  "name": "EASTRON transformer ESCT-T24-100A/5A",
+  "qty": 15,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.006,
+   0.009
+  ]
+ },
+ {
+  "ref": "123",
+  "name": "Solax Chint Single Phase DDSU666-CT",
+  "qty": 3,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "ref": "102",
+  "name": "Deye Energy Meter 1PH",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "110",
+  "name": "Huawei DDSU666-H",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "176",
+  "name": "CT Clamp",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "108",
+  "name": "Foxess Power Meter 1PH",
+  "qty": 1,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.001
+  ]
+ },
+ {
+  "ref": "139",
+  "name": "Tsun TSOL-RSD-S1000-5 Rapid Shutdown 5 strings",
+  "qty": 54,
+  "group": "electrical",
+  "type_en": "Rapid shutdown device",
+  "type_ar": "جهاز فصل سريع",
+  "status": "accessory",
+  "img": "img/p_tsun_rsd.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.046,
+   0.062
   ]
  },
  {
@@ -2841,18 +2856,63 @@
   ]
  },
  {
-  "ref": "139",
-  "name": "Tsun TSOL-RSD-S1000-5 Rapid Shutdown 5 strings",
-  "qty": 54,
-  "group": "electrical",
-  "type_en": "Rapid shutdown device",
-  "type_ar": "جهاز فصل سريع",
-  "status": "accessory",
-  "img": "img/p_tsun_rsd.jpg",
+  "ref": "4",
+  "name": "Photonica Light Tension 1x1 / Photonia Regały",
+  "qty": 118,
+  "group": "mounting",
+  "type_en": "Mounting structure",
+  "type_ar": "هيكل تثبيت",
+  "status": "complete",
+  "img": "img/p_photonica_rack.jpg",
   "photo": "rep",
   "weight_t": [
-   0.046,
-   0.062
+   1.504,
+   2.035
+  ]
+ },
+ {
+  "ref": "2",
+  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Black 100 mt",
+  "qty": 4,
+  "group": "mounting",
+  "type_en": "Solar cable (reel)",
+  "type_ar": "كابل طاقة شمسية (بكرة)",
+  "status": "complete",
+  "img": "img/p_enco_cable.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ]
+ },
+ {
+  "ref": "3",
+  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Red 100 mt",
+  "qty": 4,
+  "group": "mounting",
+  "type_en": "Solar cable (reel)",
+  "type_ar": "كابل طاقة شمسية (بكرة)",
+  "status": "complete",
+  "img": "img/p_enco_cable.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ]
+ },
+ {
+  "ref": "1",
+  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Red 500 mt",
+  "qty": 2,
+  "group": "mounting",
+  "type_en": "Solar cable (reel)",
+  "type_ar": "كابل طاقة شمسية (بكرة)",
+  "status": "complete",
+  "img": "img/p_enco_cable.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.051,
+   0.069
   ]
  },
  {
@@ -3003,66 +3063,6 @@
   "weight_t": [
    0.001,
    0.001
-  ]
- },
- {
-  "ref": "4",
-  "name": "Photonica Light Tension 1x1 / Photonia Regały",
-  "qty": 118,
-  "group": "mounting",
-  "type_en": "Mounting structure",
-  "type_ar": "هيكل تثبيت",
-  "status": "complete",
-  "img": "img/p_photonica_rack.jpg",
-  "photo": "rep",
-  "weight_t": [
-   1.504,
-   2.035
-  ]
- },
- {
-  "ref": "2",
-  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Black 100 mt",
-  "qty": 4,
-  "group": "mounting",
-  "type_en": "Solar cable (reel)",
-  "type_ar": "كابل طاقة شمسية (بكرة)",
-  "status": "complete",
-  "img": "img/p_enco_cable.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.02,
-   0.028
-  ]
- },
- {
-  "ref": "3",
-  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Red 100 mt",
-  "qty": 4,
-  "group": "mounting",
-  "type_en": "Solar cable (reel)",
-  "type_ar": "كابل طاقة شمسية (بكرة)",
-  "status": "complete",
-  "img": "img/p_enco_cable.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.02,
-   0.028
-  ]
- },
- {
-  "ref": "1",
-  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Red 500 mt",
-  "qty": 2,
-  "group": "mounting",
-  "type_en": "Solar cable (reel)",
-  "type_ar": "كابل طاقة شمسية (بكرة)",
-  "status": "complete",
-  "img": "img/p_enco_cable.jpg",
-  "photo": "rep",
-  "weight_t": [
-   0.051,
-   0.069
   ]
  },
  {

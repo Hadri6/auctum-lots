@@ -42,7 +42,7 @@
   {
    "en": "PV modules",
    "ar": "ألواح شمسية",
-   "value": "625 · 330.295 kWp"
+   "value": "625 · 330 kWp"
   }
  ],
  "location": {
@@ -224,8 +224,8 @@
     "ar": "ألواح شمسية",
     "qty": 625,
     "detail": {
-     "en": "330.295 kWp in 30 models (Jinko Tiger Neo, Risen, TW Solar, Ulica, LONGi); most models are small quantities.",
-     "ar": "330.295 كيلوواط ذروة في 30 موديلاً (Jinko Tiger Neo وRisen وTW Solar وUlica وLONGi)؛ ومعظم الموديلات بكميات صغيرة."
+     "en": "330 kWp in 30 models (Jinko Tiger Neo, Risen, TW Solar, Ulica, LONGi); most models are small quantities.",
+     "ar": "330 كيلوواط ذروة في 30 موديلاً (Jinko Tiger Neo وRisen وTW Solar وUlica وLONGi)؛ ومعظم الموديلات بكميات صغيرة."
     }
    },
    {
