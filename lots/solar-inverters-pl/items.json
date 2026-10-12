@@ -1,0 +1,3173 @@
+[
+ {
+  "ref": "183",
+  "name": "Deye SUN-16K-SG01LP1-EU",
+  "qty": 15,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_deye_lp1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.484,
+   0.655
+  ],
+  "note": {
+   "en": "16 kW · low-voltage (48 V) battery input",
+   "ar": "16 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "39",
+  "name": "Inverter Deye SUN-12K-SG02LP1-EU-AM3",
+  "qty": 14,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_deye_lp1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.452,
+   0.612
+  ],
+  "note": {
+   "en": "Deye · 12 kW · low-voltage (48 V) battery input",
+   "ar": "Deye · 12 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "106",
+  "name": "FOXESS H1-4.6-E1",
+  "qty": 14,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_foxess_h1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.262,
+   0.354
+  ],
+  "note": {
+   "en": "FoxESS · 4.6 kW",
+   "ar": "FoxESS · 4.6 كيلوواط"
+  }
+ },
+ {
+  "ref": "78",
+  "name": "Inverter Solax X1-Hybrid-5.0-D",
+  "qty": 13,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x1hyb_d.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.276,
+   0.374
+  ],
+  "note": {
+   "en": "Solax · 5 kW",
+   "ar": "Solax · 5 كيلوواط"
+  }
+ },
+ {
+  "ref": "46",
+  "name": "Inverter Deye SUN-3.6K-SG04LP1-EU",
+  "qty": 6,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 1-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "status": "complete",
+  "img": "img/p_deye_sg04lp1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.122,
+   0.166
+  ],
+  "note": {
+   "en": "Deye · 3.6 kW · low-voltage (48 V) battery input",
+   "ar": "Deye · 3.6 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "35",
+  "name": "Inverter Deye SUN-12K-SG01HP3-EU-AM2",
+  "qty": 79,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_hp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.485,
+   3.361
+  ],
+  "note": {
+   "en": "Deye · 12 kW · high-voltage battery input",
+   "ar": "Deye · 12 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "37",
+  "name": "Inverter Deye SUN-8K-SG01HP3-EU-AM2",
+  "qty": 47,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_hp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.478,
+   2.0
+  ],
+  "note": {
+   "en": "Deye · 8 kW · high-voltage battery input",
+   "ar": "Deye · 8 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "38",
+  "name": "Inverter Deye SUN-6K-SG01HP3-EU-AM2",
+  "qty": 44,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_hp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.384,
+   1.872
+  ],
+  "note": {
+   "en": "Deye · 6 kW · high-voltage battery input",
+   "ar": "Deye · 6 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "75",
+  "name": "Inverter Solax X3-Hybrid-8.0-D",
+  "qty": 43,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x3hyb_d.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.097,
+   1.483
+  ],
+  "note": {
+   "en": "Solax · 8 kW",
+   "ar": "Solax · 8 كيلوواط"
+  }
+ },
+ {
+  "ref": "76",
+  "name": "Inverter Solax X3-Hybrid-5.0-D",
+  "qty": 41,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x3hyb_d.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.046,
+   1.415
+  ],
+  "note": {
+   "en": "Solax · 5 kW",
+   "ar": "Solax · 5 كيلوواط"
+  }
+ },
+ {
+  "ref": "88",
+  "name": "Inwerter hybrydowy SH5.0RT-V112",
+  "qty": 26,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_sungrow_shrt.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.707,
+   0.957
+  ],
+  "note": {
+   "en": "Sungrow · 5 kW",
+   "ar": "Sungrow · 5 كيلوواط"
+  }
+ },
+ {
+  "ref": "77",
+  "name": "Inverter Solax X3-Hybrid-6.0-D",
+  "qty": 23,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x3hyb_d.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.587,
+   0.793
+  ],
+  "note": {
+   "en": "Solax · 6 kW",
+   "ar": "Solax · 6 كيلوواط"
+  }
+ },
+ {
+  "ref": "57",
+  "name": "Inverter Foxess H3-8.0-E",
+  "qty": 18,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_foxess_h3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.49,
+   0.662
+  ],
+  "note": {
+   "en": "FoxESS · 8 kW",
+   "ar": "FoxESS · 8 كيلوواط"
+  }
+ },
+ {
+  "ref": "42",
+  "name": "Deye SUN-15K-SG01HP3-EU-AM2",
+  "qty": 11,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_hp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.346,
+   0.468
+  ],
+  "note": {
+   "en": "Deye · 15 kW · high-voltage battery input",
+   "ar": "Deye · 15 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "41",
+  "name": "Inverter Deye SUN-8K-SG04LP3-EU",
+  "qty": 8,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_lp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.272,
+   0.368
+  ],
+  "note": {
+   "en": "Deye · 8 kW · low-voltage (48 V) battery input",
+   "ar": "Deye · 8 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "54",
+  "name": "Deye SUN-5K-SG04LP3-EU",
+  "qty": 7,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_lp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.238,
+   0.322
+  ],
+  "note": {
+   "en": "Deye · 5 kW · low-voltage (48 V) battery input",
+   "ar": "Deye · 5 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "45",
+  "name": "Deye SUN-12K-SG04LP3-EU",
+  "qty": 6,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_lp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.204,
+   0.276
+  ],
+  "note": {
+   "en": "Deye · 12 kW · low-voltage (48 V) battery input",
+   "ar": "Deye · 12 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "56",
+  "name": "Inverter Deye SUN-6K-SG04LP3-EU",
+  "qty": 5,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_lp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.17,
+   0.23
+  ],
+  "note": {
+   "en": "Deye · 6 kW · low-voltage (48 V) battery input",
+   "ar": "Deye · 6 كيلوواط · مدخل بطارية جهد منخفض (48 فولت)"
+  }
+ },
+ {
+  "ref": "91",
+  "name": "Inwerter hybrydowy SH6.0RT-V112",
+  "qty": 5,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_sungrow_shrt.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.136,
+   0.184
+  ],
+  "note": {
+   "en": "Sungrow · 6 kW",
+   "ar": "Sungrow · 6 كيلوواط"
+  }
+ },
+ {
+  "ref": "93",
+  "name": "Inverter Sungrow SH8.0RT",
+  "qty": 4,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_sungrow_shrt.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.109,
+   0.147
+  ],
+  "note": {
+   "en": "Sungrow · 8 kW",
+   "ar": "Sungrow · 8 كيلوواط"
+  }
+ },
+ {
+  "ref": "83",
+  "name": "Inverter Solax X3-Hybrid-12.0-M",
+  "qty": 3,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x3hyb_m.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.092,
+   0.124
+  ],
+  "note": {
+   "en": "Solax · 12 kW",
+   "ar": "Solax · 12 كيلوواط"
+  }
+ },
+ {
+  "ref": "58",
+  "name": "Inverter Foxess H3-12.0-E",
+  "qty": 1,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_foxess_h3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.027,
+   0.037
+  ],
+  "note": {
+   "en": "FoxESS · 12 kW",
+   "ar": "FoxESS · 12 كيلوواط"
+  }
+ },
+ {
+  "ref": "59",
+  "name": "Inverter Foxess H3-5.0-E",
+  "qty": 1,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_foxess_h3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.027,
+   0.037
+  ],
+  "note": {
+   "en": "FoxESS · 5 kW",
+   "ar": "FoxESS · 5 كيلوواط"
+  }
+ },
+ {
+  "ref": "66",
+  "name": "Inverter Solaredge SE5K-RWS48BEN4",
+  "qty": 28,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase (SolarEdge StorEdge)",
+  "type_ar": "انفرتر هجين ثلاثي الطور (SolarEdge StorEdge)",
+  "status": "complete",
+  "img": "img/p_se_storedge3ph.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.714,
+   0.966
+  ],
+  "note": {
+   "en": "SolarEdge · 5 kW · works with SolarEdge power optimizers (not included)",
+   "ar": "SolarEdge · 5 كيلوواط · يعمل مع محسّنات SolarEdge (غير مشمولة)"
+  }
+ },
+ {
+  "ref": "70",
+  "name": "Inverter Solaredge SE7K-RWS48BEN4",
+  "qty": 1,
+  "group": "hybrid",
+  "type_en": "Hybrid inverter, 3-phase (SolarEdge StorEdge)",
+  "type_ar": "انفرتر هجين ثلاثي الطور (SolarEdge StorEdge)",
+  "status": "complete",
+  "img": "img/p_se_storedge3ph.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.025,
+   0.035
+  ],
+  "note": {
+   "en": "SolarEdge · 7 kW · works with SolarEdge power optimizers (not included)",
+   "ar": "SolarEdge · 7 كيلوواط · يعمل مع محسّنات SolarEdge (غير مشمولة)"
+  }
+ },
+ {
+  "ref": "44",
+  "name": "Deye GB-S6K-EU",
+  "qty": 27,
+  "group": "ongrid",
+  "type_en": "Deye GB-S unit (model as listed)",
+  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
+  "status": "complete",
+  "img": "img/p_deye_gbs.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.574,
+   0.776
+  ],
+  "note": {
+   "en": "Deye · 6 kW",
+   "ar": "Deye · 6 كيلوواط"
+  }
+ },
+ {
+  "ref": "52",
+  "name": "Deye GB-S8K-EU",
+  "qty": 4,
+  "group": "ongrid",
+  "type_en": "Deye GB-S unit (model as listed)",
+  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
+  "status": "complete",
+  "img": "img/p_deye_gbs.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.085,
+   0.115
+  ],
+  "note": {
+   "en": "Deye · 8 kW",
+   "ar": "Deye · 8 كيلوواط"
+  }
+ },
+ {
+  "ref": "67",
+  "name": "Inverter Solaredge SE3500H-RWS00BEO4",
+  "qty": 55,
+  "group": "ongrid",
+  "type_en": "Inverter, 1-phase (SolarEdge Home Wave)",
+  "type_ar": "انفرتر أحادي الطور (SolarEdge Home Wave)",
+  "status": "complete",
+  "img": "img/p_se_hdwave.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.654,
+   0.885
+  ],
+  "note": {
+   "en": "SolarEdge · 3.5 kW · works with SolarEdge power optimizers (not included)",
+   "ar": "SolarEdge · 3.5 كيلوواط · يعمل مع محسّنات SolarEdge (غير مشمولة)"
+  }
+ },
+ {
+  "ref": "55",
+  "name": "Inverter Deye SUN-2.5K-G04-P",
+  "qty": 36,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 1-phase",
+  "type_ar": "انفرتر شبكة أحادي الطور",
+  "status": "complete",
+  "img": "img/p_deye_g04.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.275,
+   0.373
+  ],
+  "note": {
+   "en": "Deye · 2.5 kW",
+   "ar": "Deye · 2.5 كيلوواط"
+  }
+ },
+ {
+  "ref": "73",
+  "name": "Inverter Solax X1-3.0-T-D",
+  "qty": 6,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 1-phase",
+  "type_ar": "انفرتر شبكة أحادي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x1boost.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.061,
+   0.083
+  ],
+  "note": {
+   "en": "Solax · 3 kW",
+   "ar": "Solax · 3 كيلوواط"
+  }
+ },
+ {
+  "ref": "74",
+  "name": "Inverter Solax X1-5.0-T-D",
+  "qty": 3,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 1-phase",
+  "type_ar": "انفرتر شبكة أحادي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x1boost.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.031,
+   0.041
+  ],
+  "note": {
+   "en": "Solax · 5 kW",
+   "ar": "Solax · 5 كيلوواط"
+  }
+ },
+ {
+  "ref": "84",
+  "name": "X1-5.0-T-D-BOOST-G3",
+  "qty": 2,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 1-phase",
+  "type_ar": "انفرتر شبكة أحادي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x1boost.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ],
+  "note": {
+   "en": "Solax · 5 kW",
+   "ar": "Solax · 5 كيلوواط"
+  }
+ },
+ {
+  "ref": "72",
+  "name": "Inverter Solax X1-6.0K-T-D",
+  "qty": 1,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 1-phase",
+  "type_ar": "انفرتر شبكة أحادي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x1boost.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.01,
+   0.014
+  ],
+  "note": {
+   "en": "Solax · 6 kW",
+   "ar": "Solax · 6 كيلوواط"
+  }
+ },
+ {
+  "ref": "47",
+  "name": "Inverter Deye SUN-12K-G05-P",
+  "qty": 11,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_deye_g05.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.15,
+   0.202
+  ],
+  "note": {
+   "en": "Deye · 12 kW",
+   "ar": "Deye · 12 كيلوواط"
+  }
+ },
+ {
+  "ref": "94",
+  "name": "Inverter Sungrow SG10RT",
+  "qty": 11,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_sungrow_sgrt.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.206,
+   0.278
+  ],
+  "note": {
+   "en": "Sungrow · 10 kW",
+   "ar": "Sungrow · 10 كيلوواط"
+  }
+ },
+ {
+  "ref": "69",
+  "name": "Inverter Solaredge SE6K-RW0TEBEN4",
+  "qty": 4,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_se_3ph.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.085,
+   0.115
+  ],
+  "note": {
+   "en": "SolarEdge · 6 kW · works with SolarEdge power optimizers (not included)",
+   "ar": "SolarEdge · 6 كيلوواط · يعمل مع محسّنات SolarEdge (غير مشمولة)"
+  }
+ },
+ {
+  "ref": "71",
+  "name": "Inverter Solaredge SE5K-RW0TEBEN4",
+  "qty": 3,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_se_3ph.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.064,
+   0.086
+  ],
+  "note": {
+   "en": "SolarEdge · 5 kW · works with SolarEdge power optimizers (not included)",
+   "ar": "SolarEdge · 5 كيلوواط · يعمل مع محسّنات SolarEdge (غير مشمولة)"
+  }
+ },
+ {
+  "ref": "64",
+  "name": "Growatt 3PH inverter GMOD7000TL3-HX (AFCI)",
+  "qty": 2,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_growatt_mod.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.031,
+   0.041
+  ],
+  "note": {
+   "en": "Growatt · 7 kW",
+   "ar": "Growatt · 7 كيلوواط"
+  }
+ },
+ {
+  "ref": "65",
+  "name": "Inverter Huawei SUN2000-15KTL-M2 HC",
+  "qty": 2,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_huawei_ktl.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.037,
+   0.051
+  ],
+  "note": {
+   "en": "Huawei · 15 kW",
+   "ar": "Huawei · 15 كيلوواط"
+  }
+ },
+ {
+  "ref": "85",
+  "name": "Inverter Solax X3-MIC-6K",
+  "qty": 1,
+  "group": "ongrid",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "status": "complete",
+  "img": "img/p_solax_x3mic.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.017,
+   0.023
+  ],
+  "note": {
+   "en": "Solax · 6 kW",
+   "ar": "Solax · 6 كيلوواط"
+  }
+ },
+ {
+  "ref": "96",
+  "name": "TSOL-MS600-D",
+  "qty": 417,
+  "group": "micro",
+  "type_en": "Micro-inverter",
+  "type_ar": "مايكرو انفرتر",
+  "status": "complete",
+  "img": "img/p_tsun_ms600.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.886,
+   1.199
+  ],
+  "note": {
+   "en": "Tsun · 0.6 kW",
+   "ar": "Tsun · 0.6 كيلوواط"
+  }
+ },
+ {
+  "ref": "95",
+  "name": "Tsun TSOL-MP3000",
+  "qty": 154,
+  "group": "micro",
+  "type_en": "Micro-inverter",
+  "type_ar": "مايكرو انفرتر",
+  "status": "complete",
+  "img": "img/p_tsun_mp3000.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.785,
+   1.063
+  ],
+  "note": {
+   "en": "Tsun · 3 kW",
+   "ar": "Tsun · 3 كيلوواط"
+  }
+ },
+ {
+  "ref": "49",
+  "name": "Deye SUN-M80G3-EU-Q0 Microinverter",
+  "qty": 46,
+  "group": "micro",
+  "type_en": "Micro-inverter",
+  "type_ar": "مايكرو انفرتر",
+  "status": "complete",
+  "img": "img/p_deye_m80.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.156,
+   0.212
+  ],
+  "note": {
+   "en": "Deye · 0.8 kW",
+   "ar": "Deye · 0.8 كيلوواط"
+  }
+ },
+ {
+  "ref": "97",
+  "name": "Tsun TSOL-MS400",
+  "qty": 40,
+  "group": "micro",
+  "type_en": "Micro-inverter",
+  "type_ar": "مايكرو انفرتر",
+  "status": "complete",
+  "img": "img/p_tsun_ms400.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.068,
+   0.092
+  ],
+  "note": {
+   "en": "Tsun · 0.4 kW",
+   "ar": "Tsun · 0.4 كيلوواط"
+  }
+ },
+ {
+  "ref": "53",
+  "name": "Deye Microinverter SUN-M80G4-EU-Q0",
+  "qty": 1,
+  "group": "micro",
+  "type_en": "Micro-inverter",
+  "type_ar": "مايكرو انفرتر",
+  "status": "complete",
+  "img": "img/p_deye_m80.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.003,
+   0.005
+  ],
+  "note": {
+   "en": "Deye · 0.8 kW",
+   "ar": "Deye · 0.8 كيلوواط"
+  }
+ },
+ {
+  "ref": "79",
+  "name": "Inverter Solax X1-0.6-S-D",
+  "qty": 62,
+  "group": "micro",
+  "type_en": "Mini inverter, 1-phase (0.6–3 kW)",
+  "type_ar": "انفرتر صغير أحادي الطور (0.6–3 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_solax_x1mini.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.369,
+   0.499
+  ],
+  "note": {
+   "en": "Solax · 0.6 kW",
+   "ar": "Solax · 0.6 كيلوواط"
+  }
+ },
+ {
+  "ref": "82",
+  "name": "Inverter Solax X1-0.7-S-D",
+  "qty": 28,
+  "group": "micro",
+  "type_en": "Mini inverter, 1-phase (0.6–3 kW)",
+  "type_ar": "انفرتر صغير أحادي الطور (0.6–3 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_solax_x1mini.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.167,
+   0.225
+  ],
+  "note": {
+   "en": "Solax · 0.7 kW",
+   "ar": "Solax · 0.7 كيلوواط"
+  }
+ },
+ {
+  "ref": "60",
+  "name": "Inverter Foxess S3000",
+  "qty": 4,
+  "group": "micro",
+  "type_en": "Mini inverter, 1-phase (0.6–3 kW)",
+  "type_ar": "انفرتر صغير أحادي الطور (0.6–3 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_foxess_s.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.027,
+   0.037
+  ],
+  "note": {
+   "en": "FoxESS · 3 kW",
+   "ar": "FoxESS · 3 كيلوواط"
+  }
+ },
+ {
+  "ref": "61",
+  "name": "Inverter Foxess S2500",
+  "qty": 3,
+  "group": "micro",
+  "type_en": "Mini inverter, 1-phase (0.6–3 kW)",
+  "type_ar": "انفرتر صغير أحادي الطور (0.6–3 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_foxess_s.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ],
+  "note": {
+   "en": "FoxESS · 2.5 kW",
+   "ar": "FoxESS · 2.5 كيلوواط"
+  }
+ },
+ {
+  "ref": "62",
+  "name": "Inverter Foxess S1500",
+  "qty": 2,
+  "group": "micro",
+  "type_en": "Mini inverter, 1-phase (0.6–3 kW)",
+  "type_ar": "انفرتر صغير أحادي الطور (0.6–3 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_foxess_s.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.014,
+   0.018
+  ],
+  "note": {
+   "en": "FoxESS · 1.5 kW",
+   "ar": "FoxESS · 1.5 كيلوواط"
+  }
+ },
+ {
+  "ref": "63",
+  "name": "Inverter Foxess S700",
+  "qty": 1,
+  "group": "micro",
+  "type_en": "Mini inverter, 1-phase (0.6–3 kW)",
+  "type_ar": "انفرتر صغير أحادي الطور (0.6–3 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_foxess_s.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.007,
+   0.009
+  ],
+  "note": {
+   "en": "FoxESS · 0.7 kW",
+   "ar": "FoxESS · 0.7 كيلوواط"
+  }
+ },
+ {
+  "ref": "36",
+  "name": "Inverter Deye SUN-40K-SG01HP3-EU-BM4",
+  "qty": 11,
+  "group": "commercial",
+  "type_en": "Commercial inverter, 3-phase (20–50 kW)",
+  "type_ar": "انفرتر تجاري ثلاثي الطور (20–50 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_deye_hp3_big.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.514,
+   0.696
+  ],
+  "note": {
+   "en": "Deye · 40 kW · high-voltage battery input",
+   "ar": "Deye · 40 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "43",
+  "name": "Deye SUN-20K-SG01HP3-EU-AM2",
+  "qty": 8,
+  "group": "commercial",
+  "type_en": "Commercial inverter, 3-phase (20–50 kW)",
+  "type_ar": "انفرتر تجاري ثلاثي الطور (20–50 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_deye_hp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.286,
+   0.386
+  ],
+  "note": {
+   "en": "Deye · 20 kW · high-voltage battery input",
+   "ar": "Deye · 20 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "40",
+  "name": "Inverter Deye SUN-30K-SG01HP3-EU-BM3",
+  "qty": 7,
+  "group": "commercial",
+  "type_en": "Commercial inverter, 3-phase (20–50 kW)",
+  "type_ar": "انفرتر تجاري ثلاثي الطور (20–50 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_deye_hp3_big.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.327,
+   0.443
+  ],
+  "note": {
+   "en": "Deye · 30 kW · high-voltage battery input",
+   "ar": "Deye · 30 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "87",
+  "name": "Sungrow-SG25CX-P2",
+  "qty": 5,
+  "group": "commercial",
+  "type_en": "Commercial inverter, 3-phase (20–50 kW)",
+  "type_ar": "انفرتر تجاري ثلاثي الطور (20–50 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_sungrow_sgcx.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.255,
+   0.345
+  ],
+  "note": {
+   "en": "Sungrow · 25 kW",
+   "ar": "Sungrow · 25 كيلوواط"
+  }
+ },
+ {
+  "ref": "89",
+  "name": "Inverter Sungrow SH20T-V11",
+  "qty": 4,
+  "group": "commercial",
+  "type_en": "Commercial inverter, 3-phase (20–50 kW)",
+  "type_ar": "انفرتر تجاري ثلاثي الطور (20–50 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_sungrow_sh20t.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.119,
+   0.161
+  ],
+  "note": {
+   "en": "Sungrow · 20 kW",
+   "ar": "Sungrow · 20 كيلوواط"
+  }
+ },
+ {
+  "ref": "90",
+  "name": "Inverter Sungrow SG50CX-P2",
+  "qty": 4,
+  "group": "commercial",
+  "type_en": "Commercial inverter, 3-phase (20–50 kW)",
+  "type_ar": "انفرتر تجاري ثلاثي الطور (20–50 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_sungrow_sgcx.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.204,
+   0.276
+  ],
+  "note": {
+   "en": "Sungrow · 50 kW",
+   "ar": "Sungrow · 50 كيلوواط"
+  }
+ },
+ {
+  "ref": "48",
+  "name": "Inverter Deye SUN-20K-SG01HP3-EU-AM2",
+  "qty": 2,
+  "group": "commercial",
+  "type_en": "Commercial inverter, 3-phase (20–50 kW)",
+  "type_ar": "انفرتر تجاري ثلاثي الطور (20–50 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_deye_hp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.071,
+   0.097
+  ],
+  "note": {
+   "en": "Deye · 20 kW · high-voltage battery input",
+   "ar": "Deye · 20 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "50",
+  "name": "Inverter Deye SUN-25K-SG01HP3-EU-AM2",
+  "qty": 1,
+  "group": "commercial",
+  "type_en": "Commercial inverter, 3-phase (20–50 kW)",
+  "type_ar": "انفرتر تجاري ثلاثي الطور (20–50 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_deye_hp3.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.036,
+   0.048
+  ],
+  "note": {
+   "en": "Deye · 25 kW · high-voltage battery input",
+   "ar": "Deye · 25 كيلوواط · مدخل بطارية جهد عالٍ"
+  }
+ },
+ {
+  "ref": "51",
+  "name": "Deye GB-S20K-EU",
+  "qty": 1,
+  "group": "commercial",
+  "type_en": "Deye GB-S unit (model as listed)",
+  "type_ar": "وحدة Deye GB-S (الموديل كما في القائمة)",
+  "status": "complete",
+  "img": "img/p_deye_gbs.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.038,
+   0.052
+  ],
+  "note": {
+   "en": "Deye · 20 kW",
+   "ar": "Deye · 20 كيلوواط"
+  }
+ },
+ {
+  "ref": "80",
+  "name": "Inverter Solax X3-FTH-136K",
+  "qty": 3,
+  "group": "commercial",
+  "type_en": "Industrial string inverter (125–350 kW)",
+  "type_ar": "انفرتر صناعي (125–350 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_solax_fth.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.242,
+   0.328
+  ],
+  "note": {
+   "en": "Solax · 136 kW",
+   "ar": "Solax · 136 كيلوواط"
+  }
+ },
+ {
+  "ref": "81",
+  "name": "Inverter Solax X3-FTH-150K",
+  "qty": 2,
+  "group": "commercial",
+  "type_en": "Industrial string inverter (125–350 kW)",
+  "type_ar": "انفرتر صناعي (125–350 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_solax_fth.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.162,
+   0.218
+  ],
+  "note": {
+   "en": "Solax · 150 kW",
+   "ar": "Solax · 150 كيلوواط"
+  }
+ },
+ {
+  "ref": "86",
+  "name": "Falownik Sungrow SG125HX-V11",
+  "qty": 2,
+  "group": "commercial",
+  "type_en": "Industrial string inverter (125–350 kW)",
+  "type_ar": "انفرتر صناعي (125–350 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_sungrow_sg125hx.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.162,
+   0.218
+  ],
+  "note": {
+   "en": "Sungrow · 125 kW",
+   "ar": "Sungrow · 125 كيلوواط"
+  }
+ },
+ {
+  "ref": "92",
+  "name": "Inverter Sungrow SG350HX-V115",
+  "qty": 1,
+  "group": "commercial",
+  "type_en": "Industrial string inverter (125–350 kW)",
+  "type_ar": "انفرتر صناعي (125–350 كيلوواط)",
+  "status": "complete",
+  "img": "img/p_sungrow_sg350hx.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.106,
+   0.144
+  ],
+  "note": {
+   "en": "Sungrow · 350 kW",
+   "ar": "Sungrow · 350 كيلوواط"
+  }
+ },
+ {
+  "ref": "68",
+  "name": "Solaredge SESUK-RW00INNN4",
+  "qty": 1,
+  "group": "commercial",
+  "type_en": "Inverter power unit (Synergy)",
+  "type_ar": "وحدة طاقة لانفرتر (Synergy)",
+  "status": "component",
+  "img": "img/p_se_synergy.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.034,
+   0.046
+  ]
+ },
+ {
+  "ref": "104",
+  "name": "Mira HV25 battery bracket (pair)",
+  "qty": 431,
+  "group": "batteries",
+  "type_en": "Battery bracket",
+  "type_ar": "حامل بطارية",
+  "status": "component",
+  "img": "img/p_mira_bracket.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.55,
+   0.743
+  ]
+ },
+ {
+  "ref": "107",
+  "name": "HV2600 battery bracket",
+  "qty": 199,
+  "group": "batteries",
+  "type_en": "Battery bracket",
+  "type_ar": "حامل بطارية",
+  "status": "component",
+  "img": "img/p_mira_bracket.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.254,
+   0.343
+  ]
+ },
+ {
+  "ref": "161",
+  "name": "Foxess Mira HV25",
+  "qty": 34,
+  "group": "batteries",
+  "type_en": "Battery module (high-voltage)",
+  "type_ar": "وحدة بطارية (جهد عالٍ)",
+  "status": "complete",
+  "img": "img/p_mira_hv25.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.925,
+   1.251
+  ]
+ },
+ {
+  "ref": "160",
+  "name": "DYNESS-HV9637 HV battery",
+  "qty": 20,
+  "group": "batteries",
+  "type_en": "Battery module (high-voltage)",
+  "type_ar": "وحدة بطارية (جهد عالٍ)",
+  "status": "complete",
+  "img": "img/p_dyness_hv9637.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.629,
+   0.851
+  ]
+ },
+ {
+  "ref": "164",
+  "name": "Solax HV11550 V2 LFP Slave Battery,5.8KWH",
+  "qty": 4,
+  "group": "batteries",
+  "type_en": "Battery module (high-voltage)",
+  "type_ar": "وحدة بطارية (جهد عالٍ)",
+  "status": "complete",
+  "img": "img/p_solax_hv11550.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.204,
+   0.276
+  ]
+ },
+ {
+  "ref": "163",
+  "name": "Battery Solaredge BAT-10K1PS0B",
+  "qty": 3,
+  "group": "batteries",
+  "type_en": "Battery module (high-voltage)",
+  "type_ar": "وحدة بطارية (جهد عالٍ)",
+  "status": "complete",
+  "img": "img/p_se_bat10k.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.319,
+   0.431
+  ]
+ },
+ {
+  "ref": "158",
+  "name": "Deye BOS-G PRO 5,12kwh battery (BOS-G PACK 5.1)",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery module (high-voltage)",
+  "type_ar": "وحدة بطارية (جهد عالٍ)",
+  "status": "complete",
+  "img": "img/p_deye_bosg.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.043,
+   0.057
+  ]
+ },
+ {
+  "ref": "159",
+  "name": "Deye Battery RW-M6.1-B",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery module (high-voltage)",
+  "type_ar": "وحدة بطارية (جهد عالٍ)",
+  "status": "complete",
+  "img": "img/p_deye_rwm61.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.051,
+   0.069
+  ]
+ },
+ {
+  "ref": "162",
+  "name": "Energy Cube CM2900 (battery+BMS)",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery module (high-voltage)",
+  "type_ar": "وحدة بطارية (جهد عالٍ)",
+  "status": "complete",
+  "img": "img/p_foxess_cm2900.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.027,
+   0.037
+  ]
+ },
+ {
+  "ref": "165",
+  "name": "Solax T-BAT-HV-SYS-S2.5 Battery, 2.5KWH",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery module (high-voltage)",
+  "type_ar": "وحدة بطارية (جهد عالٍ)",
+  "status": "complete",
+  "img": "img/p_solax_tbat.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.03,
+   0.04
+  ]
+ },
+ {
+  "ref": "166",
+  "name": "Sungrow SBR Battery Module 3,2 kWh (SMR0-V12) - empty module",
+  "qty": 130,
+  "group": "batteries",
+  "type_en": "Battery module housing (listed as empty)",
+  "type_ar": "هيكل وحدة بطارية (مذكور فارغاً)",
+  "status": "incomplete",
+  "img": "img/p_sungrow_sbr.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.326,
+   1.794
+  ],
+  "note": {
+   "en": "Sungrow · Listed as “empty module” – contents to be checked at inspection",
+   "ar": "Sungrow · مذكورة «وحدة فارغة» – يُتحقَّق من محتواها عند المعاينة"
+  }
+ },
+ {
+  "ref": "103",
+  "name": "FOXESS MIRA- BMS",
+  "qty": 175,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_mira_bms.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.488,
+   2.012
+  ]
+ },
+ {
+  "ref": "126",
+  "name": "Solax BMS-Parallel Box-II T58 battery",
+  "qty": 30,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_solax_bms_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.204,
+   0.276
+  ]
+ },
+ {
+  "ref": "153",
+  "name": "Deye AI-W5.1-PDU1-B Control Box + Base",
+  "qty": 25,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_deye_aiw51.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.425,
+   0.575
+  ]
+ },
+ {
+  "ref": "157",
+  "name": "JKS-BC9637-ABU",
+  "qty": 23,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_jinko_bc9637.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.391,
+   0.529
+  ]
+ },
+ {
+  "ref": "120",
+  "name": "Solax BMS PARALLEL BOX-II GEN2 T30",
+  "qty": 15,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_solax_bms_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.102,
+   0.138
+  ]
+ },
+ {
+  "ref": "156",
+  "name": "BMS for HV2600 battery",
+  "qty": 15,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_foxess_hv2600_bms.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.128,
+   0.172
+  ]
+ },
+ {
+  "ref": "174",
+  "name": "Dyness HV9637 BDU+BASE",
+  "qty": 14,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_dyness_bdu.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.297,
+   0.402
+  ]
+ },
+ {
+  "ref": "152",
+  "name": "Deye HV-Rack for BOS-G V2 (13layers)",
+  "qty": 4,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_deye_bosg.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.153,
+   0.207
+  ]
+ },
+ {
+  "ref": "127",
+  "name": "Solax BMS PARALLEL BOX-II G1",
+  "qty": 2,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_solax_bms_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.014,
+   0.018
+  ]
+ },
+ {
+  "ref": "122",
+  "name": "Solax MC0600 BMS for Battery T30",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery system part (BMS / control box / rack)",
+  "type_ar": "جزء نظام بطارية (BMS / صندوق تحكم / حامل)",
+  "status": "component",
+  "img": "img/p_solax_bms_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.007,
+   0.009
+  ]
+ },
+ {
+  "ref": "154",
+  "name": "kable do AI-W5.1-B",
+  "qty": 24,
+  "group": "batteries",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.02,
+   0.028
+  ]
+ },
+ {
+  "ref": "155",
+  "name": "kable do RW-M6.1-B",
+  "qty": 16,
+  "group": "batteries",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.014,
+   0.018
+  ]
+ },
+ {
+  "ref": "134",
+  "name": "Sungrow ColumnAC011E",
+  "qty": 75,
+  "group": "chargers",
+  "type_en": "Charger mounting (pole / column)",
+  "type_ar": "عمود تثبيت شاحن",
+  "status": "accessory",
+  "img": "img/p_sungrow_column.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.956,
+   1.294
+  ]
+ },
+ {
+  "ref": "180",
+  "name": "Sungrow Mounting Pole IDC30E",
+  "qty": 7,
+  "group": "chargers",
+  "type_en": "Charger mounting (pole / column)",
+  "type_ar": "عمود تثبيت شاحن",
+  "status": "accessory",
+  "img": "img/p_sungrow_idc30e.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.149,
+   0.201
+  ],
+  "note": {
+   "en": "Sungrow · 30 kW DC fast charger for car parks and fleets",
+   "ar": "Sungrow · شاحن سريع DC ‏30 كيلوواط للمواقف والأساطيل"
+  }
+ },
+ {
+  "ref": "112",
+  "name": "SolarEdge EV Charger 22 kW 6m Cable Type 2 connector, RFID reader, 1 RFID card, MID SE-EVK22SRM-01",
+  "qty": 51,
+  "group": "chargers",
+  "type_en": "EV charger AC (wallbox)",
+  "type_ar": "شاحن سيارات AC (جداري)",
+  "status": "complete",
+  "img": "img/p_se_evcharger.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.347,
+   0.469
+  ]
+ },
+ {
+  "ref": "113",
+  "name": "SolarEdge EV Charger 22 kW 6m Cable Type 2 connector, RFID reader, 1 RFID card, MID SE-EVK22CRM-01",
+  "qty": 21,
+  "group": "chargers",
+  "type_en": "EV charger AC (wallbox)",
+  "type_ar": "شاحن سيارات AC (جداري)",
+  "status": "complete",
+  "img": "img/p_se_evcharger.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.143,
+   0.193
+  ]
+ },
+ {
+  "ref": "148",
+  "name": "X3-EVC-11K(PXH) Solax EV CHARGER 3 phase,cable 6.5m,wifi",
+  "qty": 21,
+  "group": "chargers",
+  "type_en": "EV charger AC (wallbox)",
+  "type_ar": "شاحن سيارات AC (جداري)",
+  "status": "complete",
+  "img": "img/p_solax_evc.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.143,
+   0.193
+  ]
+ },
+ {
+  "ref": "117",
+  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.4.5m,Type 1,32A",
+  "qty": 10,
+  "group": "chargers",
+  "type_en": "EV charging cable kit",
+  "type_ar": "طقم كابل شحن سيارات",
+  "status": "accessory",
+  "img": "img/p_se_evkit.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.025,
+   0.035
+  ]
+ },
+ {
+  "ref": "118",
+  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.4.5m,Type 2,32A",
+  "qty": 8,
+  "group": "chargers",
+  "type_en": "EV charging cable kit",
+  "type_ar": "طقم كابل شحن سيارات",
+  "status": "accessory",
+  "img": "img/p_se_evkit.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ]
+ },
+ {
+  "ref": "114",
+  "name": "SolarEdge SE-EV-KIT-15J32-1 EV charger cable and holder for EV Charg.Single Ph.Inv.7.6m,Type 1,32A",
+  "qty": 6,
+  "group": "chargers",
+  "type_en": "EV charging cable kit",
+  "type_ar": "طقم كابل شحن سيارات",
+  "status": "accessory",
+  "img": "img/p_se_evkit.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.015,
+   0.021
+  ]
+ },
+ {
+  "ref": "149",
+  "name": "Sungrow IDC30E+Card Terminal",
+  "qty": 5,
+  "group": "chargers",
+  "type_en": "EV fast charger DC 30 kW",
+  "type_ar": "شاحن سيارات سريع DC ‏30 كيلوواط",
+  "status": "complete",
+  "img": "img/p_sungrow_idc30e.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.319,
+   0.431
+  ],
+  "note": {
+   "en": "Sungrow · 30 kW DC fast charger for car parks and fleets",
+   "ar": "Sungrow · شاحن سريع DC ‏30 كيلوواط للمواقف والأساطيل"
+  }
+ },
+ {
+  "ref": "150",
+  "name": "Sungrow IDC30E+Card Terminal+Energy Meter",
+  "qty": 3,
+  "group": "chargers",
+  "type_en": "EV fast charger DC 30 kW",
+  "type_ar": "شاحن سيارات سريع DC ‏30 كيلوواط",
+  "status": "complete",
+  "img": "img/p_sungrow_idc30e.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.191,
+   0.259
+  ],
+  "note": {
+   "en": "Sungrow · 30 kW DC fast charger for car parks and fleets",
+   "ar": "Sungrow · شاحن سريع DC ‏30 كيلوواط للمواقف والأساطيل"
+  }
+ },
+ {
+  "ref": "151",
+  "name": "Sungrow IDC30E charger",
+  "qty": 1,
+  "group": "chargers",
+  "type_en": "EV fast charger DC 30 kW",
+  "type_ar": "شاحن سيارات سريع DC ‏30 كيلوواط",
+  "status": "complete",
+  "img": "img/p_sungrow_idc30e.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.064,
+   0.086
+  ],
+  "note": {
+   "en": "Sungrow · 30 kW DC fast charger for car parks and fleets",
+   "ar": "Sungrow · شاحن سريع DC ‏30 كيلوواط للمواقف والأساطيل"
+  }
+ },
+ {
+  "ref": "5",
+  "name": "Jinko Solar JKM460N-48HL4M-DV Dual Glass Black Frame",
+  "qty": 282,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   5.753,
+   7.783
+  ],
+  "note": {
+   "en": "460 W · 282 pcs = 129.72 kWp",
+   "ar": "460 واط · 282 قطعة = 129.72 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "17",
+  "name": "Jinko Solar JKM615N-78HL4-BDV Silver Frame",
+  "qty": 104,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   3.182,
+   4.306
+  ],
+  "note": {
+   "en": "615 W · 104 pcs = 63.96 kWp",
+   "ar": "615 واط · 104 قطعة = 63.96 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "33",
+  "name": "TW Solar 78HD640W 640W SF",
+  "qty": 75,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_tongwei.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.295,
+   3.105
+  ],
+  "note": {
+   "en": "640 W · 75 pcs = 48 kWp",
+   "ar": "640 واط · 75 قطعة = 48 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "34",
+  "name": "Ulica Solar UL-665M-132HV Silver Frame",
+  "qty": 23,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_ulica.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.704,
+   0.952
+  ],
+  "note": {
+   "en": "665 W · 23 pcs = 15.295 kWp",
+   "ar": "665 واط · 23 قطعة = 15.295 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "14",
+  "name": "Jinko Solar JKM425N-54HL4-V Black Frame _LB",
+  "qty": 11,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.224,
+   0.304
+  ],
+  "note": {
+   "en": "425 W · 11 pcs = 4.675 kWp",
+   "ar": "425 واط · 11 قطعة = 4.675 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "6",
+  "name": "Jinko Solar JKM575N-72HL4-V Silver Frame",
+  "qty": 10,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.255,
+   0.345
+  ],
+  "note": {
+   "en": "575 W · 10 pcs = 5.75 kWp",
+   "ar": "575 واط · 10 قطعة = 5.75 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "9",
+  "name": "Jinko Solar JKM455N-48HL4M-DB Dual Glass Full Black",
+  "qty": 10,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.204,
+   0.276
+  ],
+  "note": {
+   "en": "455 W · 10 pcs = 4.55 kWp",
+   "ar": "455 واط · 10 قطعة = 4.55 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "29",
+  "name": "Risen Solar RSM132-8-700BHGD Silver Frame",
+  "qty": 10,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_risen.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.306,
+   0.414
+  ],
+  "note": {
+   "en": "700 W · 10 pcs = 7 kWp",
+   "ar": "700 واط · 10 قطعة = 7 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "7",
+  "name": "Jinko Solar JKM630N-78HL4-BDV R Silver Frame",
+  "qty": 8,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.245,
+   0.331
+  ],
+  "note": {
+   "en": "630 W · 8 pcs = 5.04 kWp",
+   "ar": "630 واط · 8 قطعة = 5.04 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "8",
+  "name": "Jinko Solar JKM620N-78HL4-BDV Silver Frame_B",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.214,
+   0.29
+  ],
+  "note": {
+   "en": "620 W · 7 pcs = 4.34 kWp",
+   "ar": "620 واط · 7 قطعة = 4.34 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "10",
+  "name": "Jinko Solar JKM575N-72HL4-BDV Silver Frame_Dark Blue",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.178,
+   0.241
+  ],
+  "note": {
+   "en": "575 W · 7 pcs = 4.025 kWp",
+   "ar": "575 واط · 7 قطعة = 4.025 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "15",
+  "name": "Jinko Solar JKM445N-54HL4R-V PPE2 Black Frame",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.143,
+   0.193
+  ],
+  "note": {
+   "en": "445 W · 7 pcs = 3.115 kWp",
+   "ar": "445 واط · 7 قطعة = 3.115 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "16",
+  "name": "Jinko Solar JKM430N-54HL4R-B Full Black",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.143,
+   0.193
+  ],
+  "note": {
+   "en": "430 W · 7 pcs = 3.01 kWp",
+   "ar": "430 واط · 7 قطعة = 3.01 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "21",
+  "name": "Jinko Solar JKM440N-54HL4R-V Black Frame",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.143,
+   0.193
+  ],
+  "note": {
+   "en": "440 W · 7 pcs = 3.08 kWp",
+   "ar": "440 واط · 7 قطعة = 3.08 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "30",
+  "name": "Risen RSM144-9-550M Silver Frame",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_risen.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.178,
+   0.241
+  ],
+  "note": {
+   "en": "550 W · 7 pcs = 3.85 kWp",
+   "ar": "550 واط · 7 قطعة = 3.85 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "24",
+  "name": "Jinko Solar JKM435N-54HL4R-V Black Frame",
+  "qty": 6,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.122,
+   0.166
+  ],
+  "note": {
+   "en": "435 W · 6 pcs = 2.61 kWp",
+   "ar": "435 واط · 6 قطعة = 2.61 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "11",
+  "name": "Jinko Solar JKM445N-54HL4R-V Black Frame",
+  "qty": 5,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.102,
+   0.138
+  ],
+  "note": {
+   "en": "445 W · 5 pcs = 2.225 kWp",
+   "ar": "445 واط · 5 قطعة = 2.225 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "31",
+  "name": "Risen RSM108-10-435NDGB Full Black",
+  "qty": 5,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_risen.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.102,
+   0.138
+  ],
+  "note": {
+   "en": "435 W · 5 pcs = 2.175 kWp",
+   "ar": "435 واط · 5 قطعة = 2.175 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "18",
+  "name": "Jinko Solar JKM570N-72HL4-BDV Silver Frame",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.102,
+   0.138
+  ],
+  "note": {
+   "en": "570 W · 4 pcs = 2.28 kWp",
+   "ar": "570 واط · 4 قطعة = 2.28 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "19",
+  "name": "Jinko Solar JKM580N-72HL4-BDV Silver Frame",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.102,
+   0.138
+  ],
+  "note": {
+   "en": "580 W · 4 pcs = 2.32 kWp",
+   "ar": "580 واط · 4 قطعة = 2.32 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "20",
+  "name": "Jinko Solar JKM585N-72HL4-BDV Silver Frame",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.102,
+   0.138
+  ],
+  "note": {
+   "en": "585 W · 4 pcs = 2.34 kWp",
+   "ar": "585 واط · 4 قطعة = 2.34 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "23",
+  "name": "Jinko Solar JKM490N-60HL4-V Black Frame",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.102,
+   0.138
+  ],
+  "note": {
+   "en": "490 W · 4 pcs = 1.96 kWp",
+   "ar": "490 واط · 4 قطعة = 1.96 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "27",
+  "name": "Jinko Solar JKM410M-54HL4-V Black Frame",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.082,
+   0.11
+  ],
+  "note": {
+   "en": "410 W · 4 pcs = 1.64 kWp",
+   "ar": "410 واط · 4 قطعة = 1.64 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "13",
+  "name": "Jinko Solar JKM425N-54HL4R-B Full Black",
+  "qty": 3,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_54.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.061,
+   0.083
+  ],
+  "note": {
+   "en": "425 W · 3 pcs = 1.275 kWp",
+   "ar": "425 واط · 3 قطعة = 1.275 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "22",
+  "name": "Jinko Solar JKM585N-72HL4-BDV Micro Rectangular Silver Frame",
+  "qty": 3,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.076,
+   0.103
+  ],
+  "note": {
+   "en": "585 W · 3 pcs = 1.755 kWp",
+   "ar": "585 واط · 3 قطعة = 1.755 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "12",
+  "name": "Jinko Solar JKM590N-72HL4-BDV Micro Rectangular Silver Frame",
+  "qty": 2,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.051,
+   0.069
+  ],
+  "note": {
+   "en": "590 W · 2 pcs = 1.18 kWp",
+   "ar": "590 واط · 2 قطعة = 1.18 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "25",
+  "name": "Jinko Solar JKM625N-78HL4-BDV Silver Frame",
+  "qty": 2,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.061,
+   0.083
+  ],
+  "note": {
+   "en": "625 W · 2 pcs = 1.25 kWp",
+   "ar": "625 واط · 2 قطعة = 1.25 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "32",
+  "name": "Risen Solar RSM130-8-440M Black Frame",
+  "qty": 2,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_risen.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.041,
+   0.055
+  ],
+  "note": {
+   "en": "440 W · 2 pcs = 0.88 kWp",
+   "ar": "440 واط · 2 قطعة = 0.88 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "26",
+  "name": "Jinko Solar JKM545M-72HL4-BDVP Silver Frame",
+  "qty": 1,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_jinko_72.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.025,
+   0.035
+  ],
+  "note": {
+   "en": "545 W · 1 pcs = 0.545 kWp",
+   "ar": "545 واط · 1 قطعة = 0.545 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "28",
+  "name": "Longi LR4-72HPH-450M Silver Frame",
+  "qty": 1,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_longi.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ],
+  "note": {
+   "en": "450 W · 1 pcs = 0.45 kWp",
+   "ar": "450 واط · 1 قطعة = 0.45 كيلوواط ذروة"
+  }
+ },
+ {
+  "ref": "184",
+  "name": "EMS Zeronest",
+  "qty": 17,
+  "group": "electrical",
+  "type_en": "Energy management system (EMS)",
+  "type_ar": "نظام إدارة طاقة (EMS)",
+  "status": "complete",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.029,
+   0.039
+  ]
+ },
+ {
+  "ref": "105",
+  "name": "Foxess Power Meter 3PH",
+  "qty": 77,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.033,
+   0.044
+  ]
+ },
+ {
+  "ref": "140",
+  "name": "YHDC SCT024TS-300A/5A current transformer",
+  "qty": 35,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.015,
+   0.02
+  ]
+ },
+ {
+  "ref": "100",
+  "name": "Deye Energy Meter 3PH",
+  "qty": 25,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.011,
+   0.014
+  ]
+ },
+ {
+  "ref": "115",
+  "name": "Solaredge SEHAZB-SCKT-MTR-FR",
+  "qty": 21,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.009,
+   0.012
+  ]
+ },
+ {
+  "ref": "167",
+  "name": "EASTRON transformer ESCT-T24-100A/5A",
+  "qty": 15,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.006,
+   0.009
+  ]
+ },
+ {
+  "ref": "123",
+  "name": "Solax Chint Single Phase DDSU666-CT",
+  "qty": 3,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "ref": "102",
+  "name": "Deye Energy Meter 1PH",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "110",
+  "name": "Huawei DDSU666-H",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "176",
+  "name": "CT Clamp",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "108",
+  "name": "Foxess Power Meter 1PH",
+  "qty": 1,
+  "group": "electrical",
+  "type_en": "Energy meter / current sensor",
+  "type_ar": "عداد طاقة / حساس تيار",
+  "status": "accessory",
+  "img": "img/p_meter.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.001
+  ]
+ },
+ {
+  "ref": "121",
+  "name": "Solax Pocket Wifi 3.0-P Cloud Monitoring",
+  "qty": 53,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.018,
+   0.024
+  ]
+ },
+ {
+  "ref": "101",
+  "name": "Deye LSW-5",
+  "qty": 40,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.014,
+   0.018
+  ]
+ },
+ {
+  "ref": "98",
+  "name": "Deye LSW-3",
+  "qty": 33,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.011,
+   0.015
+  ]
+ },
+ {
+  "ref": "99",
+  "name": "Deye LSG-3",
+  "qty": 33,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.011,
+   0.015
+  ]
+ },
+ {
+  "ref": "132",
+  "name": "Communicaton Module Sungrow COM100A",
+  "qty": 11,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.004,
+   0.005
+  ]
+ },
+ {
+  "ref": "135",
+  "name": "Sungrow LOGGER3000 AST01304",
+  "qty": 10,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.003,
+   0.005
+  ]
+ },
+ {
+  "ref": "111",
+  "name": "Huawei Dongle WiFi/FE",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "131",
+  "name": "Solax Pocket 4G 3.0 Cloud Monitoring",
+  "qty": 1,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "ref": "133",
+  "name": "Sungrow WINET-S",
+  "qty": 1,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "ref": "136",
+  "name": "Sungrow S100",
+  "qty": 1,
+  "group": "electrical",
+  "type_en": "Monitoring / communication module",
+  "type_ar": "وحدة مراقبة / اتصال",
+  "status": "accessory",
+  "img": "img/p_comm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.0
+  ]
+ },
+ {
+  "ref": "145",
+  "name": "Photonica PAC-3D-F16RC",
+  "qty": 42,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.143,
+   0.193
+  ]
+ },
+ {
+  "ref": "144",
+  "name": "Photonica PDC-D2-B",
+  "qty": 41,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.139,
+   0.189
+  ]
+ },
+ {
+  "ref": "142",
+  "name": "Photonica PAC-3D-F16",
+  "qty": 40,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.136,
+   0.184
+  ]
+ },
+ {
+  "ref": "141",
+  "name": "Photonica PDC-2D2-C",
+  "qty": 36,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.122,
+   0.166
+  ]
+ },
+ {
+  "ref": "143",
+  "name": "Photonica PAC-3D-F25",
+  "qty": 34,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.116,
+   0.156
+  ]
+ },
+ {
+  "ref": "146",
+  "name": "Photonica PDC-2D2-B",
+  "qty": 33,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.112,
+   0.152
+  ]
+ },
+ {
+  "ref": "147",
+  "name": "Photonica PAD-2D2-C-F16C",
+  "qty": 7,
+  "group": "electrical",
+  "type_en": "PV switchboard (AC/DC protection box)",
+  "type_ar": "لوحة حماية كهربائية للطاقة الشمسية (AC/DC)",
+  "status": "complete",
+  "img": "img/p_photonica_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.024,
+   0.032
+  ]
+ },
+ {
+  "ref": "175",
+  "name": "Emiter ZRP-PV Current source to configure and test photovoltaic inverters",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "PV test equipment",
+  "type_ar": "جهاز اختبار للطاقة الشمسية",
+  "status": "complete",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.014,
+   0.018
+  ]
+ },
+ {
+  "ref": "124",
+  "name": "Solax X3-EPS-150KW-G2 Box Three Phase parallel box for 10pcs",
+  "qty": 25,
+  "group": "electrical",
+  "type_en": "Parallel / backup box",
+  "type_ar": "صندوق توازي / طاقة احتياطية",
+  "status": "component",
+  "img": "img/p_solax_eps_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.531,
+   0.719
+  ]
+ },
+ {
+  "ref": "125",
+  "name": "Solax X3-EPS-60KW-G2 Three Phase parallel box for 6pcs",
+  "qty": 24,
+  "group": "electrical",
+  "type_en": "Parallel / backup box",
+  "type_ar": "صندوق توازي / طاقة احتياطية",
+  "status": "component",
+  "img": "img/p_solax_eps_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.51,
+   0.69
+  ]
+ },
+ {
+  "ref": "129",
+  "name": "X1-Matebox Basic",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Parallel / backup box",
+  "type_ar": "صندوق توازي / طاقة احتياطية",
+  "status": "accessory",
+  "img": "img/p_solax_matebox.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.014,
+   0.018
+  ]
+ },
+ {
+  "ref": "130",
+  "name": "Solax AdaptorBox connection with Heatpump",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Parallel / backup box",
+  "type_ar": "صندوق توازي / طاقة احتياطية",
+  "status": "accessory",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.005,
+   0.007
+  ]
+ },
+ {
+  "ref": "119",
+  "name": "Optimizer Solaredge P601-4RM4MBN",
+  "qty": 1,
+  "group": "electrical",
+  "type_en": "Power optimizer",
+  "type_ar": "محسّن طاقة (optimizer)",
+  "status": "accessory",
+  "img": "img/p_se_optimizer.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "139",
+  "name": "Tsun TSOL-RSD-S1000-5 Rapid Shutdown 5 strings",
+  "qty": 54,
+  "group": "electrical",
+  "type_en": "Rapid shutdown device",
+  "type_ar": "جهاز فصل سريع",
+  "status": "accessory",
+  "img": "img/p_tsun_rsd.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.046,
+   0.062
+  ]
+ },
+ {
+  "ref": "179",
+  "name": "Przedłużki do modułów JKM",
+  "qty": 8093,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": "img/p_jinko_conn.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.825,
+   1.117
+  ]
+ },
+ {
+  "ref": "138",
+  "name": "Tsun TSOL-MP-F Female AC Conector Protective Cap for Tsuness Micro Inverter",
+  "qty": 2568,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": "img/p_tsun_conn.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.109,
+   0.148
+  ]
+ },
+ {
+  "ref": "137",
+  "name": "Tsun TSOL-MT-F Female AC Conector for Tsuness Micro Inverter",
+  "qty": 1764,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": "img/p_tsun_conn.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.075,
+   0.101
+  ]
+ },
+ {
+  "ref": "116",
+  "name": "SolarEdge Energy Bank Branch Connector set IAC-RBAT-RWYCBL-01 (1 pair)",
+  "qty": 1680,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.857,
+   1.159
+  ]
+ },
+ {
+  "ref": "177",
+  "name": "Jinko PV Cable Connector JK03M Negative",
+  "qty": 175,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": "img/p_jinko_conn.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.018,
+   0.024
+  ]
+ },
+ {
+  "ref": "178",
+  "name": "Jinko PV Cable Connector JK03M Positive",
+  "qty": 175,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": "img/p_jinko_conn.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.018,
+   0.024
+  ]
+ },
+ {
+  "ref": "128",
+  "name": "Solax POWER CABLE 1.2M for 3xT30",
+  "qty": 60,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.031,
+   0.041
+  ]
+ },
+ {
+  "ref": "182",
+  "name": "Cable set for Pylontech US and C battery series",
+  "qty": 5,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.003,
+   0.003
+  ]
+ },
+ {
+  "ref": "109",
+  "name": "Growatt Cable Set for ARK 2.5H-A1",
+  "qty": 4,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.002,
+   0.003
+  ]
+ },
+ {
+  "ref": "185",
+  "name": "Kabel zasilający 70cm Sluxer Home",
+  "qty": 1,
+  "group": "mounting",
+  "type_en": "Cable / connector",
+  "type_ar": "كابل / موصّل",
+  "status": "accessory",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "ref": "4",
+  "name": "Photonica Light Tension 1x1 / Photonia Regały",
+  "qty": 118,
+  "group": "mounting",
+  "type_en": "Mounting structure",
+  "type_ar": "هيكل تثبيت",
+  "status": "complete",
+  "img": "img/p_photonica_rack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.504,
+   2.035
+  ]
+ },
+ {
+  "ref": "2",
+  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Black 100 mt",
+  "qty": 4,
+  "group": "mounting",
+  "type_en": "Solar cable (reel)",
+  "type_ar": "كابل طاقة شمسية (بكرة)",
+  "status": "complete",
+  "img": "img/p_enco_cable.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ]
+ },
+ {
+  "ref": "3",
+  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Red 100 mt",
+  "qty": 4,
+  "group": "mounting",
+  "type_en": "Solar cable (reel)",
+  "type_ar": "كابل طاقة شمسية (بكرة)",
+  "status": "complete",
+  "img": "img/p_enco_cable.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.028
+  ]
+ },
+ {
+  "ref": "1",
+  "name": "Enco Solar Cable H1Z2Z2-K ST 1X4mm Red 500 mt",
+  "qty": 2,
+  "group": "mounting",
+  "type_en": "Solar cable (reel)",
+  "type_ar": "كابل طاقة شمسية (بكرة)",
+  "status": "complete",
+  "img": "img/p_enco_cable.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.051,
+   0.069
+  ]
+ },
+ {
+  "ref": "168",
+  "name": "Deye Screw",
+  "qty": 1553,
+  "group": "parts",
+  "type_en": "Spare part (screws / covers)",
+  "type_ar": "قطعة غيار (براغٍ / أغطية)",
+  "status": "part",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.066,
+   0.089
+  ]
+ },
+ {
+  "ref": "173",
+  "name": "Deye Hexagonal head bolt",
+  "qty": 914,
+  "group": "parts",
+  "type_en": "Spare part (screws / covers)",
+  "type_ar": "قطعة غيار (براغٍ / أغطية)",
+  "status": "part",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.039,
+   0.053
+  ]
+ },
+ {
+  "ref": "169",
+  "name": "Deye Sheet Metal Shell",
+  "qty": 503,
+  "group": "parts",
+  "type_en": "Spare part (screws / covers)",
+  "type_ar": "قطعة غيار (براغٍ / أغطية)",
+  "status": "part",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.021,
+   0.029
+  ]
+ },
+ {
+  "ref": "170",
+  "name": "Deye Screw v2",
+  "qty": 270,
+  "group": "parts",
+  "type_en": "Spare part (screws / covers)",
+  "type_ar": "قطعة غيار (براغٍ / أغطية)",
+  "status": "part",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.011,
+   0.016
+  ]
+ },
+ {
+  "ref": "171",
+  "name": "Deye Hexagonal head bolt v2",
+  "qty": 195,
+  "group": "parts",
+  "type_en": "Spare part (screws / covers)",
+  "type_ar": "قطعة غيار (براغٍ / أغطية)",
+  "status": "part",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.008,
+   0.011
+  ]
+ },
+ {
+  "ref": "172",
+  "name": "Deye Sheet Metal Shell V2",
+  "qty": 83,
+  "group": "parts",
+  "type_en": "Spare part (screws / covers)",
+  "type_ar": "قطعة غيار (براغٍ / أغطية)",
+  "status": "part",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.004,
+   0.005
+  ]
+ },
+ {
+  "ref": "181",
+  "name": "Cap SG350HX v1",
+  "qty": 16,
+  "group": "parts",
+  "type_en": "Spare part (screws / covers)",
+  "type_ar": "قطعة غيار (براغٍ / أغطية)",
+  "status": "part",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   0.004,
+   0.006
+  ]
+ }
+]

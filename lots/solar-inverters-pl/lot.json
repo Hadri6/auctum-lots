@@ -1,0 +1,260 @@
+{
+ "slug": "solar-inverters-pl",
+ "page_title": "Solar Inverters & Storage Lot",
+ "title": {
+  "en": "Solar inverters, home batteries & EV chargers – stock lot Poland",
+  "ar": "انفرترات طاقة شمسية وبطاريات منزلية وشواحن سيارات – دفعة مخزون من بولندا"
+ },
+ "subtitle": {
+  "en": "1,440 inverters (Deye, SolaX, Sungrow, SolarEdge, FoxESS, TSUN and more), home battery modules, 102 EV chargers, 625 PV modules and system accessories – 185 lines, 22,358 pieces, stock from 2023–2024 stored in a warehouse in Poland. Mostly residential equipment, plus a smaller commercial and industrial part. Offered as one complete lot.",
+  "ar": "1,440 انفرتر (Deye وSolaX وSungrow وSolarEdge وFoxESS وTSUN وغيرها)، ووحدات بطاريات منزلية، و102 شاحن سيارات، و625 لوحاً شمسياً وملحقات أنظمة – 185 بنداً و22,358 قطعة، مخزون من 2023–2024 في مستودع ببولندا. معظمها معدات منزلية، مع جزء أصغر تجاري وصناعي. تُعرض كدفعة واحدة كاملة."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعات"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
+ "qty_exact": true,
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "keep_order": true,
+ "kpis": [
+  {
+   "en": "Inverters",
+   "ar": "انفرترات",
+   "value": "1,440"
+  },
+  {
+   "en": "Battery modules",
+   "ar": "وحدات بطارية",
+   "value": "65 (+130 housings)"
+  },
+  {
+   "en": "EV chargers",
+   "ar": "شواحن سيارات",
+   "value": "102"
+  },
+  {
+   "en": "PV modules",
+   "ar": "ألواح شمسية",
+   "value": "625 · 330.295 kWp"
+  }
+ ],
+ "location": {
+  "en": "Poland",
+  "ar": "بولندا"
+ },
+ "other_group": "parts",
+ "group_order": [
+  "hybrid",
+  "ongrid",
+  "micro",
+  "commercial",
+  "batteries",
+  "chargers",
+  "modules",
+  "electrical",
+  "mounting",
+  "parts"
+ ],
+ "groups": {
+  "hybrid": {
+   "en": "Hybrid inverters – residential (battery-ready)",
+   "ar": "انفرترات هجينة منزلية (تعمل مع بطارية)",
+   "short": "Hybrid"
+  },
+  "ongrid": {
+   "en": "On-grid inverters – residential",
+   "ar": "انفرترات شبكة منزلية",
+   "short": "On-grid"
+  },
+  "micro": {
+   "en": "Micro & mini inverters (balcony / small roofs)",
+   "ar": "مايكرو وميني انفرتر (بلكونات وأسطح صغيرة)",
+   "short": "Micro"
+  },
+  "commercial": {
+   "en": "Commercial & industrial inverters (20–350 kW)",
+   "ar": "انفرترات تجارية وصناعية (20–350 كيلوواط)",
+   "short": "C&I"
+  },
+  "batteries": {
+   "en": "Battery modules & battery system parts",
+   "ar": "وحدات بطارية وأجزاء أنظمة البطاريات",
+   "short": "Batteries"
+  },
+  "chargers": {
+   "en": "EV chargers",
+   "ar": "شواحن سيارات كهربائية",
+   "short": "EV"
+  },
+  "modules": {
+   "en": "PV modules",
+   "ar": "ألواح شمسية",
+   "short": "Modules"
+  },
+  "electrical": {
+   "en": "Switchboards, meters, monitoring & system boxes",
+   "ar": "لوحات كهربائية وعدادات ومراقبة وصناديق أنظمة",
+   "short": "Electrical"
+  },
+  "mounting": {
+   "en": "Mounting, cables & connectors",
+   "ar": "هياكل تثبيت وكابلات وموصلات",
+   "short": "Cables"
+  },
+  "parts": {
+   "en": "Spare parts",
+   "ar": "قطع غيار",
+   "short": "Parts"
+  }
+ },
+ "statuses": {
+  "complete": {
+   "en": "Complete device",
+   "ar": "جهاز كامل",
+   "cls": "ok",
+   "desc_en": "Finished product as sold by the maker (inverter, battery module, charger, module, box).",
+   "desc_ar": "منتج نهائي كما تبيعه الشركة المصنّعة (انفرتر، وحدة بطارية، شاحن، لوح، صندوق)."
+  },
+  "component": {
+   "en": "System component",
+   "ar": "مكوّن نظام",
+   "cls": "mod",
+   "desc_en": "Works only inside a matching system: BMS / control boxes, battery bases and brackets, parallel boxes, power units.",
+   "desc_ar": "يعمل فقط ضمن نظام مطابق: وحدات BMS وصناديق تحكم، قواعد وحوامل بطاريات، صناديق توازي، وحدات طاقة."
+  },
+  "accessory": {
+   "en": "Accessory",
+   "ar": "ملحق",
+   "cls": "add",
+   "desc_en": "Meters, monitoring dongles, cables, connectors, charger mounts.",
+   "desc_ar": "عدادات، وحدات مراقبة، كابلات، موصلات، أعمدة شواحن."
+  },
+  "incomplete": {
+   "en": "To be checked",
+   "ar": "يُتحقَّق منه",
+   "cls": "bad",
+   "desc_en": "Listed as “empty module” in the stock list – contents to be confirmed at inspection.",
+   "desc_ar": "مذكور «وحدة فارغة» في قائمة المخزون – يُؤكَّد المحتوى عند المعاينة."
+  },
+  "part": {
+   "en": "Spare part",
+   "ar": "قطعة غيار",
+   "cls": "part",
+   "desc_en": "Loose screws, bolts, covers and metal shells.",
+   "desc_ar": "براغٍ وصواميل وأغطية وهياكل معدنية منفصلة."
+  }
+ },
+ "sets": {
+  "title": {
+   "en": "Read first – what is in this lot",
+   "ar": "اقرأ أولاً – ماذا في هذه الدفعة"
+  },
+  "nav": {
+   "en": "Read first",
+   "ar": "اقرأ أولاً"
+  },
+  "intro": {
+   "en": "The lot is mainly residential solar equipment. The table counts the complete devices and points out the lines that need parts from outside this lot.",
+   "ar": "الدفعة في معظمها معدات طاقة شمسية منزلية. الجدول يحصي الأجهزة الكاملة ويشير إلى البنود التي تحتاج قطعاً من خارج الدفعة."
+  },
+  "rows": [
+   {
+    "en": "Inverters – complete devices",
+    "ar": "انفرترات – أجهزة كاملة",
+    "qty": "1,440",
+    "detail": {
+     "en": "463 hybrid (residential), 168 on-grid (residential), 758 micro / mini, 51 commercial & industrial (20–350 kW).",
+     "ar": "463 هجين منزلي، 168 شبكة منزلي، 758 مايكرو/ميني، 51 تجاري وصناعي (20–350 كيلوواط)."
+    }
+   },
+   {
+    "en": "SolarEdge inverters",
+    "ar": "انفرترات SolarEdge",
+    "qty": 91,
+    "detail": {
+     "en": "SolarEdge inverters run with SolarEdge power optimizers on the panels; only 1 optimizer is in this lot.",
+     "ar": "انفرترات SolarEdge تعمل مع محسّنات SolarEdge على الألواح؛ وفي الدفعة محسّن واحد فقط."
+    }
+   },
+   {
+    "en": "Battery modules – complete",
+    "ar": "وحدات بطارية كاملة",
+    "qty": 65,
+    "detail": {
+     "en": "FoxESS Mira HV25, Dyness HV9637, SolaX, SolarEdge 10 kWh, Deye and FoxESS – high-voltage modules.",
+     "ar": "FoxESS Mira HV25 وDyness HV9637 وSolaX وSolarEdge ‏10 كيلوواط ساعة وDeye وFoxESS – وحدات جهد عالٍ."
+    }
+   },
+   {
+    "en": "Battery system parts – more than the modules",
+    "ar": "أجزاء أنظمة البطاريات – أكثر من الوحدات",
+    "qty": "175 + 630",
+    "detail": {
+     "en": "175 Mira BMS units and 630 battery brackets against 34 Mira modules; HV2600 BMS and brackets without HV2600 modules; 25 Deye AI-W5.1 control boxes without AI-W5.1 modules.",
+     "ar": "175 وحدة Mira BMS و630 حامل بطارية مقابل 34 وحدة Mira فقط؛ وBMS وحوامل HV2600 بلا وحدات HV2600؛ و25 صندوق تحكم Deye AI-W5.1 بلا وحدات AI-W5.1."
+    }
+   },
+   {
+    "en": "Sungrow SBR module housings",
+    "ar": "هياكل وحدات Sungrow SBR",
+    "qty": 130,
+    "detail": {
+     "en": "Listed as “empty module” – contents to be checked at inspection.",
+     "ar": "مذكورة «وحدة فارغة» – يُتحقَّق من محتواها عند المعاينة."
+    }
+   },
+   {
+    "en": "EV chargers",
+    "ar": "شواحن سيارات",
+    "qty": 102,
+    "detail": {
+     "en": "93 AC wallboxes (SolarEdge 22 kW, SolaX 11 kW) and 9 Sungrow DC fast chargers 30 kW.",
+     "ar": "93 شاحن جداري AC ‏(SolarEdge ‏22 كيلوواط، SolaX ‏11 كيلوواط) و9 شواحن Sungrow سريعة DC ‏30 كيلوواط."
+    }
+   },
+   {
+    "en": "PV modules",
+    "ar": "ألواح شمسية",
+    "qty": 625,
+    "detail": {
+     "en": "330.295 kWp in 30 models (Jinko Tiger Neo, Risen, TW Solar, Ulica, LONGi); most models are small quantities.",
+     "ar": "330.295 كيلوواط ذروة في 30 موديلاً (Jinko Tiger Neo وRisen وTW Solar وUlica وLONGi)؛ ومعظم الموديلات بكميات صغيرة."
+    }
+   },
+   {
+    "en": "Spare parts",
+    "ar": "قطع غيار",
+    "qty": "3,534",
+    "detail": {
+     "en": "Deye screws, bolts and metal shells; Sungrow SG350HX covers.",
+     "ar": "براغٍ وصواميل وهياكل معدنية من Deye؛ وأغطية Sungrow SG350HX."
+    }
+   }
+  ],
+  "note": {
+   "en": "Quantities in pieces from the stock list.",
+   "ar": "الكميات بالقطع من قائمة المخزون."
+  }
+ },
+ "shipping": {
+  "volume_m3": [
+   200,
+   290
+  ],
+  "note": {
+   "en": "Estimate from typical datasheet weights and packed sizes (inverters and batteries palletised, modules on module pallets); the stock list has no weights. Final loading plan confirmed after inspection.",
+   "ar": "تقدير من الأوزان المعتادة في كتالوجات المنتجات وأحجام التغليف (الانفرترات والبطاريات على منصات، والألواح على منصات ألواح)؛ قائمة المخزون بلا أوزان. يُؤكَّد مخطط التحميل النهائي بعد المعاينة."
+  }
+ },
+ "note": {
+  "en": "Photos are catalogue pictures of the same model or model family (representative); colours and versions may differ. Quantities as per stock list; condition to be confirmed at inspection. Subject to prior sale.",
+  "ar": "الصور من كتالوجات لنفس الموديل أو نفس العائلة (تمثيلية) وقد يختلف اللون أو الإصدار. الكميات حسب قائمة المخزون؛ وتُؤكَّد الحالة عند المعاينة. البضاعة متاحة حتى نفادها."
+ }
+}
