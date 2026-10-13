@@ -1,0 +1,292 @@
+{
+ "slug": "home-garden-sk",
+ "page_title": "Household Appliances, Garden & DIY Stock",
+ "title": {
+  "en": "Household appliances, garden & DIY store – complete remaining stock",
+  "ar": "متجر أجهزة منزلية وحدائق وعُدد – كامل المخزون المتبقي"
+ },
+ "subtitle": {
+  "en": "Complete remaining stock of a household-appliance, garden and DIY retailer in Slovakia: large appliances (washing machines, dishwashers, fridges, freezers, hobs, cooker hoods, water heaters), garden machinery (petrol and cordless mowers, a ride-on tractor, brush cutters, tillers, chainsaws), power and hand tools, small appliances, heating, TV/audio/IT, bicycles, bathroom and kitchen ware, lighting, hardware and spare parts. Brands include Bosch, Stiga, Stihl, Whirlpool, Beko, Gorenje, Faber, Ariston, Philips, DeLonghi, Kellys, Tescoma, Narex, Stanley, Emos and Sencor. 5,496 lines as recorded in the store inventory.",
+  "ar": "كامل المخزون المتبقي لمتجر أجهزة منزلية وحدائق وعُدد في سلوفاكيا: أجهزة كبيرة (غسالات، وجلّايات، وثلاجات، ومجمّدات، وألواح طبخ، وشفّاطات، وسخانات مياه)، وآلات حدائق (جزّازات عشب بالبنزين والبطارية، وجرّار جزّ، وقاطعات أعشاب، وعزّاقات، ومناشير سلسلة)، وعُدد كهربائية ويدوية، وأجهزة صغيرة، وتدفئة، وتلفزيون وصوتيات وحواسيب، ودراجات، وأدوات حمّام ومطبخ، وإضاءة، وخردوات، وقطع غيار. من العلامات: Bosch وStiga وStihl وWhirlpool وBeko وGorenje وFaber وAriston وPhilips وDeLonghi وKellys وTescoma وNarex وStanley وEmos وSencor. 5,496 صنفاً كما وردت في جرد المتجر."
+ },
+ "groups_word": [
+  "Categories",
+  "الفئة"
+ ],
+ "groups": {
+  "white": {
+   "en": "★ Large home appliances",
+   "ar": "★ أجهزة منزلية كبيرة",
+   "short": "★ Large appliances",
+   "img": [
+    "img/p_water_heater.jpg",
+    "img/p_washing_machine.jpg",
+    "img/p_cooker_hood.jpg",
+    "img/p_dishwasher.jpg",
+    "img/p_hob.jpg",
+    "img/p_freezer.jpg"
+   ]
+  },
+  "garden": {
+   "en": "★ Garden machinery & equipment",
+   "ar": "★ آلات ومعدات الحدائق",
+   "short": "★ Garden",
+   "img": [
+    "img/p_garden_sprinkler.jpg",
+    "img/p_pruning_shears.jpg",
+    "img/p_lawn_mower.jpg",
+    "img/p_garden_hose.jpg",
+    "img/p_brush_cutter.jpg",
+    "img/p_garden_pump.jpg"
+   ]
+  },
+  "tools": {
+   "en": "★ Power tools, hand tools & accessories",
+   "ar": "★ عُدد كهربائية ويدوية وملحقاتها",
+   "short": "★ Tools",
+   "img": [
+    "img/p_hand_tools.jpg",
+    "img/p_drill_bits.jpg",
+    "img/p_saw_blade.jpg",
+    "img/p_gloves.jpg",
+    "img/p_screwdriver.jpg",
+    "img/p_tape_measure.jpg"
+   ]
+  },
+  "smallapp": {
+   "en": "Small appliances & personal care",
+   "ar": "أجهزة منزلية صغيرة وعناية شخصية",
+   "short": "Small appliances",
+   "img": [
+    "img/p_sodastream.jpg",
+    "img/p_hair_straightener.jpg",
+    "img/p_kettle.jpg",
+    "img/p_vacuum_cleaner.jpg",
+    "img/p_electric_shaver.jpg",
+    "img/p_toaster.jpg"
+   ]
+  },
+  "heating": {
+   "en": "Heating, ventilation & climate",
+   "ar": "تدفئة وتهوية وتكييف",
+   "short": "Heating",
+   "img": [
+    "img/p_thermostat.jpg",
+    "img/p_dehumidifier.jpg",
+    "img/p_oil_radiator.jpg",
+    "img/p_fan.jpg"
+   ]
+  },
+  "electronics": {
+   "en": "TV, audio, IT & telecom",
+   "ar": "تلفزيون وصوتيات وحواسيب واتصالات",
+   "short": "Electronics",
+   "img": [
+    "img/p_hdmi_cable.jpg",
+    "img/p_battery.jpg",
+    "img/p_satellite_dish.jpg",
+    "img/p_keyboard.jpg",
+    "img/p_remote_control.jpg",
+    "img/p_headphones.jpg"
+   ]
+  },
+  "bikes": {
+   "en": "Bicycles, parts & accessories",
+   "ar": "دراجات وقطعها وإكسسواراتها",
+   "short": "Bikes",
+   "img": [
+    "img/p_inner_tube.jpg",
+    "img/p_bike_tyre.jpg",
+    "img/p_bike_light.jpg",
+    "img/p_bike_lock.jpg",
+    "img/p_bike_helmet.jpg",
+    "img/p_bike_saddle.jpg"
+   ]
+  },
+  "bathroom": {
+   "en": "Bathroom, sanitary & plumbing",
+   "ar": "حمّامات وأدوات صحية وسباكة",
+   "short": "Bathroom",
+   "img": [
+    "img/p_siphon.jpg",
+    "img/p_mixer_tap.jpg",
+    "img/p_shower.jpg",
+    "img/p_shower_enclosure.jpg",
+    "img/p_kitchen_sink.jpg",
+    "img/p_toilet.jpg"
+   ]
+  },
+  "kitchen": {
+   "en": "Kitchenware & housewares",
+   "ar": "أدوات مطبخ ومستلزمات منزلية",
+   "short": "Kitchen",
+   "img": [
+    "img/p_mop.jpg",
+    "img/p_frying_pan.jpg",
+    "img/p_pot.jpg",
+    "img/p_knife.jpg"
+   ]
+  },
+  "lighting": {
+   "en": "Lighting & electrical",
+   "ar": "إضاءة ومستلزمات كهربائية",
+   "short": "Lighting",
+   "img": [
+    "img/p_led_bulb.jpg",
+    "img/p_cable_reel.jpg",
+    "img/p_extension_cord.jpg",
+    "img/p_flashlight.jpg",
+    "img/p_doorbell.jpg",
+    "img/p_led_strip.jpg"
+   ]
+  },
+  "hardware": {
+   "en": "Hardware, fixings & building supplies",
+   "ar": "خردوات ومثبتات ومستلزمات بناء",
+   "short": "Hardware",
+   "img": [
+    "img/p_screws.jpg",
+    "img/p_rope.jpg",
+    "img/p_sealant.jpg",
+    "img/p_adhesive.jpg",
+    "img/p_door_lock.jpg",
+    "img/p_padlock.jpg"
+   ]
+  },
+  "spares": {
+   "en": "Appliance spare parts & consumables",
+   "ar": "قطع غيار ومستهلكات للأجهزة",
+   "short": "Spare parts",
+   "img": [
+    "img/p_vacuum_bags.jpg"
+   ]
+  },
+  "other": {
+   "en": "Other items",
+   "ar": "أصناف أخرى",
+   "short": "Other",
+   "img": [
+    "img/p_table.jpg",
+    "img/p_vase.jpg"
+   ]
+  }
+ },
+ "group_order": [
+  "white",
+  "garden",
+  "tools",
+  "smallapp",
+  "heating",
+  "electronics",
+  "bikes",
+  "bathroom",
+  "kitchen",
+  "lighting",
+  "hardware",
+  "spares",
+  "other"
+ ],
+ "other_group": "other",
+ "keep_order": true,
+ "statuses": {
+  "stock": {
+   "en": "Stock item",
+   "ar": "صنف مخزون",
+   "cls": "ok",
+   "desc_en": "Listed as a regular stock item (no condition remark in the inventory)",
+   "desc_ar": "مسجّل كصنف مخزون عادي (بلا ملاحظة عن الحالة في الجرد)"
+  },
+  "openbox": {
+   "en": "Open box",
+   "ar": "علبة مفتوحة",
+   "cls": "mod",
+   "desc_en": "Marked \"unpacked goods\" in the inventory",
+   "desc_ar": "مسجّل «بضاعة مفتوحة العلبة» في الجرد"
+  },
+  "display": {
+   "en": "Display unit",
+   "ar": "قطعة عرض",
+   "cls": "mod",
+   "desc_en": "Marked \"display piece\" in the inventory",
+   "desc_ar": "مسجّل «قطعة عرض» في الجرد"
+  },
+  "refurb": {
+   "en": "Refurbished",
+   "ar": "مُجدَّد",
+   "cls": "add",
+   "desc_en": "Marked \"refurbished\" in the inventory",
+   "desc_ar": "مسجّل «مُجدَّد» في الجرد"
+  },
+  "used": {
+   "en": "Used",
+   "ar": "مستعمل",
+   "cls": "part",
+   "desc_en": "Marked \"used goods\" in the inventory",
+   "desc_ar": "مسجّل «بضاعة مستعملة» في الجرد"
+  },
+  "damaged": {
+   "en": "Damaged – not repairable",
+   "ar": "تالف – غير قابل للإصلاح",
+   "cls": "bad",
+   "desc_en": "Marked \"damaged, not repairable\" in the inventory",
+   "desc_ar": "مسجّل «تالف، غير قابل للإصلاح» في الجرد"
+  }
+ },
+ "status_title": {
+  "en": "By condition (as recorded)",
+  "ar": "حسب الحالة (كما في الجرد)"
+ },
+ "kpis": [
+  {
+   "en": "Large appliances",
+   "ar": "أجهزة كبيرة",
+   "value": "113"
+  },
+  {
+   "en": "Garden machines",
+   "ar": "آلات حدائق",
+   "value": "128"
+  },
+  {
+   "en": "Power tools",
+   "ar": "عُدد كهربائية",
+   "value": "161"
+  },
+  {
+   "en": "Bicycles",
+   "ar": "دراجات",
+   "value": "19"
+  }
+ ],
+ "location": {
+  "en": "Slovakia",
+  "ar": "سلوفاكيا"
+ },
+ "note": {
+  "en": "Item names, codes and quantities as recorded in the store inventory of 14 Aug 2026; names are translated from Slovak and the original Slovak name is shown under each item (SK). The store has been closed since the inventory date; the actual stock may differ. Photos are representative pictures of the product type only – brand, model and colour are as stated in the item name. Lines sold by metre, centimetre, roll or kilogram show their own unit and are not counted in the piece totals.",
+  "ar": "أسماء الأصناف ورموزها وكمياتها كما وردت في جرد المتجر بتاريخ 14 أغسطس 2026؛ الأسماء مترجمة من السلوفاكية والاسم السلوفاكي الأصلي مذكور تحت كل صنف (SK). المتجر مغلق منذ تاريخ الجرد، وقد يختلف المخزون الفعلي. الصور توضيحية لنوع المنتج فقط، والعلامة والموديل واللون كما في اسم الصنف. الأصناف المبيعة بالمتر أو السنتيمتر أو اللفة أو الكيلوغرام تظهر بوحدتها ولا تدخل في مجموع القطع."
+ },
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
+ "shipping": {
+  "volume_m3": [
+   132,
+   207
+  ],
+  "weight_t": [
+   17.4,
+   27.2
+  ],
+  "note": {
+   "en": "Estimate from typical packed size and weight per product type (large appliances and garden machines in original cartons, small items in mixed cartons on pallets). Final loading plan confirmed after viewing.",
+   "ar": "تقدير من الحجم والوزن المعتادين لكل نوع منتج مغلّفاً (الأجهزة الكبيرة وآلات الحدائق في كراتينها الأصلية، والأصناف الصغيرة في كراتين مختلطة على منصّات). يُؤكَّد مخطط التحميل النهائي بعد المعاينة."
+  }
+ },
+ "credits": "Representative photos via Wikimedia Commons: adhesive – D-Platoon (CC BY-SA 3.0 de); angle grinder – Kolforn (CC BY-SA 4.0); battery – ajay_suresh (CC BY 2.0); bench grinder – Артём В (CC BY-SA 4.0); bicycle – Andrej Shadura (CC BY 4.0); bike helmet – Afifa Afrin (CC BY-SA 4.0); bike light – Dinkun Chen (CC BY-SA 4.0); bike lock – Felix Běhavý (CC BY 4.0); bike saddle – Singlespeedfahrer (CC0); bike tyre – Parhamr (Public domain); blender – Infrogmation of New Orleans (CC BY-SA 4.0); brush cutter – Feťour (Public domain); cable reel – Jacob Jensen Holding (CC BY-SA 3.0); chainsaw – Cantons-de-l'Est (CC BY-SA 4.0); circular saw – simplicity hunter (CC BY 2.0); coffee machine – Feťour (Public domain); compressor – GK tramrunner229 (CC BY-SA 3.0); cooker hood – Air fans (CC BY-SA 4.0); cordless drill – Matti Blume (CC BY-SA 4.0); dash camera – Schekinov Alexey Victorovich (CC BY-SA 4.0); dehumidifier – Mike Peel (CC BY-SA 4.0); dishwasher – Infrogmation (CC BY-SA 4.0); door lock – Mirrorsnake (CC BY-SA 4.0); doorbell – Wendaoz Saimu (CC BY-SA 4.0); drill bits – Emrys2 (CC BY-SA 3.0); electric shaver – Jacek Halicki (CC BY-SA 4.0); electric toothbrush – Jacek Halicki (CC BY-SA 4.0); epilator – Bree (Public domain); extension cord – Dmitry Makeev (CC BY-SA 4.0); fan – Rfc1394(talk) (Public domain); flashlight – KMJ at German Wikipedia (CC BY-SA 3.0); food processor – Donovan Govan (CC BY-SA 3.0); freezer – Dinkun Chen (CC BY-SA 4.0); frying pan – Wikimedia Commons contributor (Public domain); garden hose – Fridolin freudenfett (CC BY-SA 4.0); garden pump – PumpExpert (CC BY-SA 4.0); garden sprinkler – JJ Harrison (CC BY-SA 3.0); generator – Wikimedia Commons contributor (CC BY-SA 3.0); gloves – Toxophilus (CC BY-SA 4.0); grill – Owen Kelly, aka Lightfusegetaway at en.w (CC BY 3.0); hair dryer – Batholith (Public domain); hair straightener – Lombroso (CC BY-SA 4.0); hammer – Wikimedia Commons contributor (CC BY-SA 3.0); hand tools – Wilfredor (CC0); hdmi cable – Evan-Amos (Public domain); headphones – Florian Fuchs (CC BY-SA 3.0); hedge trimmer – Benlisquare (CC BY-SA 4.0); hob – Erik1980 at Dutch Wikipedia (CC BY-SA 3.0); ink – Raimond Spekking (CC BY-SA 4.0); inner tube – Baumfreund-FFM (Public domain); iron – Sokolikmawwer0 (CC BY-SA 3.0); jigsaw – Артём В (CC BY-SA 4.0); kettle – Jacek Halicki (CC BY-SA 4.0); keyboard – D-Kuru (CC BY-SA 3.0 at); kids bike – Matti Blume (CC BY-SA 4.0); kitchen sink – Havensmetal (CC BY-SA 4.0); knife – Jacek Halicki (CC BY-SA 4.0); ladder – Amin (CC BY-SA 4.0); laptop bag – Ion.bostan (CC BY-SA 3.0); lawn mower – Santeri Viinamäki (CC BY-SA 4.0); led bulb – Geoffrey.landis at English Wikipedia (CC BY 3.0); led strip – Andrey Gvrv (CC BY-SA 3.0); microwave – Brent Schmidt (CC BY-SA 2.0); mitre saw – Wikideas1 (CC0); mixer tap – Baron Maddock (CC BY 4.0); mobile phone – The Tech Cheat (CC BY-SA 4.0); mop – Ser Amantio di Nicolao (CC BY-SA 4.0); oil radiator – Ashley Pomeroy (CC BY 3.0); padlock – Trougnouf (CC BY 4.0); pliers – Evan-Amos (Public domain); pot – Matti Blume (CC BY-SA 4.0); printer – Somebody in the WWW at English Wikipedia (CC BY-SA 3.0); pruning shears – KoS (Public domain); refrigerator – Kskhh (CC BY-SA 4.0); remote control – Dmitry Makeev (CC BY-SA 4.0); robot vacuum – Mamirobothk (CC BY-SA 3.0); rope – Nevit Dilmen (CC BY-SA 3.0); rotary hammer – National Institute for Occupational Safe (Public domain); router wifi – Marie-Lan Nguyen (CC BY 2.5); sander – Rasbak (CC BY-SA 3.0); satellite dish – Rocky Masum (CC BY-SA 4.0); saw blade – R (CC BY 4.0); scale – Jacek Halicki (CC BY-SA 4.0); scarifier – Agri-Fab, Inc (CC0); screwdriver – edited by Iainf 22:19, 29 July 2006 (Public domain); screws – Mynameisnatmo (CC BY-SA 4.0); sealant – Vis M (CC BY-SA 4.0); shower – Kimclark668 (CC BY-SA 4.0); shower enclosure – tophomedesign (CC BY-SA 2.0); siphon – VanBuren (CC BY-SA 3.0); smartwatch – Kałasznikow (CC BY-SA 4.0); sodastream – Santeri Viinamäki (CC BY-SA 4.0); speaker – Trougnouf (CC BY 4.0); stick vacuum – MattClayt (CC BY-SA 4.0); table – EasyMart (CC BY-SA 4.0); tablet – Janto Dreijer (Public domain); tape measure – Evan-Amos (Public domain); television – TanmoyMisra (CC BY-SA 4.0); thermostat – Andy Butkaj (CC BY 2.0); tiller – Artaxerxes (CC BY-SA 4.0); toaster – The user wants to remain anonymous (CC BY-SA 4.0); toilet – Acabashi (CC BY-SA 4.0); toner – W.carter (CC BY-SA 4.0); tool set – R (CC BY 4.0); tumble dryer – Baron Maddock (CC BY 4.0); usb flash – Jacek Halicki (CC BY-SA 4.0); vacuum bags – Donald Trung Quoc Don (CC BY-SA 4.0); vacuum cleaner – Infrogmation (CC BY 4.0); vase – AIDEPCUL (CC BY 4.0); washing machine – Sanekmoskow (CC BY-SA 3.0); water heater – Wolfmann (CC BY-SA 4.0); welder – Just a Man (CC BY 4.0); wheelbarrow – Oto Zapletal (CC BY 4.0)."
+}
