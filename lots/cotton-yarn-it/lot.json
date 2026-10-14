@@ -47,7 +47,12 @@
   {
    "en": "Cones listed",
    "ar": "البكرات المذكورة",
-   "value": "52,321 (+37,380 kg uncounted)"
+   "value": "52,321"
+  },
+  {
+   "en": "kg without cone count",
+   "ar": "كغ بلا عدد بكرات",
+   "value": "37,380"
   }
  ],
  "location": {
