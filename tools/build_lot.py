@@ -214,8 +214,9 @@ def build(lot_dir, out_dir=None, private=False):
     sec = ''
     for k in order:
         # With statuses: complete pieces first, components and incomplete pieces last; then by quantity.
+        # lot.json "status_sort": false keeps the items.json order (e.g. yarn lines grouped by article).
         st_order = list(statuses)
-        L = sorted(groups[k], key=lambda x: (st_order.index(x['status']) if x.get('status') in st_order else 0,
+        L = sorted(groups[k], key=lambda x: (st_order.index(x['status']) if lot.get('status_sort', True) and x.get('status') in st_order else 0,
                                              0 if lot.get('keep_order') else -x['qty']))  # keep_order: items.json order
         cards, rows, nrows = '', '', 0
         for it in L:

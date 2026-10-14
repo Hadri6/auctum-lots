@@ -1,0 +1,286 @@
+{
+ "slug": "cotton-yarn-it",
+ "page_title": "Cotton Yarn on Cones – 135 t",
+ "title": {
+  "en": "Cotton yarn on cones – ≈135 t warehouse stock, Italy",
+  "ar": "خيوط قطن على بكرات – مخزون مستودع ≈135 طناً، إيطاليا"
+ },
+ "subtitle": {
+  "en": "Warehouse stock of an Italian yarn company: 135,426 kg of yarn on cones in 34 articles and 121 production-lot lines. Mainly carded and combed cotton ring yarn Ne 8–24 (the six biggest articles alone ≈ 80 t), plus open-end, slub (flammé), compact, cotton/Lycra, GOTS organic, mercerised, linen, viscose and polyester. Offered as two lots that are sold whole: Lot A 122,164 kg (30 articles) and Lot B 13,262 kg (4 articles). Every line below is copied from the seller’s own stock list (article, production lot, kg, number of cones, kg per cone, remarks). No photos of the stock have been published.",
+  "ar": "مخزون مستودع لشركة خيوط إيطالية: 135,426 كغ من الخيوط على بكرات في 34 صنفاً و121 سطراً بحسب دفعات الإنتاج. معظمها قطن رينغ مسرّح وممشّط بنمر Ne 8–24 (أكبر ستة أصناف وحدها ≈ 80 طناً)، إضافة إلى أوبن إند وفلامّيه وكومباكت وقطن مع ليكرا وقطن عضوي GOTS وممرسَر وكتان وفسكوز وبوليستر. يُعرض كدفعتين تُباع كل منهما كاملة: الدفعة A ‏122,164 كغ (30 صنفاً) والدفعة B ‏13,262 كغ (4 أصناف). كل سطر أدناه منقول من قائمة المخزون الأصلية للبائع (الصنف، دفعة الإنتاج، الكيلوغرام، عدد البكرات، وزن البكرة، الملاحظات). لم تُنشر صور للمخزون."
+ },
+ "groups_word": [
+  "Yarn families",
+  "عائلات الخيوط"
+ ],
+ "qty_label": [
+  "Kilograms",
+  "كيلوغرام"
+ ],
+ "qty_exact": true,
+ "unit": [
+  "kg",
+  "كغ"
+ ],
+ "keep_order": true,
+ "status_sort": false,
+ "rows_title": {
+  "en": "Production-lot lines ({n})",
+  "ar": "أسطر دفعات الإنتاج ({n})"
+ },
+ "kpis": [
+  {
+   "en": "Net weight",
+   "ar": "الوزن الصافي",
+   "value": "135,426 kg"
+  },
+  {
+   "en": "Articles",
+   "ar": "الأصناف",
+   "value": "34"
+  },
+  {
+   "en": "Lines (production lots)",
+   "ar": "الأسطر (دفعات إنتاج)",
+   "value": "121"
+  },
+  {
+   "en": "Cones listed",
+   "ar": "البكرات المذكورة",
+   "value": "52,321 (+37,380 kg uncounted)"
+  }
+ ],
+ "location": {
+  "en": "Italy",
+  "ar": "إيطاليا"
+ },
+ "other_group": "other",
+ "group_order": [
+  "carded",
+  "combed",
+  "oe",
+  "plied",
+  "slub",
+  "stretch",
+  "compact",
+  "mercerised",
+  "linen",
+  "viscose",
+  "polyester"
+ ],
+ "groups": {
+  "carded": {
+   "en": "Cotton ring yarn, carded (Ne 8–24)",
+   "ar": "قطن رينغ مسرّح (Ne 8–24)",
+   "short": "Carded"
+  },
+  "combed": {
+   "en": "Cotton ring yarn, combed (pettinato)",
+   "ar": "قطن رينغ ممشّط",
+   "short": "Combed"
+  },
+  "oe": {
+   "en": "Cotton open-end yarn",
+   "ar": "قطن أوبن إند",
+   "short": "OE"
+  },
+  "plied": {
+   "en": "Cotton 2-ply yarn",
+   "ar": "قطن مزدوج",
+   "short": "2-ply"
+  },
+  "slub": {
+   "en": "Slub yarn (flammé)",
+   "ar": "خيوط فلامّيه (بعُقد)",
+   "short": "Slub"
+  },
+  "stretch": {
+   "en": "Cotton + Lycra (elastane)",
+   "ar": "قطن + ليكرا (إيلاستين)",
+   "short": "Stretch"
+  },
+  "compact": {
+   "en": "Cotton compact yarn (incl. GOTS organic)",
+   "ar": "قطن كومباكت (منها عضوي GOTS)",
+   "short": "Compact"
+  },
+  "mercerised": {
+   "en": "Cotton gassed & mercerised",
+   "ar": "قطن محروق وممرسَر",
+   "short": "Mercerised"
+  },
+  "linen": {
+   "en": "Linen yarn",
+   "ar": "خيوط كتان",
+   "short": "Linen"
+  },
+  "viscose": {
+   "en": "Viscose yarn",
+   "ar": "خيوط فسكوز",
+   "short": "Viscose"
+  },
+  "polyester": {
+   "en": "Polyester spun yarn",
+   "ar": "خيوط بوليستر مغزول",
+   "short": "Polyester"
+  }
+ },
+ "statuses": {
+  "full": {
+   "en": "Full cones (≥1.5 kg)",
+   "ar": "بكرات كاملة (≥1.5 كغ)",
+   "cls": "ok",
+   "desc_en": "Average cone weight 1.5 kg or more.",
+   "desc_ar": "متوسط وزن البكرة 1.5 كغ أو أكثر."
+  },
+  "light": {
+   "en": "Lighter cones (1–1.5 kg)",
+   "ar": "بكرات أخف (1–1.5 كغ)",
+   "cls": "mod",
+   "desc_en": "Average cone weight 1.0–1.5 kg.",
+   "desc_ar": "متوسط وزن البكرة 1.0–1.5 كغ."
+  },
+  "small": {
+   "en": "Small / part cones (<1 kg)",
+   "ar": "بكرات صغيرة/جزئية (<1 كغ)",
+   "cls": "part",
+   "desc_en": "Average cone weight under 1 kg – mostly part cones.",
+   "desc_ar": "متوسط وزن البكرة أقل من 1 كغ – غالباً بكرات جزئية."
+  },
+  "nodata": {
+   "en": "Cone count not listed",
+   "ar": "عدد البكرات غير مذكور",
+   "cls": "add",
+   "desc_en": "The stock list gives only the kilograms for this line.",
+   "desc_ar": "قائمة المخزون تذكر الكيلوغرام فقط لهذا السطر."
+  }
+ },
+ "sets": {
+  "title": {
+   "en": "Read first",
+   "ar": "اقرأ أولاً"
+  },
+  "nav": {
+   "en": "Read first",
+   "ar": "اقرأ أولاً"
+  },
+  "intro": {
+   "en": "The stock is sold as two complete lots. The biggest single articles:",
+   "ar": "يُباع المخزون كدفعتين كاملتين. أكبر الأصناف المنفردة:"
+  },
+  "rows": [
+   {
+    "en": "Lot A – cotton (ring, combed, OE, slub, compact, stretch, GOTS, mercerised) + linen",
+    "ar": "الدفعة A – قطن (رينغ، ممشّط، أوبن إند، فلامّيه، كومباكت، ليكرا، GOTS، ممرسَر) + كتان",
+    "qty": "122,164 kg",
+    "detail": {
+     "en": "30 articles · 97 lines · sold whole",
+     "ar": "30 صنفاً · 97 سطراً · تُباع كاملة"
+    }
+   },
+   {
+    "en": "Lot B – cotton 2-ply, viscose, polyester",
+    "ar": "الدفعة B – قطن مزدوج، فسكوز، بوليستر",
+    "qty": "13,262 kg",
+    "detail": {
+     "en": "4 articles · 24 lines · sold whole",
+     "ar": "4 أصناف · 24 سطراً · تُباع كاملة"
+    }
+   },
+   {
+    "en": "Ne 20/1 cotton ring, carded",
+    "ar": "Ne 20/1 قطن رينغ مسرّح",
+    "qty": "21,084 kg",
+    "detail": {
+     "en": "7 production lot(s) in 9 line(s) · sale lot A",
+     "ar": "7 دفعة إنتاج في 9 سطر · دفعة البيع A"
+    }
+   },
+   {
+    "en": "Ne 16/1 cotton ring, carded",
+    "ar": "Ne 16/1 قطن رينغ مسرّح",
+    "qty": "18,616 kg",
+    "detail": {
+     "en": "4 production lot(s) in 8 line(s) · sale lot A",
+     "ar": "4 دفعة إنتاج في 8 سطر · دفعة البيع A"
+    }
+   },
+   {
+    "en": "Ne 16/1 cotton ring, combed",
+    "ar": "Ne 16/1 قطن رينغ ممشّط",
+    "qty": "11,471 kg",
+    "detail": {
+     "en": "7 production lot(s) in 9 line(s) · sale lot A",
+     "ar": "7 دفعة إنتاج في 9 سطر · دفعة البيع A"
+    }
+   },
+   {
+    "en": "Ne 10/1 cotton ring, carded",
+    "ar": "Ne 10/1 قطن رينغ مسرّح",
+    "qty": "11,293 kg",
+    "detail": {
+     "en": "5 production lot(s) in 5 line(s) · sale lot A",
+     "ar": "5 دفعة إنتاج في 5 سطر · دفعة البيع A"
+    }
+   },
+   {
+    "en": "Ne 8/1 cotton ring, carded",
+    "ar": "Ne 8/1 قطن رينغ مسرّح",
+    "qty": "8,704 kg",
+    "detail": {
+     "en": "6 production lot(s) in 7 line(s) · sale lot A",
+     "ar": "6 دفعة إنتاج في 7 سطر · دفعة البيع A"
+    }
+   },
+   {
+    "en": "Ne 8/2 cotton open-end, 2-ply",
+    "ar": "Ne 8/2 قطن أوبن إند مزدوج",
+    "qty": "8,305 kg",
+    "detail": {
+     "en": "14 production lot(s) in 14 line(s) · sale lot A",
+     "ar": "14 دفعة إنتاج في 14 سطر · دفعة البيع A"
+    }
+   },
+   {
+    "en": "Ne 14/1 cotton ring, carded",
+    "ar": "Ne 14/1 قطن رينغ مسرّح",
+    "qty": "5,884 kg",
+    "detail": {
+     "en": "2 production lot(s) in 3 line(s) · sale lot A",
+     "ar": "2 دفعة إنتاج في 3 سطر · دفعة البيع A"
+    }
+   },
+   {
+    "en": "Ne 20/2 cotton, 2-ply",
+    "ar": "Ne 20/2 قطن مزدوج",
+    "qty": "5,294 kg",
+    "detail": {
+     "en": "1 production lot(s) in 2 line(s) · sale lot B",
+     "ar": "1 دفعة إنتاج في 2 سطر · دفعة البيع B"
+    }
+   }
+  ],
+  "note": {
+   "en": "One article is usually spread over several production lots (dye/batch lots) – see the remarks per line. Remarks such as “egitto”, “Pak”, “Grecia”, “GE”, “M”, “rlo”, “2032” are copied as written in the seller’s list.",
+   "ar": "الصنف الواحد موزّع غالباً على عدة دفعات إنتاج – انظر ملاحظات كل سطر. الملاحظات مثل «egitto» و«Pak» و«Grecia» و«GE» و«M» و«rlo» و«2032» منقولة كما كُتبت في قائمة البائع."
+  }
+ },
+ "shipping": {
+  "volume_m3": [
+   400,
+   500
+  ],
+  "weight_t": [
+   135.4,
+   142
+  ],
+  "note": {
+   "en": "Net yarn weight 135.4 t from the stock list; gross with cartons/pallets estimated. Volume estimated for yarn cones in cartons (≈3–3.7 m³ per tonne) – the loading plan is confirmed after viewing.",
+   "ar": "الوزن الصافي للخيوط 135.4 طناً من قائمة المخزون؛ الوزن القائم مع الكراتين والطبليات تقديري. الحجم تقديري لبكرات خيوط في كراتين (≈3–3.7 م³ للطن) – يُؤكَّد مخطط التحميل بعد المعاينة."
+  }
+ },
+ "note": {
+  "en": "Stock list as provided by the seller, transcribed line by line; totals checked against the list. Quantities in kilograms (net).",
+  "ar": "قائمة المخزون كما قدّمها البائع، منقولة سطراً سطراً؛ المجاميع مطابقة للقائمة. الكميات بالكيلوغرام (صافي)."
+ }
+}
