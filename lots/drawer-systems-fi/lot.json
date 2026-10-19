@@ -1,0 +1,196 @@
+{
+ "slug": "drawer-systems-fi",
+ "page_title": "GRASS Drawer Systems & Hinges",
+ "title": {
+  "en": "GRASS drawer systems, runners & hinges – factory surplus",
+  "ar": "أنظمة أدراج ومجاري ومفصّلات GRASS – فائض مصنع"
+ },
+ "subtitle": {
+  "en": "New, unused furniture hardware from a Nordic furniture factory: GRASS Nova Pro / Scala drawer system (runners, side sets H90 and H186, covers, front fixings), GRASS Dynapro concealed runners, GRASS Tiomos hinges and mounting plates, Camar cabinet hanging brackets and Titus connectors – about 41,934 pieces in 341 lines, as recorded in the warehouse inventory.",
+  "ar": "عُدد أثاث جديدة غير مستعملة من مصنع أثاث في شمال أوروبا: نظام أدراج GRASS Nova Pro / Scala (مجارٍ، وجوانب H90 وH186، وأغطية، ومثبّتات واجهة)، ومجاري GRASS Dynapro المخفية، ومفصّلات GRASS Tiomos وقواعدها، وحوامل تعليق خزائن Camar، ووصلات Titus – نحو 41,934 قطعة في 341 صنفاً كما وردت في جرد المستودع."
+ },
+ "groups_word": [
+  "Categories",
+  "الفئة"
+ ],
+ "groups": {
+  "novapro": {
+   "en": "★ GRASS Nova Pro / Scala drawer system",
+   "ar": "★ نظام أدراج GRASS Nova Pro / Scala",
+   "short": "★ Nova Pro / Scala"
+  },
+  "dynapro": {
+   "en": "★ GRASS Dynapro concealed runners",
+   "ar": "★ مجاري GRASS Dynapro المخفية",
+   "short": "★ Dynapro"
+  },
+  "tiomos": {
+   "en": "★ GRASS Tiomos hinges & mounting plates",
+   "ar": "★ مفصّلات GRASS Tiomos وقواعدها",
+   "short": "★ Tiomos hinges"
+  },
+  "camar": {
+   "en": "Camar cabinet hanging brackets & rails",
+   "ar": "حوامل تعليق خزائن Camar وسككها",
+   "short": "Camar brackets"
+  },
+  "titus": {
+   "en": "Titus connectors",
+   "ar": "وصلات Titus",
+   "short": "Titus"
+  },
+  "panels": {
+   "en": "Drawer boxes, bases & back panels (16 mm board, cut to size)",
+   "ar": "صناديق وقواعد وظهور أدراج (لوح 16 مم مقصوص على المقاس)",
+   "short": "Drawer panels"
+  }
+ },
+ "group_order": [
+  "novapro",
+  "dynapro",
+  "tiomos",
+  "camar",
+  "titus",
+  "panels"
+ ],
+ "other_group": "panels",
+ "keep_order": true,
+ "statuses": {
+  "a": {
+   "en": "New – warehouse stock",
+   "ar": "جديد – مخزون مستودع",
+   "cls": "ok",
+   "desc_en": "Regular warehouse stock, new and unused",
+   "desc_ar": "مخزون مستودع عادي، جديد وغير مستعمل"
+  },
+  "q": {
+   "en": "Quarantine stock",
+   "ar": "مخزون محجوز للفحص",
+   "cls": "part",
+   "desc_en": "Booked in a separate quarantine location – condition to be checked",
+   "desc_ar": "مسجّل في موقع حجز منفصل – الحالة تُفحص"
+  }
+ },
+ "status_title": {
+  "en": "By stock status",
+  "ar": "حسب حالة المخزون"
+ },
+ "sets": {
+  "title": {
+   "en": "At a glance",
+   "ar": "نظرة سريعة"
+  },
+  "nav": {
+   "en": "At a glance",
+   "ar": "نظرة سريعة"
+  },
+  "intro": {
+   "en": "Runners and drawer side sets are counted per side (left and right are separate lines).",
+   "ar": "المجاري وجوانب الأدراج محسوبة للجانب الواحد (اليسار واليمين في سطرين منفصلين)."
+  },
+  "rows": [
+   {
+    "en": "Nova Pro runners 40 kg soft-close",
+    "ar": "مجاري Nova Pro ‏40 كغ بإغلاق هادئ",
+    "qty": "2,970 pcs",
+    "detail": {
+     "en": "≈ 1,485 pairs · 270–500 mm",
+     "ar": "≈ 1,485 زوجاً · 270–500 مم"
+    }
+   },
+   {
+    "en": "Scala drawer side sets",
+    "ar": "جوانب أدراج Scala",
+    "qty": "4,519 pcs",
+    "detail": {
+     "en": "H90 ≈ 1,409 pairs · H186 ≈ 850 pairs · 270–500 mm · colour ice",
+     "ar": "H90 ≈ 1,409 زوجاً · H186 ≈ 850 زوجاً · 270–500 مم · لون ice"
+    }
+   },
+   {
+    "en": "Dynapro concealed runners 40 kg 3D",
+    "ar": "مجاري Dynapro المخفية ‏40 كغ",
+    "qty": "2,176 pcs",
+    "detail": {
+     "en": "≈ 1,088 pairs · 250–500 mm · + 832 adapters / brackets",
+     "ar": "≈ 1,088 زوجاً · 250–500 مم · + 832 وصلة / حامل"
+    }
+   },
+   {
+    "en": "Tiomos hinges",
+    "ar": "مفصّلات Tiomos",
+    "qty": "3,642 pcs",
+    "detail": {
+     "en": "with soft-close damper 1,796 · without 1,846 · + 9,596 mounting plates",
+     "ar": "بإغلاق هادئ 1,796 · بدون 1,846 · + 9,596 قاعدة تثبيت"
+    }
+   },
+   {
+    "en": "Front fixings & covers",
+    "ar": "مثبّتات الواجهة والأغطية",
+    "qty": "10,796 pcs",
+    "detail": {
+     "en": "front fasteners 9,692 · cover sets 1,104",
+     "ar": "مثبّتات واجهة 9,692 · أطقم أغطية 1,104"
+    }
+   },
+   {
+    "en": "Camar brackets & Titus connectors",
+    "ar": "حوامل Camar ووصلات Titus",
+    "qty": "6,059 pcs",
+    "detail": {
+     "en": "Camar 807/817 1,685 · Titus 4,374",
+     "ar": "Camar 807/817 1,685 · Titus 4,374"
+    }
+   }
+  ],
+  "note": {
+   "en": "Scala side sets run on Nova Pro runners; the lot contains runners for about 1,480 drawers.",
+   "ar": "جوانب Scala تعمل على مجاري Nova Pro؛ في الدفعة مجارٍ لنحو 1,480 درجاً."
+  }
+ },
+ "kpis": [
+  {
+   "en": "Pieces",
+   "ar": "قطعة",
+   "value": "41,934"
+  },
+  {
+   "en": "Hinges",
+   "ar": "مفصّلة",
+   "value": "3,642"
+  },
+  {
+   "en": "Runner pairs",
+   "ar": "زوج مجارٍ",
+   "value": "2,573"
+  }
+ ],
+ "location": {
+  "en": "Finland",
+  "ar": "فنلندا"
+ },
+ "note": {
+  "en": "Item names, codes and quantities as recorded in the warehouse inventory (names machine-translated from Finnish); the actual stock may differ. Product photos are catalogue pictures of the same product family (length, height and colour may differ); representative photos show the product type only. Colour code ice = GRASS colour of the Scala profiles; M01 = white board.",
+  "ar": "أسماء الأصناف ورموزها وكمياتها كما وردت في جرد المستودع (الأسماء مترجمة آلياً من الفنلندية)، وقد يختلف المخزون الفعلي. صور المنتجات من كتالوج نفس العائلة (قد يختلف الطول والارتفاع واللون)، والصور التوضيحية تبيّن نوع المنتج فقط. رمز اللون ice = لون GRASS لجوانب Scala؛ M01 = لوح أبيض."
+ },
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "shipping": {
+  "volume_m3": [
+   22,
+   34
+  ],
+  "weight_t": [
+   7.3,
+   11.4
+  ],
+  "note": {
+   "en": "Estimate from typical piece weights of the hardware (in cartons) and the board dimensions. Final loading plan confirmed after viewing.",
+   "ar": "تقدير من الأوزان المعتادة لقطع العُدد (في كراتين) ومن أبعاد الألواح. يُؤكَّد مخطط التحميل النهائي بعد المعاينة."
+  }
+ },
+ "credits": "Photos: manufacturer catalogue pictures (GRASS, Camar, Titus); representative where marked."
+}

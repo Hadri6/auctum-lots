@@ -1,0 +1,3710 @@
+[
+ {
+  "ref": "PMNPP4830",
+  "name": "Nova Pro box base mat 380x280 mm",
+  "qty": 3,
+  "group": "novapro",
+  "type_en": "Drawer base mat",
+  "type_ar": "بساط قاعدة الدرج",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "PMNPP5830",
+  "name": "Nova Pro box base mat 480x280 mm",
+  "qty": 3,
+  "group": "novapro",
+  "type_en": "Drawer base mat",
+  "type_ar": "بساط قاعدة الدرج",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "PMNPPU5827",
+  "name": "Nova Pro Universal drawer base mat 480x250 mm",
+  "qty": 1,
+  "group": "novapro",
+  "type_en": "Drawer base mat",
+  "type_ar": "بساط قاعدة الدرج",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPKIINN",
+  "name": "Nova Pro front assembly fastener H90/H186",
+  "qty": 5516,
+  "group": "novapro",
+  "type_en": "Front fastener / front mount",
+  "type_ar": "مثبّت واجهة الدرج",
+  "status": "a",
+  "img": "img/p_np_front.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Front fixing for Nova Pro / Scala drawers (H90 / H186)",
+   "ar": "تثبيت واجهة لأدراج Nova Pro / Scala ‏(H90 / H186)"
+  }
+ },
+ {
+  "ref": "NPKIINN2",
+  "name": "Nova Pro front-end mount H186",
+  "qty": 3916,
+  "group": "novapro",
+  "type_en": "Front fastener / front mount",
+  "type_ar": "مثبّت واجهة الدرج",
+  "status": "a",
+  "img": "img/p_np_front.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Front fixing for Nova Pro / Scala drawers (H90 / H186)",
+   "ar": "تثبيت واجهة لأدراج Nova Pro / Scala ‏(H90 / H186)"
+  }
+ },
+ {
+  "ref": "NPTAKIINNO",
+  "name": "Nova Pro NPTA fastener ICE, right-hand M01",
+  "qty": 130,
+  "group": "novapro",
+  "type_en": "Front fastener / front mount",
+  "type_ar": "مثبّت واجهة الدرج",
+  "status": "a",
+  "img": "img/p_np_front.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Front fixing for Nova Pro / Scala drawers (H90 / H186)",
+   "ar": "تثبيت واجهة لأدراج Nova Pro / Scala ‏(H90 / H186)"
+  }
+ },
+ {
+  "ref": "NPTAFASTENER",
+  "name": "Nova Pro NPTA fastener ICE left M01",
+  "qty": 130,
+  "group": "novapro",
+  "type_en": "Front fastener / front mount",
+  "type_ar": "مثبّت واجهة الدرج",
+  "status": "a",
+  "img": "img/p_np_front.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Front fixing for Nova Pro / Scala drawers (H90 / H186)",
+   "ar": "تثبيت واجهة لأدراج Nova Pro / Scala ‏(H90 / H186)"
+  }
+ },
+ {
+  "ref": "NOVAPRO300L",
+  "name": "Nova Pro sliding rail 40kg Soft-close 300 mm left- hand",
+  "qty": 408,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO300R",
+  "name": "Nova Pro sliding rail 40kg Soft-close 300 mm right- hand",
+  "qty": 408,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO270R",
+  "name": "Nova Pro sliding rail 40kg Soft-close 270 mm right- hand",
+  "qty": 373,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO270L",
+  "name": "Nova Pro slide rail 40kg Soft-close 270 mm left",
+  "qty": 353,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO350L",
+  "name": "Nova Pro sliding rail 40kg Soft-close 350 mm left- hand",
+  "qty": 314,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO350R",
+  "name": "Nova Pro sliding rail 40kg Soft-close 350 mm right- hand",
+  "qty": 314,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO400L",
+  "name": "Nova Pro slide rail 40kg Soft-close 400 mm left- hand",
+  "qty": 218,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO400R",
+  "name": "Nova Pro sliding rail 40kg Soft-close 400 mm right- hand",
+  "qty": 218,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO450L",
+  "name": "Nova Pro sliding rail 40kg Soft-close 450 mm left- hand",
+  "qty": 100,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO450R",
+  "name": "Nova Pro sliding rail 40kg Soft-close 450 mm right- hand",
+  "qty": 100,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO500L",
+  "name": "Nova Pro slide rail 40kg Soft-close 500 mm left",
+  "qty": 83,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "NOVAPRO500R",
+  "name": "Nova Pro sliding rail 40kg Soft-close 500 mm right- hand",
+  "qty": 81,
+  "group": "novapro",
+  "type_en": "Nova Pro runner 40 kg soft-close (per side)",
+  "type_ar": "مجرى درج Nova Pro ‏40 كغ بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_np_runner.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA COVER 186 ICE",
+  "name": "NP Scala H186 cover set, ice",
+  "qty": 805,
+  "group": "novapro",
+  "type_en": "Scala cover set",
+  "type_ar": "طقم أغطية Scala",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "SCALAPEITE90ICE",
+  "name": "NP Scala H90 cover set, ice",
+  "qty": 299,
+  "group": "novapro",
+  "type_en": "Scala cover set",
+  "type_ar": "طقم أغطية Scala",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LJLPICE",
+  "name": "NP Scala box end H95 ice",
+  "qty": 34,
+  "group": "novapro",
+  "type_en": "Scala drawer accessory (end cap, connector, divider)",
+  "type_ar": "إكسسوار درج Scala (نهاية، وصلة، فاصل)",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LJSPICE",
+  "name": "NP Scala box connector, end cap H60 ice",
+  "qty": 32,
+  "group": "novapro",
+  "type_en": "Scala drawer accessory (end cap, connector, divider)",
+  "type_ar": "إكسسوار درج Scala (نهاية، وصلة، فاصل)",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LJLLICE",
+  "name": "NP Scala shelf divider H95 ice",
+  "qty": 30,
+  "group": "novapro",
+  "type_en": "Scala drawer accessory (end cap, connector, divider)",
+  "type_ar": "إكسسوار درج Scala (نهاية، وصلة، فاصل)",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LJLPROF40ICE",
+  "name": "NP Scala box joint profile 297x95x8 mm",
+  "qty": 1,
+  "group": "novapro",
+  "type_en": "Scala drawer accessory (end cap, connector, divider)",
+  "type_ar": "إكسسوار درج Scala (نهاية، وصلة، فاصل)",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LJLPROF45ICE",
+  "name": "NP Scala profile 347x95x8 mm",
+  "qty": 1,
+  "group": "novapro",
+  "type_en": "Scala drawer accessory (end cap, connector, divider)",
+  "type_ar": "إكسسوار درج Scala (نهاية، وصلة، فاصل)",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LJLPROF50ICE",
+  "name": "NP Scala profile 397x95x8 mm",
+  "qty": 1,
+  "group": "novapro",
+  "type_en": "Scala drawer accessory (end cap, connector, divider)",
+  "type_ar": "إكسسوار درج Scala (نهاية، وصلة، فاصل)",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LJLPROF80ICE",
+  "name": "NP Scala profile 697x95x8 mm",
+  "qty": 1,
+  "group": "novapro",
+  "type_en": "Scala drawer accessory (end cap, connector, divider)",
+  "type_ar": "إكسسوار درج Scala (نهاية، وصلة، فاصل)",
+  "status": "a",
+  "img": "img/p_scala_cover.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "SCALA300L186ICE",
+  "name": "NP Scala side set H186 300 mm left ice",
+  "qty": 298,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA300R186ICE",
+  "name": "NP Scala side set H186 300 mm right ice",
+  "qty": 298,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA350L186ICE",
+  "name": "NP Scala side set H186 350 mm left-hand ice",
+  "qty": 195,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA350R186ICE",
+  "name": "NP Scala side set H186 350 mm right ice",
+  "qty": 195,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA450L186ICE",
+  "name": "NP Scala side set H186 450 mm left-hand ice",
+  "qty": 165,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA450R186ICE",
+  "name": "NP Scala side set H186 450 mm right ice",
+  "qty": 125,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA270L186ICE",
+  "name": "NP Scala side unit H186 270 mm left ice",
+  "qty": 104,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA270R186ICE",
+  "name": "NP Scala side set H186 270 mm right ice",
+  "qty": 104,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA400L186ICE",
+  "name": "NP Scala side set H186 400 mm left-hand ice",
+  "qty": 59,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA400R186ICE",
+  "name": "NP Scala side set H186 400 mm right ice",
+  "qty": 59,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA500L186ICE",
+  "name": "NP Scala side set H186 500 mm left-hand ice",
+  "qty": 49,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA500R186ICE",
+  "name": "NP Scala side set H186 500 mm right ice",
+  "qty": 49,
+  "group": "novapro",
+  "type_en": "Scala side set H186 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H186 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h186.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA270L90ICE",
+  "name": "NP Scala side set H90 270 mm, left-hand",
+  "qty": 469,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA270R90ICE",
+  "name": "NP Scala side set H90 270 mm right-hand ice",
+  "qty": 469,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA350L90ICE",
+  "name": "NP Scala side set H90 350 mm left-hand ice",
+  "qty": 349,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA350R90ICE",
+  "name": "NP Scala side set H90 350 mm right-hand ice",
+  "qty": 349,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA300L90ICE",
+  "name": "NP Scala side set H90 300 mm left-hand ice",
+  "qty": 243,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA300R90ICE",
+  "name": "NP Scala side set H90 300 mm right-hand ice",
+  "qty": 243,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA450L90ICE",
+  "name": "NP Scala side set H90 450 mm left-hand ice",
+  "qty": 140,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA450R90ICE",
+  "name": "NP Scala side set H90 450 mm straight ice",
+  "qty": 139,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA400L90ICE",
+  "name": "NP Scala side set H90 400 mm left-hand ice",
+  "qty": 113,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA400R90ICE",
+  "name": "NP Scala side set H90 400 mm right-hand ice",
+  "qty": 113,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA500L90ICE",
+  "name": "NP Scala side set H90 500 mm left-hand ice",
+  "qty": 96,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SCALA500R90ICE",
+  "name": "NP Scala side set H90 500 mm right-hand ice",
+  "qty": 96,
+  "group": "novapro",
+  "type_en": "Scala side set H90 (per side)",
+  "type_ar": "جانب درج Scala بارتفاع H90 (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_scala_h90.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "GRF134125002233",
+  "name": "Dynapro adjustment adapter LEFT soft-close",
+  "qty": 250,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "GRF134125003233",
+  "name": "Dynapro Adjustment adapter RIGHT soft-close",
+  "qty": 180,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "GRF134125000233",
+  "name": "Dynapro front fixing bracket LEFT 3D",
+  "qty": 170,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "GRF134125001233",
+  "name": "Dynapro front mounting bracket RIGHT 3D",
+  "qty": 70,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSM35OM01",
+  "name": "Dynapro box side panel 35 342x133x12 mm",
+  "qty": 18,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSM35VM01",
+  "name": "Dynapro box side panel 35 342x133x12 mm",
+  "qty": 16,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSL450",
+  "name": "Dynapro drawer back panel set 45 375x142x16 mm",
+  "qty": 14,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSM30VM01",
+  "name": "Dynapro drawer side 30 292x133x12 mm",
+  "qty": 12,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSM450",
+  "name": "Dynapro box rear set 45 375x85x16 mm",
+  "qty": 12,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSL30OM01",
+  "name": "Dynapro drawer side 30 292x173x12 mm",
+  "qty": 11,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSL500",
+  "name": "Dynapro drawer back panel set 50 425x142x16 mm",
+  "qty": 10,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSM30OM01",
+  "name": "Dynapro drawer side 30 292x133x12 mm",
+  "qty": 8,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSL35OM01",
+  "name": "Dynapro drawer side 35 342x173x12 mm",
+  "qty": 7,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOKKP5530",
+  "name": "Dynapro drawer base 5530 475x290x16 mm",
+  "qty": 6,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSL30VM01",
+  "name": "Dynapro drawer side 30 292x173x12 mm",
+  "qty": 5,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSL400",
+  "name": "Dynapro box rear set 40 325x142x16 mm",
+  "qty": 5,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOKKP4530",
+  "name": "Dynapro box base 4530 375x290x16 mm",
+  "qty": 4,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOKKP5030",
+  "name": "Dynapro box base 5030 425x290x16 mm",
+  "qty": 4,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSL550",
+  "name": "Dynapro drawer back panel set 55 475x142x16 mm",
+  "qty": 4,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOKKP4035",
+  "name": "Dynapro box base 4035 325x340x16 mm",
+  "qty": 3,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSM40VM01",
+  "name": "Dynapro box, side 40, 392 x 133 x 12 mm",
+  "qty": 3,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSM200",
+  "name": "Dynapro box rear set 20 125x85x16 mm",
+  "qty": 3,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOKKP4030",
+  "name": "Dynapro box base 4030 325x290x16 mm",
+  "qty": 2,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOKKP5035",
+  "name": "Dynapro box base 5035 425x340x16 mm",
+  "qty": 2,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOKKP5535",
+  "name": "Dynapro drawer base 5535 475x340x16 mm",
+  "qty": 2,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSL35VM01",
+  "name": "Dynapro drawer side 35 342x173x12 mm",
+  "qty": 2,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSM40OM01",
+  "name": "Dynapro drawer side 40 392x133x12 mm",
+  "qty": 2,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSM400",
+  "name": "Dynapro box rear set 40 325x85x16 mm",
+  "qty": 2,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSM50OM01",
+  "name": "Dynapro drawer side 50 492x133x12 mm",
+  "qty": 1,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOSSM50VM01",
+  "name": "Dynapro drawer side 50 492x133x12 mm",
+  "qty": 1,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSM250",
+  "name": "Dynapro box rear set 25 175x85x16 mm",
+  "qty": 1,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSM500",
+  "name": "Dynapro box rear set 50 425x85x16 mm",
+  "qty": 1,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "LOTSM550",
+  "name": "Dynapro drawer back set 55 475x85x16 mm",
+  "qty": 1,
+  "group": "dynapro",
+  "type_en": "Dynapro adapter / front bracket",
+  "type_ar": "وصلة ضبط / حامل واجهة Dynapro",
+  "status": "a",
+  "img": "img/p_dynapro_adapter.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "DYNAPRO250V",
+  "name": "DYNAPRO FE NL250 40 3D slide rails 250 mm, left- hand",
+  "qty": 261,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO250O",
+  "name": "DYNAPRO FE NL250 40 3D slide rails 250 mm, right- hand",
+  "qty": 252,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO350O",
+  "name": "DYNAPRO FE NL350 40 3D slide rail 350 mm, right- hand",
+  "qty": 235,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO350V",
+  "name": "DYNAPRO FE NL350 40 3D slide rail 350 mm, left- hand",
+  "qty": 235,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO450O",
+  "name": "DYNAPRO FE NL450 40 3D slide rails 450 mm, right- hand",
+  "qty": 225,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO450V",
+  "name": "DYNAPRO FE NL450 40 3D slide rails 450 mm, left- hand",
+  "qty": 225,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO400O",
+  "name": "DYNAPRO FE NL400 40 3D slide rail 400 mm, right- hand",
+  "qty": 140,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO400V",
+  "name": "DYNAPRO FE NL400 40 3D slide rail 400 mm, left- hand",
+  "qty": 140,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO500V",
+  "name": "DYNAPRO FE NL500 40 3D slide rail 500 mm left",
+  "qty": 140,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO500O",
+  "name": "DYNAPRO FE NL500 40 3D slide rail 500 mm, right- hand",
+  "qty": 131,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO300O",
+  "name": "DYNAPRO FE NL300 40 3D slide rail 300 mm, right- hand",
+  "qty": 96,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "DYNAPRO300V",
+  "name": "DYNAPRO FE NL300 40 3D slide rail 300 mm, left- hand",
+  "qty": 96,
+  "group": "dynapro",
+  "type_en": "Dynapro concealed runner 40 kg 3D soft-close (per side)",
+  "type_ar": "مجرى مخفي Dynapro ‏40 كغ ثلاثي الضبط بإغلاق هادئ (للجانب الواحد)",
+  "status": "a",
+  "img": "img/p_dynapro.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "SAV04908",
+  "name": "GRASS TIOMOS 110 opening limiter 85 degrees",
+  "qty": 2,
+  "group": "tiomos",
+  "type_en": "Hinge accessory (opening limiter)",
+  "type_ar": "ملحق مفصّلة (محدِّد فتح)",
+  "status": "q",
+  "img": null
+ },
+ {
+  "ref": "TIOSAR110K03P",
+  "name": "TIOMOS Impresso hinge 110 K3, non-silent",
+  "qty": 1407,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge (without damper)",
+  "type_ar": "مفصّلة Tiomos (بدون مخمّد)",
+  "status": "a",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOSAR110K95P",
+  "name": "TIOMOS Impresso hinge 110 K9.5, non-silent",
+  "qty": 184,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge (without damper)",
+  "type_ar": "مفصّلة Tiomos (بدون مخمّد)",
+  "status": "a",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOSARPK125K14M",
+  "name": "TIOMOS Mirro hinge 125 K14, non-silent",
+  "qty": 176,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge (without damper)",
+  "type_ar": "مفصّلة Tiomos (بدون مخمّد)",
+  "status": "a",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOSAR11090EP",
+  "name": "TIOMOS Impresso hinge 110/90E, non-dampened",
+  "qty": 79,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge (without damper)",
+  "type_ar": "مفصّلة Tiomos (بدون مخمّد)",
+  "status": "a",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOSAR110K03PVAIM",
+  "name": "TIOMOS Impresso hinge 110 K3 with damper",
+  "qty": 1267,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge with integrated soft-close damper",
+  "type_ar": "مفصّلة Tiomos بإغلاق هادئ مدمج",
+  "status": "a",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOSAR155K03RVAIM",
+  "name": "TIOMOS Screw-fixed hinge 155 K3 vaim",
+  "qty": 207,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge with integrated soft-close damper",
+  "type_ar": "مفصّلة Tiomos بإغلاق هادئ مدمج",
+  "status": "q",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOSAR110K95PVAIM",
+  "name": "TIOMOS Impresso hinge 110 K9.5 with damper",
+  "qty": 170,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge with integrated soft-close damper",
+  "type_ar": "مفصّلة Tiomos بإغلاق هادئ مدمج",
+  "status": "a",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOSAR11090EPVAIM",
+  "name": "TIOMOS Impresso hinge 110/90E with damping",
+  "qty": 82,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge with integrated soft-close damper",
+  "type_ar": "مفصّلة Tiomos بإغلاق هادئ مدمج",
+  "status": "a",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOSARPK125K14MVAIM",
+  "name": "TIOMOS Mirro hinge 125 K14 with damper",
+  "qty": 70,
+  "group": "tiomos",
+  "type_en": "Tiomos hinge with integrated soft-close damper",
+  "type_ar": "مفصّلة Tiomos بإغلاق هادئ مدمج",
+  "status": "a",
+  "img": "img/p_tiomos_110.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "TIOALUSH00CROSSECO",
+  "name": "TIOMOS Eco Cross washer H00",
+  "qty": 3560,
+  "group": "tiomos",
+  "type_en": "Tiomos mounting plate",
+  "type_ar": "قاعدة تثبيت مفصّلة Tiomos",
+  "status": "a",
+  "img": "img/p_tiomos_plate.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Hinge mounting plate (the inventory translation says \"washer\")",
+   "ar": "قاعدة تثبيت مفصّلة (ترجمة الجرد تقول «washer»)"
+  }
+ },
+ {
+  "ref": "TIOALUSH03CROSS",
+  "name": "TIOMOS 1D Cross washer H03",
+  "qty": 2394,
+  "group": "tiomos",
+  "type_en": "Tiomos mounting plate",
+  "type_ar": "قاعدة تثبيت مفصّلة Tiomos",
+  "status": "a",
+  "img": "img/p_tiomos_plate.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Hinge mounting plate (the inventory translation says \"washer\")",
+   "ar": "قاعدة تثبيت مفصّلة (ترجمة الجرد تقول «washer»)"
+  }
+ },
+ {
+  "ref": "TIOALUSH00LINEAR",
+  "name": "TIOMOS 1D Linear washer H00",
+  "qty": 2324,
+  "group": "tiomos",
+  "type_en": "Tiomos mounting plate",
+  "type_ar": "قاعدة تثبيت مفصّلة Tiomos",
+  "status": "a",
+  "img": "img/p_tiomos_plate.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Hinge mounting plate (the inventory translation says \"washer\")",
+   "ar": "قاعدة تثبيت مفصّلة (ترجمة الجرد تقول «washer»)"
+  }
+ },
+ {
+  "ref": "TIOALUSH02CROSS20AST",
+  "name": "TIOMOS Cross washer 20 degrees H02",
+  "qty": 1155,
+  "group": "tiomos",
+  "type_en": "Tiomos mounting plate",
+  "type_ar": "قاعدة تثبيت مفصّلة Tiomos",
+  "status": "a",
+  "img": "img/p_tiomos_plate.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Hinge mounting plate (the inventory translation says \"washer\")",
+   "ar": "قاعدة تثبيت مفصّلة (ترجمة الجرد تقول «washer»)"
+  }
+ },
+ {
+  "ref": "MEALUSH03",
+  "name": "Eco Cross Mounting Plate Tiomos H 03, premium PH Euro, ni",
+  "qty": 163,
+  "group": "tiomos",
+  "type_en": "Tiomos mounting plate",
+  "type_ar": "قاعدة تثبيت مفصّلة Tiomos",
+  "status": "q",
+  "img": "img/p_tiomos_plate.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Hinge mounting plate (the inventory translation says \"washer\")",
+   "ar": "قاعدة تثبيت مفصّلة (ترجمة الجرد تقول «washer»)"
+  }
+ },
+ {
+  "ref": "HE13912",
+  "name": "Camar 807 cupboard bracket, right-hand",
+  "qty": 252,
+  "group": "camar",
+  "type_en": "Cabinet hanging bracket",
+  "type_ar": "حامل تعليق خزائن",
+  "status": "a",
+  "img": "img/p_camar_807.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "HE13913",
+  "name": "Camar 807 cabinet bracket, left-hand",
+  "qty": 248,
+  "group": "camar",
+  "type_en": "Cabinet hanging bracket",
+  "type_ar": "حامل تعليق خزائن",
+  "status": "a",
+  "img": "img/p_camar_807.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "HE13920",
+  "name": "Camar 817 cupboard bracket, right-hand",
+  "qty": 192,
+  "group": "camar",
+  "type_en": "Cabinet hanging bracket",
+  "type_ar": "حامل تعليق خزائن",
+  "status": "a",
+  "img": "img/p_camar_817.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "HE13921",
+  "name": "Camar 817 cabinet bracket, left-hand",
+  "qty": 192,
+  "group": "camar",
+  "type_en": "Cabinet hanging bracket",
+  "type_ar": "حامل تعليق خزائن",
+  "status": "a",
+  "img": "img/p_camar_817.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "HE13922",
+  "name": "Camar 817 wall bracket 875 26×60 mm",
+  "qty": 624,
+  "group": "camar",
+  "type_en": "Wall rail / wall plate for hanging brackets",
+  "type_ar": "سكة / لوح حائط لحوامل التعليق",
+  "status": "a",
+  "img": "img/p_camar_rail.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "HE13914",
+  "name": "Camar 807 wall bracket 897 60x70 mm",
+  "qty": 177,
+  "group": "camar",
+  "type_en": "Wall rail / wall plate for hanging brackets",
+  "type_ar": "سكة / لوح حائط لحوامل التعليق",
+  "status": "a",
+  "img": "img/p_camar_rail.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "MINIHELA12",
+  "name": "050420 Titus 5576 12 mm, zinc-plated, 14 mm shank",
+  "qty": 1052,
+  "group": "titus",
+  "type_en": "Cam connector (eccentric)",
+  "type_ar": "وصلة لامركزية (Cam)",
+  "status": "a",
+  "img": "img/p_titus_ecc.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "MINIHELAK",
+  "name": "050412 Titus 5658 eccentric 15 mm zinc-plated.",
+  "qty": 1044,
+  "group": "titus",
+  "type_en": "Cam connector (eccentric)",
+  "type_ar": "وصلة لامركزية (Cam)",
+  "status": "a",
+  "img": "img/p_titus_ecc.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "MINIHELA",
+  "name": "050404 Titus 5654 eccentric 15 mm, zinc-plated",
+  "qty": 187,
+  "group": "titus",
+  "type_en": "Cam connector (eccentric)",
+  "type_ar": "وصلة لامركزية (Cam)",
+  "status": "a",
+  "img": "img/p_titus_ecc.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "MINI BOLT",
+  "name": "050496 Titus combi 9435 pin 5x34",
+  "qty": 2091,
+  "group": "titus",
+  "type_en": "Connector bolt / combi pin",
+  "type_ar": "مسمار وصل / مسمار مركّب",
+  "status": "a",
+  "img": "img/p_titus_pin.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "NPTL80M01",
+  "name": "Scala high-back box 80 709x185x16 mm M01",
+  "qty": 29,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU58M01",
+  "name": "Scala drawer back, universal 58, 169.5 x 84 x 16 mm, M01",
+  "qty": 27,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL50M01",
+  "name": "Scala box, rear, high 50, 409 x 185 x 16 mm, M01",
+  "qty": 23,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL58M01",
+  "name": "Scala high-back drawer unit 58 489x185x16 mm M01",
+  "qty": 19,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU40M01",
+  "name": "Scala box back panel, universal 40, 79.5 x 84 x 16 mm",
+  "qty": 17,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL40M01",
+  "name": "Scala box back panel, high 40 309x185x16 mm M01",
+  "qty": 16,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU78M01",
+  "name": "Scala universal rear drawer 78 269.5 x 84 x 16 mm M01",
+  "qty": 15,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL78M01",
+  "name": "Scala drawer back, high 78 689x185x16 mm M01",
+  "qty": 14,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL48M01",
+  "name": "Scala high-back box 48 389x185x16 mm M01",
+  "qty": 13,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS55M01",
+  "name": "Scala low rear drawer 55 459x84x16 mm M01",
+  "qty": 12,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU48M01",
+  "name": "Scala box back, universal 48, 119.5 x 84 x 16 mm, M01",
+  "qty": 12,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA50M01",
+  "name": "Scala drawer rear tray 50 339x78x16 mm M01",
+  "qty": 11,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU100M01",
+  "name": "Scala box back, universal 100 379.5x84x16 mm M01",
+  "qty": 11,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU60M01",
+  "name": "Scala box back panel, universal 60, 179.5 x 84 x 16 mm, M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU70M01",
+  "name": "Scala rear box, universal 70, 229.5 x 84 x 16 mm, M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL55M01",
+  "name": "Scala high-back drawer unit 55 459x185x16 mm M01",
+  "qty": 9,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS100M01",
+  "name": "Scala box, rear, 100, 909 x 84 x 16 mm",
+  "qty": 9,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA45M01",
+  "name": "Scala drawer rear tray 45 289x78x16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL62M01",
+  "name": "Scala high-back box 62 529x185x16 mm M01",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL85M01",
+  "name": "Scala box back panel 85 759x185x16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL90M01",
+  "name": "Scala high rear drawer 90 809x185x16 mm M01",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS110M01",
+  "name": "Scala box back panel 110 1009x84x16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS120M01",
+  "name": "Scala drawer back panel 120 1109x84x16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU45M01",
+  "name": "Scala box back panel, universal 45, 104.5 x 84 x 16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU85M01",
+  "name": "Scala box back panel, universal 85, 304.5 x 84 x 16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA120M01",
+  "name": "Scala drawer rear tray 120 1039x78x16 mm M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA80M01",
+  "name": "Scala drawer rear tray 80 639x78x16 mm M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL70M01",
+  "name": "Scala high-back box 70 609x185x16 mm M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS35M01",
+  "name": "Scala drawer back panel 35 259x84x16 mm",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS45M01",
+  "name": "Scala low rear drawer 45 359x84x16 mm M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS60M01",
+  "name": "Scala drawer back panel 60 509x84x16 mm",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU50M01",
+  "name": "Scala box back panel, universal 50, 129.5 x 84 x 16 mm",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS20M01",
+  "name": "Scala drawer back, shallow 20 109x84x16 mm M01",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA55M01",
+  "name": "Scala drawer rear tray 55 389x78x16 mm M01",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS50M01",
+  "name": "Scala low rear drawer 50 409x84x16 mm M01",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA100M01",
+  "name": "Scala drawer rear tray 100 839x78x16 mm M01",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL110M01",
+  "name": "Scala box, rear, 110, 1009 x 185 x 16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS85M01",
+  "name": "Scala drawer back panel 85 759x84x16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS90M01",
+  "name": "Scala drawer back panel 90 809x84x16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA70M01",
+  "name": "Scala drawer rear tray 70 539x78x16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA90M01",
+  "name": "Scala drawer rear tray 90 739x78x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU65M01",
+  "name": "Scala box back, universal 65, 204.5 x 84 x 16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL100M01",
+  "name": "Scala rear high drawer 100 909x185x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL35M01",
+  "name": "Scala drawer back panel 35 259x185x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL45M01",
+  "name": "Scala high-back drawer unit 45 359x185x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS30M01",
+  "name": "Scala drawer back panel 30 209x84x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS70M01",
+  "name": "Scala drawer back panel 70 609x84x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS25M01",
+  "name": "Scala low rear drawer 25 159x84x16 mm M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL120M01",
+  "name": "Scala high back panel for drawer 120 1109x185x16 mm M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL75M01",
+  "name": "Scala box, rear, 75, 659 x 185 x 16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS75M01",
+  "name": "Scala drawer back panel 75 659x84x16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU110M01",
+  "name": "Scala box back panel, universal 110, 429.5 x 84 x 16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU75M01",
+  "name": "Scala box back panel, universal 75, 254.5 x 84 x 16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA40M01",
+  "name": "Scala drawer back panel 40 239x78x16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTA60M01",
+  "name": "Scala rear tray for drawer 60 439x78x16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTL30M01",
+  "name": "Scala drawer back panel 30 209x185x16 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTS40M01",
+  "name": "Scala drawer back, low 40 309x84x16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPTU55M01",
+  "name": "Scala box back panel, universal, 55, 154.5 x 84 x 16 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer back / rear panel (16 mm board)",
+  "type_ar": "ظهر درج (لوح 16 مم)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4530M01",
+  "name": "Scala drawer base 4530 359x281x16 mm M01",
+  "qty": 20,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU6030M01",
+  "name": "Scala drawer base, universal 6030, 509 x 281 x 16 mm, M01",
+  "qty": 16,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8035M01",
+  "name": "Scala drawer base 8035 709x331x16 mm M01",
+  "qty": 15,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU5830M01",
+  "name": "Scala drawer base, universal 5830, 489 x 281 x 16 mm, M01",
+  "qty": 14,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5035M01",
+  "name": "Scala drawer base 5035 409x331x16 mm M01",
+  "qty": 12,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7827M01",
+  "name": "Scala drawer base, universal 7827, 689 x 251 x 16 mm",
+  "qty": 11,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4027M01",
+  "name": "Scala drawer base 4027 309x251x16 mm M01",
+  "qty": 11,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7540M01",
+  "name": "Scala drawer base 7540 659x381x16 mm",
+  "qty": 11,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU8030M01",
+  "name": "Scala drawer base, universal 8030, 709 x 281 x 16 mm, M01",
+  "qty": 11,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP2050M01",
+  "name": "Scala drawer base 2050 109x481x16 mm M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP11040M01",
+  "name": "Scala drawer base 11040 1009x381x16 mm",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3035M01",
+  "name": "Scala drawer base 3035 209x331x16 mm",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3527M01",
+  "name": "Scala drawer base 3527 259x251x16 mm",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3540M01",
+  "name": "Scala drawer base 3540 259x381x16 mm",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4035M01",
+  "name": "Scala drawer base 4035 309x331x16 mm M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5530M01",
+  "name": "Scala drawer base 5530 459x281x16 mm M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6040M01",
+  "name": "Scala drawer base 6040 509x381x16 mm M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6245M01",
+  "name": "Scala drawer base 6245 529x431x16 mm M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8030M01",
+  "name": "Scala drawer base 8030 709x281x16 mm M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7830M01",
+  "name": "Scala drawer base, universal 7830, 689 x 281 x 16 mm, M01",
+  "qty": 10,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6035M01",
+  "name": "Scala drawer base 6035 509x331x16 mm M01",
+  "qty": 9,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8527M01",
+  "name": "Scala drawer base 8527 759 x 251 x 16 mm",
+  "qty": 9,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7040M01",
+  "name": "Scala drawer base, universal 7040, 609 x 381 x 16 mm, M01",
+  "qty": 9,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP2550M01",
+  "name": "Scala drawer base 2550 159x481x16 mm M01",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU4827M01",
+  "name": "Scala drawer base, universal 4827 389x251x16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7027M01",
+  "name": "Scala drawer base, universal 7027, 609 x 251 x 16 mm, M01",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4550M01",
+  "name": "Scala drawer base 4550 359x481x16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6045M01",
+  "name": "Scala drawer base 6045 509x431x16 mm M01",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7035M01",
+  "name": "Scala drawer base 7035 609x331x16 mm M01",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7830M01",
+  "name": "Scala drawer base 7830 689x281x16 mm M01",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8027M01",
+  "name": "Scala drawer base 8027 709x251x16 mm M01",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU5527M01",
+  "name": "Scala drawer base, universal 5527, 459 x 251 x 16 mm",
+  "qty": 8,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP10035M01",
+  "name": "Scala drawer base 10035 909x331x16 mm M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3535M01",
+  "name": "Scala drawer base 3535 259x331x16 mm",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4535M01",
+  "name": "Scala drawer base 4535 359x331x16 mm M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7530M01",
+  "name": "Scala drawer base 7530 659x281x16 mm",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8540M01",
+  "name": "Scala drawer base 8540 759x381x16 mm",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU6035M01",
+  "name": "Scala drawer base, universal 6035, 509 x 331 x 16 mm, M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7540M01",
+  "name": "Scala drawer base, universal 7540, 659 x 381 x 16 mm",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU8040M01",
+  "name": "Scala drawer base, universal 8040, 709 x 381 x 16 mm, M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU9035M01",
+  "name": "Scala drawer base, universal 9035, 809 x 331 x 16 mm, M01",
+  "qty": 7,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP2535M01",
+  "name": "Scala drawer base 2535 159x331x16 mm M01",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3030M01",
+  "name": "Scala drawer base 3030 209x281x16 mm",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4527M01",
+  "name": "Scala drawer base 4527 359x251x16 mm",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4545M01",
+  "name": "Scala drawer base 4545 359x431x16 mm",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4830M01",
+  "name": "Scala drawer base 4830 389x281x16 mm M01",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5545M01",
+  "name": "Scala drawer base 5545 459x431x16 mm",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6027M01",
+  "name": "Scala drawer base 6027 509x251x16 mm M01",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7050M01",
+  "name": "Scala drawer base 7050 609x481x16 mm",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP9035M01",
+  "name": "Scala drawer base 9035 809x331x16 mm M01",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP9040M01",
+  "name": "Scala drawer base 9040 809 x 381 x 16 mm M01",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7527M01",
+  "name": "Scala drawer base, universal 7527, 659 x 251 x 16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4540M01",
+  "name": "Scala drawer base 4540 359x381x16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7045M01",
+  "name": "Scala drawer base 7045 609x431x16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8535M01",
+  "name": "Scala drawer base 8535 759x331x16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP9030M01",
+  "name": "Scala drawer base 9030 809 x 281 x 16 mm M01",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU11040M01",
+  "name": "Scala drawer base, universal 11040 1009x381x16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU4527M01",
+  "name": "Scala drawer base, universal 4527, 359 x 251 x 16 mm",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU6027M01",
+  "name": "Scala drawer base, universal 6027, 509 x 251 x 16 mm, M01",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU6040M01",
+  "name": "Scala drawer base, universal 6040, 509 x 381 x 16 mm, M01",
+  "qty": 5,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP2035M01",
+  "name": "Scala drawer base 2035 109x331x16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP2040M01",
+  "name": "Scala drawer base 2040 109x381x16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU8027M01",
+  "name": "Scala drawer base, universal 8027, 709 x 251 x 16 mm, M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP10030M01",
+  "name": "Scala drawer base 10030 909x281x16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP12030M01",
+  "name": "Scala drawer base 12030 1109x281x16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP12040M01",
+  "name": "Scala drawer base 12040 1109x381x16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4040M01",
+  "name": "Scala drawer base 4040 309x381x16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4045M01",
+  "name": "Scala drawer base 4045 309x431x16 mm",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6540M01",
+  "name": "Scala drawer base 6540 559x381x16 mm",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7030M01",
+  "name": "Scala drawer base 7030 609 x 281 x 16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8050M01",
+  "name": "Scala drawer base 8050 709x481x16 mm M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU4027M01",
+  "name": "Scala drawer base, universal 4027, 309 x 251 x 16 mm",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU6535M01",
+  "name": "Scala drawer base, universal 6535, 559 x 331 x 16 mm",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU6540M01",
+  "name": "Scala drawer base, universal 6540, 559x381x16 mm",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7035M01",
+  "name": "Scala drawer base, universal 7035, 609 x 331 x 16 mm, M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU8035M01",
+  "name": "Scala drawer base, universal 8035, 709 x 331 x 16 mm, M01",
+  "qty": 4,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU6527M01",
+  "name": "Scala drawer base, universal 6527, 559x251x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP10040M01",
+  "name": "Scala drawer base 10040 909x381x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP11030M01",
+  "name": "Scala drawer base 11030 1009x281x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP12035M01",
+  "name": "Scala drawer base 12035 1109x331x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4030M01",
+  "name": "Scala drawer base 4030 309x281x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5027M01",
+  "name": "Scala drawer base 5027 409x251x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5040M01",
+  "name": "Scala drawer base 5040 409x381x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5535M01",
+  "name": "Scala drawer base 5535 459x331x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5550M01",
+  "name": "Scala drawer base 5550 459x481x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6530M01",
+  "name": "Scala drawer base 6530 559x281x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7027M01",
+  "name": "Scala drawer base 7027 609x251x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7535M01",
+  "name": "Scala drawer base 7535 659x331x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8040M01",
+  "name": "Scala drawer base 8040 709x381x16 mm M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP8530M01",
+  "name": "Scala drawer base 8530 759x281x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU10040M01",
+  "name": "Scala drawer base, universal 10040, 909 x 381 x 16 mm, M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU11030M01",
+  "name": "Scala drawer base, universal 11030, 1009 x 281 x 16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU4830M01",
+  "name": "Scala drawer base, universal 4830, 389 x 281 x 16 mm, M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU6530M01",
+  "name": "Scala drawer base, universal 6530, 559x281x16 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU9040M01",
+  "name": "Scala drawer base, universal 9040, 809 x 381 x 16 mm, M01",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP2540M01",
+  "name": "Scala drawer base 2540 159x381x16 mm M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU9027M01",
+  "name": "Scala drawer base, universal 9027, 809 x 251 x 16 mm, M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3027M01",
+  "name": "Scala drawer base 3027 209 x 251 x 16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3040M01",
+  "name": "Scala drawer base 3040 209x381x16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3050M01",
+  "name": "Scala drawer base 3050 209x481x16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP4050M01",
+  "name": "Scala drawer base 4050 309x481x16 mm M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5050M01",
+  "name": "Scala drawer base 5050 409x481x16 mm M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5540M01",
+  "name": "Scala drawer base 5540 459x381x16 mm M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6050M01",
+  "name": "Scala drawer base 6050 509x481x16 mm M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6535M01",
+  "name": "Scala drawer base 6535 559x331x16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7527M01",
+  "name": "Scala drawer base 7527 659x251x16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU10030M01",
+  "name": "Scala drawer base, universal 10030, 909x281x16 mm, M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU12030M01",
+  "name": "Scala drawer base, universal 12030, 1109 x 281 x 16 mm, M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU12035M01",
+  "name": "Scala drawer base, universal 12035, 1109 x 331 x 16 mm, M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU12040M01",
+  "name": "Scala drawer base, universal 12040, 1109 x 381 x 16 mm, M01",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7530M01",
+  "name": "Scala drawer base, universal 7530, 659 x 281 x 16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7535M01",
+  "name": "Scala drawer base, universal 7535, 659 x 331 x 16 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP11035M01",
+  "name": "Scala drawer base 11035 1009x331x16 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP3550M01",
+  "name": "Scala drawer base 3550 259x481x16 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5030M01",
+  "name": "Scala drawer base 5030 409x281x16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP5527M01",
+  "name": "Scala drawer base 5527 459x251x16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP6030M01",
+  "name": "Scala drawer base 6030 509x281x16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP7040M01",
+  "name": "Scala drawer base 7040 609x381x16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPP9027M01",
+  "name": "Scala drawer base 9027 809 x 251 x 16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU10035M01",
+  "name": "Scala drawer base, universal 10035 909x331x16 mm M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU11035M01",
+  "name": "Scala drawer base, universal 11035 1009x331x16 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU5027M01",
+  "name": "Scala drawer base, universal 5027, 409 x 251 x 16 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU7030M01",
+  "name": "Scala drawer base, universal 7030, 609 x 281 x 16 mm, M01",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU8535M01",
+  "name": "Scala drawer base, universal 8535, 759 x 331 x 16 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "NPPU8540M01",
+  "name": "Scala drawer base, universal 8540, 759 x 381 x 16 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Drawer base (16 mm board, cut to size)",
+  "type_ar": "قاعدة درج (لوح 16 مم مقصوص على المقاس)",
+  "status": "a",
+  "img": null
+ },
+ {
+  "ref": "LTK6030LSC",
+  "name": "Scala box 6030, tall, 558x297x185 mm",
+  "qty": 26,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK6030ASC",
+  "name": "Scala box 6030 sink 558x297x185 mm",
+  "qty": 23,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK5830LSC",
+  "name": "Scala box 5830, tall, 538 x 297 x 185 mm",
+  "qty": 9,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK5830USC",
+  "name": "Scala box 5830 universal 538x297x85 mm",
+  "qty": 9,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK4040LSC",
+  "name": "Scala box 4040, tall, 358x397x185 mm",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK4830LSC",
+  "name": "Scala box 4830, tall, 438x297x185 mm",
+  "qty": 6,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK7030LSC",
+  "name": "Scala ltk 7030 tall 658x297x185 mm",
+  "qty": 3,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK12035ASC",
+  "name": "Scala box 12035 sink 1158x347x185 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK12035LSC",
+  "name": "Scala box 12035, tall, 1158x347x185 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK5027LSC",
+  "name": "Scala box 5027, tall, 458 x 267 x 185 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK5027USC",
+  "name": "Scala box, universal 5027, internal dimensions 409x251x70 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK5030SSC",
+  "name": "Scala box 5030, low profile, 458 x 297 x 85 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK6030USC",
+  "name": "Scala ltk 6030 universal 558x297x85 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK6035USC",
+  "name": "Scala box 6035 universal 558x347x85 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK5827USC",
+  "name": "Scala box, universal 5827, internal dimensions 489x251x70 mm",
+  "qty": 2,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK10035USC",
+  "name": "Scala box 10035 universal 958x347x85 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK4027ASC",
+  "name": "Scala box 4027 basin 358x267x185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK4027LSC",
+  "name": "Scala ltk 4027 tall 358x267x185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK4027USC",
+  "name": "Scala box, universal 4027, internal dimensions 309x251x70 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK4530LSC",
+  "name": "Scala box 4530, tall, 408 x 297 x 185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK4827USC",
+  "name": "Scala box, universal 4827, internal dimensions 389x251x70 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK5530ASC",
+  "name": "Scala box 5530 sink 508x297x185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK5530LSC",
+  "name": "Scala ltk 5530 tall 508x297x185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK6027LSC",
+  "name": "Scala box 6027, tall, 558 x 267 x 185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK6035LSC",
+  "name": "Scala box 6035, tall, 558 x 347 x 185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK6050SSC",
+  "name": "Scala box 6050, internal dimensions 509x481x70 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK7030ASC",
+  "name": "Scala box 7030, basin 658x297x185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK7030SSC",
+  "name": "Scala box 7030, internal dimensions 609x281x70 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK7035LSC",
+  "name": "Scala box 7035, tall, 658 x 347 x 185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK8040LSC",
+  "name": "Scala box 8040, tall, 758x397x185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK8040USC",
+  "name": "Scala box 8040 universal 758x397x85 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK9027LSC",
+  "name": "Scala box 9027, tall, 858 x 267 x 185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK9027USC",
+  "name": "Scala box 9027 universal 858x267x85 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK9030ASC",
+  "name": "Scala box 9030 sink 858x297x185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK9030LSC",
+  "name": "Scala ltk 9030 tall 858x297x185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ },
+ {
+  "ref": "LTK6245LSC",
+  "name": "Scala box 6245, tall, 578 x 447 x 185 mm",
+  "qty": 1,
+  "group": "panels",
+  "type_en": "Scala drawer box kit (ready size)",
+  "type_ar": "طقم صندوق درج Scala (مقاس جاهز)",
+  "status": "a",
+  "img": null,
+  "note": {
+   "en": "Contents of the box kit (sides / base / back) to be confirmed on viewing",
+   "ar": "محتويات طقم الصندوق (الجوانب / القاعدة / الظهر) تُؤكَّد عند المعاينة"
+  }
+ }
+]
