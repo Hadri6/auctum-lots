@@ -1,0 +1,213 @@
+{
+ "slug": "solar-storage-se",
+ "page_title": "Solar Modules, Energy Hubs, Inverters & Home Batteries – Sweden",
+ "title": {
+  "en": "Solar modules, energy hubs, inverters & home batteries – stock lot Sweden",
+  "ar": "ألواح شمسية ومراكز طاقة وانفرترات وبطاريات منزلية – دفعة مخزون من السويد"
+ },
+ "subtitle": {
+  "en": "2,350 working PV modules (943 kWp) plus 524 defective modules, energy-management equipment, inverters, home batteries, EV chargers, electrical parts and mounting systems – 213 lines and 30,001 pieces. Offered as one complete lot.",
+  "ar": "2,350 لوحاً شمسياً سليماً (943 كيلوواط ذروة) و524 لوحاً معيباً، ومعدات إدارة طاقة، وانفرترات، وبطاريات منزلية، وشواحن سيارات كهربائية، وقطع كهربائية، وأنظمة تثبيت – 213 بنداً و30,001 قطعة. تُعرض كدفعة واحدة كاملة."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعات"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
+ "qty_exact": true,
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "keep_order": true,
+ "kpis": [
+  {
+   "en": "PV modules",
+   "ar": "ألواح شمسية",
+   "value": "2,350 · 943 kWp (+524 defective)"
+  },
+  {
+   "en": "Energy management",
+   "ar": "إدارة الطاقة",
+   "value": "272"
+  },
+  {
+   "en": "Inverters",
+   "ar": "انفرترات",
+   "value": "24"
+  },
+  {
+   "en": "Battery & storage items",
+   "ar": "بطاريات وعناصر تخزين",
+   "value": "579"
+  }
+ ],
+ "location": {
+  "en": "Sweden",
+  "ar": "السويد"
+ },
+ "group_order": [
+  "ems",
+  "inverters",
+  "modules",
+  "batteries",
+  "chargers",
+  "electrical",
+  "mounting"
+ ],
+ "groups": {
+  "ems": {
+   "en": "Energy management & power control",
+   "ar": "إدارة الطاقة والتحكم بالقدرة",
+   "short": "Energy management"
+  },
+  "inverters": {
+   "en": "Solar inverters",
+   "ar": "انفرترات شمسية",
+   "short": "Inverters"
+  },
+  "modules": {
+   "en": "PV modules",
+   "ar": "ألواح شمسية",
+   "short": "Modules"
+  },
+  "batteries": {
+   "en": "Home batteries & storage-system parts",
+   "ar": "بطاريات منزلية وأجزاء أنظمة التخزين",
+   "short": "Batteries"
+  },
+  "chargers": {
+   "en": "EV chargers & accessories",
+   "ar": "شواحن سيارات كهربائية وملحقاتها",
+   "short": "EV charging"
+  },
+  "electrical": {
+   "en": "Electrical protection, sensing & connections",
+   "ar": "حماية وقياس وتوصيلات كهربائية",
+   "short": "Electrical"
+  },
+  "mounting": {
+   "en": "PV mounting systems & hardware",
+   "ar": "أنظمة وقطع تثبيت الألواح",
+   "short": "Mounting"
+  }
+ },
+ "statuses": {
+  "complete": {
+   "en": "Complete product",
+   "ar": "منتج كامل",
+   "cls": "ok",
+   "desc_en": "Finished product as listed: module, inverter, energy hub, battery unit or charger.",
+   "desc_ar": "منتج نهائي كما هو مدرج: لوح أو انفرتر أو مركز طاقة أو وحدة بطارية أو شاحن."
+  },
+  "component": {
+   "en": "System component",
+   "ar": "مكوّن نظام",
+   "cls": "mod",
+   "desc_en": "Designed to work inside a matching energy, battery or electrical system.",
+   "desc_ar": "مصمم للعمل ضمن نظام طاقة أو بطارية أو نظام كهربائي متوافق."
+  },
+  "accessory": {
+   "en": "Accessory",
+   "ar": "ملحق",
+   "cls": "add",
+   "desc_en": "Mounting, cabling, protection or connection accessory; not a stand-alone generating or storage device.",
+   "desc_ar": "ملحق للتثبيت أو الكابلات أو الحماية أو التوصيل؛ وليس جهاز توليد أو تخزين مستقلاً."
+  },
+  "used": {
+   "en": "Opened / used",
+   "ar": "مفتوح أو مستعمل",
+   "cls": "mod",
+   "desc_en": "The stock list identifies the line as opened or previously used.",
+   "desc_ar": "تحدد قائمة المخزون هذا البند بأنه مفتوح أو مستعمل سابقاً."
+  },
+  "refurbished": {
+   "en": "Refurbished",
+   "ar": "مجدّد",
+   "cls": "mod",
+   "desc_en": "The stock list identifies the line as refurbished.",
+   "desc_ar": "تحدد قائمة المخزون هذا البند بأنه مجدّد."
+  },
+  "defective": {
+   "en": "Defective / service",
+   "ar": "معيب أو قيد الصيانة",
+   "cls": "bad",
+   "desc_en": "The stock list identifies the line as defective, damaged or in service/repair.",
+   "desc_ar": "تحدد قائمة المخزون هذا البند بأنه معيب أو تالف أو قيد الصيانة والإصلاح."
+  }
+ },
+ "sets": {
+  "title": {
+   "en": "Read first – lot overview",
+   "ar": "اقرأ أولاً – نظرة عامة على الدفعة"
+  },
+  "nav": {
+   "en": "Read first",
+   "ar": "اقرأ أولاً"
+  },
+  "intro": {
+   "en": "This is a mixed solar-and-storage stock lot. Article references and sellable quantities are retained from the source lists; condition labels identify exceptional lines.",
+   "ar": "هذه دفعة مخزون متنوعة للطاقة الشمسية والتخزين. أُبقيت مراجع الأصناف والكميات القابلة للبيع من القوائم المصدرية، وتوضح علامات الحالة البنود الاستثنائية."
+  },
+  "rows": [
+   {
+    "en": "PV modules",
+    "ar": "ألواح شمسية",
+    "qty": "2,874",
+    "detail": {
+     "en": "2,350 working modules, approximately 943 kWp, plus 524 defective modules; across glass-glass, full-black, red and conventional module families.",
+     "ar": "2,350 لوحاً سليماً بحوالي 943 كيلوواط ذروة و524 لوحاً معيباً؛ من ألواح زجاج-زجاج وسوداء بالكامل وحمراء وتقليدية."
+    }
+   },
+   {
+    "en": "Energy management and inverters",
+    "ar": "إدارة الطاقة والانفرترات",
+    "qty": "296",
+    "detail": {
+     "en": "Energy hubs, string optimisers, distribution boxes and string/hybrid inverters.",
+     "ar": "مراكز طاقة ومحسنات سلاسل وصناديق توزيع وانفرترات شبكية وهجينة."
+    }
+   },
+   {
+    "en": "Battery and storage items",
+    "ar": "عناصر البطاريات والتخزين",
+    "qty": "579",
+    "detail": {
+     "en": "Battery systems and modules plus bases, control units, breakers, cables and combiner boxes.",
+     "ar": "أنظمة ووحدات بطاريات، إضافة إلى القواعد ووحدات التحكم والقواطع والكابلات وصناديق التجميع."
+    }
+   },
+   {
+    "en": "Mounting hardware",
+    "ar": "قطع التثبيت",
+    "qty": "24,882",
+    "detail": {
+     "en": "Rails, roof hooks and plates, module clamps, screws, bolts and related mounting parts.",
+     "ar": "سكك وخطافات وألواح سقف ومشابك ألواح وبراغي ومسامير وقطع تثبيت مرتبطة."
+    }
+   }
+  ],
+  "note": {
+   "en": "Quantities are sellable pieces from the stock lists; duplicate article numbers have been combined.",
+   "ar": "الكميات هي القطع القابلة للبيع من قوائم المخزون؛ دُمجت أرقام الأصناف المكررة."
+  }
+ },
+ "shipping": {
+  "volume_m3": [
+   170,
+   230
+  ],
+  "note": {
+   "en": "Planning estimate: 94.4–149.1 t from typical datasheet and hardware weights; volume assumes palletised PV modules and packed equipment. Long rails up to 5.9 m and final pallet dimensions require confirmation before loading.",
+   "ar": "تقدير تخطيطي: 94.4–149.1 طن استناداً إلى أوزان كتالوجية معتادة وأوزان قطع التثبيت؛ ويفترض الحجم ألواحاً شمسية ومعدات معبأة على منصات. يجب تأكيد السكك الطويلة حتى 5.9 م وأبعاد المنصات النهائية قبل التحميل."
+  },
+  "no_20ft": false
+ },
+ "note": {
+  "en": "Catalogue photos show the named model where available; other photos represent the product family or component type and may differ in appearance. Quantities follow the stock lists. Condition and completeness should be confirmed at inspection. Subject to prior sale.",
+  "ar": "تعرض صور الكتالوج الطراز المذكور عند توفره؛ وتمثل الصور الأخرى عائلة المنتج أو نوع المكوّن وقد يختلف الشكل. الكميات حسب قوائم المخزون. تُؤكد الحالة والاكتمال عند المعاينة. البضاعة متاحة حتى نفادها."
+ }
+}

@@ -1,0 +1,4049 @@
+[
+ {
+  "ref": "R0001157",
+  "name": "Ferroamp Energy Hub 14kW",
+  "qty": 92,
+  "group": "ems",
+  "type_en": "Energy hub",
+  "type_ar": "مركز إدارة طاقة",
+  "status": "complete",
+  "img": "img/p_ferroamp_hub.jpg",
+  "photo": "exact",
+  "weight_t": [
+   2.3,
+   3.864
+  ],
+  "note": {
+   "en": "Ferroamp · energy-management hub for solar and storage",
+   "ar": "Ferroamp · مركز إدارة طاقة"
+  }
+ },
+ {
+  "ref": "PH01106",
+  "name": "Ferroamp Energy Hub Wall 21kW",
+  "qty": 12,
+  "group": "ems",
+  "type_en": "Energy hub",
+  "type_ar": "مركز إدارة طاقة",
+  "status": "complete",
+  "img": "img/p_ferroamp_hub.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.3,
+   0.504
+  ],
+  "note": {
+   "en": "Ferroamp · energy-management hub for solar and storage",
+   "ar": "Ferroamp · مركز إدارة طاقة"
+  }
+ },
+ {
+  "ref": "PH01105",
+  "name": "Ferroamp Energy Hub Wall 28kW",
+  "qty": 5,
+  "group": "ems",
+  "type_en": "Energy hub",
+  "type_ar": "مركز إدارة طاقة",
+  "status": "complete",
+  "img": "img/p_ferroamp_hub.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.125,
+   0.21
+  ],
+  "note": {
+   "en": "Ferroamp · energy-management hub for solar and storage",
+   "ar": "Ferroamp · مركز إدارة طاقة"
+  }
+ },
+ {
+  "ref": "R0001567",
+  "name": "EnergyHub XL28 Hub with Display",
+  "qty": 2,
+  "group": "ems",
+  "type_en": "Energy hub",
+  "type_ar": "مركز إدارة طاقة",
+  "status": "complete",
+  "img": "img/p_ferroamp_hub.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.05,
+   0.084
+  ],
+  "note": {
+   "en": "Ferroamp · energy-management hub for solar and storage",
+   "ar": "Ferroamp · مركز إدارة طاقة"
+  }
+ },
+ {
+  "ref": "FH-XL175D",
+  "name": "Ferroamp Energy Hub XL17,5 med Display",
+  "qty": 1,
+  "group": "ems",
+  "type_en": "Energy hub",
+  "type_ar": "مركز إدارة طاقة",
+  "status": "complete",
+  "img": "img/p_ferroamp_hub.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.025,
+   0.042
+  ],
+  "note": {
+   "en": "Ferroamp · energy-management hub for solar and storage",
+   "ar": "Ferroamp · مركز إدارة طاقة"
+  }
+ },
+ {
+  "ref": "PS00778",
+  "name": "Power distribution 5",
+  "qty": 102,
+  "group": "ems",
+  "type_en": "Power distribution box",
+  "type_ar": "صندوق توزيع طاقة",
+  "status": "component",
+  "img": "img/p_ferroamp_box.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.816,
+   1.632
+  ],
+  "note": {
+   "en": "Ferroamp · distribution box for energy-hub connections",
+   "ar": "Ferroamp · صندوق توزيع طاقة"
+  }
+ },
+ {
+  "ref": "R0001125",
+  "name": "Power Distributionsbox 8 SSO",
+  "qty": 12,
+  "group": "ems",
+  "type_en": "Power distribution box",
+  "type_ar": "صندوق توزيع طاقة",
+  "status": "component",
+  "img": "img/p_ferroamp_box.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.096,
+   0.192
+  ],
+  "note": {
+   "en": "Ferroamp · distribution box for energy-hub connections",
+   "ar": "Ferroamp · صندوق توزيع طاقة"
+  }
+ },
+ {
+  "ref": "R42",
+  "name": "Ferroamp PSM skal",
+  "qty": 1,
+  "group": "ems",
+  "type_en": "Power storage module",
+  "type_ar": "وحدة تخزين طاقة",
+  "status": "component",
+  "img": "img/p_ferroamp_psm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.025,
+   0.045
+  ],
+  "note": {
+   "en": "Ferroamp · power storage system component",
+   "ar": "Ferroamp · وحدة تخزين طاقة"
+  }
+ },
+ {
+  "ref": "PS00990",
+  "name": "SSO Singel 8",
+  "qty": 27,
+  "group": "ems",
+  "type_en": "Solar string optimiser",
+  "type_ar": "محسّن سلاسل شمسية",
+  "status": "component",
+  "img": "img/p_ferroamp_sso.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.216,
+   0.378
+  ],
+  "note": {
+   "en": "Ferroamp · solar string optimisation unit",
+   "ar": "Ferroamp · محسّن سلاسل شمسية"
+  }
+ },
+ {
+  "ref": "R0001566",
+  "name": "Solsträngsoptimerare Single 8kW Installationskit",
+  "qty": 10,
+  "group": "ems",
+  "type_en": "Solar string optimiser",
+  "type_ar": "محسّن سلاسل شمسية",
+  "status": "component",
+  "img": "img/p_ferroamp_sso.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.08,
+   0.14
+  ],
+  "note": {
+   "en": "Ferroamp · solar string optimisation unit",
+   "ar": "Ferroamp · محسّن سلاسل شمسية"
+  }
+ },
+ {
+  "ref": "R0001136",
+  "name": "SSO SINGLE 8",
+  "qty": 4,
+  "group": "ems",
+  "type_en": "Solar string optimiser",
+  "type_ar": "محسّن سلاسل شمسية",
+  "status": "component",
+  "img": "img/p_ferroamp_sso.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.032,
+   0.056
+  ],
+  "note": {
+   "en": "Ferroamp · solar string optimisation unit",
+   "ar": "Ferroamp · محسّن سلاسل شمسية"
+  }
+ },
+ {
+  "ref": "R7",
+  "name": "Trasig Ehub för lev till Ferroamp",
+  "qty": 1,
+  "group": "ems",
+  "type_en": "Energy hub",
+  "type_ar": "مركز إدارة طاقة",
+  "status": "defective",
+  "img": "img/p_ferroamp_psm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.025,
+   0.042
+  ],
+  "note": {
+   "en": "Ferroamp · defective unit",
+   "ar": "Ferroamp · مركز إدارة طاقة"
+  }
+ },
+ {
+  "ref": "R43",
+  "name": "Trasig Ferroamp PSM batteri",
+  "qty": 1,
+  "group": "ems",
+  "type_en": "Power storage module",
+  "type_ar": "وحدة تخزين طاقة",
+  "status": "defective",
+  "img": "img/p_ferroamp_psm.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.025,
+   0.045
+  ],
+  "note": {
+   "en": "Ferroamp · defective unit",
+   "ar": "Ferroamp · وحدة تخزين طاقة"
+  }
+ },
+ {
+  "ref": "R1",
+  "name": "Trasig SSO för lev till Ferroamp",
+  "qty": 2,
+  "group": "ems",
+  "type_en": "Solar string optimiser",
+  "type_ar": "محسّن سلاسل شمسية",
+  "status": "defective",
+  "img": "img/p_ferroamp_sso.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.016,
+   0.028
+  ],
+  "note": {
+   "en": "Ferroamp · defective unit",
+   "ar": "Ferroamp · محسّن سلاسل شمسية"
+  }
+ },
+ {
+  "ref": "R0001137",
+  "name": "Symo GEN24 8.0 Plus",
+  "qty": 4,
+  "group": "inverters",
+  "type_en": "Hybrid inverter",
+  "type_ar": "انفرتر هجين",
+  "status": "complete",
+  "img": "img/p_fronius_gen24.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.088,
+   0.14
+  ],
+  "note": {
+   "en": "Fronius · three-phase battery-ready solar inverter",
+   "ar": "Fronius · انفرتر هجين"
+  }
+ },
+ {
+  "ref": "R0001511",
+  "name": "SH10.0RT-V112 - 3PH Hybrid 10 kW",
+  "qty": 2,
+  "group": "inverters",
+  "type_en": "Hybrid inverter",
+  "type_ar": "انفرتر هجين",
+  "status": "complete",
+  "img": "img/p_sungrow_shrt.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.044,
+   0.07
+  ],
+  "note": {
+   "en": "Sungrow · three-phase battery-ready solar inverter",
+   "ar": "Sungrow · انفرتر هجين"
+  }
+ },
+ {
+  "ref": "FSG24-1003M",
+  "name": "Fronius Symo GEN24 10.0 Plus",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "Hybrid inverter",
+  "type_ar": "انفرتر هجين",
+  "status": "complete",
+  "img": "img/p_fronius_gen24.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.022,
+   0.035
+  ],
+  "note": {
+   "en": "Fronius · three-phase battery-ready solar inverter",
+   "ar": "Fronius · انفرتر هجين"
+  }
+ },
+ {
+  "ref": "R0001352",
+  "name": "SYMO GEN24 10.0 PLUS",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "Hybrid inverter",
+  "type_ar": "انفرتر هجين",
+  "status": "complete",
+  "img": "img/p_fronius_gen24.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.022,
+   0.035
+  ],
+  "note": {
+   "en": "Fronius · three-phase battery-ready solar inverter",
+   "ar": "Fronius · انفرتر هجين"
+  }
+ },
+ {
+  "ref": "R0001510",
+  "name": "SH8.0RT-V112 - 3PH Hybrid 8 kW",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "Hybrid inverter",
+  "type_ar": "انفرتر هجين",
+  "status": "complete",
+  "img": "img/p_sungrow_shrt.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.022,
+   0.035
+  ],
+  "note": {
+   "en": "Sungrow · three-phase battery-ready solar inverter",
+   "ar": "Sungrow · انفرتر هجين"
+  }
+ },
+ {
+  "ref": "R0001576",
+  "name": "Solax Inverter 10kW 3PH",
+  "qty": 2,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_solax_x3hyb_d.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.044,
+   0.07
+  ],
+  "note": {
+   "en": "SolaX · grid-connected solar string inverter",
+   "ar": "SolaX · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001710",
+  "name": "Solax Inverter 4kW 3PH",
+  "qty": 2,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_solax_x3hyb_d.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.044,
+   0.07
+  ],
+  "note": {
+   "en": "SolaX · grid-connected solar string inverter",
+   "ar": "SolaX · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R41",
+  "name": "Deye Växelriktare",
+  "qty": 2,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_deye_hybrid.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.044,
+   0.07
+  ],
+  "note": {
+   "en": "Deye · grid-connected solar string inverter",
+   "ar": "Deye · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001154",
+  "name": "Huawei SUN2000-15-KTL-M2",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_huawei_ktl.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.022,
+   0.035
+  ],
+  "note": {
+   "en": "Huawei · grid-connected solar string inverter",
+   "ar": "Huawei · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001205",
+  "name": "SUN2000-4KTL-M1",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_huawei_ktl.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.022,
+   0.035
+  ],
+  "note": {
+   "en": "Huawei · grid-connected solar string inverter",
+   "ar": "Huawei · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001207",
+  "name": "SUN2000-12KTL-M2 High Current",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_huawei_ktl.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.022,
+   0.035
+  ],
+  "note": {
+   "en": "Huawei · grid-connected solar string inverter",
+   "ar": "Huawei · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001292",
+  "name": "Fronius Symo 15.0-3-M",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_fronius_symo.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.038,
+   0.05
+  ],
+  "note": {
+   "en": "Fronius · grid-connected solar string inverter",
+   "ar": "Fronius · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001399",
+  "name": "Fronius Symo 8.2-3-M",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_fronius_symo.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.022,
+   0.035
+  ],
+  "note": {
+   "en": "Fronius · grid-connected solar string inverter",
+   "ar": "Fronius · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001403",
+  "name": "Fronius Symo 20.0-3-M",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_fronius_symo.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.038,
+   0.05
+  ],
+  "note": {
+   "en": "Fronius · grid-connected solar string inverter",
+   "ar": "Fronius · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001711",
+  "name": "Solax Inverter 12kW 3PH",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_solax_x3hyb_d.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.022,
+   0.035
+  ],
+  "note": {
+   "en": "SolaX · grid-connected solar string inverter",
+   "ar": "SolaX · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001736",
+  "name": "SUN2000-20KTL-M5",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "String inverter",
+  "type_ar": "انفرتر شمسي شبكي",
+  "status": "complete",
+  "img": "img/p_huawei_ktl.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.038,
+   0.05
+  ],
+  "note": {
+   "en": "Huawei · grid-connected solar string inverter",
+   "ar": "Huawei · انفرتر شمسي شبكي"
+  }
+ },
+ {
+  "ref": "R0001763",
+  "name": "Begagnad Solis 50kW Hybrid",
+  "qty": 1,
+  "group": "inverters",
+  "type_en": "Hybrid inverter",
+  "type_ar": "انفرتر هجين",
+  "status": "used",
+  "img": "img/p_solis_hybrid.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.065,
+   0.085
+  ],
+  "note": {
+   "en": "Solis · used hybrid inverter",
+   "ar": "Solis · انفرتر هجين"
+  }
+ },
+ {
+  "ref": "R0001881",
+  "name": "430W Frameless Doubleglass - Exiom",
+  "qty": 660,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   14.52,
+   18.48
+  ],
+  "note": {
+   "en": "Exiom · photovoltaic solar module · 430 W",
+   "ar": "Exiom · لوح شمسي · 430 واط"
+  }
+ },
+ {
+  "ref": "R0001289",
+  "name": "340W ny Doble glass",
+  "qty": 401,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   8.421,
+   10.025
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 340 W",
+   "ar": "لوح شمسي · 340 واط"
+  }
+ },
+ {
+  "ref": "R0001290",
+  "name": "Sverigepanelen SuperGlass 370w",
+  "qty": 157,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   3.297,
+   3.925
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 370 W",
+   "ar": "Sverigepanelen · لوح شمسي · 370 واط"
+  }
+ },
+ {
+  "ref": "GSFY310CR",
+  "name": "Color Red 310W Ramfri",
+  "qty": 141,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_red.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.961,
+   3.525
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 310 W",
+   "ar": "لوح شمسي · 310 واط"
+  }
+ },
+ {
+  "ref": "SP-DG340",
+  "name": "Sverigepanelen Doubleglass 340w",
+  "qty": 105,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.205,
+   2.625
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 340 W",
+   "ar": "Sverigepanelen · لوح شمسي · 340 واط"
+  }
+ },
+ {
+  "ref": "R0001189",
+  "name": "Sverigepanelen Superpower 665w",
+  "qty": 93,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.511,
+   3.069
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 665 W",
+   "ar": "Sverigepanelen · لوح شمسي · 665 واط"
+  }
+ },
+ {
+  "ref": "SP-SBDG300",
+  "name": "300W Sverige panelen Superblack Superglass",
+  "qty": 69,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.449,
+   1.725
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 300 W",
+   "ar": "Sverigepanelen · لوح شمسي · 300 واط"
+  }
+ },
+ {
+  "ref": "Superpower 450w",
+  "name": "Superpower 450w",
+  "qty": 62,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.364,
+   1.736
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 450 W",
+   "ar": "لوح شمسي · 450 واط"
+  }
+ },
+ {
+  "ref": "Gruppsol pall 530",
+  "name": "Gruppsol pall 530",
+  "qty": 45,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.215,
+   1.485
+  ],
+  "note": {
+   "en": "pallet of PV modules · 530 W",
+   "ar": "لوح شمسي · 530 واط"
+  }
+ },
+ {
+  "ref": "GSMFSG350S",
+  "name": "Sverigepanelen Dubbelglas 350W Shingel SSR",
+  "qty": 36,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.756,
+   0.9
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 350 W",
+   "ar": "Sverigepanelen · لوح شمسي · 350 واط"
+  }
+ },
+ {
+  "ref": "330W SSG SSR",
+  "name": "330W SSG SSR",
+  "qty": 31,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.651,
+   0.775
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 330 W",
+   "ar": "لوح شمسي · 330 واط"
+  }
+ },
+ {
+  "ref": "410w Eco Delta",
+  "name": "410w Eco Delta",
+  "qty": 27,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.594,
+   0.756
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 410 W",
+   "ar": "لوح شمسي · 410 واط"
+  }
+ },
+ {
+  "ref": "GSUB455SP",
+  "name": "Sverigepanelen 455",
+  "qty": 27,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.594,
+   0.756
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 455 W",
+   "ar": "Sverigepanelen · لوح شمسي · 455 واط"
+  }
+ },
+ {
+  "ref": "SP-DG370",
+  "name": "Sverigepanelen Doubleglass 370w",
+  "qty": 27,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.567,
+   0.675
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 370 W",
+   "ar": "Sverigepanelen · لوح شمسي · 370 واط"
+  }
+ },
+ {
+  "ref": "Gruppsol pall 550-580",
+  "name": "Gruppsol pall 550-580",
+  "qty": 24,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.648,
+   0.792
+  ],
+  "note": {
+   "en": "pallet of PV modules · 580 W",
+   "ar": "لوح شمسي · 580 واط"
+  }
+ },
+ {
+  "ref": "R0001955",
+  "name": "Solitek SOLID Frameless - Fullblack 435W Glass-Glass",
+  "qty": 22,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.484,
+   0.616
+  ],
+  "note": {
+   "en": "SoliTek · photovoltaic solar module · 435 W",
+   "ar": "SoliTek · لوح شمسي · 435 واط"
+  }
+ },
+ {
+  "ref": "GSVW325SG",
+  "name": "Sverigepanelen SuperGlass 325w",
+  "qty": 20,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.42,
+   0.5
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 325 W",
+   "ar": "Sverigepanelen · لوح شمسي · 325 واط"
+  }
+ },
+ {
+  "ref": "R0001653",
+  "name": "REGITEC Solar 440W DG Full Black",
+  "qty": 19,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.418,
+   0.532
+  ],
+  "note": {
+   "en": "REGITEC Solar · photovoltaic solar module · 440 W",
+   "ar": "REGITEC Solar · لوح شمسي · 440 واط"
+  }
+ },
+ {
+  "ref": "R0001785",
+  "name": "430W DG - LP182*182-M-54-NB",
+  "qty": 19,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.418,
+   0.532
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 430 W",
+   "ar": "لوح شمسي · 430 واط"
+  }
+ },
+ {
+  "ref": "Sverigepanelen 455W KS",
+  "name": "Sverigepanelen 455W KS",
+  "qty": 19,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.418,
+   0.532
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 455 W",
+   "ar": "Sverigepanelen · لوح شمسي · 455 واط"
+  }
+ },
+ {
+  "ref": "GSMF455SPS",
+  "name": "Sverigepanelen Superpower 455 S Premium",
+  "qty": 17,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.374,
+   0.476
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 455 W",
+   "ar": "Sverigepanelen · لوح شمسي · 455 واط"
+  }
+ },
+ {
+  "ref": "R0001791",
+  "name": "JW-HD144N-585W (EPD)",
+  "qty": 17,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.459,
+   0.561
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 585 W",
+   "ar": "لوح شمسي · 585 واط"
+  }
+ },
+ {
+  "ref": "1200 x 2400",
+  "name": "Pall Gruppsol 655",
+  "qty": 15,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.405,
+   0.495
+  ],
+  "note": {
+   "en": "pallet of PV modules · 655 W",
+   "ar": "لوح شمسي · 655 واط"
+  }
+ },
+ {
+  "ref": "Pall Gruppsol 455",
+  "name": "455",
+  "qty": 15,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.33,
+   0.42
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 455 W",
+   "ar": "لوح شمسي · 455 واط"
+  }
+ },
+ {
+  "ref": "R0001892",
+  "name": "450W DG - DM450M10RT-B54HBB (EPD)",
+  "qty": 15,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.33,
+   0.42
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 450 W",
+   "ar": "لوح شمسي · 450 واط"
+  }
+ },
+ {
+  "ref": "R0001902",
+  "name": "585 DG - LP182*182-M-72-NB (EPD)",
+  "qty": 15,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.315,
+   0.375
+  ],
+  "note": {
+   "en": "photovoltaic solar module",
+   "ar": "لوح شمسي"
+  }
+ },
+ {
+  "ref": "Sverigepanelen 410w Shingel",
+  "name": "Sverigepanelen 410w Shingel",
+  "qty": 15,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.33,
+   0.42
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 410 W",
+   "ar": "Sverigepanelen · لوح شمسي · 410 واط"
+  }
+ },
+ {
+  "ref": "Gruppsol pall 410",
+  "name": "Gruppsol pall 410, 430, 440",
+  "qty": 14,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.308,
+   0.392
+  ],
+  "note": {
+   "en": "pallet of PV modules · 440 W",
+   "ar": "لوح شمسي · 440 واط"
+  }
+ },
+ {
+  "ref": "Superpower 410",
+  "name": "Superpower 410",
+  "qty": 14,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.308,
+   0.392
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 410 W",
+   "ar": "لوح شمسي · 410 واط"
+  }
+ },
+ {
+  "ref": "CFR RE60M 1670x996 - 250 FK-NK-Nymåla",
+  "name": "CFR RE60M 1670x996 - 250 Tegelfärgad SSR panel",
+  "qty": 13,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_red.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.273,
+   0.325
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 250 W",
+   "ar": "لوح شمسي · 250 واط"
+  }
+ },
+ {
+  "ref": "R0001194",
+  "name": "BI-CHASER (Akcome 410W)",
+  "qty": 13,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.286,
+   0.364
+  ],
+  "note": {
+   "en": "Akcome · photovoltaic solar module · 410 W",
+   "ar": "Akcome · لوح شمسي · 410 واط"
+  }
+ },
+ {
+  "ref": "R0001629",
+  "name": "Exiom 580W (gammal modell)",
+  "qty": 12,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.324,
+   0.396
+  ],
+  "note": {
+   "en": "Exiom · photovoltaic solar module · 580 W",
+   "ar": "Exiom · لوح شمسي · 580 واط"
+  }
+ },
+ {
+  "ref": "SP-SPSB300",
+  "name": "SverigePanelen Superblack",
+  "qty": 12,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.252,
+   0.3
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module",
+   "ar": "Sverigepanelen · لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001889",
+  "name": "DAH SOLAR DHN-72X16/DG(BW)-585W",
+  "qty": 11,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.297,
+   0.363
+  ],
+  "note": {
+   "en": "DAH Solar · photovoltaic solar module · 585 W",
+   "ar": "DAH Solar · لوح شمسي · 585 واط"
+  }
+ },
+ {
+  "ref": "SP-SPT270",
+  "name": "Sverigepanelen Tegel",
+  "qty": 11,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_red.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.231,
+   0.275
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module",
+   "ar": "Sverigepanelen · لوح شمسي"
+  }
+ },
+ {
+  "ref": "GSMF400SBS",
+  "name": "Sverigepanelen 400W Shingel",
+  "qty": 10,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.22,
+   0.28
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 400 W",
+   "ar": "Sverigepanelen · لوح شمسي · 400 واط"
+  }
+ },
+ {
+  "ref": "R0001634",
+  "name": "REGITEC Solar RMHT54/360O1 - 360W Terracotta Orange",
+  "qty": 10,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_red.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.21,
+   0.25
+  ],
+  "note": {
+   "en": "REGITEC Solar · photovoltaic solar module · 360 W",
+   "ar": "REGITEC Solar · لوح شمسي · 360 واط"
+  }
+ },
+ {
+  "ref": "R0001999",
+  "name": "DMEGC 590W Bifacial WBS",
+  "qty": 10,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.27,
+   0.33
+  ],
+  "note": {
+   "en": "DMEGC · photovoltaic solar module · 590 W",
+   "ar": "DMEGC · لوح شمسي · 590 واط"
+  }
+ },
+ {
+  "ref": "R0001188",
+  "name": "Sverigepanelen Superpower 550W (Leapton)",
+  "qty": 9,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.243,
+   0.297
+  ],
+  "note": {
+   "en": "Leapton · photovoltaic solar module · 550 W",
+   "ar": "Leapton · لوح شمسي · 550 واط"
+  }
+ },
+ {
+  "ref": "R0001913",
+  "name": "500W DG - LP182*182-M-60-NB (EPD)",
+  "qty": 8,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.216,
+   0.264
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 500 W",
+   "ar": "لوح شمسي · 500 واط"
+  }
+ },
+ {
+  "ref": "GSVM365SBP",
+  "name": "Sverigepanelen Superblack Plus 365W",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.147,
+   0.175
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 365 W",
+   "ar": "Sverigepanelen · لوح شمسي · 365 واط"
+  }
+ },
+ {
+  "ref": "R0001847",
+  "name": "REGITEC Solar RMHT54/405O2 - 405W Terracotta Orange",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_red.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.154,
+   0.196
+  ],
+  "note": {
+   "en": "REGITEC Solar · photovoltaic solar module · 405 W",
+   "ar": "REGITEC Solar · لوح شمسي · 405 واط"
+  }
+ },
+ {
+  "ref": "SP-SPSP400",
+  "name": "Sverigepanelen SUPERPOWER 400W",
+  "qty": 7,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.154,
+   0.196
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 400 W",
+   "ar": "Sverigepanelen · لوح شمسي · 400 واط"
+  }
+ },
+ {
+  "ref": "ECO-390M-66SAF",
+  "name": "ECO Delta power 390W",
+  "qty": 6,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.126,
+   0.15
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 390 W",
+   "ar": "لوح شمسي · 390 واط"
+  }
+ },
+ {
+  "ref": "R0001285",
+  "name": "Superpower DG Medium 530W (gammal modell)",
+  "qty": 6,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.162,
+   0.198
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 530 W",
+   "ar": "لوح شمسي · 530 واط"
+  }
+ },
+ {
+  "ref": "R0001633",
+  "name": "REGITEC Solar 430W DG Full Black",
+  "qty": 6,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.132,
+   0.168
+  ],
+  "note": {
+   "en": "REGITEC Solar · photovoltaic solar module · 430 W",
+   "ar": "REGITEC Solar · لوح شمسي · 430 واط"
+  }
+ },
+ {
+  "ref": "SP-CMB300",
+  "name": "Centro MB 300",
+  "qty": 6,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.126,
+   0.15
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 300 W",
+   "ar": "لوح شمسي · 300 واط"
+  }
+ },
+ {
+  "ref": "SP-SB300",
+  "name": "UL-300M-60 Superblack",
+  "qty": 6,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.126,
+   0.15
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 300 W",
+   "ar": "لوح شمسي · 300 واط"
+  }
+ },
+ {
+  "ref": "SP-SB310",
+  "name": "Centro Superblack 310W",
+  "qty": 6,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.126,
+   0.15
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 310 W",
+   "ar": "لوح شمسي · 310 واط"
+  }
+ },
+ {
+  "ref": "R0001728",
+  "name": "Superpower DG Medium 530W (ny modell)",
+  "qty": 5,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.135,
+   0.165
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 530 W",
+   "ar": "لوح شمسي · 530 واط"
+  }
+ },
+ {
+  "ref": "410w Dubbelglas med Ram",
+  "name": "410w Dubbelglas med Ram",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.088,
+   0.112
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 410 W",
+   "ar": "لوح شمسي · 410 واط"
+  }
+ },
+ {
+  "ref": "Ny 410w Dubbelglas med Ram",
+  "name": "Ny 410w Dubbelglas med Ram",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.088,
+   0.112
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 410 W",
+   "ar": "لوح شمسي · 410 واط"
+  }
+ },
+ {
+  "ref": "R0001556",
+  "name": "Sverigepanelen Superpower 565W (SILVER) (Axitec)",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_large.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.108,
+   0.132
+  ],
+  "note": {
+   "en": "Axitec · photovoltaic solar module · 565 W",
+   "ar": "Axitec · لوح شمسي · 565 واط"
+  }
+ },
+ {
+  "ref": "R0001852",
+  "name": "Superpower DG Large 580W",
+  "qty": 4,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_glass.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.108,
+   0.132
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 580 W",
+   "ar": "لوح شمسي · 580 واط"
+  }
+ },
+ {
+  "ref": "R0001232",
+  "name": "Rated Power 415-435W",
+  "qty": 3,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.066,
+   0.084
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 435 W",
+   "ar": "لوح شمسي · 435 واط"
+  }
+ },
+ {
+  "ref": "R0001652",
+  "name": "Rated Power 415-440W",
+  "qty": 3,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.066,
+   0.084
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 440 W",
+   "ar": "لوح شمسي · 440 واط"
+  }
+ },
+ {
+  "ref": "R0001786",
+  "name": "JW-HD108N-435W",
+  "qty": 3,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.066,
+   0.084
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 435 W",
+   "ar": "لوح شمسي · 435 واط"
+  }
+ },
+ {
+  "ref": "2233",
+  "name": "Gamla paneler udda varumärken",
+  "qty": 2,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.042,
+   0.05
+  ],
+  "note": {
+   "en": "older mixed-brand PV modules",
+   "ar": "لوح شمسي"
+  }
+ },
+ {
+  "ref": "GSUB455SP40",
+  "name": "455 Sverigepanelen äldre 40 mm",
+  "qty": 1,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "complete",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.022,
+   0.028
+  ],
+  "note": {
+   "en": "Sverigepanelen · photovoltaic solar module · 455 W",
+   "ar": "Sverigepanelen · لوح شمسي · 455 واط"
+  }
+ },
+ {
+  "ref": "R0001664 Defekt",
+  "name": "SSR 400W ELEMAC",
+  "qty": 504,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "defective",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   11.088,
+   14.112
+  ],
+  "note": {
+   "en": "photovoltaic solar module · 400 W",
+   "ar": "لوح شمسي · 400 واط"
+  }
+ },
+ {
+  "ref": "Trasiga paneler",
+  "name": "Trasiga paneler",
+  "qty": 20,
+  "group": "modules",
+  "type_en": "PV module",
+  "type_ar": "لوح شمسي",
+  "status": "defective",
+  "img": "img/p_module_black.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.42,
+   0.5
+  ],
+  "note": {
+   "en": "damaged PV modules",
+   "ar": "لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001667",
+  "name": "High Voltage 5,12 kWh Module",
+  "qty": 8,
+  "group": "batteries",
+  "type_en": "Battery module",
+  "type_ar": "وحدة بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.348,
+   0.492
+  ],
+  "note": {
+   "en": "Leapton · high-voltage battery module · 5.12 kWh",
+   "ar": "Leapton · وحدة بطارية · 5.12 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001866-V2",
+  "name": "Raymond Solid State Rack Battery Module 5,4kWh -V2",
+  "qty": 6,
+  "group": "batteries",
+  "type_en": "Battery module",
+  "type_ar": "وحدة بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.275,
+   0.389
+  ],
+  "note": {
+   "en": "high-voltage battery module · 5.4 kWh",
+   "ar": "وحدة بطارية · 5.4 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001775",
+  "name": "Raymond Solid State Battery Module 5,4 kWh",
+  "qty": 4,
+  "group": "batteries",
+  "type_en": "Battery module",
+  "type_ar": "وحدة بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.184,
+   0.259
+  ],
+  "note": {
+   "en": "high-voltage battery module · 5.4 kWh",
+   "ar": "وحدة بطارية · 5.4 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001733",
+  "name": "BYD B-BOX PREMIUM HVS (2,56 KWH) BATTERY STORAGE MODULE",
+  "qty": 2,
+  "group": "batteries",
+  "type_en": "Battery module",
+  "type_ar": "وحدة بطارية",
+  "status": "complete",
+  "img": "img/p_byd_hvs.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.044,
+   0.061
+  ],
+  "note": {
+   "en": "BYD · high-voltage battery module · 2.56 kWh",
+   "ar": "BYD · وحدة بطارية · 2.56 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001853",
+  "name": "Raymond Solid State Battery Module 5,4 kWh med värmeelement",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery module",
+  "type_ar": "وحدة بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.046,
+   0.065
+  ],
+  "note": {
+   "en": "high-voltage battery module · 5.4 kWh",
+   "ar": "وحدة بطارية · 5.4 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001751",
+  "name": "Raymond Solid State 10.8kWh",
+  "qty": 10,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.918,
+   1.296
+  ],
+  "note": {
+   "en": "stationary energy-storage system · 10.8 kWh",
+   "ar": "نظام بطارية · 10.8 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001752",
+  "name": "Raymond Solid State 16.2kWh",
+  "qty": 10,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.377,
+   1.944
+  ],
+  "note": {
+   "en": "stationary energy-storage system · 16.2 kWh",
+   "ar": "نظام بطارية · 16.2 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001753",
+  "name": "Raymond Solid State 21.6kWh",
+  "qty": 10,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.836,
+   2.592
+  ],
+  "note": {
+   "en": "stationary energy-storage system · 21.6 kWh",
+   "ar": "نظام بطارية · 21.6 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001754",
+  "name": "Raymond Solid State 27.0kWh",
+  "qty": 10,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.295,
+   3.24
+  ],
+  "note": {
+   "en": "stationary energy-storage system · 27 kWh",
+   "ar": "نظام بطارية · 27 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001755",
+  "name": "Raymond Solid State 32.4kWh",
+  "qty": 10,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "complete",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.754,
+   3.888
+  ],
+  "note": {
+   "en": "stationary energy-storage system · 32.4 kWh",
+   "ar": "نظام بطارية · 32.4 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001538",
+  "name": "B-BOX PREMIUM HVS 5.1 (5,12 kWh)",
+  "qty": 3,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "complete",
+  "img": "img/p_byd_hvs.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.131,
+   0.184
+  ],
+  "note": {
+   "en": "BYD · stationary energy-storage system · 5.12 kWh",
+   "ar": "BYD · نظام بطارية · 5.12 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001571",
+  "name": "Solax Battery Triple power 5,8kWh - SLAVE",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "complete",
+  "img": "img/p_solax_tbat.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.049,
+   0.07
+  ],
+  "note": {
+   "en": "SolaX · stationary energy-storage system · 5.8 kWh",
+   "ar": "SolaX · نظام بطارية · 5.8 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001574",
+  "name": "Solax Battery Triple power 5,8kWh - MASTER",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "complete",
+  "img": "img/p_solax_tbat.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.049,
+   0.07
+  ],
+  "note": {
+   "en": "SolaX · stationary energy-storage system · 5.8 kWh",
+   "ar": "SolaX · نظام بطارية · 5.8 كيلوواط ساعة"
+  }
+ },
+ {
+  "ref": "R0001776",
+  "name": "Raymond Solid State Battery Base and Cable Kit",
+  "qty": 204,
+  "group": "batteries",
+  "type_en": "Battery base kit",
+  "type_ar": "طقم قاعدة بطارية",
+  "status": "component",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.02,
+   3.06
+  ],
+  "note": {
+   "en": "base/support and connection kit for a battery system",
+   "ar": "طقم قاعدة بطارية"
+  }
+ },
+ {
+  "ref": "R0002037",
+  "name": "Raymond Solid State Battery Base and Cable Kit - OLD model",
+  "qty": 108,
+  "group": "batteries",
+  "type_en": "Battery base kit",
+  "type_ar": "طقم قاعدة بطارية",
+  "status": "component",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.54,
+   1.62
+  ],
+  "note": {
+   "en": "base/support and connection kit for a battery system",
+   "ar": "طقم قاعدة بطارية"
+  }
+ },
+ {
+  "ref": "R5",
+  "name": "Support batterier från Raystech",
+  "qty": 5,
+  "group": "batteries",
+  "type_en": "Battery base kit",
+  "type_ar": "طقم قاعدة بطارية",
+  "status": "component",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.025,
+   0.075
+  ],
+  "note": {
+   "en": "base/support and connection kit for a battery system",
+   "ar": "طقم قاعدة بطارية"
+  }
+ },
+ {
+  "ref": "R0001519",
+  "name": "SBR BATTERY PREMIUM ACCESSORIES (SBR Accessory V114)",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery base kit",
+  "type_ar": "طقم قاعدة بطارية",
+  "status": "component",
+  "img": "img/p_ferroamp_sso.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.005,
+   0.015
+  ],
+  "note": {
+   "en": "Sungrow · base/support and connection kit for a battery system",
+   "ar": "Sungrow · طقم قاعدة بطارية"
+  }
+ },
+ {
+  "ref": "R0001575",
+  "name": "Solax Three-Phase EPS Box",
+  "qty": 3,
+  "group": "batteries",
+  "type_en": "Battery control unit",
+  "type_ar": "وحدة تحكم بطارية",
+  "status": "component",
+  "img": "img/p_solax_eps_box.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.03,
+   0.075
+  ],
+  "note": {
+   "en": "SolaX · battery control and power unit",
+   "ar": "SolaX · وحدة تحكم بطارية"
+  }
+ },
+ {
+  "ref": "R0001668",
+  "name": "HV-Control Box Built in WIFI & Battery Base",
+  "qty": 3,
+  "group": "batteries",
+  "type_en": "Battery control unit",
+  "type_ar": "وحدة تحكم بطارية",
+  "status": "component",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.03,
+   0.075
+  ],
+  "note": {
+   "en": "Leapton · battery control and power unit",
+   "ar": "Leapton · وحدة تحكم بطارية"
+  }
+ },
+ {
+  "ref": "R0001734",
+  "name": "BYD B-BOX PREMIUM HV BATTERY CONTROL UNIT + BASE",
+  "qty": 2,
+  "group": "batteries",
+  "type_en": "Battery control unit",
+  "type_ar": "وحدة تحكم بطارية",
+  "status": "component",
+  "img": "img/p_byd_hvs.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.05
+  ],
+  "note": {
+   "en": "BYD · battery control and power unit",
+   "ar": "BYD · وحدة تحكم بطارية"
+  }
+ },
+ {
+  "ref": "R0001219",
+  "name": "Huawei Power Module LUNA2000-5KW-C0",
+  "qty": 1,
+  "group": "batteries",
+  "type_en": "Battery control unit",
+  "type_ar": "وحدة تحكم بطارية",
+  "status": "component",
+  "img": "img/p_huawei_luna.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.01,
+   0.025
+  ],
+  "note": {
+   "en": "Huawei · battery control and power unit",
+   "ar": "Huawei · وحدة تحكم بطارية"
+  }
+ },
+ {
+  "ref": "R0001900",
+  "name": "Raymond Solid State Rack Communication Cable - Inverter to Battery - Black",
+  "qty": 36,
+  "group": "batteries",
+  "type_en": "Battery cable",
+  "type_ar": "كابل بطارية",
+  "status": "accessory",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.007,
+   0.072
+  ],
+  "note": {
+   "en": "connection cable or plug for a battery system",
+   "ar": "كابل بطارية"
+  }
+ },
+ {
+  "ref": "R0001869",
+  "name": "Raymond Solid State Rack Power Cable - Inverter to Battery - Black",
+  "qty": 28,
+  "group": "batteries",
+  "type_en": "Battery cable",
+  "type_ar": "كابل بطارية",
+  "status": "accessory",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.006,
+   0.056
+  ],
+  "note": {
+   "en": "connection cable or plug for a battery system",
+   "ar": "كابل بطارية"
+  }
+ },
+ {
+  "ref": "R0001899",
+  "name": "Raymond Solid State Rack Power Cable - Inverter to Battery - Red",
+  "qty": 28,
+  "group": "batteries",
+  "type_en": "Battery cable",
+  "type_ar": "كابل بطارية",
+  "status": "accessory",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.006,
+   0.056
+  ],
+  "note": {
+   "en": "connection cable or plug for a battery system",
+   "ar": "كابل بطارية"
+  }
+ },
+ {
+  "ref": "R0001868",
+  "name": "Raymond Solid State Rack Power Cable - Battery to Battery",
+  "qty": 4,
+  "group": "batteries",
+  "type_en": "Battery cable",
+  "type_ar": "كابل بطارية",
+  "status": "accessory",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.008
+  ],
+  "note": {
+   "en": "connection cable or plug for a battery system",
+   "ar": "كابل بطارية"
+  }
+ },
+ {
+  "ref": "R44",
+  "name": "Refurbed Solid state",
+  "qty": 39,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "refurbished",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   2.73,
+   5.07
+  ],
+  "note": {
+   "en": "refurbished battery system",
+   "ar": "نظام بطارية"
+  }
+ },
+ {
+  "ref": "R45",
+  "name": "Refurbed Solid State heating",
+  "qty": 15,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "refurbished",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.05,
+   1.95
+  ],
+  "note": {
+   "en": "refurbished battery system",
+   "ar": "نظام بطارية"
+  }
+ },
+ {
+  "ref": "R26",
+  "name": "Öppnade ESS Solid State Base",
+  "qty": 10,
+  "group": "batteries",
+  "type_en": "Battery base kit",
+  "type_ar": "طقم قاعدة بطارية",
+  "status": "used",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.05,
+   0.15
+  ],
+  "note": {
+   "en": "opened battery-system base",
+   "ar": "طقم قاعدة بطارية"
+  }
+ },
+ {
+  "ref": "R4",
+  "name": "Batteri på service",
+  "qty": 12,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "defective",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.84,
+   1.56
+  ],
+  "note": {
+   "en": "battery currently listed as in service/repair",
+   "ar": "نظام بطارية"
+  }
+ },
+ {
+  "ref": "R3",
+  "name": "Batteri på service med värmeelement",
+  "qty": 4,
+  "group": "batteries",
+  "type_en": "Battery system",
+  "type_ar": "نظام بطارية",
+  "status": "defective",
+  "img": "img/p_storage_stack.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.28,
+   0.52
+  ],
+  "note": {
+   "en": "battery currently listed as in service/repair",
+   "ar": "نظام بطارية"
+  }
+ },
+ {
+  "ref": "R0001709",
+  "name": "Sungrow EV-Charger 11kW",
+  "qty": 45,
+  "group": "chargers",
+  "type_en": "EV charger",
+  "type_ar": "شاحن سيارة كهربائية",
+  "status": "complete",
+  "img": "img/p_sungrow_ev.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.72,
+   1.26
+  ],
+  "note": {
+   "en": "Sungrow · AC electric-vehicle charger",
+   "ar": "Sungrow · شاحن سيارة كهربائية"
+  }
+ },
+ {
+  "ref": "R0001533",
+  "name": "Chargestorm Connected Typ2- 2 Uttag 3-fas 32A LAN",
+  "qty": 1,
+  "group": "chargers",
+  "type_en": "EV charger",
+  "type_ar": "شاحن سيارة كهربائية",
+  "status": "complete",
+  "img": "img/p_ctek_charger.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.016,
+   0.028
+  ],
+  "note": {
+   "en": "CTEK · AC electric-vehicle charger",
+   "ar": "CTEK · شاحن سيارة كهربائية"
+  }
+ },
+ {
+  "ref": "R0001351",
+  "name": "Kabelhållare Svart",
+  "qty": 3,
+  "group": "chargers",
+  "type_en": "EV charger accessory",
+  "type_ar": "ملحق شاحن سيارة كهربائية",
+  "status": "accessory",
+  "img": "img/p_ev_charger.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.003
+  ],
+  "note": {
+   "en": "cable holder",
+   "ar": "ملحق شاحن سيارة كهربائية"
+  }
+ },
+ {
+  "ref": "R0001350",
+  "name": "Kabelhållare Vit",
+  "qty": 2,
+  "group": "chargers",
+  "type_en": "EV charger accessory",
+  "type_ar": "ملحق شاحن سيارة كهربائية",
+  "status": "accessory",
+  "img": "img/p_ev_charger.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.002
+  ],
+  "note": {
+   "en": "cable holder",
+   "ar": "ملحق شاحن سيارة كهربائية"
+  }
+ },
+ {
+  "ref": "R0001886",
+  "name": "DC Circuit Breaker - Stift",
+  "qty": 598,
+  "group": "electrical",
+  "type_en": "DC circuit breaker",
+  "type_ar": "قاطع تيار مستمر",
+  "status": "component",
+  "img": "img/p_dc_breaker.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.12,
+   0.419
+  ],
+  "note": {
+   "en": "DC protection circuit breaker",
+   "ar": "قاطع تيار مستمر"
+  }
+ },
+ {
+  "ref": "R0001846",
+  "name": "DC Circuit Breaker",
+  "qty": 464,
+  "group": "electrical",
+  "type_en": "DC circuit breaker",
+  "type_ar": "قاطع تيار مستمر",
+  "status": "component",
+  "img": "img/p_dc_breaker.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.093,
+   0.325
+  ],
+  "note": {
+   "en": "DC protection circuit breaker",
+   "ar": "قاطع تيار مستمر"
+  }
+ },
+ {
+  "ref": "R0001897",
+  "name": "Baishibao Plug Black - DC Combiner Box",
+  "qty": 7,
+  "group": "electrical",
+  "type_en": "DC combiner box",
+  "type_ar": "صندوق تجميع تيار مستمر",
+  "status": "component",
+  "img": "img/p_electrical_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.084,
+   0.175
+  ],
+  "note": {
+   "en": "DC combiner box for battery strings",
+   "ar": "صندوق تجميع تيار مستمر"
+  }
+ },
+ {
+  "ref": "R0001898",
+  "name": "Baishibao Plug Orange - DC Combiner Box",
+  "qty": 7,
+  "group": "electrical",
+  "type_en": "DC combiner box",
+  "type_ar": "صندوق تجميع تيار مستمر",
+  "status": "component",
+  "img": "img/p_electrical_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.084,
+   0.175
+  ],
+  "note": {
+   "en": "DC combiner box for battery strings",
+   "ar": "صندوق تجميع تيار مستمر"
+  }
+ },
+ {
+  "ref": "R0001870-V2",
+  "name": "Raymond Solid State DC Combiner Box - 3 to 2 - V2",
+  "qty": 4,
+  "group": "electrical",
+  "type_en": "DC combiner box",
+  "type_ar": "صندوق تجميع تيار مستمر",
+  "status": "component",
+  "img": "img/p_electrical_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.048,
+   0.1
+  ],
+  "note": {
+   "en": "DC combiner box for battery strings",
+   "ar": "صندوق تجميع تيار مستمر"
+  }
+ },
+ {
+  "ref": "R0001112",
+  "name": "KOMPAKTSKÅP KX 300X300X155 (GBG Energi låda)",
+  "qty": 1,
+  "group": "electrical",
+  "type_en": "Electrical enclosure",
+  "type_ar": "صندوق كهربائي",
+  "status": "component",
+  "img": "img/p_electrical_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.018
+  ],
+  "note": {
+   "en": "electrical system enclosure or accessory",
+   "ar": "صندوق كهربائي"
+  }
+ },
+ {
+  "ref": "R0001888",
+  "name": "Takstöd för trådstege - 120-300 MM MP-PVX1",
+  "qty": 20,
+  "group": "electrical",
+  "type_en": "Cable tray accessory",
+  "type_ar": "ملحق مجرى كابلات",
+  "status": "accessory",
+  "img": "img/p_electrical_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.006,
+   0.08
+  ],
+  "note": {
+   "en": "roof support for wire cable tray",
+   "ar": "ملحق مجرى كابلات"
+  }
+ },
+ {
+  "ref": "R0002058",
+  "name": "Lock till trådstege Z4, MP - TÄCKLOCK 55MM 3M Z4 MP-405Z4",
+  "qty": 3,
+  "group": "electrical",
+  "type_en": "Cable tray accessory",
+  "type_ar": "ملحق مجرى كابلات",
+  "status": "accessory",
+  "img": "img/p_electrical_box.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.012
+  ],
+  "note": {
+   "en": "cable-tray or cable-routing component",
+   "ar": "ملحق مجرى كابلات"
+  }
+ },
+ {
+  "ref": "R0001129",
+  "name": "Strömtrafo 160A",
+  "qty": 30,
+  "group": "electrical",
+  "type_en": "Current transformer",
+  "type_ar": "محول تيار",
+  "status": "accessory",
+  "img": "img/p_current_transformer.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.009,
+   0.045
+  ],
+  "note": {
+   "en": "Ferroamp · current transformer",
+   "ar": "Ferroamp · محول تيار"
+  }
+ },
+ {
+  "ref": "R0001128",
+  "name": "Strömtrafo 100A",
+  "qty": 20,
+  "group": "electrical",
+  "type_en": "Current transformer",
+  "type_ar": "محول تيار",
+  "status": "accessory",
+  "img": "img/p_current_transformer.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.006,
+   0.03
+  ],
+  "note": {
+   "en": "Ferroamp · current transformer",
+   "ar": "Ferroamp · محول تيار"
+  }
+ },
+ {
+  "ref": "R0001417",
+  "name": "Strömtrafo 1200 A",
+  "qty": 1,
+  "group": "electrical",
+  "type_en": "Current transformer",
+  "type_ar": "محول تيار",
+  "status": "accessory",
+  "img": "img/p_current_transformer.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.002
+  ],
+  "note": {
+   "en": "Ferroamp · current transformer",
+   "ar": "Ferroamp · محول تيار"
+  }
+ },
+ {
+  "ref": "R0001353",
+  "name": "Säkringar 20A 1000 VDC",
+  "qty": 4,
+  "group": "electrical",
+  "type_en": "DC fuse",
+  "type_ar": "مصهر تيار مستمر",
+  "status": "accessory",
+  "img": "img/p_dc_breaker.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.001
+  ],
+  "note": {
+   "en": "Ferroamp · DC fuse",
+   "ar": "Ferroamp · مصهر تيار مستمر"
+  }
+ },
+ {
+  "ref": "R0001121",
+  "name": "Säkringar 15A 1000 VDC",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "DC fuse",
+  "type_ar": "مصهر تيار مستمر",
+  "status": "accessory",
+  "img": "img/p_dc_breaker.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.0
+  ],
+  "note": {
+   "en": "Ferroamp · DC fuse",
+   "ar": "Ferroamp · مصهر تيار مستمر"
+  }
+ },
+ {
+  "ref": "R0001650",
+  "name": "Huawei STANDARD ACCESSORIES KIT (SUN2000-12-20KTL-M0/M2)",
+  "qty": 4,
+  "group": "electrical",
+  "type_en": "Inverter accessory kit",
+  "type_ar": "طقم ملحقات انفرتر",
+  "status": "accessory",
+  "img": "img/p_ferroamp_sso.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.004,
+   0.02
+  ],
+  "note": {
+   "en": "Huawei · standard accessory kit for the named inverter family",
+   "ar": "Huawei · طقم ملحقات انفرتر"
+  }
+ },
+ {
+  "ref": "R0001649",
+  "name": "Huawei STANDARD ACCESSORIES KIT (SUN2000-3-10KTL-M0/M1)",
+  "qty": 3,
+  "group": "electrical",
+  "type_en": "Inverter accessory kit",
+  "type_ar": "طقم ملحقات انفرتر",
+  "status": "accessory",
+  "img": "img/p_ferroamp_sso.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.003,
+   0.015
+  ],
+  "note": {
+   "en": "Huawei · standard accessory kit for the named inverter family",
+   "ar": "Huawei · طقم ملحقات انفرتر"
+  }
+ },
+ {
+  "ref": "550W kontakt minus",
+  "name": "Kontakter 550W minus",
+  "qty": 67,
+  "group": "electrical",
+  "type_en": "PV connector",
+  "type_ar": "موصل شمسي",
+  "status": "accessory",
+  "img": "img/p_pv_connector.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.013,
+   0.067
+  ],
+  "note": {
+   "en": "solar DC connector kit",
+   "ar": "موصل شمسي"
+  }
+ },
+ {
+  "ref": "550W kontakt plus",
+  "name": "Kontakter 550W plus",
+  "qty": 67,
+  "group": "electrical",
+  "type_en": "PV connector",
+  "type_ar": "موصل شمسي",
+  "status": "accessory",
+  "img": "img/p_pv_connector.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.013,
+   0.067
+  ],
+  "note": {
+   "en": "solar DC connector kit",
+   "ar": "موصل شمسي"
+  }
+ },
+ {
+  "ref": "R0001122",
+  "name": "MC4 kontaktkit (10 hane + 10 hona)",
+  "qty": 9,
+  "group": "electrical",
+  "type_en": "PV connector",
+  "type_ar": "موصل شمسي",
+  "status": "accessory",
+  "img": "img/p_pv_connector.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.002,
+   0.009
+  ],
+  "note": {
+   "en": "Ferroamp · solar DC connector kit",
+   "ar": "Ferroamp · موصل شمسي"
+  }
+ },
+ {
+  "ref": "R0001861",
+  "name": "TP-Link - PoE160S - PoE+ Injector Adapter PORT: 1× Gigabit PoE Port",
+  "qty": 6,
+  "group": "electrical",
+  "type_en": "PoE adapter",
+  "type_ar": "محوّل طاقة عبر الإيثرنت",
+  "status": "accessory",
+  "img": "img/p_poe_adapter.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.001,
+   0.004
+  ],
+  "note": {
+   "en": "TP-Link · Power-over-Ethernet injector",
+   "ar": "TP-Link · محوّل طاقة عبر الإيثرنت"
+  }
+ },
+ {
+  "ref": "R0001600",
+  "name": "Tigo Optimerare TS4 700W/1000V",
+  "qty": 2,
+  "group": "electrical",
+  "type_en": "Power optimiser",
+  "type_ar": "محسّن طاقة",
+  "status": "accessory",
+  "img": "img/p_tigo_ts4.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.001,
+   0.002
+  ],
+  "note": {
+   "en": "Ferroamp · module-level solar power optimiser",
+   "ar": "Ferroamp · محسّن طاقة"
+  }
+ },
+ {
+  "ref": "R0001981",
+  "name": "Flat - Kabelkanal 2,4m",
+  "qty": 8,
+  "group": "mounting",
+  "type_en": "Cable tray accessory",
+  "type_ar": "ملحق مجرى كابلات",
+  "status": "accessory",
+  "img": "img/p_mount_cable.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.002,
+   0.032
+  ],
+  "note": {
+   "en": "TJB · cable-tray or cable-routing component",
+   "ar": "TJB · ملحق مجرى كابلات"
+  }
+ },
+ {
+  "ref": "R0001561",
+  "name": "Universal Inter/End Clamp 26-40mm Kit",
+  "qty": 1472,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.118,
+   0.368
+  ],
+  "note": {
+   "en": "clamp for securing PV modules",
+   "ar": "مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001052",
+  "name": "MITTKLÄMMA KOMPLETT SOLSYSTEM SVART",
+  "qty": 505,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.04,
+   0.126
+  ],
+  "note": {
+   "en": "Weland Stål · centre clamp for PV modules",
+   "ar": "Weland Stål · مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001184",
+  "name": "Adjustable End Clamp for Thin Film Module Bl",
+  "qty": 345,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.028,
+   0.086
+  ],
+  "note": {
+   "en": "clamp for securing PV modules",
+   "ar": "مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001297",
+  "name": "K2 Clamp EC 25-40 mm (Black Anodized)",
+  "qty": 240,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.019,
+   0.06
+  ],
+  "note": {
+   "en": "K2 · clamp for securing PV modules",
+   "ar": "K2 · مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001790",
+  "name": "MITTKLÄMMA KOMPLETT SOLSYSTEM ZM",
+  "qty": 139,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.011,
+   0.035
+  ],
+  "note": {
+   "en": "Weland Stål · centre clamp for PV modules",
+   "ar": "Weland Stål · مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001185",
+  "name": "Adjustable Inter Clamp for Thin Film Module Bl",
+  "qty": 74,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.006,
+   0.018
+  ],
+  "note": {
+   "en": "clamp for securing PV modules",
+   "ar": "مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001717",
+  "name": "Adjustable End Clamp for Thin Film Module (Red)",
+  "qty": 50,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.004,
+   0.013
+  ],
+  "note": {
+   "en": "clamp for securing PV modules",
+   "ar": "مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001801",
+  "name": "Solentra - Ändklämma 28-35mm svart",
+  "qty": 24,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.002,
+   0.006
+  ],
+  "note": {
+   "en": "TJB · end clamp for PV modules",
+   "ar": "TJB · مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001718",
+  "name": "Adjustable Inter Clamp for Thin Film Module (Red)",
+  "qty": 20,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.002,
+   0.005
+  ],
+  "note": {
+   "en": "clamp for securing PV modules",
+   "ar": "مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001789",
+  "name": "ÄNDKLÄMMA KOMPLETT SOLSYSTEM ZM",
+  "qty": 18,
+  "group": "mounting",
+  "type_en": "Module clamp",
+  "type_ar": "مشبك لوح شمسي",
+  "status": "accessory",
+  "img": "img/p_mount_clamp.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.004
+  ],
+  "note": {
+   "en": "Weland Stål · end clamp for PV modules",
+   "ar": "Weland Stål · مشبك لوح شمسي"
+  }
+ },
+ {
+  "ref": "R0001182",
+  "name": "L feet Kit",
+  "qty": 2503,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.25,
+   3.755
+  ],
+  "note": {
+   "en": "component for a PV mounting system",
+   "ar": "ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001181",
+  "name": "standing seam 20",
+  "qty": 1321,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.132,
+   1.982
+  ],
+  "note": {
+   "en": "component for a PV mounting system",
+   "ar": "ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001183",
+  "name": "Hexagon Socket Bolt Kit",
+  "qty": 936,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.094,
+   1.404
+  ],
+  "note": {
+   "en": "component for a PV mounting system",
+   "ar": "ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001594",
+  "name": "MultiRail 25/2",
+  "qty": 482,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.048,
+   0.723
+  ],
+  "note": {
+   "en": "K2 · component for a PV mounting system",
+   "ar": "K2 · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001004",
+  "name": "OneMid Black Set 30-42",
+  "qty": 116,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.012,
+   0.174
+  ],
+  "note": {
+   "en": "K2 · component for a PV mounting system",
+   "ar": "K2 · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001495",
+  "name": "Dome 6.10 Peak",
+  "qty": 70,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.007,
+   0.105
+  ],
+  "note": {
+   "en": "K2 · component for a PV mounting system",
+   "ar": "K2 · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001788",
+  "name": "PLASTLOCK UTVÄNDIG 50X50 GRÅ",
+  "qty": 43,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.004,
+   0.065
+  ],
+  "note": {
+   "en": "Weland Stål · component for a PV mounting system",
+   "ar": "Weland Stål · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001042",
+  "name": "C-PROFIL / DISTANS SOLSYSTEM PAPPTAK ZM",
+  "qty": 39,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.004,
+   0.059
+  ],
+  "note": {
+   "en": "Weland Stål · component for a PV mounting system",
+   "ar": "Weland Stål · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001003",
+  "name": "OneEnd Black Set 30-42",
+  "qty": 32,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.003,
+   0.048
+  ],
+  "note": {
+   "en": "K2 · component for a PV mounting system",
+   "ar": "K2 · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001828",
+  "name": "Solentra Buntband - svart",
+  "qty": 24,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.002,
+   0.036
+  ],
+  "note": {
+   "en": "TJB · cable tie",
+   "ar": "TJB · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001986",
+  "name": "Flat - Vindbrytare par",
+  "qty": 3,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.004
+  ],
+  "note": {
+   "en": "TJB · wind deflector pair",
+   "ar": "TJB · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001826",
+  "name": "Solentra - Ändskyddslock 38*45",
+  "qty": 2,
+  "group": "mounting",
+  "type_en": "Mounting accessory",
+  "type_ar": "ملحق تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.003
+  ],
+  "note": {
+   "en": "TJB · rail end cap",
+   "ar": "TJB · ملحق تثبيت"
+  }
+ },
+ {
+  "ref": "R0001046",
+  "name": "FOTPLATTA SOLSYSTEM 180X60X75 ZM",
+  "qty": 1212,
+  "group": "mounting",
+  "type_en": "Mounting base",
+  "type_ar": "قاعدة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.364,
+   3.03
+  ],
+  "note": {
+   "en": "Weland Stål · base plate for roof mounting",
+   "ar": "Weland Stål · قاعدة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001659",
+  "name": "D-DOME 6.10 BASE SET L",
+  "qty": 16,
+  "group": "mounting",
+  "type_en": "Mounting base",
+  "type_ar": "قاعدة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.005,
+   0.04
+  ],
+  "note": {
+   "en": "K2 · base component for PV mounting",
+   "ar": "K2 · قاعدة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001061",
+  "name": "MUTTERSATS 100ST M10 VFZ",
+  "qty": 53,
+  "group": "mounting",
+  "type_en": "Mounting bolt set",
+  "type_ar": "طقم مسامير تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.08,
+   0.238
+  ],
+  "note": {
+   "en": "Weland Stål · mounting nut set",
+   "ar": "Weland Stål · طقم مسامير تثبيت"
+  }
+ },
+ {
+  "ref": "R0001048",
+  "name": "BULTSATS 100ST M10X20MM VFZ",
+  "qty": 32,
+  "group": "mounting",
+  "type_en": "Mounting bolt set",
+  "type_ar": "طقم مسامير تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.048,
+   0.144
+  ],
+  "note": {
+   "en": "Weland Stål · mounting bolt set",
+   "ar": "Weland Stål · طقم مسامير تثبيت"
+  }
+ },
+ {
+  "ref": "R0001054",
+  "name": "BULTSATS 50ST VANGSBULT M10X30 VFZ",
+  "qty": 14,
+  "group": "mounting",
+  "type_en": "Mounting bolt set",
+  "type_ar": "طقم مسامير تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.011,
+   0.032
+  ],
+  "note": {
+   "en": "Weland Stål · mounting bolt set",
+   "ar": "Weland Stål · طقم مسامير تثبيت"
+  }
+ },
+ {
+  "ref": "R0001053",
+  "name": "BULTSATS 10ST VANGSBULT M10X30 VFZ",
+  "qty": 8,
+  "group": "mounting",
+  "type_en": "Mounting bolt set",
+  "type_ar": "طقم مسامير تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.004
+  ],
+  "note": {
+   "en": "Weland Stål · mounting bolt set",
+   "ar": "Weland Stål · طقم مسامير تثبيت"
+  }
+ },
+ {
+  "ref": "R0001833",
+  "name": "Solentra Vagnsbult M10x30 - 100st/påse",
+  "qty": 8,
+  "group": "mounting",
+  "type_en": "Mounting bolt set",
+  "type_ar": "طقم مسامير تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.012,
+   0.036
+  ],
+  "note": {
+   "en": "TJB · bolt or nut set for PV mounting",
+   "ar": "TJB · طقم مسامير تثبيت"
+  }
+ },
+ {
+  "ref": "R0001806",
+  "name": "INFÄSTNINGSPLATTA TRÄU-LAG TÄTSKIKT",
+  "qty": 92,
+  "group": "mounting",
+  "type_en": "Mounting plate",
+  "type_ar": "لوح تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.028,
+   0.23
+  ],
+  "note": {
+   "en": "TJB · roof attachment plate",
+   "ar": "TJB · لوح تثبيت"
+  }
+ },
+ {
+  "ref": "R0001547",
+  "name": "Tätplåt förhöjd 350x520mm zm",
+  "qty": 76,
+  "group": "mounting",
+  "type_en": "Mounting plate",
+  "type_ar": "لوح تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.023,
+   0.19
+  ],
+  "note": {
+   "en": "Weland Stål · raised flashing plate for roof mounting",
+   "ar": "Weland Stål · لوح تثبيت"
+  }
+ },
+ {
+  "ref": "R0001885",
+  "name": "Cembritskiva FHV",
+  "qty": 69,
+  "group": "mounting",
+  "type_en": "Mounting plate",
+  "type_ar": "لوح تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.021,
+   0.172
+  ],
+  "note": {
+   "en": "fibre-cement mounting board",
+   "ar": "لوح تثبيت"
+  }
+ },
+ {
+  "ref": "R0001823",
+  "name": "Solentra Gummiunderlägg till infästn.platta 6138",
+  "qty": 22,
+  "group": "mounting",
+  "type_en": "Mounting plate",
+  "type_ar": "لوح تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.007,
+   0.055
+  ],
+  "note": {
+   "en": "TJB · plate for PV roof mounting",
+   "ar": "TJB · لوح تثبيت"
+  }
+ },
+ {
+  "ref": "R0001354",
+  "name": "STÖDPLATTA 250X250MM SOLSYSTEM ZM",
+  "qty": 13,
+  "group": "mounting",
+  "type_en": "Mounting plate",
+  "type_ar": "لوح تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.004,
+   0.033
+  ],
+  "note": {
+   "en": "Weland Stål · support plate for roof mounting",
+   "ar": "Weland Stål · لوح تثبيت"
+  }
+ },
+ {
+  "ref": "R0001077",
+  "name": "Infästningsplatta 375 x 375 mm",
+  "qty": 3,
+  "group": "mounting",
+  "type_en": "Mounting plate",
+  "type_ar": "لوح تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_roof.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.001,
+   0.007
+  ],
+  "note": {
+   "en": "CW Lundberg · roof attachment plate",
+   "ar": "CW Lundberg · لوح تثبيت"
+  }
+ },
+ {
+  "ref": "R0001662",
+  "name": "MA-B Rail end cap L=58mm (Black)",
+  "qty": 2442,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.612,
+   3.223
+  ],
+  "note": {
+   "en": "aluminium or steel PV mounting rail",
+   "ar": "سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001176",
+  "name": "Splice kit for MA Op Rail",
+  "qty": 2048,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.352,
+   2.703
+  ],
+  "note": {
+   "en": "aluminium or steel PV mounting rail",
+   "ar": "سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001661",
+  "name": "MA-B Rail L=4800mm (Black anodized)",
+  "qty": 586,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.547,
+   3.094
+  ],
+  "note": {
+   "en": "aluminium or steel PV mounting rail",
+   "ar": "سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001186",
+  "name": "Mini Rail H25",
+  "qty": 441,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.291,
+   0.582
+  ],
+  "note": {
+   "en": "aluminium or steel PV mounting rail",
+   "ar": "سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001658",
+  "name": "DOME PORTER FLEX (-> rail)",
+  "qty": 104,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.069,
+   0.137
+  ],
+  "note": {
+   "en": "K2 · aluminium or steel PV mounting rail",
+   "ar": "K2 · سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001049",
+  "name": "INFÄST.SKENA SOLSYSTEM L=2.26M ZM",
+  "qty": 51,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.063,
+   0.127
+  ],
+  "note": {
+   "en": "Weland Stål · aluminium or steel PV mounting rail",
+   "ar": "Weland Stål · سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001911",
+  "name": "Mini Rail H50",
+  "qty": 30,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.02,
+   0.04
+  ],
+  "note": {
+   "en": "aluminium or steel PV mounting rail",
+   "ar": "سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001794",
+  "name": "Solentra - Skena 38*45 4750mm",
+  "qty": 13,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.034,
+   0.068
+  ],
+  "note": {
+   "en": "TJB · aluminium or steel PV mounting rail",
+   "ar": "TJB · سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001795",
+  "name": "Solentra - Skena 38*45 5900mm",
+  "qty": 10,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.032,
+   0.065
+  ],
+  "note": {
+   "en": "TJB · aluminium or steel PV mounting rail",
+   "ar": "TJB · سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001501",
+  "name": "Dome FixPro S (-> rail)",
+  "qty": 4,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.003,
+   0.005
+  ],
+  "note": {
+   "en": "K2 · aluminium or steel PV mounting rail",
+   "ar": "K2 · سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001793",
+  "name": "Solentra - Skena 38*45 3550mm",
+  "qty": 1,
+  "group": "mounting",
+  "type_en": "Mounting rail",
+  "type_ar": "سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.002,
+   0.004
+  ],
+  "note": {
+   "en": "TJB · aluminium or steel PV mounting rail",
+   "ar": "TJB · سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001103",
+  "name": "TK Skruv 8x80mm T40",
+  "qty": 2354,
+  "group": "mounting",
+  "type_en": "Mounting screw set",
+  "type_ar": "طقم براغي تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.035,
+   0.106
+  ],
+  "note": {
+   "en": "Scanfast · screw set for PV mounting",
+   "ar": "Scanfast · طقم براغي تثبيت"
+  }
+ },
+ {
+  "ref": "R0001602",
+  "name": "Milletech 25/40 skruv m. bricka",
+  "qty": 1248,
+  "group": "mounting",
+  "type_en": "Mounting screw set",
+  "type_ar": "طقم براغي تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.019,
+   0.056
+  ],
+  "note": {
+   "en": "Weland Stål · screw set for PV mounting",
+   "ar": "Weland Stål · طقم براغي تثبيت"
+  }
+ },
+ {
+  "ref": "R0001603",
+  "name": "Träskruv Wafer C4 EJOT 6x60 Raymount",
+  "qty": 370,
+  "group": "mounting",
+  "type_en": "Mounting screw set",
+  "type_ar": "طقم براغي تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.006,
+   0.017
+  ],
+  "note": {
+   "en": "wood screw set for solar mounting",
+   "ar": "طقم براغي تثبيت"
+  }
+ },
+ {
+  "ref": "R0001058",
+  "name": "SKRUVSATS 6X30MM 6-KANT 100ST RF",
+  "qty": 55,
+  "group": "mounting",
+  "type_en": "Mounting screw set",
+  "type_ar": "طقم براغي تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.083,
+   0.247
+  ],
+  "note": {
+   "en": "Weland Stål · mounting screw set",
+   "ar": "Weland Stål · طقم براغي تثبيت"
+  }
+ },
+ {
+  "ref": "R0001057",
+  "name": "SKRUVSATS 100ST SJÄLVG. 6.3X19MM RF",
+  "qty": 24,
+  "group": "mounting",
+  "type_en": "Mounting screw set",
+  "type_ar": "طقم براغي تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.036,
+   0.108
+  ],
+  "note": {
+   "en": "Weland Stål · mounting screw set",
+   "ar": "Weland Stål · طقم براغي تثبيت"
+  }
+ },
+ {
+  "ref": "R0001839",
+  "name": "Solentra - Självborrande låsskruv 5,5x20 100st/påse",
+  "qty": 8,
+  "group": "mounting",
+  "type_en": "Mounting screw set",
+  "type_ar": "طقم براغي تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.012,
+   0.036
+  ],
+  "note": {
+   "en": "TJB · screw set for PV mounting",
+   "ar": "TJB · طقم براغي تثبيت"
+  }
+ },
+ {
+  "ref": "R0001837",
+  "name": "Solentra Träskruv 6,3x38mm inkl bricka - 50st/påse",
+  "qty": 6,
+  "group": "mounting",
+  "type_en": "Mounting screw set",
+  "type_ar": "طقم براغي تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.004,
+   0.013
+  ],
+  "note": {
+   "en": "TJB · wood screw set for solar mounting",
+   "ar": "TJB · طقم براغي تثبيت"
+  }
+ },
+ {
+  "ref": "R0001840",
+  "name": "Monteringssats till A:1 A:2 B:1 B:2 D:2 30 st träskruv/påse 6,3x38mm cut",
+  "qty": 6,
+  "group": "mounting",
+  "type_en": "Mounting screw set",
+  "type_ar": "طقم براغي تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.0
+  ],
+  "note": {
+   "en": "TJB · wood screw set for solar mounting",
+   "ar": "TJB · طقم براغي تثبيت"
+  }
+ },
+ {
+  "ref": "R0001056",
+  "name": "GUMMIBRICKA M10",
+  "qty": 868,
+  "group": "mounting",
+  "type_en": "Mounting washer",
+  "type_ar": "حلقة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_screw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.017,
+   0.069
+  ],
+  "note": {
+   "en": "Weland Stål · rubber sealing washer",
+   "ar": "Weland Stål · حلقة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001660",
+  "name": "DOME 6 CONNECTOR 195 SET",
+  "qty": 240,
+  "group": "mounting",
+  "type_en": "Rail connector",
+  "type_ar": "وصلة سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.024,
+   0.36
+  ],
+  "note": {
+   "en": "K2 · connector for joining PV mounting rails",
+   "ar": "K2 · وصلة سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001824",
+  "name": "Solentra - Skarvstycke 38*45",
+  "qty": 1,
+  "group": "mounting",
+  "type_en": "Rail connector",
+  "type_ar": "وصلة سكة تثبيت",
+  "status": "accessory",
+  "img": "img/p_mount_rail.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.002
+  ],
+  "note": {
+   "en": "TJB · rail splice",
+   "ar": "TJB · وصلة سكة تثبيت"
+  }
+ },
+ {
+  "ref": "R0001041",
+  "name": "FÄSTE FALSAD PANNA SOLSYSTEM GÄNGAD ZM",
+  "qty": 721,
+  "group": "mounting",
+  "type_en": "Roof bracket",
+  "type_ar": "حامل تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.252,
+   1.154
+  ],
+  "note": {
+   "en": "Weland Stål · threaded bracket for seamed roof tiles",
+   "ar": "Weland Stål · حامل تثبيت للسقف"
+  }
+ },
+ {
+  "ref": "R0001821",
+  "name": "Solentra - Falsfäste 38*45",
+  "qty": 202,
+  "group": "mounting",
+  "type_en": "Roof bracket",
+  "type_ar": "حامل تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.071,
+   0.323
+  ],
+  "note": {
+   "en": "TJB · roof bracket for PV mounting",
+   "ar": "TJB · حامل تثبيت للسقف"
+  }
+ },
+ {
+  "ref": "R0001043",
+  "name": "LÄKTFÄSTE SOLSYSTEM 45X70MM ZM",
+  "qty": 87,
+  "group": "mounting",
+  "type_en": "Roof bracket",
+  "type_ar": "حامل تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.03,
+   0.139
+  ],
+  "note": {
+   "en": "Weland Stål · batten bracket for roof mounting",
+   "ar": "Weland Stål · حامل تثبيت للسقف"
+  }
+ },
+ {
+  "ref": "R0001819",
+  "name": "Solentra - Fäste pannprofilerad plåt",
+  "qty": 32,
+  "group": "mounting",
+  "type_en": "Roof bracket",
+  "type_ar": "حامل تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.011,
+   0.051
+  ],
+  "note": {
+   "en": "TJB · roof bracket for PV mounting",
+   "ar": "TJB · حامل تثبيت للسقف"
+  }
+ },
+ {
+  "ref": "R0001045",
+  "name": "FÄSTE OFALSAD PANNA SOLSYSTEM GÄNGAD ZM",
+  "qty": 5,
+  "group": "mounting",
+  "type_en": "Roof bracket",
+  "type_ar": "حامل تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.002,
+   0.008
+  ],
+  "note": {
+   "en": "Weland Stål · threaded bracket for plain roof tiles",
+   "ar": "Weland Stål · حامل تثبيت للسقف"
+  }
+ },
+ {
+  "ref": "R0001820",
+  "name": "Solentra - Fäste släta tak",
+  "qty": 1,
+  "group": "mounting",
+  "type_en": "Roof bracket",
+  "type_ar": "حامل تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.002
+  ],
+  "note": {
+   "en": "TJB · roof bracket for PV mounting",
+   "ar": "TJB · حامل تثبيت للسقف"
+  }
+ },
+ {
+  "ref": "R0001546",
+  "name": "Adjustable Tile Hook 3 kit with base and fasteners",
+  "qty": 1990,
+  "group": "mounting",
+  "type_en": "Roof hook",
+  "type_ar": "خطاف تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.697,
+   3.184
+  ],
+  "note": {
+   "en": "adjustable roof hook for PV mounting",
+   "ar": "خطاف تثبيت للسقف"
+  }
+ },
+ {
+  "ref": "R0001545",
+  "name": "Adjustable Tile Hook 1 kit with base and fasteners",
+  "qty": 849,
+  "group": "mounting",
+  "type_en": "Roof hook",
+  "type_ar": "خطاف تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.297,
+   1.358
+  ],
+  "note": {
+   "en": "adjustable roof hook for PV mounting",
+   "ar": "خطاف تثبيت للسقف"
+  }
+ },
+ {
+  "ref": "R0001818",
+  "name": "Solentra - Krokfäste LTG/BTG RSP/BRL infästning",
+  "qty": 1,
+  "group": "mounting",
+  "type_en": "Roof hook",
+  "type_ar": "خطاف تثبيت للسقف",
+  "status": "accessory",
+  "img": "img/p_mount_hook.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.0,
+   0.002
+  ],
+  "note": {
+   "en": "TJB · adjustable roof hook for PV mounting",
+   "ar": "TJB · خطاف تثبيت للسقف"
+  }
+ }
+]
