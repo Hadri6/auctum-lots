@@ -1,0 +1,145 @@
+{
+ "slug": "equestrian-cz",
+ "page_title": "Equestrian Retail Stock – Rider & Horse",
+ "title": {
+  "en": "Equestrian store – complete remaining stock (rider clothing, boots, horse rugs, tack)",
+  "ar": "متجر فروسية – كامل المخزون المتبقي (ملابس الفارس، أحذية، أغطية خيل، عُدّة ركوب)"
+ },
+ "subtitle": {
+  "en": "Complete remaining stock of an equestrian retailer in the Czech Republic: breeches and riding tights, riding and jodhpur boots, jackets, show jackets and shirts, turnout, stable, cooler and fly rugs, fly masks, saddle pads, bridles, bits, girths, headcollars, horse boots and bandages, helmets and body protectors, grooming, care and stable equipment, dog products and gifts. Brands include QHP, Horseware (Rambo, Amigo, Micklem), HKM, BUSSE, Waldhausen / ELT, Equestro, Acavallo, CATAGO, Equipage, Bucas, USG, Fager, Uhip, Komperdell, CASCO, EKKIA, PS of Sweden, Back on Track and Stars & Stripes. 4,322 products in 6,385 size lines as recorded in the store inventory.",
+  "ar": "كامل المخزون المتبقي لمتجر فروسية في التشيك: بناطيل فروسية ولِغنز، أحذية فروسية طويلة وقصيرة، جاكيتات وجاكيتات مسابقات وقمصان، أغطية خيل خارجية وللإسطبل وللتجفيف وضد الحشرات، أقنعة ضد الذباب، بطانات سروج، ألجمة وشكائم وأحزمة سروج وأرسان، واقيات أرجل وأربطة، خوذ وسترات حماية، أدوات عناية وتنظيف ومستلزمات إسطبل، منتجات للكلاب وهدايا. من العلامات: QHP وHorseware (Rambo وAmigo وMicklem) وHKM وBUSSE وWaldhausen / ELT وEquestro وAcavallo وCATAGO وEquipage وBucas وUSG وFager وUhip وKomperdell وCASCO وEKKIA وPS of Sweden وBack on Track وStars & Stripes. 4,322 منتجاً في 6,385 سطر مقاس كما وردت في جرد المتجر."
+ },
+ "groups_word": [
+  "Categories",
+  "الفئة"
+ ],
+ "groups": {
+  "boots": {
+   "en": "★ Riding boots & footwear",
+   "ar": "★ أحذية الفروسية",
+   "short": "★ Footwear"
+  },
+  "apparel": {
+   "en": "★ Rider clothing",
+   "ar": "★ ملابس الفارس",
+   "short": "★ Rider clothing"
+  },
+  "safety": {
+   "en": "Helmets & body protectors",
+   "ar": "خوذ وسترات حماية",
+   "short": "Safety"
+  },
+  "rugs": {
+   "en": "★ Horse rugs & fly protection",
+   "ar": "★ أغطية الخيل والحماية من الحشرات",
+   "short": "★ Rugs & fly"
+  },
+  "tack": {
+   "en": "★ Saddlery & tack",
+   "ar": "★ السروج وعُدّة الخيل",
+   "short": "★ Tack"
+  },
+  "legs": {
+   "en": "Horse boots & bandages",
+   "ar": "واقيات أرجل الخيل والأربطة",
+   "short": "Horse boots"
+  },
+  "care": {
+   "en": "Grooming, care & feed",
+   "ar": "العناية والتنظيف والأعلاف",
+   "short": "Care & feed"
+  },
+  "stable": {
+   "en": "Stable, arena & fencing",
+   "ar": "مستلزمات الإسطبل والميدان والسياج",
+   "short": "Stable"
+  },
+  "dog": {
+   "en": "Dog & pet products",
+   "ar": "مستلزمات الكلاب والحيوانات الأليفة",
+   "short": "Dog & pet"
+  },
+  "gifts": {
+   "en": "Gifts, toys & accessories",
+   "ar": "هدايا وألعاب وإكسسوارات",
+   "short": "Gifts"
+  },
+  "other": {
+   "en": "Other accessories",
+   "ar": "إكسسوارات أخرى",
+   "short": "Other"
+  }
+ },
+ "group_order": [
+  "apparel",
+  "rugs",
+  "boots",
+  "tack",
+  "safety",
+  "legs",
+  "stable",
+  "care",
+  "dog",
+  "gifts",
+  "other"
+ ],
+ "other_group": "other",
+ "keep_order": true,
+ "qty_exact": true,
+ "kpis": [
+  {
+   "en": "Breeches & tights",
+   "ar": "بناطيل فروسية ولِغنز",
+   "value": "1,120"
+  },
+  {
+   "en": "Riding & jodhpur boots",
+   "ar": "أحذية فروسية",
+   "value": "599"
+  },
+  {
+   "en": "Horse rugs",
+   "ar": "أغطية خيل",
+   "value": "1,006"
+  },
+  {
+   "en": "Brands",
+   "ar": "علامة تجارية",
+   "value": "40+"
+  }
+ ],
+ "location": {
+  "en": "Czech Republic",
+  "ar": "التشيك"
+ },
+ "note": {
+  "en": "Item names, quantities and sizes as recorded in the store inventory of 4 June 2026; the names are translated from Czech and the original Czech name is shown under each item (CZ). Size variants of the same product are combined into one line with the sizes listed. The store has been closed since the inventory date; the actual stock may differ. \"Product photo\" = catalogue photo of the same article (matched by barcode or maker's article number); \"Same model\" photos may show another colour. Items without a matching photo are listed in the tables.",
+  "ar": "أسماء الأصناف وكمياتها ومقاساتها كما وردت في جرد المتجر بتاريخ 4 يونيو 2026؛ الأسماء مترجمة من التشيكية والاسم التشيكي الأصلي مذكور تحت كل صنف (CZ). مقاسات المنتج الواحد مجمّعة في سطر واحد مع ذكر المقاسات. المتجر مغلق منذ تاريخ الجرد وقد يختلف المخزون الفعلي. «صورة المنتج» = صورة كتالوج للصنف نفسه (مطابقة بالباركود أو رقم صنف الشركة المصنّعة)؛ صور «نفس الموديل» قد تُظهر لوناً آخر. الأصناف التي لا صورة مطابقة لها مدرجة في الجداول."
+ },
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
+ "rows_title": {
+  "en": "More items without photo ({n})",
+  "ar": "أصناف أخرى بدون صورة ({n})"
+ },
+ "shipping": {
+  "volume_m3": [
+   48,
+   81
+  ],
+  "weight_t": [
+   5.8,
+   9.4
+  ],
+  "note": {
+   "en": "Estimate from typical packed size and weight per product type (boots in shoe boxes, rugs and clothing folded in cartons, all on pallets). Final loading plan confirmed after viewing.",
+   "ar": "تقدير من الحجم والوزن المعتادين لكل نوع منتج مغلّفاً (الأحذية في علبها، والأغطية والملابس مطويّة في كراتين، والكل على منصّات). يُؤكَّد مخطط التحميل النهائي بعد المعاينة."
+  }
+ }
+}
