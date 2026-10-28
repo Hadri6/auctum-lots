@@ -1,0 +1,99 @@
+{
+ "slug": "mattress-machinery-pl",
+ "page_title": "Mattress Factory Machinery",
+ "title": {
+  "en": "Mattress factory machinery",
+  "ar": "ماكينات مصنع مراتب"
+ },
+ "subtitle": {
+  "en": "Machines and line equipment of a mattress factory: a dismantled Spühl pocket-spring gluing line (spring-string unwinder, KSM pusher, Robatech hot-melt melters, press, glue bridges, gantry with grippers, feeding crane, control cabinets), KUPER and DESCO packing machines, 4 Robopac pallet-wrapping robots (S6 incl. 2018, FRD), 28 industrial sewing machines and 4 automatic strip/zip machines, foam band saw, mattress durability tester, SIGMA manipulator, and 95 mattress conveyors and roller tables. Used, sold as seen. Available as one lot.",
+  "ar": "ماكينات وتجهيزات خطوط إنتاج لمصنع مراتب: خط لصق نوابض جيبية من Spühl مفكك (فاكّة لفائف النوابض، وحدة دفع KSM، صواهر غراء Robatech، مكبس، جسور غراء، جسر مناولة مع ملاقط، رافعة تغذية، خزائن تحكم)، آلتا تغليف KUPER وDESCO، 4 روبوتات Robopac للفّ المنصات (S6 منها موديل 2018، وFRD)، 28 ماكينة خياطة صناعية و4 آلات أوتوماتيكية للأشرطة والسحّابات، منشار شريطي للإسفنج، آلة اختبار تحمّل المراتب، مناول SIGMA، و95 سيراً ناقلاً وطاولة بكرات للمراتب. مستعملة وتُباع بحالتها. متاحة كدفعة كاملة."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعة"
+ ],
+ "groups": {
+  "gluing": {
+   "en": "Spühl pocket-spring gluing line (dismantled)",
+   "ar": "خط لصق النوابض الجيبية Spühl (مفكك)",
+   "short": "Gluing line",
+   "img": [
+    "img/p_line.jpg"
+   ]
+  },
+  "packing": {
+   "en": "Packing & wrapping machines",
+   "ar": "آلات التغليف ولفّ المنصات",
+   "short": "Packing"
+  },
+  "production": {
+   "en": "Cutting, test & handling machines",
+   "ar": "آلات القص والاختبار والمناولة",
+   "short": "Production"
+  },
+  "sewing": {
+   "en": "Sewing room machines",
+   "ar": "ماكينات قسم الخياطة",
+   "short": "Sewing"
+  },
+  "conveyors": {
+   "en": "Conveyors & roller tables",
+   "ar": "السيور الناقلة وطاولات البكرات",
+   "short": "Conveyors"
+  }
+ },
+ "group_order": [
+  "gluing",
+  "packing",
+  "production",
+  "sewing",
+  "conveyors"
+ ],
+ "statuses": {
+  "ok": {
+   "en": "Complete unit",
+   "ar": "وحدة كاملة",
+   "cls": "ok",
+   "desc_en": "Free-standing machine or unit, counted per piece.",
+   "desc_ar": "آلة أو وحدة مستقلة، معدودة بالقطعة."
+  },
+  "dis": {
+   "en": "Dismantled – components",
+   "ar": "مفككة – مكوّنات",
+   "cls": "kit",
+   "desc_en": "Machine dismantled into components; sold as found, parts not counted individually.",
+   "desc_ar": "آلة مفككة إلى مكوّنات؛ تُباع كما هي دون عدّ القطع منفردة."
+  }
+ },
+ "location": {
+  "en": "Poland",
+  "ar": "بولندا"
+ },
+ "note": {
+  "en": "Photos are representative catalogue pictures of the same machine types and makers, not the actual units. Lines marked \"Dismantled – components\" are listed as found on site; quantities of their parts are not counted. Used equipment, sold as seen without warranty; viewing on site by appointment. Subject to prior sale.",
+  "ar": "الصور توضيحية من كتالوجات نفس أنواع الآلات وصانعيها، وليست صور القطع الفعلية. البنود الموسومة «مفككة – مكوّنات» مذكورة كما وُجدت في الموقع دون عدّ قطعها. معدات مستعملة تُباع بحالتها دون ضمان؛ المعاينة في الموقع بموعد. البضاعة متاحة حتى بيعها."
+ },
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "qty_label": [
+  "Machines & units",
+  "آلات ووحدات"
+ ],
+ "qty_exact": true,
+ "all_cards": true,
+ "other_group": "autres",
+ "shipping": {
+  "volume_m3": [
+   160,
+   300
+  ],
+  "note": {
+   "en": "Approximate: weights per line are estimates, the total is the sum of the lines. Conveyors and the dismantled gluing line take most of the volume; heavy line parts (press, gantry, crane) need crane/forklift loading and may need open-top or flat-rack containers. Final figures after a packing list on site.",
+   "ar": "تقديري: أوزان البنود تقديرية والإجمالي مجموعها. السيور وخط اللصق المفكك يشغلان معظم الحجم؛ وقطع الخط الثقيلة (المكبس، جسر المناولة، الرافعة) تحتاج رافعة للتحميل وقد تحتاج حاويات مفتوحة السقف أو flat-rack. الأرقام النهائية بعد قائمة تعبئة في الموقع."
+  }
+ },
+ "credits": "Representative photos: manufacturer and dealer catalogue images (Spühl, Robatech, Robopac, KUPER, Zoyer, Juki, Richpeace, Pontotoc Machine Works, IDM Instruments, Dalmec, Hytrol, Vital Manufacturing) © their respective owners."
+}

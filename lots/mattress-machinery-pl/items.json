@@ -1,0 +1,577 @@
+[
+ {
+  "ref": "1",
+  "name": "Linia klejarska - rozwijarka do sprezyn",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Spring-string unwinder",
+  "type_ar": "فاكّة لفائف شرائط النوابض",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   1.5
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Unwinds the pocket-spring strings into the assembly line.",
+   "ar": "تفك لفائف شرائط النوابض الجيبية وتغذّي بها خط التجميع."
+  }
+ },
+ {
+  "ref": "2",
+  "name": "Linia klejarska - wypycharka KSM",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Pusher unit (KSM)",
+  "type_ar": "وحدة دفع (KSM)",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.3,
+   1.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Pushes the spring rows through the gluing section.",
+   "ar": "تدفع صفوف النوابض عبر قسم اللصق."
+  }
+ },
+ {
+  "ref": "3",
+  "name": "Piece do kleju Robatech",
+  "qty": 4,
+  "group": "gluing",
+  "type_en": "Hot-melt glue melter (Robatech)",
+  "type_ar": "صاهر غراء حراري (Robatech)",
+  "status": "ok",
+  "img": "img/p_robatech.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.32,
+   1.0
+  ],
+  "note": {
+   "en": "4 units counted; one more Robatech melter is listed with the line components.",
+   "ar": "4 وحدات معدودة، وصاهر Robatech إضافي مذكور ضمن مكوّنات الخط."
+  }
+ },
+ {
+  "ref": "4",
+  "name": "Linia klejarska - prasa i oslony",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Gluing press",
+  "type_ar": "مكبس اللصق",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   1.5,
+   4.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Line press with its safety guards.",
+   "ar": "مكبس الخط مع حواجز الحماية الخاصة به."
+  }
+ },
+ {
+  "ref": "5",
+  "name": "Linia klejarska - mosty klejarskie",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Glue bridges",
+  "type_ar": "جسور توزيع الغراء",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   1.5
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Glue application bridges of the line.",
+   "ar": "جسور توزيع الغراء على النوابض في الخط."
+  }
+ },
+ {
+  "ref": "6",
+  "name": "Linia klejarska - gantry + chwytaki",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Gantry with grippers",
+  "type_ar": "جسر مناولة علوي (Gantry) مع ملاقط",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.8,
+   2.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Overhead handling unit with grippers.",
+   "ar": "وحدة مناولة علوية مع ملاقط."
+  }
+ },
+ {
+  "ref": "7",
+  "name": "Linia klejarska - zuraw podawczy Spuhl",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Feeding crane (Spühl)",
+  "type_ar": "رافعة تغذية (Spühl)",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   1.5
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Spühl feeding crane of the line.",
+   "ar": "رافعة التغذية الخاصة بخط Spühl."
+  }
+ },
+ {
+  "ref": "8",
+  "name": "Linia klejarska - przenosniki",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Line conveyors",
+  "type_ar": "سيور الخط الناقلة",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   2.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Conveyor sections of the line.",
+   "ar": "أقسام السيور الناقلة للخط."
+  }
+ },
+ {
+  "ref": "9",
+  "name": "Linia klejarska - szafy sterownicze",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Control cabinets",
+  "type_ar": "خزائن التحكم الكهربائي",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.3,
+   0.8
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Electrical control cabinets of the line.",
+   "ar": "خزائن التحكم الكهربائي للخط."
+  }
+ },
+ {
+  "ref": "10",
+  "name": "Linia klejarska - podesty",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Operator platforms",
+  "type_ar": "منصات المشغّل",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   1.5
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Operator platforms and walkways.",
+   "ar": "منصات وممرات المشغّل."
+  }
+ },
+ {
+  "ref": "11",
+  "name": "Linia klejarska - oslony",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Safety guards",
+  "type_ar": "ألواح وحواجز الحماية",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.3,
+   1.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Safety guarding panels of the line.",
+   "ar": "ألواح الحماية الخاصة بالخط."
+  }
+ },
+ {
+  "ref": "12",
+  "name": "Linia klejarska - elementy",
+  "qty": 1,
+  "group": "gluing",
+  "type_en": "Other line components",
+  "type_ar": "مكوّنات أخرى للخط",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   2.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Further dismantled components of the line.",
+   "ar": "مكوّنات إضافية مفككة من الخط."
+  }
+ },
+ {
+  "ref": "13",
+  "name": "Robot do owijania - Robopac S6",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Pallet wrapping robot (Robopac)",
+  "type_ar": "روبوت لفّ المنصات بالفيلم (Robopac)",
+  "status": "ok",
+  "img": "img/p_s6a.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.25,
+   0.35
+  ],
+  "note": {
+   "en": "Year 2018.",
+   "ar": "سنة الصنع 2018."
+  }
+ },
+ {
+  "ref": "14",
+  "name": "Robot do owijania - Robopac S6",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Pallet wrapping robot (Robopac)",
+  "type_ar": "روبوت لفّ المنصات بالفيلم (Robopac)",
+  "status": "ok",
+  "img": "img/p_s6a.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.25,
+   0.35
+  ]
+ },
+ {
+  "ref": "15",
+  "name": "Robot do owijania - Robopac FRD",
+  "qty": 2,
+  "group": "packing",
+  "type_en": "Pallet wrapping robot (Robopac)",
+  "type_ar": "روبوت لفّ المنصات بالفيلم (Robopac)",
+  "status": "ok",
+  "img": "img/p_s6b.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   0.8
+  ],
+  "note": {
+   "en": "Built 09/2004 and 08/2005.",
+   "ar": "سنة الصنع 09/2004 و08/2005."
+  }
+ },
+ {
+  "ref": "16",
+  "name": "Pakowarka KUPER - elementy + szafa sterownicza",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Film packing machine (KUPER)",
+  "type_ar": "آلة تغليف بالفيلم (KUPER)",
+  "status": "dis",
+  "img": "img/p_kuper_wrap.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.0,
+   3.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Dismantled, with its control cabinet.",
+   "ar": "مفككة، مع خزانة التحكم الخاصة بها."
+  }
+ },
+ {
+  "ref": "17",
+  "name": "Pakowarka DESCO - elementy",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Mattress packing machine (DESCO)",
+  "type_ar": "آلة تغليف مراتب (DESCO)",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   1.0,
+   3.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Dismantled; model details on request.",
+   "ar": "مفككة؛ تفاصيل الموديل عند الطلب."
+  }
+ },
+ {
+  "ref": "18",
+  "name": "Pila tasmowa do pianki",
+  "qty": 1,
+  "group": "production",
+  "type_en": "Foam band saw",
+  "type_ar": "منشار شريطي للإسفنج",
+  "status": "ok",
+  "img": "img/p_foamsaw.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.4,
+   1.5
+  ]
+ },
+ {
+  "ref": "19",
+  "name": "Maszyna do lifetime test materace",
+  "qty": 1,
+  "group": "production",
+  "type_en": "Mattress durability test machine",
+  "type_ar": "آلة اختبار تحمّل المراتب",
+  "status": "ok",
+  "img": "img/p_lifetime.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   1.5
+  ],
+  "note": {
+   "en": "Lifetime (durability) test rig for mattresses.",
+   "ar": "جهاز اختبار عمر وتحمّل المراتب."
+  }
+ },
+ {
+  "ref": "20",
+  "name": "Manipulator SIGMA - elementy",
+  "qty": 1,
+  "group": "production",
+  "type_en": "Handling manipulator (SIGMA)",
+  "type_ar": "مناول آلي (SIGMA)",
+  "status": "dis",
+  "img": "img/p_manip.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.3,
+   1.0
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ]
+ },
+ {
+  "ref": "21",
+  "name": "Maszyna do trico - elementy",
+  "qty": 1,
+  "group": "production",
+  "type_en": "Tricot fabric machine",
+  "type_ar": "آلة قماش التريكو",
+  "status": "dis",
+  "img": null,
+  "photo": "rep",
+  "weight_t": [
+   0.3,
+   1.5
+  ],
+  "unit": [
+   "set(s) of parts",
+   "مجموعة قطع"
+  ],
+  "note": {
+   "en": "Machine for tricot (knit) fabric; dismantled.",
+   "ar": "آلة لقماش التريكو المحبوك؛ مفككة."
+  }
+ },
+ {
+  "ref": "22",
+  "name": "Maszyna do szycia stebnowka",
+  "qty": 19,
+  "group": "sewing",
+  "type_en": "Lockstitch sewing machine",
+  "type_ar": "ماكينة خياطة غرزة مستقيمة",
+  "status": "ok",
+  "img": "img/p_lock.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.95,
+   1.71
+  ]
+ },
+ {
+  "ref": "23",
+  "name": "Maszyna do szycia overlock",
+  "qty": 9,
+  "group": "sewing",
+  "type_en": "Overlock sewing machine",
+  "type_ar": "ماكينة خياطة أوفرلوك",
+  "status": "ok",
+  "img": "img/p_overlock2.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.36,
+   0.72
+  ]
+ },
+ {
+  "ref": "24",
+  "name": "Automaty do paskow/suwakow",
+  "qty": 4,
+  "group": "sewing",
+  "type_en": "Automatic strip / zip machine",
+  "type_ar": "آلة أوتوماتيكية للأشرطة والسحّابات",
+  "status": "ok",
+  "img": "img/p_zip.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.6,
+   2.0
+  ],
+  "note": {
+   "en": "Automatic machines for border strips and zips.",
+   "ar": "آلات أوتوماتيكية لأشرطة الحواف والسحّابات."
+  }
+ },
+ {
+  "ref": "25",
+  "name": "Przenosniki tasmowe do materacow",
+  "qty": 40,
+  "group": "conveyors",
+  "type_en": "Belt conveyor for mattresses",
+  "type_ar": "سير ناقل للمراتب",
+  "status": "ok",
+  "img": "img/p_mconv4.jpg",
+  "photo": "rep",
+  "weight_t": [
+   6.0,
+   16.0
+  ]
+ },
+ {
+  "ref": "26",
+  "name": "Przenosniki rolkowe do materacow",
+  "qty": 31,
+  "group": "conveyors",
+  "type_en": "Roller conveyor for mattresses",
+  "type_ar": "ناقل بكرات للمراتب",
+  "status": "ok",
+  "img": "img/p_mconv1.jpg",
+  "photo": "rep",
+  "weight_t": [
+   3.1,
+   9.3
+  ]
+ },
+ {
+  "ref": "27",
+  "name": "Stoly rolkowe",
+  "qty": 17,
+  "group": "conveyors",
+  "type_en": "Roller table",
+  "type_ar": "طاولة بكرات",
+  "status": "ok",
+  "img": "img/p_rolltable.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.85,
+   2.55
+  ]
+ },
+ {
+  "ref": "28",
+  "name": "Przenosniki tasmowe szwalnia - elementy",
+  "qty": 6,
+  "group": "conveyors",
+  "type_en": "Sewing-room belt conveyor",
+  "type_ar": "سير ناقل لقسم الخياطة",
+  "status": "dis",
+  "img": "img/p_beltsmall.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.3,
+   1.2
+  ],
+  "note": {
+   "en": "Conveyor sections from the sewing room.",
+   "ar": "أقسام سيور ناقلة من قسم الخياطة."
+  }
+ },
+ {
+  "ref": "29",
+  "name": "Przenosnik klepkowy z Portugalii",
+  "qty": 1,
+  "group": "conveyors",
+  "type_en": "Slat conveyor",
+  "type_ar": "ناقل شرائحي",
+  "status": "ok",
+  "img": "img/p_slat2.jpg",
+  "photo": "rep",
+  "weight_t": [
+   0.5,
+   2.0
+  ]
+ }
+]
