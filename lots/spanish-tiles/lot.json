@@ -1,0 +1,213 @@
+{
+ "slug": "spanish-tiles",
+ "page_title": "Spanish Ceramic Tiles – Factory Stock",
+ "title": {
+  "en": "Spanish ceramic tiles – factory stock",
+  "ar": "بلاط سيراميك إسباني – مخزون مصنع"
+ },
+ "subtitle": {
+  "en": "Factory stock of a Spanish ceramic tile manufacturer: about 210,000 m² of floor and wall tiles in some 1,700 references – hexagons 25 and 56 cm, 25 × 25, 44 × 66, Kayak 17 × 33, Provenzal, 50 × 50, 66 × 66, 33 × 66, modular patterns and wood-look planks – plus about 552,000 special pieces: skirting, steps, borders, trims, inserts and corners. About 81 % of the m² is 1st choice. On pallets in the original boxes. Stock list of 14 October 2026; quantities change while the stock is being sold.",
+  "ar": "مخزون مصنع بلاط سيراميك إسباني: نحو 210,000 م² من بلاط الأرضيات والجدران في نحو 1,700 صنف – سداسي 25 و56 سم، و25 × 25، و44 × 66، وKayak 17 × 33، وProvenzal، و50 × 50، و66 × 66، و33 × 66، ونقشات Modular، وبلاط بمظهر الخشب – إضافة إلى نحو 552,000 قطعة خاصة: وزرات ودرجات وإطارات وحواف وحشوات وزوايا. نحو 81 % من الأمتار فرز أول. على طبليات في الكراتين الأصلية. قائمة المخزون بتاريخ 14 أكتوبر 2026؛ والكميات تتغيّر لأن البيع جارٍ."
+ },
+ "groups_word": [
+  "Formats",
+  "المقاسات"
+ ],
+ "unit": [
+  "m²",
+  "م²"
+ ],
+ "qty_label": [
+  "Square metres",
+  "متر مربع"
+ ],
+ "kpis": [
+  {
+   "en": "Special pieces",
+   "ar": "قطع خاصة",
+   "value": "551,584 pcs"
+  },
+  {
+   "en": "Weight",
+   "ar": "الوزن",
+   "value": "≈ 4,200–5,200 t"
+  }
+ ],
+ "location": {
+  "en": "Spain",
+  "ar": "إسبانيا"
+ },
+ "other_group": "other",
+ "group_order": [
+  "hex25",
+  "25x25",
+  "44x66",
+  "hex56",
+  "prov",
+  "kayak",
+  "50x50",
+  "66x66",
+  "mod",
+  "33x66",
+  "brick",
+  "plank",
+  "mosaic",
+  "skirting",
+  "steps",
+  "borders",
+  "decor",
+  "other"
+ ],
+ "groups": {
+  "hex25": {
+   "en": "Hexagon 25 cm – hexagonal floor & wall tiles",
+   "ar": "سداسي 25 سم – بلاط سداسي للأرضيات والجدران",
+   "short": "Hex 25"
+  },
+  "25x25": {
+   "en": "Square 25 × 25 cm",
+   "ar": "مربع 25 × 25 سم",
+   "short": "25×25"
+  },
+  "44x66": {
+   "en": "44 × 66 cm floor tiles",
+   "ar": "بلاط أرضيات 44 × 66 سم",
+   "short": "44×66"
+  },
+  "hex56": {
+   "en": "Hexagon 56 cm",
+   "ar": "سداسي 56 سم",
+   "short": "Hex 56"
+  },
+  "prov": {
+   "en": "Provenzal 16.2 cm and 16.2 × 32.6 cm",
+   "ar": "Provenzal 16.2 سم و16.2 × 32.6 سم",
+   "short": "Provenzal"
+  },
+  "kayak": {
+   "en": "Kayak 17 × 33 cm – elongated hexagon",
+   "ar": "Kayak 17 × 33 سم – سداسي ممدود",
+   "short": "Kayak"
+  },
+  "50x50": {
+   "en": "50 × 50 cm",
+   "ar": "50 × 50 سم",
+   "short": "50×50"
+  },
+  "66x66": {
+   "en": "66 × 66 cm (incl. rectified 64.5 × 64.5)",
+   "ar": "66 × 66 سم (ومنها 64.5 × 64.5 مُشطَّب الحواف)",
+   "short": "66×66"
+  },
+  "mod": {
+   "en": "Modular patterns – 44 and 50 cm modules",
+   "ar": "نقشات Modular – وحدات 44 و50 سم",
+   "short": "Modular"
+  },
+  "33x66": {
+   "en": "33 × 66 cm",
+   "ar": "33 × 66 سم",
+   "short": "33×66"
+  },
+  "brick": {
+   "en": "Brick formats 6 × 24.5 · 12 × 24.5 · 24 × 49 cm",
+   "ar": "مقاسات الطوب 6 × 24.5 · 12 × 24.5 · 24 × 49 سم",
+   "short": "Brick"
+  },
+  "plank": {
+   "en": "Wood-look planks 22 × 90 cm",
+   "ar": "بلاط بمظهر الخشب 22 × 90 سم",
+   "short": "Planks"
+  },
+  "mosaic": {
+   "en": "Mosaics on mesh 30 × 30 cm",
+   "ar": "موزاييك على شبك 30 × 30 سم",
+   "short": "Mosaic"
+  },
+  "skirting": {
+   "en": "Skirting pieces",
+   "ar": "وزرات (نعلات)",
+   "short": "Skirting"
+  },
+  "steps": {
+   "en": "Steps, stair and edge pieces",
+   "ar": "درجات وقطع الدرج والحواف",
+   "short": "Steps",
+   "img": [
+    "img/p_97571.jpg",
+    "img/p_97566.jpg",
+    "img/p_97318.jpg"
+   ]
+  },
+  "borders": {
+   "en": "Borders, listellos and trims",
+   "ar": "إطارات وشرائط زخرفية وحواف",
+   "short": "Borders",
+   "img": [
+    "img/p_88350.jpg",
+    "img/p_88349.jpg",
+    "img/p_88348.jpg"
+   ]
+  },
+  "decor": {
+   "en": "Inserts, decors and corner pieces",
+   "ar": "حشوات وقطع زخرفية وزوايا",
+   "short": "Decor",
+   "img": [
+    "img/p_88163.jpg",
+    "img/p_88161.jpg",
+    "img/p_94869.jpg"
+   ]
+  },
+  "other": {
+   "en": "Other formats",
+   "ar": "مقاسات أخرى",
+   "short": "Other"
+  }
+ },
+ "statuses": {
+  "q1": {
+   "en": "1st choice",
+   "ar": "فرز أول",
+   "cls": "ok",
+   "desc_en": "Grade 1 in the stock list.",
+   "desc_ar": "الفرز 1 في قائمة المخزون."
+  },
+  "q2": {
+   "en": "2nd choice",
+   "ar": "فرز ثانٍ",
+   "cls": "mod",
+   "desc_en": "Grade 2 in the stock list.",
+   "desc_ar": "الفرز 2 في قائمة المخزون."
+  },
+  "qx": {
+   "en": "Other grade",
+   "ar": "فرز آخر",
+   "cls": "part",
+   "desc_en": "Grade code 5, 6 or 7 in the stock list (lower or special grades); the exact grade is confirmed on request.",
+   "desc_ar": "رمز الفرز 5 أو 6 أو 7 في قائمة المخزون (فرز أدنى أو خاص)؛ ويُؤكَّد الفرز الدقيق عند الطلب."
+  }
+ },
+ "status_title": {
+  "en": "By grade",
+  "ar": "حسب الفرز"
+ },
+ "shipping": {
+  "volume_m3": [
+   1900,
+   2400
+  ],
+  "note": {
+   "en": "Estimated at 18–22 kg per m² for the tiles (9–10 mm porcelain and stoneware) and from the piece size for the special pieces. Tiles fill a container by weight long before volume, so the 20′ figure is the practical one; final loading plan confirmed before shipment.",
+   "ar": "تقدير على أساس 18–22 كغ للمتر المربع للبلاط (بورسلان وحجري بسماكة 9–10 مم) ومن مقاس كل قطعة للقطع الخاصة. يمتلئ الحاوي بالبلاط وزناً قبل أن يمتلئ حجماً، لذلك رقم حاويات 20′ هو العملي؛ ويُؤكَّد مخطط التحميل النهائي قبل الشحن."
+  }
+ },
+ "rows_title": {
+  "en": "More lines without photo ({n})",
+  "ar": "أصناف أخرى بدون صورة ({n})"
+ },
+ "note": {
+  "en": "Photos are the maker’s catalogue pictures. “Product photo” = the same design; “Representative photo” = the same design in another format or a tile of the same series; an orange label explains what the photo shows (same series in another colour, or a similar tile for illustration only). Quantities are summed over shade and calibre batches; m² rounded. Subject to prior sale.",
+  "ar": "الصور من كتالوج الشركة المصنّعة. «صورة المنتج» = نفس التصميم؛ «صورة توضيحية» = نفس التصميم بمقاس آخر أو بلاط من نفس السلسلة؛ والشارة البرتقالية تبيّن ما تعرضه الصورة (نفس السلسلة بلون آخر، أو بلاط مشابه للتوضيح فقط). الكميات مجموعة عبر دفعات اللون والعيار؛ والأمتار مقرّبة. البضاعة متاحة حتى نفادها."
+ }
+}
