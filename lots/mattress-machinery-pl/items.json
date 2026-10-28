@@ -378,12 +378,16 @@
   "type_en": "Foam band saw",
   "type_ar": "منشار شريطي للإسفنج",
   "status": "ok",
-  "img": "img/p_foamsaw.jpg",
+  "img": "img/p_saw_sk1.jpg",
   "photo": "rep",
   "weight_t": [
    0.4,
    1.5
-  ]
+  ],
+  "note": {
+   "en": "Use: cutting PU foam blocks and sheets to mattress and topper sizes | Design: free-standing band saw with endless blade | Inventory: listed as a complete machine (not as components), 1 pc | Maker, type (vertical/horizontal), cutting height/width, year and electrical data: recorded at the viewing / on request",
+   "ar": "الاستخدام: قص كتل وألواح الإسفنج (PU) بمقاسات المراتب والطبقات العلوية | التصميم: منشار شريطي مستقل بشفرة شريطية لا نهائية | الجرد: مُدرج كآلة كاملة (لا كمكوّنات)، قطعة واحدة | الصانع والنوع (عمودي/أفقي) وارتفاع وعرض القص وسنة الصنع وبيانات الكهرباء: تُسجَّل عند المعاينة / عند الطلب"
+  }
  },
  {
   "ref": "19",
