@@ -1,0 +1,946 @@
+[
+ {
+  "ref": "1",
+  "name": "Antrieb Shimano XT Di2",
+  "qty": 42,
+  "group": "a_drivetrain",
+  "type_en": "Drivetrain groupset",
+  "type_ar": "طقم ناقل حركة",
+  "img": "img/p_1.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "2",
+  "name": "Antrieb e*Thirteen",
+  "qty": 46,
+  "group": "a_drivetrain",
+  "type_en": "Drivetrain groupset",
+  "type_ar": "طقم ناقل حركة",
+  "img": "img/p_2.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "3",
+  "name": "Antrieb Shimano XTR Di2",
+  "qty": 22,
+  "group": "a_drivetrain",
+  "type_en": "Drivetrain groupset",
+  "type_ar": "طقم ناقل حركة",
+  "img": "img/p_3.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "4",
+  "name": "Antrieb Shimano Deore Di2",
+  "qty": 22,
+  "group": "a_drivetrain",
+  "type_en": "Drivetrain groupset",
+  "type_ar": "طقم ناقل حركة",
+  "img": "img/p_4.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "5",
+  "name": "Antrieb Sram XX1 Eagle",
+  "qty": 4,
+  "group": "a_drivetrain",
+  "type_en": "Drivetrain groupset",
+  "type_ar": "طقم ناقل حركة",
+  "img": "img/p_5.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Crank length 170 mm",
+   "ar": "طول الكرنك 170 مم"
+  }
+ },
+ {
+  "ref": "6",
+  "name": "Antrieb Sram 90 Transmission",
+  "qty": 9,
+  "group": "a_drivetrain",
+  "type_en": "Drivetrain groupset",
+  "type_ar": "طقم ناقل حركة",
+  "img": "img/p_6.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "7",
+  "name": "Antrieb Sram XO1 Transmission AXS",
+  "qty": 4,
+  "group": "a_drivetrain",
+  "type_en": "Drivetrain groupset",
+  "type_ar": "طقم ناقل حركة",
+  "img": "img/p_7.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "8",
+  "name": "Antrieb Shimano Deore",
+  "qty": 10,
+  "group": "a_drivetrain",
+  "type_en": "Drivetrain groupset",
+  "type_ar": "طقم ناقل حركة",
+  "img": "img/p_8.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "9",
+  "name": "sram gx Kurbel",
+  "qty": 27,
+  "group": "b_cranks",
+  "type_en": "Crankset",
+  "type_ar": "كرنك (ذراعا الدواسات)",
+  "img": "img/p_9.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "10",
+  "name": "Kurbel E13 Race Carbon",
+  "qty": 13,
+  "group": "b_cranks",
+  "type_en": "Crankset",
+  "type_ar": "كرنك (ذراعا الدواسات)",
+  "img": "img/p_10.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "11",
+  "name": "sram xx1 Kurbel",
+  "qty": 4,
+  "group": "b_cranks",
+  "type_en": "Crankset",
+  "type_ar": "كرنك (ذراعا الدواسات)",
+  "img": "img/p_11.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "12",
+  "name": "sram xo1 Kurbel",
+  "qty": 6,
+  "group": "b_cranks",
+  "type_en": "Crankset",
+  "type_ar": "كرنك (ذراعا الدواسات)",
+  "img": "img/p_12.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "13",
+  "name": "Kurbel E13 Plus Aluminium",
+  "qty": 33,
+  "group": "b_cranks",
+  "type_en": "Crankset",
+  "type_ar": "كرنك (ذراعا الدواسات)",
+  "img": "img/p_13.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "14",
+  "name": "Funn Kettenblätter E1",
+  "qty": 31,
+  "group": "b_cranks",
+  "type_en": "Chainring",
+  "type_ar": "طبق جنزير أمامي",
+  "img": "img/p_14.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "15",
+  "name": "Bremsen Shimano XT neu",
+  "qty": 54,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_15.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Current model",
+   "ar": "الموديل الحالي"
+  }
+ },
+ {
+  "ref": "16",
+  "name": "Bremsen Shimano XTR neu",
+  "qty": 22,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_16.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Current model",
+   "ar": "الموديل الحالي"
+  }
+ },
+ {
+  "ref": "17",
+  "name": "Bremsen Sram Code RSC",
+  "qty": 23,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_17.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "18",
+  "name": "Trickstuff Piccola HD",
+  "qty": 5,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_18.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "19",
+  "name": "Bremsen Shimano Deore",
+  "qty": 24,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_19.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "20",
+  "name": "Trickstuff Direttissima",
+  "qty": 3,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_20.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "21",
+  "name": "Bremsen Shimano XT",
+  "qty": 13,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_21.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "22",
+  "name": "Bremsen Sram Maven",
+  "qty": 5,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_22.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "23",
+  "name": "Bremsen Sram G2 RS",
+  "qty": 9,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_23.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "24",
+  "name": "Bremsen Sram Motive",
+  "qty": 5,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_24.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "25",
+  "name": "Bremsen Shimano Saint",
+  "qty": 4,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_25.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "26",
+  "name": "Bremsen Shimano SLX",
+  "qty": 5,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_26.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "27",
+  "name": "Bremsen Shimano XTR",
+  "qty": 2,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_27.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "28",
+  "name": "Hope",
+  "qty": 1,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_28.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "29",
+  "name": "Bremsen Sram G2 RSC",
+  "qty": 2,
+  "group": "c_brakes",
+  "type_en": "Disc brake",
+  "type_ar": "فرامل قرصية",
+  "img": "img/p_29.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "30",
+  "name": "Gabel Rock Shox Pike Select Plus 140mm",
+  "qty": 29,
+  "group": "d_suspension",
+  "type_en": "Suspension fork",
+  "type_ar": "شوكة أمامية بنظام تعليق",
+  "img": "img/p_30.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "31",
+  "name": "Gabel FOX Float FS 36 Grip X 150mm",
+  "qty": 9,
+  "group": "d_suspension",
+  "type_en": "Suspension fork",
+  "type_ar": "شوكة أمامية بنظام تعليق",
+  "img": "img/p_31.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "32",
+  "name": "Gabel FOX Float FS 38 Grip X2 170mm",
+  "qty": 6,
+  "group": "d_suspension",
+  "type_en": "Suspension fork",
+  "type_ar": "شوكة أمامية بنظام تعليق",
+  "img": "img/p_32.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "33",
+  "name": "Gabel Rock Shox Lyric Select  150mm",
+  "qty": 7,
+  "group": "d_suspension",
+  "type_en": "Suspension fork",
+  "type_ar": "شوكة أمامية بنظام تعليق",
+  "img": "img/p_33.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "34",
+  "name": "Gabel Rock Shox ZEB Select 170mm",
+  "qty": 1,
+  "group": "d_suspension",
+  "type_en": "Suspension fork",
+  "type_ar": "شوكة أمامية بنظام تعليق",
+  "img": "img/p_34.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "35",
+  "name": "Dämpfer RockShox Super Deluxe Select + (205x65)",
+  "qty": 15,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_35.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "36",
+  "name": "Dämpfer Fox Coil (185x55)",
+  "qty": 8,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_36.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "37",
+  "name": "Dämpfer Fox Float X FS (205x60)",
+  "qty": 7,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_37.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "38",
+  "name": "Dämpfer Fox Float X2 FS (230x65)",
+  "qty": 5,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_38.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "39",
+  "name": "Dämpfer Rockshox Deluxe Select + (185x50)",
+  "qty": 14,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_39.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "40",
+  "name": "Dämpfer DVO Jade X Coil (185x55)",
+  "qty": 8,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_40.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "41",
+  "name": "Dämpfer Fox Float DPS (185x50)",
+  "qty": 6,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_41.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "42",
+  "name": "Dämpfer RockShox Super Deluxe Select + Coil (185x55)",
+  "qty": 6,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_42.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "43",
+  "name": "Dämpfer Fox Float X FS (230x60)",
+  "qty": 4,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_43.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "44",
+  "name": "Dämpfer RockShox Super Deluxe Select + (185x55)",
+  "qty": 5,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_44.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "45",
+  "name": "Dämpfer Rockshox Deluxe Ultimate (185X50)",
+  "qty": 5,
+  "group": "d_suspension",
+  "type_en": "Rear shock",
+  "type_ar": "ممتص صدمات خلفي",
+  "img": "img/p_45.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "46",
+  "name": "Fox fork mudguard",
+  "qty": 10,
+  "group": "d_suspension",
+  "type_en": "Fork mudguard",
+  "type_ar": "واقي طين للشوكة",
+  "img": "img/p_46.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "47",
+  "name": "NoTubes Arch S2",
+  "qty": 10,
+  "group": "e_wheels",
+  "type_en": "Wheelset",
+  "type_ar": "طقم عجلات",
+  "img": "img/p_47.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Stan's NoTubes Arch S2 wheelset",
+   "ar": "طقم عجلات Stan's NoTubes Arch S2"
+  }
+ },
+ {
+  "ref": "48",
+  "name": "NoTubes Flow S2",
+  "qty": 4,
+  "group": "e_wheels",
+  "type_en": "Wheelset",
+  "type_ar": "طقم عجلات",
+  "img": "img/p_48.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Stan's NoTubes Flow S2 wheelset",
+   "ar": "طقم عجلات Stan's NoTubes Flow S2"
+  }
+ },
+ {
+  "ref": "49",
+  "name": "NoTubes Arch MK4 Felgen mit M-Pulse Nabe 29",
+  "qty": 1,
+  "group": "e_wheels",
+  "type_en": "Wheelset",
+  "type_ar": "طقم عجلات",
+  "img": "img/p_49.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "50",
+  "name": "NoTubes Flow MK4 Felgen mit M-Pulse Nabe  29",
+  "qty": 1,
+  "group": "e_wheels",
+  "type_en": "Wheelset",
+  "type_ar": "طقم عجلات",
+  "img": "img/p_50.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "51",
+  "name": "DT Swiss H1900",
+  "qty": 2,
+  "group": "e_wheels",
+  "type_en": "Wheelset",
+  "type_ar": "طقم عجلات",
+  "img": "img/p_51.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "52",
+  "name": "I9 101",
+  "qty": 33,
+  "group": "e_wheels",
+  "type_en": "Hub",
+  "type_ar": "محور عجلة",
+  "img": "img/p_52.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Industry Nine 1/1 hubs",
+   "ar": "محاور Industry Nine 1/1"
+  }
+ },
+ {
+  "ref": "53",
+  "name": "DT 240",
+  "qty": 4,
+  "group": "e_wheels",
+  "type_en": "Hub",
+  "type_ar": "محور عجلة",
+  "img": "img/p_53.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "DT Swiss 240 hubs",
+   "ar": "محاور DT Swiss 240"
+  }
+ },
+ {
+  "ref": "54",
+  "name": "DT 350",
+  "qty": 3,
+  "group": "e_wheels",
+  "type_en": "Hub",
+  "type_ar": "محور عجلة",
+  "img": "img/p_54.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "DT Swiss 350 hubs",
+   "ar": "محاور DT Swiss 350"
+  }
+ },
+ {
+  "ref": "55",
+  "name": "S2 Arch",
+  "qty": 20,
+  "group": "e_wheels",
+  "type_en": "Rim",
+  "type_ar": "جنط",
+  "img": "img/p_55.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Stan's NoTubes Arch S2 rims",
+   "ar": "جنوط Stan's NoTubes Arch S2"
+  }
+ },
+ {
+  "ref": "56",
+  "name": "S2 Flow",
+  "qty": 10,
+  "group": "e_wheels",
+  "type_en": "Rim",
+  "type_ar": "جنط",
+  "img": "img/p_56.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Stan's NoTubes Flow S2 rims",
+   "ar": "جنوط Stan's NoTubes Flow S2"
+  }
+ },
+ {
+  "ref": "57",
+  "name": "Arch mk4",
+  "qty": 4,
+  "group": "e_wheels",
+  "type_en": "Rim",
+  "type_ar": "جنط",
+  "img": "img/p_57.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Stan's NoTubes Arch MK4 rims",
+   "ar": "جنوط Stan's NoTubes Arch MK4"
+  }
+ },
+ {
+  "ref": "58",
+  "name": "Acros Stealth Aluminium",
+  "qty": 48,
+  "group": "f_cockpit",
+  "type_en": "Handlebar",
+  "type_ar": "مقود",
+  "img": "img/p_58.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "59",
+  "name": "KS Carbon",
+  "qty": 20,
+  "group": "f_cockpit",
+  "type_en": "Handlebar",
+  "type_ar": "مقود",
+  "img": "img/p_59.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "60",
+  "name": "e13 Alu",
+  "qty": 38,
+  "group": "f_cockpit",
+  "type_en": "Handlebar",
+  "type_ar": "مقود",
+  "img": "img/p_60.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "61",
+  "name": "Acros",
+  "qty": 85,
+  "group": "f_cockpit",
+  "type_en": "Stem",
+  "type_ar": "قائم المقود",
+  "img": "img/p_61.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Acros stem",
+   "ar": "قائم مقود Acros"
+  }
+ },
+ {
+  "ref": "62",
+  "name": "e13",
+  "qty": 37,
+  "group": "f_cockpit",
+  "type_en": "Stem",
+  "type_ar": "قائم المقود",
+  "img": "img/p_62.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "e*thirteen stem",
+   "ar": "قائم مقود e*thirteen"
+  }
+ },
+ {
+  "ref": "63",
+  "name": "Kore (35/50mm)",
+  "qty": 28,
+  "group": "f_cockpit",
+  "type_en": "Stem",
+  "type_ar": "قائم المقود",
+  "img": "img/p_63.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Kore stem, 35 / 50 mm",
+   "ar": "قائم مقود Kore بطول 35 / 50 مم"
+  }
+ },
+ {
+  "ref": "64",
+  "name": "Funn",
+  "qty": 110,
+  "group": "f_cockpit",
+  "type_en": "Grips",
+  "type_ar": "مقابض",
+  "img": "img/p_64.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Funn grips",
+   "ar": "مقابض Funn"
+  }
+ },
+ {
+  "ref": "65",
+  "name": "Acros",
+  "qty": 14,
+  "group": "f_cockpit",
+  "type_en": "Grips",
+  "type_ar": "مقابض",
+  "img": "img/p_65.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Acros grips",
+   "ar": "مقابض Acros"
+  }
+ },
+ {
+  "ref": "66",
+  "name": "Selle Italia SLR Boost Carbon",
+  "qty": 27,
+  "group": "g_seat",
+  "type_en": "Saddle",
+  "type_ar": "سرج",
+  "img": "img/p_66.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "67",
+  "name": "Selle Italia SLR Boost",
+  "qty": 22,
+  "group": "g_seat",
+  "type_en": "Saddle",
+  "type_ar": "سرج",
+  "img": "img/p_67.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "68",
+  "name": "Selle Italiia Lady Flow",
+  "qty": 24,
+  "group": "g_seat",
+  "type_en": "Saddle",
+  "type_ar": "سرج",
+  "img": "img/p_68.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "69",
+  "name": "Selle Italia X3 Boost",
+  "qty": 31,
+  "group": "g_seat",
+  "type_en": "Saddle",
+  "type_ar": "سرج",
+  "img": "img/p_69.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "70",
+  "name": "Selle Italia X3 Boost Flow",
+  "qty": 12,
+  "group": "g_seat",
+  "type_en": "Saddle",
+  "type_ar": "سرج",
+  "img": "img/p_70.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "71",
+  "name": "Kind Shox LEV Integra 125/150/175/200",
+  "qty": 46,
+  "group": "g_seat",
+  "type_en": "Dropper seatpost",
+  "type_ar": "عمود سرج قابل للخفض",
+  "img": "img/p_71.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Travel 125 / 150 / 175 / 200 mm (mix)",
+   "ar": "مشوار 125 / 150 / 175 / 200 مم (متنوع)"
+  }
+ },
+ {
+  "ref": "72",
+  "name": "Kind Shock RAGEi 125/150/170/190",
+  "qty": 30,
+  "group": "g_seat",
+  "type_en": "Dropper seatpost",
+  "type_ar": "عمود سرج قابل للخفض",
+  "img": "img/p_72.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Travel 125 / 150 / 170 / 190 mm (mix)",
+   "ar": "مشوار 125 / 150 / 170 / 190 مم (متنوع)"
+  }
+ },
+ {
+  "ref": "73",
+  "name": "rock shox reverb",
+  "qty": 6,
+  "group": "g_seat",
+  "type_en": "Dropper seatpost",
+  "type_ar": "عمود سرج قابل للخفض",
+  "img": "img/p_73.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "74",
+  "name": "Fox Transfer FS 150/180/210/240",
+  "qty": 3,
+  "group": "g_seat",
+  "type_en": "Dropper seatpost",
+  "type_ar": "عمود سرج قابل للخفض",
+  "img": "img/p_74.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Factory series, travel 150–240 mm (mix)",
+   "ar": "فئة Factory، مشوار 150–240 مم (متنوع)"
+  }
+ },
+ {
+  "ref": "75",
+  "name": "Kind Shox LEV Ci",
+  "qty": 2,
+  "group": "g_seat",
+  "type_en": "Dropper seatpost",
+  "type_ar": "عمود سرج قابل للخفض",
+  "img": "img/p_75.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "76",
+  "name": "Fox Transfer Performance 150/180/210/240",
+  "qty": 1,
+  "group": "g_seat",
+  "type_en": "Dropper seatpost",
+  "type_ar": "عمود سرج قابل للخفض",
+  "img": "img/p_76.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Performance series, travel 150–240 mm",
+   "ar": "فئة Performance، مشوار 150–240 مم"
+  }
+ },
+ {
+  "ref": "77",
+  "name": "Kind Shock LEV Si",
+  "qty": 1,
+  "group": "g_seat",
+  "type_en": "Dropper seatpost",
+  "type_ar": "عمود سرج قابل للخفض",
+  "img": "img/p_77.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "78",
+  "name": "rock shox reverb remot",
+  "qty": 4,
+  "group": "g_seat",
+  "type_en": "Dropper-post remote",
+  "type_ar": "ذراع تحكم عمود السرج",
+  "img": "img/p_78.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "79",
+  "name": "Fox Transfer remote",
+  "qty": 1,
+  "group": "g_seat",
+  "type_en": "Dropper-post remote",
+  "type_ar": "ذراع تحكم عمود السرج",
+  "img": "img/p_79.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "80",
+  "name": "Kore",
+  "qty": 12,
+  "group": "g_seat",
+  "type_en": "Seatpost",
+  "type_ar": "عمود سرج",
+  "img": "img/p_80.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Kore seatpost",
+   "ar": "عمود سرج Kore"
+  }
+ },
+ {
+  "ref": "81",
+  "name": "Acros A-Flat",
+  "qty": 36,
+  "group": "h_accessories",
+  "type_en": "Pedals",
+  "type_ar": "دواسات",
+  "img": "img/p_81.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "82",
+  "name": "Acros Flat (neu)",
+  "qty": 19,
+  "group": "h_accessories",
+  "type_en": "Pedals",
+  "type_ar": "دواسات",
+  "img": "img/p_82.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "83",
+  "name": "Acros SPD",
+  "qty": 1,
+  "group": "h_accessories",
+  "type_en": "Pedals",
+  "type_ar": "دواسات",
+  "img": "img/p_83.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "84",
+  "name": "Licht Supernova Mini 2 LMI",
+  "qty": 23,
+  "group": "h_accessories",
+  "type_en": "Bike light",
+  "type_ar": "ضوء دراجة",
+  "img": "img/p_84.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "85",
+  "name": "Sigma EOX View 1300 Standard",
+  "qty": 1,
+  "group": "h_accessories",
+  "type_en": "Bike computer",
+  "type_ar": "عدّاد دراجة",
+  "img": "img/p_85.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "86",
+  "name": "Carbon-Ti Ultimate Set",
+  "qty": 4,
+  "group": "h_accessories",
+  "type_en": "Component set",
+  "type_ar": "طقم قطع",
+  "img": null,
+  "photo": null
+ }
+]
