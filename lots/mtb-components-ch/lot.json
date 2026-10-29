@@ -6,38 +6,114 @@
   "ar": "قطع دراجات جبلية – أطقم ناقل حركة، تعليق، فرامل، عجلات، مقود وأعمدة سرج"
  },
  "subtitle": {
-  "en": "Unused component stock of a Swiss mountain-bike manufacturer (OE parts for bike assembly): Shimano XT, XTR and Deore Di2 and SRAM Eagle Transmission AXS drivetrains, e*thirteen groupsets and cranks; RockShox Pike, Lyrik and ZEB and FOX 36 / 38 forks; FOX, RockShox and DVO rear shocks; Shimano XT, XTR, Deore, SLX and Saint, SRAM Code, Maven, Motive and G2 and Trickstuff brakes; Industry Nine and DT Swiss hubs, Stan's NoTubes and DT Swiss wheels and rims; Acros, KS, e*thirteen and Kore cockpit parts; KS LEV, RockShox Reverb and FOX Transfer dropper posts; Selle Italia saddles; Acros pedals and Supernova lights. 1,373 pieces in 86 lines, offered as one lot.",
-  "ar": "مخزون قطع غير مستعملة لدى مصنّع دراجات جبلية في سويسرا (قطع OE مخصّصة لتجميع الدراجات): أطقم ناقل حركة Shimano XT وXTR وDeore Di2 وSRAM Eagle Transmission AXS، وأطقم وكرنكات e*thirteen؛ شوكات RockShox Pike وLyrik وZEB وFOX 36 / 38؛ ممتصات صدمات خلفية FOX وRockShox وDVO؛ فرامل Shimano XT وXTR وDeore وSLX وSaint وSRAM Code وMaven وMotive وG2 وTrickstuff؛ محاور Industry Nine وDT Swiss، وعجلات وجنوط Stan's NoTubes وDT Swiss؛ مقاود وقوائم ومقابض Acros وKS وe*thirteen وKore؛ أعمدة سرج قابلة للخفض KS LEV وRockShox Reverb وFOX Transfer؛ سروج Selle Italia؛ دواسات Acros وأضواء Supernova. ‏1,373 قطعة في 86 بنداً، تُعرض كدفعة واحدة."
+  "en": "Unused component stock of a Swiss mountain-bike manufacturer (OE parts for bike assembly): Shimano XT, XTR and Deore Di2 and SRAM Eagle Transmission AXS drivetrains, e*thirteen groupsets and cranks; RockShox Pike, Lyrik and ZEB and FOX 36 / 38 Factory forks; FOX, RockShox and DVO rear shocks; Shimano XT, XTR, Deore, SLX and Saint, SRAM Code, Maven, Motive and G2 and Trickstuff brakes; HOOPS hand-built carbon wheelsets, carbon rims and hubs, Industry Nine and DT Swiss hubs, Stan's NoTubes and DT Swiss wheels and rims; Acros, KS, e*thirteen and Kore cockpit parts; KS LEV, RockShox Reverb and FOX Transfer dropper posts; Selle Italia saddles; Acros and HOOPS pedals and Supernova lights. 1,900 pieces in 96 lines, offered as one lot. Specifications in the notes are taken from the manufacturer's own build specifications.",
+  "ar": "مخزون قطع غير مستعملة لدى مصنّع دراجات جبلية في سويسرا (قطع OE مخصّصة لتجميع الدراجات): أطقم ناقل حركة Shimano XT وXTR وDeore Di2 وSRAM Eagle Transmission AXS، وأطقم وكرنكات e*thirteen؛ شوكات RockShox Pike وLyrik وZEB وFOX 36 / 38 فئة Factory؛ ممتصات صدمات خلفية FOX وRockShox وDVO؛ فرامل Shimano XT وXTR وDeore وSLX وSaint وSRAM Code وMaven وMotive وG2 وTrickstuff؛ أطقم عجلات كربون HOOPS مجمّعة يدوياً وجنوط ومحاور HOOPS، ومحاور Industry Nine وDT Swiss، وعجلات وجنوط Stan's NoTubes وDT Swiss؛ مقاود وقوائم ومقابض Acros وKS وe*thirteen وKore؛ أعمدة سرج قابلة للخفض KS LEV وRockShox Reverb وFOX Transfer؛ سروج Selle Italia؛ دواسات Acros وHOOPS وأضواء Supernova. ‏1,900 قطعة في 96 بنداً، تُعرض كدفعة واحدة. المواصفات في الملاحظات مأخوذة من مواصفات التجميع الخاصة بالمصنّع نفسه."
  },
- "groups_word": ["Categories", "الفئة"],
+ "groups_word": [
+  "Categories",
+  "الفئة"
+ ],
  "groups": {
-  "a_drivetrain": {"en": "Drivetrain groupsets", "ar": "أطقم ناقل الحركة", "short": "Drivetrains"},
-  "d_suspension": {"en": "Suspension – forks & rear shocks", "ar": "التعليق – شوكات وممتصات صدمات خلفية", "short": "Suspension"},
-  "c_brakes": {"en": "Disc brakes", "ar": "الفرامل القرصية", "short": "Brakes"},
-  "e_wheels": {"en": "Wheels, hubs & rims", "ar": "العجلات والمحاور والجنوط", "short": "Wheels"},
-  "g_seat": {"en": "Seatposts & saddles", "ar": "أعمدة السرج والسروج", "short": "Seatposts & saddles"},
-  "f_cockpit": {"en": "Cockpit – handlebars, stems & grips", "ar": "المقود – مقاود وقوائم ومقابض", "short": "Cockpit"},
-  "b_cranks": {"en": "Cranksets & chainrings", "ar": "الكرنكات وأطباق الجنزير", "short": "Cranks"},
-  "h_accessories": {"en": "Pedals, lights & accessories", "ar": "دواسات وأضواء وإكسسوارات", "short": "Accessories"}
+  "a_drivetrain": {
+   "en": "Drivetrain groupsets",
+   "ar": "أطقم ناقل الحركة",
+   "short": "Drivetrains"
+  },
+  "d_suspension": {
+   "en": "Suspension – forks & rear shocks",
+   "ar": "التعليق – شوكات وممتصات صدمات خلفية",
+   "short": "Suspension"
+  },
+  "c_brakes": {
+   "en": "Disc brakes",
+   "ar": "الفرامل القرصية",
+   "short": "Brakes"
+  },
+  "e_wheels": {
+   "en": "Wheels, hubs & rims",
+   "ar": "العجلات والمحاور والجنوط",
+   "short": "Wheels"
+  },
+  "g_seat": {
+   "en": "Seatposts & saddles",
+   "ar": "أعمدة السرج والسروج",
+   "short": "Seatposts & saddles"
+  },
+  "f_cockpit": {
+   "en": "Cockpit – handlebars, stems & grips",
+   "ar": "المقود – مقاود وقوائم ومقابض",
+   "short": "Cockpit"
+  },
+  "b_cranks": {
+   "en": "Cranksets & chainrings",
+   "ar": "الكرنكات وأطباق الجنزير",
+   "short": "Cranks"
+  },
+  "h_accessories": {
+   "en": "Pedals, lights & accessories",
+   "ar": "دواسات وأضواء وإكسسوارات",
+   "short": "Accessories"
+  }
  },
- "group_order": ["a_drivetrain", "d_suspension", "c_brakes", "e_wheels", "g_seat", "f_cockpit", "b_cranks", "h_accessories"],
+ "group_order": [
+  "a_drivetrain",
+  "d_suspension",
+  "c_brakes",
+  "e_wheels",
+  "g_seat",
+  "f_cockpit",
+  "b_cranks",
+  "h_accessories"
+ ],
  "other_group": "autres",
  "kpis": [
-  {"en": "Drivetrain groupsets", "ar": "طقم ناقل حركة", "value": "159"},
-  {"en": "Forks & rear shocks", "ar": "شوكة وممتص صدمات", "value": "145"},
-  {"en": "Disc brakes", "ar": "فرامل قرصية", "value": "177"}
+  {
+   "en": "Drivetrain groupsets",
+   "ar": "طقم ناقل حركة",
+   "value": "159"
+  },
+  {
+   "en": "Forks & rear shocks",
+   "ar": "شوكة وممتص صدمات",
+   "value": "145"
+  },
+  {
+   "en": "Disc brakes",
+   "ar": "فرامل قرصية",
+   "value": "177"
+  },
+  {
+   "en": "Carbon wheelsets & rims",
+   "ar": "أطقم عجلات وجنوط كربون",
+   "value": "81"
+  }
  ],
- "location": {"en": "Switzerland", "ar": "سويسرا"},
- "unit": ["pcs", "قطعة"],
- "qty_label": ["Pieces", "قطعة"],
+ "location": {
+  "en": "Switzerland",
+  "ar": "سويسرا"
+ },
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
  "qty_exact": true,
  "keep_order": true,
  "shipping": {
-  "volume_m3": [10, 16],
-  "weight_t": [1.0, 1.6],
+  "volume_m3": [
+   14,
+   21
+  ],
+  "weight_t": [
+   1.2,
+   1.8
+  ],
   "note": {
-   "en": "Estimate from typical boxed sizes and weights of these component types (forks and wheelsets take most of the space); palletised. Final loading plan confirmed after viewing.",
-   "ar": "تقدير من الأحجام والأوزان المعتادة لهذه القطع معبّأةً (الشوكات وأطقم العجلات تأخذ أغلب الحجم)؛ على منصّات. يُؤكَّد مخطط التحميل النهائي بعد المعاينة."
+   "en": "Estimate from typical boxed sizes and weights of these component types (forks, wheelsets and rims take most of the space); palletised. Final loading plan confirmed after viewing.",
+   "ar": "تقدير من الأحجام والأوزان المعتادة لهذه القطع معبّأةً (الشوكات وأطقم العجلات والجنوط تأخذ أغلب الحجم)؛ على منصّات. يُؤكَّد مخطط التحميل النهائي بعد المعاينة."
   }
  },
  "note": {

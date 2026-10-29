@@ -7,7 +7,11 @@
   "type_en": "Drivetrain groupset",
   "type_ar": "طقم ناقل حركة",
   "img": "img/p_1.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Electronic shifting (Di2), 1×12",
+   "ar": "تبديل إلكتروني (Di2)، 1×12"
+  }
  },
  {
   "ref": "2",
@@ -27,7 +31,11 @@
   "type_en": "Drivetrain groupset",
   "type_ar": "طقم ناقل حركة",
   "img": "img/p_3.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "New XTR Di2 (model year 2026), electronic shifting, 1×12",
+   "ar": "XTR Di2 الجديد (موديل 2026)، تبديل إلكتروني، 1×12"
+  }
  },
  {
   "ref": "4",
@@ -37,7 +45,11 @@
   "type_en": "Drivetrain groupset",
   "type_ar": "طقم ناقل حركة",
   "img": "img/p_4.jpg",
-  "photo": "rep"
+  "photo": "exact",
+  "note": {
+   "en": "Electronic shifting (Di2), 1×12",
+   "ar": "تبديل إلكتروني (Di2)، 1×12"
+  }
  },
  {
   "ref": "5",
@@ -49,8 +61,8 @@
   "img": "img/p_5.jpg",
   "photo": "exact",
   "note": {
-   "en": "Crank length 170 mm",
-   "ar": "طول الكرنك 170 مم"
+   "en": "1×12, crank length 170 mm",
+   "ar": "1×12، طول الكرنك 170 مم"
   }
  },
  {
@@ -61,7 +73,11 @@
   "type_en": "Drivetrain groupset",
   "type_ar": "طقم ناقل حركة",
   "img": "img/p_6.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "SRAM Eagle 90 Transmission, 1×12, direct-mount (UDH) derailleur",
+   "ar": "SRAM Eagle 90 Transmission، ‏1×12، مغيّر سرعات بتركيب مباشر (UDH)"
+  }
  },
  {
   "ref": "7",
@@ -71,7 +87,11 @@
   "type_en": "Drivetrain groupset",
   "type_ar": "طقم ناقل حركة",
   "img": "img/p_7.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "SRAM XO Eagle Transmission AXS – wireless electronic shifting, 1×12, direct-mount (UDH)",
+   "ar": "SRAM XO Eagle Transmission AXS – تبديل إلكتروني لاسلكي، 1×12، تركيب مباشر (UDH)"
+  }
  },
  {
   "ref": "8",
@@ -81,7 +101,11 @@
   "type_en": "Drivetrain groupset",
   "type_ar": "طقم ناقل حركة",
   "img": "img/p_8.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "1×12",
+   "ar": "1×12"
+  }
  },
  {
   "ref": "9",
@@ -101,7 +125,11 @@
   "type_en": "Crankset",
   "type_ar": "كرنك (ذراعا الدواسات)",
   "img": "img/p_10.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "e*thirteen carbon crankset",
+   "ar": "كرنك كربون e*thirteen"
+  }
  },
  {
   "ref": "11",
@@ -131,7 +159,11 @@
   "type_en": "Crankset",
   "type_ar": "كرنك (ذراعا الدواسات)",
   "img": "img/p_13.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "e*thirteen aluminium crankset",
+   "ar": "كرنك ألمنيوم e*thirteen"
+  }
  },
  {
   "ref": "14",
@@ -141,7 +173,11 @@
   "type_en": "Chainring",
   "type_ar": "طبق جنزير أمامي",
   "img": "img/p_14.jpg",
-  "photo": "rep"
+  "photo": "rep",
+  "note": {
+   "en": "Funn chainrings",
+   "ar": "أطباق جنزير Funn"
+  }
  },
  {
   "ref": "15",
@@ -153,8 +189,8 @@
   "img": "img/p_15.jpg",
   "photo": "exact",
   "note": {
-   "en": "Current model",
-   "ar": "الموديل الحالي"
+   "en": "Current model, 4-piston",
+   "ar": "الموديل الحالي، 4 مكابس"
   }
  },
  {
@@ -167,8 +203,8 @@
   "img": "img/p_16.jpg",
   "photo": "exact",
   "note": {
-   "en": "Current model",
-   "ar": "الموديل الحالي"
+   "en": "New XTR (model year 2026), 4-piston",
+   "ar": "XTR الجديدة (موديل 2026)، 4 مكابس"
   }
  },
  {
@@ -179,7 +215,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_17.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "4-piston",
+   "ar": "4 مكابس"
+  }
  },
  {
   "ref": "18",
@@ -189,7 +229,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_18.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Made in Germany",
+   "ar": "صناعة ألمانية"
+  }
  },
  {
   "ref": "19",
@@ -209,7 +253,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_20.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "4-piston, made in Germany",
+   "ar": "4 مكابس، صناعة ألمانية"
+  }
  },
  {
   "ref": "21",
@@ -229,7 +277,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_22.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "4-piston",
+   "ar": "4 مكابس"
+  }
  },
  {
   "ref": "23",
@@ -249,7 +301,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_24.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "4-piston",
+   "ar": "4 مكابس"
+  }
  },
  {
   "ref": "25",
@@ -259,7 +315,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_25.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "4-piston",
+   "ar": "4 مكابس"
+  }
  },
  {
   "ref": "26",
@@ -269,7 +329,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_26.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "4-piston",
+   "ar": "4 مكابس"
+  }
  },
  {
   "ref": "27",
@@ -289,7 +353,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_28.jpg",
-  "photo": "rep"
+  "photo": "rep",
+  "note": {
+   "en": "Hope (UK); model confirmed at viewing",
+   "ar": "Hope (بريطانيا)؛ يُحدَّد الموديل عند المعاينة"
+  }
  },
  {
   "ref": "29",
@@ -299,7 +367,11 @@
   "type_en": "Disc brake",
   "type_ar": "فرامل قرصية",
   "img": "img/p_29.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "4-piston",
+   "ar": "4 مكابس"
+  }
  },
  {
   "ref": "30",
@@ -309,7 +381,11 @@
   "type_en": "Suspension fork",
   "type_ar": "شوكة أمامية بنظام تعليق",
   "img": "img/p_30.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Travel 140 mm",
+   "ar": "مشوار 140 مم"
+  }
  },
  {
   "ref": "31",
@@ -319,7 +395,11 @@
   "type_en": "Suspension fork",
   "type_ar": "شوكة أمامية بنظام تعليق",
   "img": "img/p_31.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "FOX 36 Factory series (Kashima coating), GRIP X damper, 150 mm travel, model year 2026",
+   "ar": "FOX 36 فئة Factory (طلاء Kashima)، مخمّد GRIP X، مشوار 150 مم، موديل 2026"
+  }
  },
  {
   "ref": "32",
@@ -329,7 +409,11 @@
   "type_en": "Suspension fork",
   "type_ar": "شوكة أمامية بنظام تعليق",
   "img": "img/p_32.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "FOX 38 Factory series (Kashima coating), GRIP X2 damper, 170 mm travel",
+   "ar": "FOX 38 فئة Factory (طلاء Kashima)، مخمّد GRIP X2، مشوار 170 مم"
+  }
  },
  {
   "ref": "33",
@@ -339,7 +423,11 @@
   "type_en": "Suspension fork",
   "type_ar": "شوكة أمامية بنظام تعليق",
   "img": "img/p_33.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "RockShox Lyrik Select, 150 mm travel",
+   "ar": "RockShox Lyrik Select، مشوار 150 مم"
+  }
  },
  {
   "ref": "34",
@@ -349,7 +437,11 @@
   "type_en": "Suspension fork",
   "type_ar": "شوكة أمامية بنظام تعليق",
   "img": "img/p_34.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Travel 170 mm",
+   "ar": "مشوار 170 مم"
+  }
  },
  {
   "ref": "35",
@@ -359,7 +451,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_35.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Size 205 × 65 mm (eye-to-eye × stroke)",
+   "ar": "المقاس 205 × 65 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "36",
@@ -369,7 +465,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_36.jpg",
-  "photo": "rep"
+  "photo": "exact",
+  "note": {
+   "en": "FOX DHX Factory coil shock; size 185 × 55 mm (eye-to-eye × stroke)",
+   "ar": "ممتص FOX DHX Factory بنابض؛ المقاس 185 × 55 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "37",
@@ -379,7 +479,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_37.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "FOX Float X Factory; size 205 × 60 mm (eye-to-eye × stroke)",
+   "ar": "FOX Float X Factory؛ المقاس 205 × 60 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "38",
@@ -389,7 +493,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_38.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "FOX Float X2 Factory; size 230 × 65 mm (eye-to-eye × stroke)",
+   "ar": "FOX Float X2 Factory؛ المقاس 230 × 65 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "39",
@@ -399,7 +507,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_39.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Size 185 × 50 mm (eye-to-eye × stroke)",
+   "ar": "المقاس 185 × 50 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "40",
@@ -409,7 +521,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_40.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Coil shock; size 185 × 55 mm (eye-to-eye × stroke)",
+   "ar": "ممتص بنابض؛ المقاس 185 × 55 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "41",
@@ -419,7 +535,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_41.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "FOX Float DPS; size 185 × 50 mm (eye-to-eye × stroke)",
+   "ar": "FOX Float DPS؛ المقاس 185 × 50 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "42",
@@ -429,7 +549,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_42.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Coil version; size 185 × 55 mm (eye-to-eye × stroke)",
+   "ar": "نسخة بنابض؛ المقاس 185 × 55 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "43",
@@ -439,7 +563,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_43.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "FOX Float X Factory; size 230 × 60 mm (eye-to-eye × stroke)",
+   "ar": "FOX Float X Factory؛ المقاس 230 × 60 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "44",
@@ -449,7 +577,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_44.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Size 185 × 55 mm (eye-to-eye × stroke)",
+   "ar": "المقاس 185 × 55 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "45",
@@ -459,7 +591,11 @@
   "type_en": "Rear shock",
   "type_ar": "ممتص صدمات خلفي",
   "img": "img/p_45.jpg",
-  "photo": "exact"
+  "photo": "exact",
+  "note": {
+   "en": "Size 185 × 50 mm (eye-to-eye × stroke)",
+   "ar": "المقاس 185 × 50 مم (الطول × المشوار)"
+  }
  },
  {
   "ref": "46",
@@ -473,70 +609,124 @@
  },
  {
   "ref": "47",
-  "name": "NoTubes Arch S2",
-  "qty": 10,
+  "name": "HOOPS CARBON  Systemlaufräder  927",
+  "qty": 6,
   "group": "e_wheels",
   "type_en": "Wheelset",
   "type_ar": "طقم عجلات",
   "img": "img/p_47.jpg",
   "photo": "exact",
   "note": {
-   "en": "Stan's NoTubes Arch S2 wheelset",
-   "ar": "طقم عجلات Stan's NoTubes Arch S2"
+   "en": "Hand-built carbon wheelset, 29\" Boost (148/110), 27 mm inner width, rim ≈ 330 g; HOOPS hubs (4 pawls, 144 engagement points); DT Competition spokes, alloy nipples; 6-bolt; SRAM XD or Shimano Microspline; trail / XC",
+   "ar": "طقم عجلات كربون مجمّع يدوياً، 29\" Boost ‏(148/110)، عرض داخلي 27 مم، وزن الجنط ≈ 330 غ؛ محاور HOOPS ‏(4 لسان، 144 نقطة تعشيق)؛ أسلاك DT Competition وصواميل ألمنيوم؛ تثبيت قرص 6 مسامير؛ SRAM XD أو Shimano Microspline؛ للمسارات / XC"
   }
  },
  {
   "ref": "48",
-  "name": "NoTubes Flow S2",
-  "qty": 4,
+  "name": "NoTubes Arch S2",
+  "qty": 10,
   "group": "e_wheels",
   "type_en": "Wheelset",
   "type_ar": "طقم عجلات",
   "img": "img/p_48.jpg",
   "photo": "exact",
   "note": {
-   "en": "Stan's NoTubes Flow S2 wheelset",
-   "ar": "طقم عجلات Stan's NoTubes Flow S2"
+   "en": "Stan's NoTubes Arch S2 wheelset with E-Sync hubs (e-MTB rated)",
+   "ar": "طقم عجلات Stan's NoTubes Arch S2 بمحاور E-Sync (للدراجات الكهربائية)"
   }
  },
  {
   "ref": "49",
+  "name": "HOOPS CARBON  Systemlaufräder  929",
+  "qty": 2,
+  "group": "e_wheels",
+  "type_en": "Wheelset",
+  "type_ar": "طقم عجلات",
+  "img": "img/p_49.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Hand-built carbon wheelset, 29\" Boost (148/110), 29 mm inner width, rim ≈ 410 g; HOOPS hubs (4 pawls, 144 engagement points); DT Competition spokes; 6-bolt; SRAM XD or Shimano Microspline; enduro / trail",
+   "ar": "طقم عجلات كربون مجمّع يدوياً، 29\" Boost ‏(148/110)، عرض داخلي 29 مم، وزن الجنط ≈ 410 غ؛ محاور HOOPS ‏(4 لسان، 144 نقطة تعشيق)؛ أسلاك DT Competition؛ تثبيت قرص 6 مسامير؛ SRAM XD أو Shimano Microspline؛ إندورو / مسارات"
+  }
+ },
+ {
+  "ref": "50",
+  "name": "NoTubes Flow S2",
+  "qty": 4,
+  "group": "e_wheels",
+  "type_en": "Wheelset",
+  "type_ar": "طقم عجلات",
+  "img": "img/p_50.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Stan's NoTubes Flow S2 wheelset with E-Sync hubs (e-MTB rated)",
+   "ar": "طقم عجلات Stan's NoTubes Flow S2 بمحاور E-Sync (للدراجات الكهربائية)"
+  }
+ },
+ {
+  "ref": "51",
   "name": "NoTubes Arch MK4 Felgen mit M-Pulse Nabe 29",
   "qty": 1,
   "group": "e_wheels",
   "type_en": "Wheelset",
   "type_ar": "طقم عجلات",
-  "img": "img/p_49.jpg",
-  "photo": "exact"
+  "img": "img/p_51.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Stan's NoTubes Arch MK4 rims on M-Pulse hubs, 29\"",
+   "ar": "جنوط Stan's NoTubes Arch MK4 على محاور M-Pulse، مقاس 29\""
+  }
  },
  {
-  "ref": "50",
+  "ref": "52",
   "name": "NoTubes Flow MK4 Felgen mit M-Pulse Nabe  29",
   "qty": 1,
   "group": "e_wheels",
   "type_en": "Wheelset",
   "type_ar": "طقم عجلات",
-  "img": "img/p_50.jpg",
-  "photo": "exact"
+  "img": "img/p_52.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Stan's NoTubes Flow MK4 rims on M-Pulse hubs, 29\"",
+   "ar": "جنوط Stan's NoTubes Flow MK4 على محاور M-Pulse، مقاس 29\""
+  }
  },
  {
-  "ref": "51",
+  "ref": "53",
   "name": "DT Swiss H1900",
   "qty": 2,
   "group": "e_wheels",
   "type_en": "Wheelset",
   "type_ar": "طقم عجلات",
-  "img": "img/p_51.jpg",
-  "photo": "exact"
+  "img": "img/p_53.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "DT Swiss H 1900 Spline – e-MTB wheelset",
+   "ar": "DT Swiss H 1900 Spline – طقم عجلات لدراجة جبلية كهربائية"
+  }
  },
  {
-  "ref": "52",
+  "ref": "54",
+  "name": "HOOPS",
+  "qty": 120,
+  "group": "e_wheels",
+  "type_en": "Hub",
+  "type_ar": "محور عجلة",
+  "img": "img/p_54.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "HOOPS hubs – 4 pawls, 144 engagement points",
+   "ar": "محاور HOOPS – ‏4 لسان، 144 نقطة تعشيق"
+  }
+ },
+ {
+  "ref": "55",
   "name": "I9 101",
   "qty": 33,
   "group": "e_wheels",
   "type_en": "Hub",
   "type_ar": "محور عجلة",
-  "img": "img/p_52.jpg",
+  "img": "img/p_55.jpg",
   "photo": "exact",
   "note": {
    "en": "Industry Nine 1/1 hubs",
@@ -544,13 +734,13 @@
   }
  },
  {
-  "ref": "53",
+  "ref": "56",
   "name": "DT 240",
   "qty": 4,
   "group": "e_wheels",
   "type_en": "Hub",
   "type_ar": "محور عجلة",
-  "img": "img/p_53.jpg",
+  "img": "img/p_56.jpg",
   "photo": "exact",
   "note": {
    "en": "DT Swiss 240 hubs",
@@ -558,13 +748,13 @@
   }
  },
  {
-  "ref": "54",
+  "ref": "57",
   "name": "DT 350",
   "qty": 3,
   "group": "e_wheels",
   "type_en": "Hub",
   "type_ar": "محور عجلة",
-  "img": "img/p_54.jpg",
+  "img": "img/p_57.jpg",
   "photo": "exact",
   "note": {
    "en": "DT Swiss 350 hubs",
@@ -572,13 +762,85 @@
   }
  },
  {
-  "ref": "55",
+  "ref": "58",
+  "name": "HOOPS CARBON 931",
+  "qty": 37,
+  "group": "e_wheels",
+  "type_en": "Rim",
+  "type_ar": "جنط",
+  "img": "img/p_58.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Carbon rim, 29\", 31 mm inner width",
+   "ar": "جنط كربون، 29\"، عرض داخلي 31 مم"
+  },
+  "photo_label": {
+   "en": "HOOPS carbon rim, shown built into a wheel",
+   "ar": "جنط HOOPS كربون، ظاهر على عجلة مجمّعة"
+  }
+ },
+ {
+  "ref": "59",
+  "name": "HOOPS CARBON 929 (alt)",
+  "qty": 19,
+  "group": "e_wheels",
+  "type_en": "Rim",
+  "type_ar": "جنط",
+  "img": "img/p_59.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Carbon rim, 29\", 29 mm inner width – previous version",
+   "ar": "جنط كربون، 29\"، عرض داخلي 29 مم – الإصدار السابق"
+  },
+  "photo_label": {
+   "en": "HOOPS carbon rim, shown built into a wheel",
+   "ar": "جنط HOOPS كربون، ظاهر على عجلة مجمّعة"
+  }
+ },
+ {
+  "ref": "60",
+  "name": "HOOPS CARBON 929",
+  "qty": 10,
+  "group": "e_wheels",
+  "type_en": "Rim",
+  "type_ar": "جنط",
+  "img": "img/p_60.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Carbon rim, 29\", 29 mm inner width, ≈ 410 g",
+   "ar": "جنط كربون، 29\"، عرض داخلي 29 مم، ≈ 410 غ"
+  },
+  "photo_label": {
+   "en": "HOOPS carbon rim, shown built into a wheel",
+   "ar": "جنط HOOPS كربون، ظاهر على عجلة مجمّعة"
+  }
+ },
+ {
+  "ref": "61",
+  "name": "HOOPS CARBON 927 neu",
+  "qty": 5,
+  "group": "e_wheels",
+  "type_en": "Rim",
+  "type_ar": "جنط",
+  "img": "img/p_61.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Carbon rim, 29\", 27 mm inner width, ≈ 330 g – new version",
+   "ar": "جنط كربون، 29\"، عرض داخلي 27 مم، ≈ 330 غ – الإصدار الجديد"
+  },
+  "photo_label": {
+   "en": "HOOPS carbon rim, shown built into a wheel",
+   "ar": "جنط HOOPS كربون، ظاهر على عجلة مجمّعة"
+  }
+ },
+ {
+  "ref": "62",
   "name": "S2 Arch",
   "qty": 20,
   "group": "e_wheels",
   "type_en": "Rim",
   "type_ar": "جنط",
-  "img": "img/p_55.jpg",
+  "img": "img/p_62.jpg",
   "photo": "exact",
   "note": {
    "en": "Stan's NoTubes Arch S2 rims",
@@ -586,13 +848,31 @@
   }
  },
  {
-  "ref": "56",
+  "ref": "63",
+  "name": "HOOPS CARBON 729",
+  "qty": 2,
+  "group": "e_wheels",
+  "type_en": "Rim",
+  "type_ar": "جنط",
+  "img": "img/p_63.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Carbon rim, 27.5\", 29 mm inner width",
+   "ar": "جنط كربون، 27.5\"، عرض داخلي 29 مم"
+  },
+  "photo_label": {
+   "en": "HOOPS carbon rim, shown built into a wheel",
+   "ar": "جنط HOOPS كربون، ظاهر على عجلة مجمّعة"
+  }
+ },
+ {
+  "ref": "64",
   "name": "S2 Flow",
   "qty": 10,
   "group": "e_wheels",
   "type_en": "Rim",
   "type_ar": "جنط",
-  "img": "img/p_56.jpg",
+  "img": "img/p_64.jpg",
   "photo": "rep",
   "note": {
    "en": "Stan's NoTubes Flow S2 rims",
@@ -600,13 +880,13 @@
   }
  },
  {
-  "ref": "57",
+  "ref": "65",
   "name": "Arch mk4",
   "qty": 4,
   "group": "e_wheels",
   "type_en": "Rim",
   "type_ar": "جنط",
-  "img": "img/p_57.jpg",
+  "img": "img/p_65.jpg",
   "photo": "rep",
   "note": {
    "en": "Stan's NoTubes Arch MK4 rims",
@@ -614,71 +894,83 @@
   }
  },
  {
-  "ref": "58",
+  "ref": "66",
   "name": "Acros Stealth Aluminium",
   "qty": 48,
   "group": "f_cockpit",
   "type_en": "Handlebar",
   "type_ar": "مقود",
-  "img": "img/p_58.jpg",
-  "photo": "exact"
+  "img": "img/p_66.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "780 mm, 15 / 25 mm rise",
+   "ar": "780 مم، ارتفاع 15 / 25 مم"
+  }
  },
  {
-  "ref": "59",
+  "ref": "67",
   "name": "KS Carbon",
   "qty": 20,
   "group": "f_cockpit",
   "type_en": "Handlebar",
   "type_ar": "مقود",
-  "img": "img/p_59.jpg",
-  "photo": "rep"
+  "img": "img/p_67.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "KS Ether Carbon, 810 mm, 20 mm rise",
+   "ar": "KS Ether Carbon، ‏810 مم، ارتفاع 20 مم"
+  }
  },
  {
-  "ref": "60",
+  "ref": "68",
   "name": "e13 Alu",
   "qty": 38,
   "group": "f_cockpit",
   "type_en": "Handlebar",
   "type_ar": "مقود",
-  "img": "img/p_60.jpg",
-  "photo": "exact"
+  "img": "img/p_68.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "e*thirteen Base aluminium, 800 mm, 20 mm rise",
+   "ar": "e*thirteen Base ألمنيوم، 800 مم، ارتفاع 20 مم"
+  }
  },
  {
-  "ref": "61",
+  "ref": "69",
   "name": "Acros",
   "qty": 85,
   "group": "f_cockpit",
   "type_en": "Stem",
   "type_ar": "قائم المقود",
-  "img": "img/p_61.jpg",
-  "photo": "rep",
+  "img": "img/p_69.jpg",
+  "photo": "exact",
   "note": {
-   "en": "Acros stem",
-   "ar": "قائم مقود Acros"
+   "en": "Acros Stealth stem (40 mm in the standard builds)",
+   "ar": "قائم مقود Acros Stealth ‏(40 مم في التجميعات القياسية)"
   }
  },
  {
-  "ref": "62",
+  "ref": "70",
   "name": "e13",
   "qty": 37,
   "group": "f_cockpit",
   "type_en": "Stem",
   "type_ar": "قائم المقود",
-  "img": "img/p_62.jpg",
+  "img": "img/p_70.jpg",
   "photo": "exact",
   "note": {
-   "en": "e*thirteen stem",
-   "ar": "قائم مقود e*thirteen"
+   "en": "e*thirteen Base stem",
+   "ar": "قائم مقود e*thirteen Base"
   }
  },
  {
-  "ref": "63",
+  "ref": "71",
   "name": "Kore (35/50mm)",
   "qty": 28,
   "group": "f_cockpit",
   "type_en": "Stem",
   "type_ar": "قائم المقود",
-  "img": "img/p_63.jpg",
+  "img": "img/p_71.jpg",
   "photo": "exact",
   "note": {
    "en": "Kore stem, 35 / 50 mm",
@@ -686,13 +978,27 @@
   }
  },
  {
-  "ref": "64",
+  "ref": "72",
+  "name": "Hoops",
+  "qty": 150,
+  "group": "f_cockpit",
+  "type_en": "Grips",
+  "type_ar": "مقابض",
+  "img": "img/p_72.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "HOOPS lock-on grips (bolted)",
+   "ar": "مقابض HOOPS مثبّتة بمسامير"
+  }
+ },
+ {
+  "ref": "73",
   "name": "Funn",
   "qty": 110,
   "group": "f_cockpit",
   "type_en": "Grips",
   "type_ar": "مقابض",
-  "img": "img/p_64.jpg",
+  "img": "img/p_73.jpg",
   "photo": "rep",
   "note": {
    "en": "Funn grips",
@@ -700,77 +1006,77 @@
   }
  },
  {
-  "ref": "65",
+  "ref": "74",
   "name": "Acros",
   "qty": 14,
   "group": "f_cockpit",
   "type_en": "Grips",
   "type_ar": "مقابض",
-  "img": "img/p_65.jpg",
-  "photo": "rep",
+  "img": "img/p_74.jpg",
+  "photo": "exact",
   "note": {
-   "en": "Acros grips",
-   "ar": "مقابض Acros"
+   "en": "Acros A-Grip silicone grips",
+   "ar": "مقابض سيليكون Acros A-Grip"
   }
  },
  {
-  "ref": "66",
+  "ref": "75",
   "name": "Selle Italia SLR Boost Carbon",
   "qty": 27,
   "group": "g_seat",
   "type_en": "Saddle",
   "type_ar": "سرج",
-  "img": "img/p_66.jpg",
+  "img": "img/p_75.jpg",
   "photo": "exact"
  },
  {
-  "ref": "67",
+  "ref": "76",
   "name": "Selle Italia SLR Boost",
   "qty": 22,
   "group": "g_seat",
   "type_en": "Saddle",
   "type_ar": "سرج",
-  "img": "img/p_67.jpg",
+  "img": "img/p_76.jpg",
   "photo": "exact"
  },
  {
-  "ref": "68",
+  "ref": "77",
   "name": "Selle Italiia Lady Flow",
   "qty": 24,
   "group": "g_seat",
   "type_en": "Saddle",
   "type_ar": "سرج",
-  "img": "img/p_68.jpg",
+  "img": "img/p_77.jpg",
   "photo": "rep"
  },
  {
-  "ref": "69",
+  "ref": "78",
   "name": "Selle Italia X3 Boost",
   "qty": 31,
   "group": "g_seat",
   "type_en": "Saddle",
   "type_ar": "سرج",
-  "img": "img/p_69.jpg",
+  "img": "img/p_78.jpg",
   "photo": "exact"
  },
  {
-  "ref": "70",
+  "ref": "79",
   "name": "Selle Italia X3 Boost Flow",
   "qty": 12,
   "group": "g_seat",
   "type_en": "Saddle",
   "type_ar": "سرج",
-  "img": "img/p_70.jpg",
+  "img": "img/p_79.jpg",
   "photo": "exact"
  },
  {
-  "ref": "71",
+  "ref": "80",
   "name": "Kind Shox LEV Integra 125/150/175/200",
   "qty": 46,
   "group": "g_seat",
   "type_en": "Dropper seatpost",
   "type_ar": "عمود سرج قابل للخفض",
-  "img": "img/p_71.jpg",
+  "img": "img/p_80.jpg",
   "photo": "exact",
   "note": {
    "en": "Travel 125 / 150 / 175 / 200 mm (mix)",
@@ -778,13 +1084,13 @@
   }
  },
  {
-  "ref": "72",
+  "ref": "81",
   "name": "Kind Shock RAGEi 125/150/170/190",
   "qty": 30,
   "group": "g_seat",
   "type_en": "Dropper seatpost",
   "type_ar": "عمود سرج قابل للخفض",
-  "img": "img/p_72.jpg",
+  "img": "img/p_81.jpg",
   "photo": "exact",
   "note": {
    "en": "Travel 125 / 150 / 170 / 190 mm (mix)",
@@ -792,23 +1098,23 @@
   }
  },
  {
-  "ref": "73",
+  "ref": "82",
   "name": "rock shox reverb",
   "qty": 6,
   "group": "g_seat",
   "type_en": "Dropper seatpost",
   "type_ar": "عمود سرج قابل للخفض",
-  "img": "img/p_73.jpg",
+  "img": "img/p_82.jpg",
   "photo": "exact"
  },
  {
-  "ref": "74",
+  "ref": "83",
   "name": "Fox Transfer FS 150/180/210/240",
   "qty": 3,
   "group": "g_seat",
   "type_en": "Dropper seatpost",
   "type_ar": "عمود سرج قابل للخفض",
-  "img": "img/p_74.jpg",
+  "img": "img/p_83.jpg",
   "photo": "exact",
   "note": {
    "en": "Factory series, travel 150–240 mm (mix)",
@@ -816,23 +1122,23 @@
   }
  },
  {
-  "ref": "75",
+  "ref": "84",
   "name": "Kind Shox LEV Ci",
   "qty": 2,
   "group": "g_seat",
   "type_en": "Dropper seatpost",
   "type_ar": "عمود سرج قابل للخفض",
-  "img": "img/p_75.jpg",
+  "img": "img/p_84.jpg",
   "photo": "exact"
  },
  {
-  "ref": "76",
+  "ref": "85",
   "name": "Fox Transfer Performance 150/180/210/240",
   "qty": 1,
   "group": "g_seat",
   "type_en": "Dropper seatpost",
   "type_ar": "عمود سرج قابل للخفض",
-  "img": "img/p_76.jpg",
+  "img": "img/p_85.jpg",
   "photo": "exact",
   "note": {
    "en": "Performance series, travel 150–240 mm",
@@ -840,43 +1146,43 @@
   }
  },
  {
-  "ref": "77",
+  "ref": "86",
   "name": "Kind Shock LEV Si",
   "qty": 1,
   "group": "g_seat",
   "type_en": "Dropper seatpost",
   "type_ar": "عمود سرج قابل للخفض",
-  "img": "img/p_77.jpg",
+  "img": "img/p_86.jpg",
   "photo": "exact"
  },
  {
-  "ref": "78",
+  "ref": "87",
   "name": "rock shox reverb remot",
   "qty": 4,
   "group": "g_seat",
   "type_en": "Dropper-post remote",
   "type_ar": "ذراع تحكم عمود السرج",
-  "img": "img/p_78.jpg",
+  "img": "img/p_87.jpg",
   "photo": "exact"
  },
  {
-  "ref": "79",
+  "ref": "88",
   "name": "Fox Transfer remote",
   "qty": 1,
   "group": "g_seat",
   "type_en": "Dropper-post remote",
   "type_ar": "ذراع تحكم عمود السرج",
-  "img": "img/p_79.jpg",
+  "img": "img/p_88.jpg",
   "photo": "exact"
  },
  {
-  "ref": "80",
+  "ref": "89",
   "name": "Kore",
   "qty": 12,
   "group": "g_seat",
   "type_en": "Seatpost",
   "type_ar": "عمود سرج",
-  "img": "img/p_80.jpg",
+  "img": "img/p_89.jpg",
   "photo": "rep",
   "note": {
    "en": "Kore seatpost",
@@ -884,63 +1190,97 @@
   }
  },
  {
-  "ref": "81",
+  "ref": "90",
+  "name": "Hoops",
+  "qty": 176,
+  "group": "h_accessories",
+  "type_en": "Pedals",
+  "type_ar": "دواسات",
+  "img": "img/p_90.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "HOOPS flat pedals – compact, very light body (suits shoe sizes up to 39)",
+   "ar": "دواسات HOOPS مسطحة – جسم صغير وخفيف جداً (لمقاسات أحذية حتى 39)"
+  }
+ },
+ {
+  "ref": "91",
   "name": "Acros A-Flat",
   "qty": 36,
   "group": "h_accessories",
   "type_en": "Pedals",
   "type_ar": "دواسات",
-  "img": "img/p_81.jpg",
+  "img": "img/p_91.jpg",
   "photo": "exact"
  },
  {
-  "ref": "82",
+  "ref": "92",
   "name": "Acros Flat (neu)",
   "qty": 19,
   "group": "h_accessories",
   "type_en": "Pedals",
   "type_ar": "دواسات",
-  "img": "img/p_82.jpg",
-  "photo": "exact"
+  "img": "img/p_92.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "New version; large platform, plain + industrial ball bearing, self-cleaning cut-outs",
+   "ar": "إصدار جديد؛ منصة كبيرة، محمل انزلاقي + محمل كريات صناعي، فتحات ذاتية التنظيف"
+  }
  },
  {
-  "ref": "83",
+  "ref": "93",
   "name": "Acros SPD",
   "qty": 1,
   "group": "h_accessories",
   "type_en": "Pedals",
   "type_ar": "دواسات",
-  "img": "img/p_83.jpg",
-  "photo": "rep"
+  "img": "img/p_93.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "SPD clipless; adjustable stance and release tension; skid plates; 4 steel pins per pedal; triple-sealed bearings",
+   "ar": "دواسات SPD بقفل؛ موضع وقوة تحرير قابلان للضبط؛ صفائح انزلاق؛ 4 مسامير فولاذية لكل دواسة؛ محامل بثلاث طبقات عزل"
+  }
  },
  {
-  "ref": "84",
+  "ref": "94",
   "name": "Licht Supernova Mini 2 LMI",
   "qty": 23,
   "group": "h_accessories",
   "type_en": "Bike light",
   "type_ar": "ضوء دراجة",
-  "img": "img/p_84.jpg",
-  "photo": "exact"
+  "img": "img/p_94.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "E-bike headlight, 235 lumen / 100 lux",
+   "ar": "ضوء أمامي لدراجة كهربائية، 235 لومن / 100 لوكس"
+  }
  },
  {
-  "ref": "85",
+  "ref": "95",
   "name": "Sigma EOX View 1300 Standard",
   "qty": 1,
   "group": "h_accessories",
   "type_en": "Bike computer",
   "type_ar": "عدّاد دراجة",
-  "img": "img/p_85.jpg",
-  "photo": "exact"
+  "img": "img/p_95.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "E-bike handlebar display",
+   "ar": "شاشة مقود لدراجة كهربائية"
+  }
  },
  {
-  "ref": "86",
+  "ref": "96",
   "name": "Carbon-Ti Ultimate Set",
   "qty": 4,
   "group": "h_accessories",
-  "type_en": "Component set",
-  "type_ar": "طقم قطع",
-  "img": null,
-  "photo": null
+  "type_en": "Titanium / carbon lightweight kit",
+  "type_ar": "طقم تيتانيوم / كربون لتخفيف الوزن",
+  "img": "img/p_96.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Lightweight kit – titanium bolt set, titanium seat clamp and carbon top cap (as fitted on superlight builds)",
+   "ar": "طقم تخفيف وزن – مسامير وحزام سرج من التيتانيوم وغطاء علوي كربون (كما يُركَّب في النسخ فائقة الخفة)"
+  }
  }
 ]
