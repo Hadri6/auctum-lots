@@ -1,0 +1,45 @@
+{
+ "slug": "home-robots-at",
+ "page_title": "Household & Pool Robots Stock",
+ "title": {
+  "en": "Household & pool robots, kitchen and garden appliances",
+  "ar": "روبوتات منزلية وروبوتات مسابح وأجهزة مطبخ وحديقة"
+ },
+ "subtitle": {
+  "en": "Stock of an online electronics retailer: window-cleaning robots (Lazurec A9 Pro, HOBOT), cordless pool robots and skimmers (WYBOT), wet & dry floor vacuums and robot vacuums (Lazurec L5, Tesvor S8 Max), the Bakara Mix One kitchen machine with bowls and attachments, Wilfa kitchen appliances, and garden items – AL-KO and Gardena robot-mower accessories, Gardena spare plugs, Click & Grow plant pods. 2,444 pieces in 90 lines: 1,948 new (end-of-line warehouse stock), 53 customer returns and 438 units returned as faulty (mostly pool robots). Offered as one lot.",
+  "ar": "مخزون متجر إلكتروني للأجهزة: روبوتات تنظيف نوافذ (Lazurec A9 Pro وHOBOT)، روبوتات مسابح لاسلكية وكاشطات سطح (WYBOT)، مكانس ومساحات أرضيات رطب وجاف وروبوتات مكنسة (Lazurec L5 وTesvor S8 Max)، آلة المطبخ Bakara Mix One مع أوعيتها وملحقاتها، أجهزة مطبخ Wilfa، وأصناف حديقة – ملحقات روبوتات العشب من AL-KO وGardena، قوابس غيار Gardena، وكبسولات بذور Click & Grow. ‏2,444 قطعة في 90 بنداً: 1,948 جديدة (مخزون مستودع لأصناف متوقفة)، و53 مرتجع عملاء، و438 قطعة أُعيدت كمعطوبة (أغلبها روبوتات مسابح). تُعرض كدفعة واحدة."
+ },
+ "groups_word": ["Categories", "الفئة"],
+ "groups": {
+  "a_window": {"en": "Window-cleaning robots", "ar": "روبوتات تنظيف النوافذ", "short": "Window robots"},
+  "b_pool": {"en": "Pool robots & skimmers", "ar": "روبوتات المسابح والكاشطات", "short": "Pool robots"},
+  "c_floor": {"en": "Floor cleaning – wet & dry vacuums, robot vacuums", "ar": "تنظيف الأرضيات – مكانس رطب وجاف وروبوتات مكنسة", "short": "Floor cleaning"},
+  "d_kitchen": {"en": "Kitchen appliances", "ar": "أجهزة المطبخ", "short": "Kitchen"},
+  "e_garden": {"en": "Garden – robot-mower accessories, tools & plant pods", "ar": "الحديقة – ملحقات روبوتات العشب وأدوات وكبسولات بذور", "short": "Garden"}
+ },
+ "group_order": ["a_window", "b_pool", "c_floor", "d_kitchen", "e_garden"],
+ "other_group": "autres",
+ "statuses": {
+  "new": {"en": "New stock", "ar": "بضاعة جديدة", "cls": "ok", "desc_en": "Unsold warehouse stock (end-of-line models and accessories); condition as listed, not individually inspected.", "desc_ar": "مخزون مستودع غير مُباع (موديلات وملحقات متوقفة)؛ الحالة كما في القائمة دون فحص قطعة قطعة."},
+  "ret": {"en": "Customer return", "ar": "مرتجع عملاء", "cls": "mod", "desc_en": "Returned by end customers; untested, may show signs of use or miss accessories.", "desc_ar": "أعادها المستهلكون؛ غير مفحوصة، وقد تظهر عليها آثار استعمال أو ينقصها بعض الملحقات."},
+  "rep": {"en": "Returned as faulty", "ar": "مرتجع كمعطوب", "cls": "bad", "desc_en": "Units sent back for repair or under warranty claims; untested – for repair, refurbishment or spare parts.", "desc_ar": "أُعيدت للإصلاح أو ضمن مطالبات الضمان؛ غير مفحوصة – للإصلاح أو التجديد أو كقطع غيار."},
+  "scrap": {"en": "Parts only", "ar": "للقطع فقط", "cls": "part", "desc_en": "Marked for disposal; usable for spare parts only.", "desc_ar": "مؤشَّر عليها للتخلص؛ تصلح كقطع غيار فقط."}
+ },
+ "status_title": {"en": "By condition", "ar": "حسب الحالة"},
+ "kpis": [
+  {"en": "New pieces", "ar": "قطع جديدة", "value": "1,948"},
+  {"en": "WYBOT pool robots (faulty returns)", "ar": "روبوتات مسابح WYBOT (مرتجع معطوب)", "value": "385"}
+ ],
+ "location": {"en": "Austria", "ar": "النمسا"},
+ "unit": ["pcs", "قطعة"],
+ "qty_label": ["Pieces", "قطعة"],
+ "shipping": {
+  "volume_m3": [35, 50],
+  "weight_t": [4.5, 6.5],
+  "note": {"en": "Estimate from typical carton sizes and weights of these product types; the stock is in retail cartons. Final loading plan confirmed after viewing.", "ar": "تقدير من أحجام وأوزان الكراتين المعتادة لهذه الأصناف؛ البضاعة في كراتين البيع بالتجزئة. يُؤكَّد مخطط التحميل النهائي بعد المعاينة."}
+ },
+ "note": {
+  "en": "Product names, codes and quantities as recorded in the seller's inventory lists; the actual stock may differ. Photos marked as product photos show the same model; the others are representative pictures of the product type. Subject to prior sale.",
+  "ar": "أسماء الأصناف ورموزها وكمياتها كما وردت في قوائم جرد البائع، وقد يختلف المخزون الفعلي. الصور المعلَّمة كصور منتج تُظهر نفس الموديل، والباقي صور توضيحية لنوع المنتج. البضاعة متاحة حتى نفادها."
+ }
+}

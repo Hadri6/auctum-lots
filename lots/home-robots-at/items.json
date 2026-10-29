@@ -1,0 +1,1088 @@
+[
+ {
+  "ref": "1",
+  "name": "Lazurec A9 Pro",
+  "qty": 52,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/lz_a9pro.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "2",
+  "name": "Zubehörset Lazurec A9 Pro",
+  "qty": 190,
+  "group": "a_window",
+  "type_en": "Cleaning-robot accessory / consumable",
+  "type_ar": "ملحق / مستهلكات روبوت التنظيف",
+  "img": "img/lz_a9acc.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Accessory set for A9 Pro",
+   "ar": "طقم ملحقات لـ A9 Pro"
+  }
+ },
+ {
+  "ref": "3",
+  "name": "Lazurec A9 Pro",
+  "qty": 17,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/lz_a9pro.jpg",
+  "photo": "exact",
+  "status": "rep"
+ },
+ {
+  "ref": "4",
+  "name": "Hobot 268",
+  "qty": 10,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/hb_268.jpg",
+  "photo": "exact",
+  "status": "ret"
+ },
+ {
+  "ref": "5",
+  "name": "Hobot S6",
+  "qty": 8,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/hb_s6.jpg",
+  "photo": "rep",
+  "status": "ret"
+ },
+ {
+  "ref": "6",
+  "name": "Hobot R3",
+  "qty": 4,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/hb_r3.jpg",
+  "photo": "rep",
+  "status": "ret"
+ },
+ {
+  "ref": "7",
+  "name": "Hobot 298",
+  "qty": 2,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/hb_298.jpg",
+  "photo": "rep",
+  "status": "ret"
+ },
+ {
+  "ref": "8",
+  "name": "Hobot 388",
+  "qty": 1,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/hb_388.jpg",
+  "photo": "exact",
+  "status": "ret"
+ },
+ {
+  "ref": "9",
+  "name": "Hobot 2 Series gelb",
+  "qty": 10,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/hb_2s.jpg",
+  "photo": "exact",
+  "status": "ret",
+  "note": {
+   "en": "Colour: yellow",
+   "ar": "اللون: أصفر"
+  }
+ },
+ {
+  "ref": "10",
+  "name": "Hobot 2 Series blau",
+  "qty": 13,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/hb_2s.jpg",
+  "photo": "exact",
+  "status": "ret",
+  "note": {
+   "en": "Colour: blue",
+   "ar": "اللون: أزرق"
+  }
+ },
+ {
+  "ref": "11",
+  "name": "Hobot 2 Series grau",
+  "qty": 5,
+  "group": "a_window",
+  "type_en": "Window-cleaning robot",
+  "type_ar": "روبوت تنظيف نوافذ",
+  "img": "img/hb_2s.jpg",
+  "photo": "exact",
+  "status": "ret",
+  "note": {
+   "en": "Colour: grey",
+   "ar": "اللون: رمادي"
+  }
+ },
+ {
+  "ref": "12",
+  "name": "Hobot Tücher S6",
+  "qty": 17,
+  "group": "a_window",
+  "type_en": "Cleaning-robot accessory / consumable",
+  "type_ar": "ملحق / مستهلكات روبوت التنظيف",
+  "img": "img/hb_cloth.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Cleaning pads for S6",
+   "ar": "قطع تنظيف لـ S6"
+  }
+ },
+ {
+  "ref": "13",
+  "name": "Hobot Reinigungsmittel",
+  "qty": 110,
+  "group": "a_window",
+  "type_en": "Cleaning fluid",
+  "type_ar": "سائل تنظيف",
+  "img": "img/hb_fluid.jpg",
+  "photo": "exact",
+  "status": "new",
+  "note": {
+   "en": "Best-before date close",
+   "ar": "تاريخ الصلاحية قريب"
+  }
+ },
+ {
+  "ref": "14",
+  "name": "Wybotics C2",
+  "qty": 89,
+  "group": "b_pool",
+  "type_en": "Robotic pool cleaner",
+  "type_ar": "روبوت تنظيف مسابح",
+  "img": "img/wy_c2.jpg",
+  "photo": "exact",
+  "status": "rep"
+ },
+ {
+  "ref": "15",
+  "name": "Wybotics A1",
+  "qty": 83,
+  "group": "b_pool",
+  "type_en": "Cordless pool robot (compact)",
+  "type_ar": "روبوت مسبح لاسلكي (صغير)",
+  "img": "img/wy_a1.jpg",
+  "photo": "rep",
+  "status": "rep"
+ },
+ {
+  "ref": "16",
+  "name": "Wybotics HJ1102P",
+  "qty": 67,
+  "group": "b_pool",
+  "type_en": "Cordless pool robot (compact)",
+  "type_ar": "روبوت مسبح لاسلكي (صغير)",
+  "img": "img/wy_hj1102p.jpg",
+  "photo": "rep",
+  "status": "rep",
+  "note": {
+   "en": "44 of the units new; seller notes a warranty issue",
+   "ar": "منها 44 قطعة جديدة؛ البائع يشير إلى مشكلة في الضمان"
+  }
+ },
+ {
+  "ref": "17",
+  "name": "Wybotics C1",
+  "qty": 53,
+  "group": "b_pool",
+  "type_en": "Robotic pool cleaner",
+  "type_ar": "روبوت تنظيف مسابح",
+  "img": "img/wy_c1.jpg",
+  "photo": "rep",
+  "status": "rep"
+ },
+ {
+  "ref": "18",
+  "name": "Wybotics F1",
+  "qty": 28,
+  "group": "b_pool",
+  "type_en": "Pool skimmer robot",
+  "type_ar": "روبوت كاشط لسطح المسبح",
+  "img": "img/wy_f1.jpg",
+  "photo": "exact",
+  "status": "rep"
+ },
+ {
+  "ref": "19",
+  "name": "Wybotics S1",
+  "qty": 25,
+  "group": "b_pool",
+  "type_en": "Pool skimmer robot",
+  "type_ar": "روبوت كاشط لسطح المسبح",
+  "img": "img/wy_s1.jpg",
+  "photo": "rep",
+  "status": "rep"
+ },
+ {
+  "ref": "20",
+  "name": "Wybotics C2V",
+  "qty": 18,
+  "group": "b_pool",
+  "type_en": "Robotic pool cleaner",
+  "type_ar": "روبوت تنظيف مسابح",
+  "img": "img/wy_c2v.jpg",
+  "photo": "exact",
+  "status": "rep",
+  "note": {
+   "en": "C2 Vision (camera model)",
+   "ar": "C2 Vision (موديل بكاميرا)"
+  }
+ },
+ {
+  "ref": "21",
+  "name": "Wybotics M1",
+  "qty": 11,
+  "group": "b_pool",
+  "type_en": "Robotic pool cleaner",
+  "type_ar": "روبوت تنظيف مسابح",
+  "img": "img/wy_m1.jpg",
+  "photo": "rep",
+  "status": "rep"
+ },
+ {
+  "ref": "22",
+  "name": "Wybotics S2 Solar",
+  "qty": 10,
+  "group": "b_pool",
+  "type_en": "Pool skimmer robot",
+  "type_ar": "روبوت كاشط لسطح المسبح",
+  "img": "img/wy_s2solar.jpg",
+  "photo": "exact",
+  "status": "rep"
+ },
+ {
+  "ref": "23",
+  "name": "Wybotics S2 Pro",
+  "qty": 1,
+  "group": "b_pool",
+  "type_en": "Pool skimmer robot",
+  "type_ar": "روبوت كاشط لسطح المسبح",
+  "img": "img/wy_s2pro.jpg",
+  "photo": "rep",
+  "status": "rep"
+ },
+ {
+  "ref": "24",
+  "name": "AC1",
+  "qty": 10,
+  "group": "b_pool",
+  "type_en": "Device (model as listed)",
+  "type_ar": "جهاز (الموديل كما في القائمة)",
+  "img": null,
+  "photo": null,
+  "status": "rep",
+  "note": {
+   "en": "Listed without brand",
+   "ar": "مدرج بدون اسم الماركة"
+  }
+ },
+ {
+  "ref": "25",
+  "name": "TD1",
+  "qty": 2,
+  "group": "b_pool",
+  "type_en": "Device (model as listed)",
+  "type_ar": "جهاز (الموديل كما في القائمة)",
+  "img": null,
+  "photo": null,
+  "status": "rep",
+  "note": {
+   "en": "Listed without brand",
+   "ar": "مدرج بدون اسم الماركة"
+  }
+ },
+ {
+  "ref": "26",
+  "name": "XL-618",
+  "qty": 2,
+  "group": "b_pool",
+  "type_en": "Device (model as listed)",
+  "type_ar": "جهاز (الموديل كما في القائمة)",
+  "img": null,
+  "photo": null,
+  "status": "rep",
+  "note": {
+   "en": "Listed without brand",
+   "ar": "مدرج بدون اسم الماركة"
+  }
+ },
+ {
+  "ref": "27",
+  "name": "Lazurec L5",
+  "qty": 54,
+  "group": "c_floor",
+  "type_en": "Wet & dry floor vacuum",
+  "type_ar": "مكنسة ومساحة أرضيات رطب وجاف",
+  "img": "img/lz_l5.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "28",
+  "name": "Lazurec L5 Brush Kit",
+  "qty": 200,
+  "group": "c_floor",
+  "type_en": "Cleaning-robot accessory / consumable",
+  "type_ar": "ملحق / مستهلكات روبوت التنظيف",
+  "img": "img/lz_l5brush.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "29",
+  "name": "Lazurec L5 Reinigungsmittel",
+  "qty": 191,
+  "group": "c_floor",
+  "type_en": "Cleaning fluid",
+  "type_ar": "سائل تنظيف",
+  "img": "img/lz_l5clean.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "30",
+  "name": "Lazurec L5",
+  "qty": 10,
+  "group": "c_floor",
+  "type_en": "Wet & dry floor vacuum",
+  "type_ar": "مكنسة ومساحة أرضيات رطب وجاف",
+  "img": "img/lz_l5.jpg",
+  "photo": "rep",
+  "status": "rep"
+ },
+ {
+  "ref": "31",
+  "name": "Tesvor S8 Max",
+  "qty": 44,
+  "group": "c_floor",
+  "type_en": "Robot vacuum & mop",
+  "type_ar": "روبوت مكنسة ومساحة",
+  "img": "img/te_s8max.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "32",
+  "name": "Tesvor S8 Max - Dust Collection Bag",
+  "qty": 102,
+  "group": "c_floor",
+  "type_en": "Cleaning-robot accessory / consumable",
+  "type_ar": "ملحق / مستهلكات روبوت التنظيف",
+  "img": "img/te_bag.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "33",
+  "name": "Tesvor S8 Max - Zubehörset",
+  "qty": 91,
+  "group": "c_floor",
+  "type_en": "Cleaning-robot accessory / consumable",
+  "type_ar": "ملحق / مستهلكات روبوت التنظيف",
+  "img": "img/te_kit.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Accessory set",
+   "ar": "طقم ملحقات"
+  }
+ },
+ {
+  "ref": "34",
+  "name": "Tesvor S8 Max",
+  "qty": 12,
+  "group": "c_floor",
+  "type_en": "Robot vacuum & mop",
+  "type_ar": "روبوت مكنسة ومساحة",
+  "img": "img/te_s8max.jpg",
+  "photo": "exact",
+  "status": "rep"
+ },
+ {
+  "ref": "35",
+  "name": "Lazurec Bakara Mix One",
+  "qty": 38,
+  "group": "d_kitchen",
+  "type_en": "Stand mixer / kitchen machine",
+  "type_ar": "عجّانة / آلة مطبخ",
+  "img": "img/lz_bakara.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "36",
+  "name": "Bakara Mix One - 8l Schüssel",
+  "qty": 211,
+  "group": "d_kitchen",
+  "type_en": "Mixer bowl",
+  "type_ar": "وعاء خلط",
+  "img": "img/lz_bowl.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "8 L bowl",
+   "ar": "وعاء سعة 8 لتر"
+  }
+ },
+ {
+  "ref": "37",
+  "name": "Nudelaufsatz",
+  "qty": 16,
+  "group": "d_kitchen",
+  "type_en": "Kitchen-machine attachment",
+  "type_ar": "ملحق آلة مطبخ",
+  "img": "img/lz_pasta.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Pasta attachment (Bakara)",
+   "ar": "ملحق المعكرونة (Bakara)"
+  }
+ },
+ {
+  "ref": "38",
+  "name": "Nudelpresse",
+  "qty": 16,
+  "group": "d_kitchen",
+  "type_en": "Kitchen-machine attachment",
+  "type_ar": "ملحق آلة مطبخ",
+  "img": "img/lz_pastapress.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Pasta press (Bakara)",
+   "ar": "مكبس المعكرونة (Bakara)"
+  }
+ },
+ {
+  "ref": "39",
+  "name": "Gemüseschneider",
+  "qty": 14,
+  "group": "d_kitchen",
+  "type_en": "Kitchen-machine attachment",
+  "type_ar": "ملحق آلة مطبخ",
+  "img": "img/lz_veg.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Vegetable slicer (Bakara)",
+   "ar": "قطّاعة خضار (Bakara)"
+  }
+ },
+ {
+  "ref": "40",
+  "name": "Fleischwolf Aufsatz",
+  "qty": 14,
+  "group": "d_kitchen",
+  "type_en": "Kitchen-machine attachment",
+  "type_ar": "ملحق آلة مطبخ",
+  "img": "img/lz_mincer.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Meat mincer (Bakara)",
+   "ar": "مفرمة لحم (Bakara)"
+  }
+ },
+ {
+  "ref": "41",
+  "name": "Zitruspress Aufsatz",
+  "qty": 8,
+  "group": "d_kitchen",
+  "type_en": "Kitchen-machine attachment",
+  "type_ar": "ملحق آلة مطبخ",
+  "img": "img/lz_citrus.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Citrus press (Bakara)",
+   "ar": "عصّارة حمضيات (Bakara)"
+  }
+ },
+ {
+  "ref": "42",
+  "name": "Wilfa Essential Stabmixer (609993)",
+  "qty": 13,
+  "group": "d_kitchen",
+  "type_en": "Stick blender",
+  "type_ar": "خلاط يدوي",
+  "img": "img/wi_stick.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "43",
+  "name": "Wilfa Glacier Eiswürfelmaschine (603364)",
+  "qty": 8,
+  "group": "d_kitchen",
+  "type_en": "Ice maker",
+  "type_ar": "صانعة ثلج",
+  "img": "img/wi_glacier.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "44",
+  "name": "Wilfa Smooth Standmixer (603980)",
+  "qty": 6,
+  "group": "d_kitchen",
+  "type_en": "Blender",
+  "type_ar": "خلاط",
+  "img": "img/wi_smooth.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "45",
+  "name": "Wilfa Dualfryer Airfryer 6l (602320)",
+  "qty": 4,
+  "group": "d_kitchen",
+  "type_en": "Air fryer",
+  "type_ar": "قلّاية هوائية",
+  "img": "img/wi_dualfryer.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "46",
+  "name": "Wilfa Joy Single Waffeleisen (602791)",
+  "qty": 3,
+  "group": "d_kitchen",
+  "type_en": "Waffle maker",
+  "type_ar": "صانعة وافل",
+  "img": "img/wi_joy.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "47",
+  "name": "Wilfa Gaufres Belgisches Waffeleisen (603904)",
+  "qty": 3,
+  "group": "d_kitchen",
+  "type_en": "Waffle maker",
+  "type_ar": "صانعة وافل",
+  "img": "img/wi_gaufres.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "48",
+  "name": "Wilfa Xplode Vital Standmixer (603989)",
+  "qty": 1,
+  "group": "d_kitchen",
+  "type_en": "Blender",
+  "type_ar": "خلاط",
+  "img": "img/wi_xplode.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "49",
+  "name": "Roboup T1000",
+  "qty": 1,
+  "group": "e_garden",
+  "type_en": "Robot lawn mower",
+  "type_ar": "روبوت جزّ العشب",
+  "img": "img/ru_t1000.jpg",
+  "photo": "exact",
+  "status": "scrap"
+ },
+ {
+  "ref": "50",
+  "name": "Roboup T500",
+  "qty": 1,
+  "group": "e_garden",
+  "type_en": "Robot lawn mower",
+  "type_ar": "روبوت جزّ العشب",
+  "img": "img/ru_t500.jpg",
+  "photo": "rep",
+  "status": "scrap"
+ },
+ {
+  "ref": "51",
+  "name": "Yardforce MB400",
+  "qty": 2,
+  "group": "e_garden",
+  "type_en": "Robot lawn mower",
+  "type_ar": "روبوت جزّ العشب",
+  "img": "img/yf_mb400.jpg",
+  "photo": "exact",
+  "status": "scrap"
+ },
+ {
+  "ref": "52",
+  "name": "Yardforce 600B",
+  "qty": 1,
+  "group": "e_garden",
+  "type_en": "Robot lawn mower",
+  "type_ar": "روبوت جزّ العشب",
+  "img": "img/yf_600b.jpg",
+  "photo": "rep",
+  "status": "scrap"
+ },
+ {
+  "ref": "53",
+  "name": "Alko Hochentaster CSA 1820 Set",
+  "qty": 3,
+  "group": "e_garden",
+  "type_en": "Cordless garden tool",
+  "type_ar": "أداة حديقة لاسلكية",
+  "img": "img/al_csa1820.jpg",
+  "photo": "exact",
+  "status": "new",
+  "note": {
+   "en": "18 V cordless pole pruner set",
+   "ar": "طقم منشار تقليم بعمود 18 فولت"
+  }
+ },
+ {
+  "ref": "54",
+  "name": "Alko 18V Minikettensäge - CSM 1815 (Set)",
+  "qty": 1,
+  "group": "e_garden",
+  "type_en": "Cordless garden tool",
+  "type_ar": "أداة حديقة لاسلكية",
+  "img": "img/al_csm1815.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "55",
+  "name": "Gardena TeleCut Pro S - Astschere (12040-20)",
+  "qty": 5,
+  "group": "e_garden",
+  "type_en": "Garden hand tool (pruner / lopper)",
+  "type_ar": "أداة حديقة يدوية (مقص تقليم)",
+  "img": "img/ga_telecut.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "56",
+  "name": "Gardena Gartenschere PremiumCut Frisches Holz (12241-20)",
+  "qty": 7,
+  "group": "e_garden",
+  "type_en": "Garden hand tool (pruner / lopper)",
+  "type_ar": "أداة حديقة يدوية (مقص تقليم)",
+  "img": "img/ga_premiumcut.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "57",
+  "name": "Gardena EasyCut L - Astschere (12031-20)",
+  "qty": 1,
+  "group": "e_garden",
+  "type_en": "Garden hand tool (pruner / lopper)",
+  "type_ar": "أداة حديقة يدوية (مقص تقليم)",
+  "img": "img/ga_easycutl.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "58",
+  "name": "Gardena Radar (15022)",
+  "qty": 2,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/ga_radar.jpg",
+  "photo": "exact",
+  "status": "new",
+  "note": {
+   "en": "Anti-collision radar for Sileno",
+   "ar": "رادار منع الاصطدام لـ Sileno"
+  }
+ },
+ {
+  "ref": "59",
+  "name": "Gardena Radbürsten für Sileno pro, max, free Rasenroboter (15024-20)",
+  "qty": 5,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/ga_brush.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "60",
+  "name": "AL-KO Verlegeset Schleifenkabel 2X150M",
+  "qty": 8,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_wire.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Robolinho installation set 2 × 150 m",
+   "ar": "طقم تمديد سلك Robolinho ‏2 × 150 م"
+  }
+ },
+ {
+  "ref": "61",
+  "name": "AL-KO Verlegeset Schleifenkabel 150M",
+  "qty": 5,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_wire.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Robolinho installation set 150 m",
+   "ar": "طقم تمديد سلك Robolinho ‏150 م"
+  }
+ },
+ {
+  "ref": "62",
+  "name": "AL-KO verstärkter Schleifendraht für Robolinho Rasenroboter",
+  "qty": 9,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_wire.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "63",
+  "name": "AL-KO Reparaturset Robolinho",
+  "qty": 9,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_repair.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "64",
+  "name": "AL-KO Smart Homing Nachrüstset Robolinho",
+  "qty": 5,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_homing.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "65",
+  "name": "AL-KO Radkrallensatz für Robolinho GenIII",
+  "qty": 4,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_claws.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "66",
+  "name": "AL-KO Ersatzbodennägel Robol. 90 Stk",
+  "qty": 4,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_pegs.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Pack of 90 pegs",
+   "ar": "عبوة 90 وتداً"
+  }
+ },
+ {
+  "ref": "67",
+  "name": "AL-KO Verläng.Kabel Netzteil 5M Robo GenIII Niederspannungskabel",
+  "qty": 3,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_cable.jpg",
+  "photo": "exact",
+  "status": "new"
+ },
+ {
+  "ref": "68",
+  "name": "AL-KO Ersatzmesserscheibe Robo Gen III 200 für 350 W / 550 W",
+  "qty": 1,
+  "group": "e_garden",
+  "type_en": "Robot-mower accessory",
+  "type_ar": "ملحق روبوت جزّ العشب",
+  "img": "img/al_blade.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "69",
+  "name": "Gardena Stecker 597 06 59 01",
+  "qty": 185,
+  "group": "e_garden",
+  "type_en": "Robot-mower power plug / connector (spare part)",
+  "type_ar": "قابس / وصلة كهرباء لروبوت العشب (قطعة غيار)",
+  "img": "img/ga_plug.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "70",
+  "name": "Gardena Stecker 529 53 49 01",
+  "qty": 66,
+  "group": "e_garden",
+  "type_en": "Robot-mower power plug / connector (spare part)",
+  "type_ar": "قابس / وصلة كهرباء لروبوت العشب (قطعة غيار)",
+  "img": "img/ga_plug.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "71",
+  "name": "Gardena Stecker 599 6610 01A",
+  "qty": 47,
+  "group": "e_garden",
+  "type_en": "Robot-mower power plug / connector (spare part)",
+  "type_ar": "قابس / وصلة كهرباء لروبوت العشب (قطعة غيار)",
+  "img": "img/ga_plug.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "72",
+  "name": "Gardena Stecker 599 67 75 - 01A",
+  "qty": 46,
+  "group": "e_garden",
+  "type_en": "Robot-mower power plug / connector (spare part)",
+  "type_ar": "قابس / وصلة كهرباء لروبوت العشب (قطعة غيار)",
+  "img": "img/ga_plug.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "73",
+  "name": "Gardena Stecker 599 62 85-01",
+  "qty": 7,
+  "group": "e_garden",
+  "type_en": "Robot-mower power plug / connector (spare part)",
+  "type_ar": "قابس / وصلة كهرباء لروبوت العشب (قطعة غيار)",
+  "img": "img/ga_plug.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "74",
+  "name": "Gardena Stecker 590 44 21 - 01",
+  "qty": 2,
+  "group": "e_garden",
+  "type_en": "Robot-mower power plug / connector (spare part)",
+  "type_ar": "قابس / وصلة كهرباء لروبوت العشب (قطعة غيار)",
+  "img": "img/ga_plug.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "75",
+  "name": "Gardena Stecker 599 62 85-03",
+  "qty": 1,
+  "group": "e_garden",
+  "type_en": "Robot-mower power plug / connector (spare part)",
+  "type_ar": "قابس / وصلة كهرباء لروبوت العشب (قطعة غيار)",
+  "img": "img/ga_plug.jpg",
+  "photo": "rep",
+  "status": "new",
+  "note": {
+   "en": "Swiss plug / cable",
+   "ar": "قابس وكابل سويسري"
+  }
+ },
+ {
+  "ref": "76",
+  "name": "Click & Grow div. Sorten 3er Pack",
+  "qty": 23,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_3.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "77",
+  "name": "Click & Grow div. Sorten 3er Pack",
+  "qty": 19,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_3.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "78",
+  "name": "Click & Grow div. Sorten 3er Pack",
+  "qty": 16,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_3.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "79",
+  "name": "Click & Grow div. Sorten 3er Pack",
+  "qty": 6,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_3.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "80",
+  "name": "Click & Grow div. Sorten 3er Pack",
+  "qty": 4,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_3.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "81",
+  "name": "Click & Grow div. Sorten 3er Pack",
+  "qty": 4,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_3.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "82",
+  "name": "Click & Grow div. Sorten 3er Pack",
+  "qty": 4,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_3.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "83",
+  "name": "Click & Grow div. Sorten 3er Pack",
+  "qty": 3,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_3.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "84",
+  "name": "Click & Grow div. Sorten 9er Pack",
+  "qty": 14,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_9.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "85",
+  "name": "Click & Grow div. Sorten 9er Pack",
+  "qty": 9,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_9.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "86",
+  "name": "Click & Grow div. Sorten 9er Pack",
+  "qty": 4,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_9.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "87",
+  "name": "Click & Grow div. Sorten 9er Pack",
+  "qty": 3,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_9.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "88",
+  "name": "Click & Grow div. Sorten 9er Pack",
+  "qty": 3,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_9.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "89",
+  "name": "Click & Grow Fa9",
+  "qty": 2,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_9.jpg",
+  "photo": "rep",
+  "status": "new"
+ },
+ {
+  "ref": "90",
+  "name": "Click & Grow div. Sorten 9er Pack",
+  "qty": 2,
+  "group": "e_garden",
+  "type_en": "Smart-garden plant pods",
+  "type_ar": "كبسولات بذور للحديقة الذكية",
+  "img": "img/cg_9.jpg",
+  "photo": "rep",
+  "status": "new"
+ }
+]
