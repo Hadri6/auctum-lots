@@ -9,43 +9,162 @@
   "en": "Warehouse stock of professional luminaires: LED panels 600×600 (SANA II, ELIES IP54), LED high-bays (PARIDA ECO 150 W), linear high-bays (TEMPERA), moisture-proof luminaires (TORNADO, TDO), SAGAR LED street lights, floodlights, LED downlights (PERLITA, PRETTUS, SMP), downlights for metal-halide lamps, track spotlights with 3-phase track systems, emergency luminaires and UV-C disinfection units (VIBA) – plus suspension kits, track adapters, optics and spare parts. 124,976 pieces in 1,235 lines, of which about 45,600 complete luminaires. Offered as one lot or by category.",
   "ar": "مخزون مستودع لمصابيح الإضاءة الاحترافية: ألواح LED مقاس 600×600 (SANA II وELIES بحماية IP54)، كشافات قاعات LED (PARIDA ECO ‏150 واط)، كشافات خطية للقاعات (TEMPERA)، كشافات مقاومة للرطوبة (TORNADO وTDO)، كشافات شوارع LED طراز SAGAR، كشافات إغراق، سبوتات سقفية LED (PERLITA وPRETTUS وSMP)، سبوتات لمصابيح الهاليد المعدني، سبوتات سكك مع أنظمة سكك ثلاثية الطور، إنارة طوارئ وأجهزة تعقيم UV-C ‏(VIBA) — إضافة إلى أطقم تعليق ومحوّلات سكك وعدسات وقطع غيار. ‏124,976 قطعة في 1,235 صنفاً، منها نحو 45,600 مصباح كامل. تُعرض كدفعة واحدة أو حسب الفئة."
  },
- "groups_word": ["Categories", "الفئة"],
+ "groups_word": [
+  "Categories",
+  "الفئة"
+ ],
  "groups": {
-  "a_panels": {"en": "LED panels", "ar": "ألواح LED", "short": "Panels"},
-  "b_industrial": {"en": "High-bay, linear industrial & moisture-proof luminaires", "ar": "كشافات القاعات والكشافات الخطية الصناعية والمقاومة للرطوبة", "short": "Industrial"},
-  "c_outdoor": {"en": "Street lights, floodlights & outdoor luminaires", "ar": "كشافات الشوارع والإغراق والإنارة الخارجية", "short": "Outdoor"},
-  "d_indoor": {"en": "Indoor – downlights, linear & ceiling luminaires", "ar": "داخلي – سبوتات سقفية ومصابيح خطية وسقفية", "short": "Indoor"},
-  "e_hid": {"en": "Luminaires for metal-halide, halogen & fluorescent lamps", "ar": "مصابيح للهاليد المعدني والهالوجين والفلورسنت", "short": "HID / fluorescent"},
-  "f_track": {"en": "Track spotlights & 3-phase track systems", "ar": "سبوتات السكك وأنظمة السكك ثلاثية الطور", "short": "Track"},
-  "g_emergency": {"en": "Emergency lighting", "ar": "إنارة الطوارئ", "short": "Emergency"},
-  "h_uvc": {"en": "UV-C disinfection units", "ar": "أجهزة التعقيم بالأشعة فوق البنفسجية UV-C", "short": "UV-C"},
-  "i_mount": {"en": "Suspension & mounting accessories", "ar": "ملحقات التعليق والتثبيت", "short": "Mounting", "img": ["img/p_rep_suspension_2.jpg"]},
-  "j_parts": {"en": "Optics, covers & spare parts", "ar": "عدسات وأغطية وقطع غيار", "short": "Parts", "img": ["img/p_rep_optic_1.jpg", "img/p_rep_cover_2.jpg", "img/p_rep_part_2.jpg"]},
-  "k_elec": {"en": "LED modules, drivers & controls", "ar": "وحدات LED ومشغّلات وأجهزة تحكم", "short": "Electronics", "img": ["img/p_rep_module_0.jpg", "img/p_rep_driver_0.jpg"]}
+  "a_panels": {
+   "en": "LED panels",
+   "ar": "ألواح LED",
+   "short": "Panels"
+  },
+  "b_industrial": {
+   "en": "High-bay, linear industrial & moisture-proof luminaires",
+   "ar": "كشافات القاعات والكشافات الخطية الصناعية والمقاومة للرطوبة",
+   "short": "Industrial"
+  },
+  "c_outdoor": {
+   "en": "Street lights, floodlights & outdoor luminaires",
+   "ar": "كشافات الشوارع والإغراق والإنارة الخارجية",
+   "short": "Outdoor"
+  },
+  "d_indoor": {
+   "en": "Indoor – downlights, linear & ceiling luminaires",
+   "ar": "داخلي – سبوتات سقفية ومصابيح خطية وسقفية",
+   "short": "Indoor"
+  },
+  "e_hid": {
+   "en": "Luminaires for metal-halide, halogen & fluorescent lamps",
+   "ar": "مصابيح للهاليد المعدني والهالوجين والفلورسنت",
+   "short": "HID / fluorescent"
+  },
+  "f_track": {
+   "en": "Track spotlights & 3-phase track systems",
+   "ar": "سبوتات السكك وأنظمة السكك ثلاثية الطور",
+   "short": "Track"
+  },
+  "g_emergency": {
+   "en": "Emergency lighting",
+   "ar": "إنارة الطوارئ",
+   "short": "Emergency"
+  },
+  "h_uvc": {
+   "en": "UV-C disinfection units",
+   "ar": "أجهزة التعقيم بالأشعة فوق البنفسجية UV-C",
+   "short": "UV-C"
+  },
+  "i_mount": {
+   "en": "Suspension & mounting accessories",
+   "ar": "ملحقات التعليق والتثبيت",
+   "short": "Mounting",
+   "img": [
+    "img/p_rep_suspension_2.jpg"
+   ]
+  },
+  "j_parts": {
+   "en": "Optics, covers & spare parts",
+   "ar": "عدسات وأغطية وقطع غيار",
+   "short": "Parts",
+   "img": [
+    "img/p_rep_optic_1.jpg",
+    "img/p_rep_cover_2.jpg",
+    "img/p_rep_part_2.jpg"
+   ]
+  },
+  "k_elec": {
+   "en": "LED modules, drivers & controls",
+   "ar": "وحدات LED ومشغّلات وأجهزة تحكم",
+   "short": "Electronics",
+   "img": [
+    "img/p_rep_module_0.jpg",
+    "img/p_rep_driver_0.jpg"
+   ]
+  }
  },
- "group_order": ["a_panels", "b_industrial", "c_outdoor", "d_indoor", "e_hid", "f_track", "g_emergency", "h_uvc", "i_mount", "j_parts", "k_elec"],
+ "group_order": [
+  "a_panels",
+  "b_industrial",
+  "c_outdoor",
+  "d_indoor",
+  "e_hid",
+  "f_track",
+  "g_emergency",
+  "h_uvc",
+  "i_mount",
+  "j_parts",
+  "k_elec"
+ ],
  "other_group": "autres",
  "keep_order": true,
  "statuses": {
-  "lum": {"en": "Complete luminaire", "ar": "مصباح كامل", "cls": "ok", "desc_en": "Finished luminaire as listed; lamps for metal-halide / fluorescent luminaires are normally not included.", "desc_ar": "مصباح جاهز كما في القائمة؛ لمبات مصابيح الهاليد المعدني والفلورسنت غير مشمولة عادةً."},
-  "acc": {"en": "Accessory / system part", "ar": "ملحق / قطعة نظام", "cls": "add", "desc_en": "Track, suspension and mounting accessories and linear-system parts, used with the luminaires.", "desc_ar": "ملحقات السكك والتعليق والتثبيت وقطع الأنظمة الخطية، تُستعمل مع المصابيح."},
-  "part": {"en": "Spare part / component", "ar": "قطعة غيار / مكوّن", "cls": "part", "desc_en": "Optics, covers, LED modules, drivers and other parts – not a luminaire on its own.", "desc_ar": "عدسات وأغطية ووحدات LED ومشغّلات وقطع أخرى – ليست مصباحاً قائماً بذاته."}
+  "lum": {
+   "en": "Complete luminaire",
+   "ar": "مصباح كامل",
+   "cls": "ok",
+   "desc_en": "Finished luminaire as listed; lamps for metal-halide / fluorescent luminaires are normally not included.",
+   "desc_ar": "مصباح جاهز كما في القائمة؛ لمبات مصابيح الهاليد المعدني والفلورسنت غير مشمولة عادةً."
+  },
+  "acc": {
+   "en": "Accessory / system part",
+   "ar": "ملحق / قطعة نظام",
+   "cls": "add",
+   "desc_en": "Track, suspension and mounting accessories and linear-system parts, used with the luminaires.",
+   "desc_ar": "ملحقات السكك والتعليق والتثبيت وقطع الأنظمة الخطية، تُستعمل مع المصابيح."
+  },
+  "part": {
+   "en": "Spare part / component",
+   "ar": "قطعة غيار / مكوّن",
+   "cls": "part",
+   "desc_en": "Optics, covers, LED modules, drivers and other parts – not a luminaire on its own.",
+   "desc_ar": "عدسات وأغطية ووحدات LED ومشغّلات وقطع أخرى – ليست مصباحاً قائماً بذاته."
+  }
  },
- "status_title": {"en": "By item kind", "ar": "حسب نوع الصنف"},
+ "status_title": {
+  "en": "By item kind",
+  "ar": "حسب نوع الصنف"
+ },
  "kpis": [
-  {"en": "Complete luminaires", "ar": "مصابيح كاملة", "value": "≈ 45,600"},
-  {"en": "LED panels", "ar": "ألواح LED", "value": "10,790"}
+  {
+   "en": "Complete luminaires",
+   "ar": "مصابيح كاملة",
+   "value": "≈ 45,600"
+  },
+  {
+   "en": "LED panels",
+   "ar": "ألواح LED",
+   "value": "10,790"
+  }
  ],
- "location": {"en": "Slovakia", "ar": "سلوفاكيا"},
- "unit": ["pcs", "قطعة"],
- "qty_label": ["Pieces", "قطعة"],
+ "location": {
+  "en": "Slovakia",
+  "ar": "سلوفاكيا"
+ },
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
  "shipping": {
-  "volume_m3": [420, 650],
-  "weight_t": [95, 150],
-  "note": {"en": "Estimate from typical packed sizes and weights per product type (panels, high-bays and moisture-proof luminaires make up most of the volume). Final loading plan confirmed after viewing.", "ar": "تقدير من الأحجام والأوزان المعتادة لكل نوع بعد التغليف (الألواح وكشافات القاعات والكشافات المقاومة للرطوبة تشكّل معظم الحجم). يُؤكَّد مخطط التحميل النهائي بعد المعاينة."}
+  "volume_m3": [
+   420,
+   650
+  ],
+  "weight_t": [
+   95,
+   150
+  ],
+  "note": {
+   "en": "Estimate from typical packed sizes and weights per product type (panels, high-bays and moisture-proof luminaires make up most of the volume). Final loading plan confirmed after viewing.",
+   "ar": "تقدير من الأحجام والأوزان المعتادة لكل نوع بعد التغليف (الألواح وكشافات القاعات والكشافات المقاومة للرطوبة تشكّل معظم الحجم). يُؤكَّد مخطط التحميل النهائي بعد المعاينة."
+  }
  },
  "note": {
   "en": "Article names and quantities as recorded in the stock list; product type assigned from the article name, the actual stock may differ. Photos marked as product photos are catalogue pictures of the same product family; the others are representative pictures of the product type. “In stock since” = year the goods were received. Subject to prior sale.",
   "ar": "أسماء الأصناف وكمياتها كما وردت في قائمة المخزون؛ نوع المنتج محدَّد من اسم الصنف، وقد يختلف المخزون الفعلي. الصور المعلَّمة كصور منتج هي صور كتالوج لنفس عائلة المنتج، والباقي صور توضيحية لنوع المنتج. «في المخزون منذ» = سنة استلام البضاعة. البضاعة متاحة حتى نفادها."
- }
+ },
+ "qty_exact": true
 }
