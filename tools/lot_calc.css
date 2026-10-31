@@ -1,0 +1,24 @@
+.pr{margin-top:6px;font-size:14px;color:var(--mut)}.pr b{color:var(--acc);font-size:17px}
+.prices{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 16px 16px;margin-top:18px}
+.prices h2{margin-top:14px}.prices .intro{margin:0 0 8px;color:var(--mut);max-width:820px}
+.pg{overflow-x:auto}.pg table{margin-top:0}
+.pg td,.pg th{white-space:nowrap}.pg td:not(:first-child),.pg th:not(:first-child){text-align:end;font-variant-numeric:tabular-nums}
+.pg tr.lh td{background:var(--bg);padding-top:10px}
+.pg td.fp{font-weight:700;color:var(--acc)}
+.prices h3{margin:20px 0 4px;font-size:16px}
+.clh{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin:16px 0 2px}
+.chint{font-size:12px;color:var(--acc);font-weight:600}
+.clh button,.ci button,#creset{font:inherit;font-size:13px;cursor:pointer;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:4px 12px}
+.clh button{border-color:var(--acc);color:var(--acc);font-weight:600}
+.cr{display:grid;grid-template-columns:minmax(0,1.3fr) auto minmax(0,1.2fr);gap:10px;align-items:center;padding:8px 6px;border-top:1px solid var(--line);border-radius:8px}
+.cr.on{background:var(--bg)}
+.ci{display:flex;gap:6px;align-items:center}
+.ci input{width:112px;font:inherit;font-size:16px;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+.co{text-align:end;font-variant-numeric:tabular-nums}.cu{font-weight:600}.cl{font-size:17px;color:var(--acc)}
+.ctot{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px;align-items:stretch}
+.ctot div{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:8px 14px}
+.ctot span{display:block;font-size:12px;color:var(--mut)}.ctot b{font-size:18px;font-variant-numeric:tabular-nums}
+.ctot .big{border-color:var(--acc)}.ctot .big b{color:var(--acc);font-size:24px}
+#creset{margin-top:10px}
+@media (max-width:600px){.cr{grid-template-columns:1fr auto}.co{grid-column:1/-1;display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 10px;text-align:start}.co .ct{flex-basis:100%;order:3}}
+#t-w,#t-v,#t-e,.cl,.cu{direction:ltr;unicode-bidi:isolate}

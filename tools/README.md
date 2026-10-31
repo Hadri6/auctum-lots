@@ -78,3 +78,13 @@ Reference: `minet/` (source script `auctum-lots-src/minet/build_items.py` + `lot
 - `lot.json` → `rows_title {en, ar}` (with `{n}`) renames the "More items without photo" table, e.g. for small lines.
 - Send the customer the PDF (Chrome `--headless=new --print-to-pdf`) and/or an xlsx price list; keep a private ref map
   (our ref → supplier lines) next to the source scripts for ordering.
+
+## Public prices + quantity calculator (founder exception, 2026-10-31, reference `solis-inverters-it/`)
+Only when the founder explicitly asks for buyer-visible prices on a lot. `lot.json` → `"public_prices": true` and
+`"price_calc": {title, nav, intro, tiers: [{min, en, ar}], full: {en, ar}, lots: {key: {en, ar}}, terms}`;
+each priced line gets `items[].calc = {lot, pallet, tiers: [EUR per tier], full, unit_kg: [lo, hi], unit_m3: [lo, hi]}`.
+The page then shows a price table and a calculator (`tools/lot_calc.js/.css`): the buyer types a quantity per model, it is
+rounded up to whole pallets, priced by the highest tier reached, and the complete-lot price applies only when every model
+of that lot is taken in full. Totals show pieces, pallets, estimated weight/volume, 40′ HC count and EUR net.
+Without `public_prices` the builder refuses `items[].calc`. Supplier part numbers and purchase prices stay in
+`auctum-lots-src/<slug>/` (e.g. `refs.json`). The page check then allows `€` but still no contact or source names.

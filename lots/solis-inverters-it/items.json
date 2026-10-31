@@ -1,0 +1,294 @@
+[
+ {
+  "ref": "1",
+  "name": "Solis S5-EH1P3K-L",
+  "qty": 5292,
+  "group": "s1",
+  "type_en": "Hybrid inverter, single-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "img": "img/p_solis_eh1p.jpg",
+  "photo": "rep",
+  "weight_t": [
+   111.1,
+   121.7
+  ],
+  "note": {
+   "en": "3 kW · 48 V battery (lithium or lead-acid) · backup / off-grid mode",
+   "ar": "3 كيلوواط · بطارية 48 فولت (ليثيوم أو رصاص) · وضع احتياطي / خارج الشبكة"
+  },
+  "calc": {
+   "lot": "s1",
+   "pallet": 12,
+   "tiers": [
+    630,
+    610,
+    580,
+    555,
+    525
+   ],
+   "full": 485,
+   "unit_kg": [
+    21,
+    23
+   ],
+   "unit_m3": [
+    0.09,
+    0.12
+   ]
+  }
+ },
+ {
+  "ref": "2",
+  "name": "Solis S5-EH1P3.6K-L",
+  "qty": 1200,
+  "group": "s1",
+  "type_en": "Hybrid inverter, single-phase",
+  "type_ar": "انفرتر هجين أحادي الطور",
+  "img": "img/p_solis_eh1p.jpg",
+  "photo": "rep",
+  "weight_t": [
+   25.2,
+   27.6
+  ],
+  "note": {
+   "en": "3.6 kW · 48 V battery (lithium or lead-acid) · backup / off-grid mode",
+   "ar": "3.6 كيلوواط · بطارية 48 فولت (ليثيوم أو رصاص) · وضع احتياطي / خارج الشبكة"
+  },
+  "calc": {
+   "lot": "s1",
+   "pallet": 12,
+   "tiers": [
+    630,
+    610,
+    580,
+    555,
+    525
+   ],
+   "full": 485,
+   "unit_kg": [
+    21,
+    23
+   ],
+   "unit_m3": [
+    0.09,
+    0.12
+   ]
+  }
+ },
+ {
+  "ref": "3",
+  "name": "Solis RHI-3P6K-HVES-5G",
+  "qty": 1464,
+  "group": "s2",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "img": "img/p_solis_rhi3p.jpg",
+  "photo": "rep",
+  "weight_t": [
+   42.5,
+   46.8
+  ],
+  "note": {
+   "en": "6 kW · high-voltage battery 160–600 V · backup output",
+   "ar": "6 كيلوواط · بطارية جهد عالٍ 160–600 فولت · مخرج احتياطي"
+  },
+  "calc": {
+   "lot": "s2",
+   "pallet": 8,
+   "tiers": [
+    1025,
+    985,
+    945,
+    895,
+    845
+   ],
+   "full": 795,
+   "unit_kg": [
+    29,
+    32
+   ],
+   "unit_m3": [
+    0.13,
+    0.17
+   ]
+  }
+ },
+ {
+  "ref": "4",
+  "name": "Solis RHI-3P8K-HVES-5G",
+  "qty": 1632,
+  "group": "s2",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "img": "img/p_solis_rhi3p.jpg",
+  "photo": "rep",
+  "weight_t": [
+   47.3,
+   52.2
+  ],
+  "note": {
+   "en": "8 kW · high-voltage battery 160–600 V · backup output",
+   "ar": "8 كيلوواط · بطارية جهد عالٍ 160–600 فولت · مخرج احتياطي"
+  },
+  "calc": {
+   "lot": "s2",
+   "pallet": 8,
+   "tiers": [
+    1075,
+    1035,
+    995,
+    945,
+    895
+   ],
+   "full": 845,
+   "unit_kg": [
+    29,
+    32
+   ],
+   "unit_m3": [
+    0.13,
+    0.17
+   ]
+  }
+ },
+ {
+  "ref": "5",
+  "name": "Solis RHI-3P10K-HVES-5G",
+  "qty": 2696,
+  "group": "s2",
+  "type_en": "Hybrid inverter, 3-phase",
+  "type_ar": "انفرتر هجين ثلاثي الطور",
+  "img": "img/p_solis_rhi3p.jpg",
+  "photo": "rep",
+  "weight_t": [
+   78.2,
+   86.3
+  ],
+  "note": {
+   "en": "10 kW · high-voltage battery 160–600 V · backup output",
+   "ar": "10 كيلوواط · بطارية جهد عالٍ 160–600 فولت · مخرج احتياطي"
+  },
+  "calc": {
+   "lot": "s2",
+   "pallet": 8,
+   "tiers": [
+    1125,
+    1085,
+    1045,
+    995,
+    945
+   ],
+   "full": 895,
+   "unit_kg": [
+    29,
+    32
+   ],
+   "unit_m3": [
+    0.13,
+    0.17
+   ]
+  }
+ },
+ {
+  "ref": "6",
+  "name": "Solis S5-GC30K",
+  "qty": 36,
+  "group": "s3",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "img": "img/p_solis_gc30.jpg",
+  "photo": "rep",
+  "weight_t": [
+   1.5,
+   1.7
+  ],
+  "note": {
+   "en": "30 kW · commercial string inverter, no battery",
+   "ar": "30 كيلوواط · انفرتر تجاري للشبكة بدون بطارية"
+  },
+  "calc": {
+   "lot": "s3",
+   "pallet": 6,
+   "tiers": [
+    1390
+   ],
+   "full": 1261,
+   "unit_kg": [
+    42,
+    48
+   ],
+   "unit_m3": [
+    0.22,
+    0.3
+   ]
+  }
+ },
+ {
+  "ref": "7",
+  "name": "Solis S5-GC50K",
+  "qty": 198,
+  "group": "s3",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "img": "img/p_solis_gc50.jpg",
+  "photo": "rep",
+  "weight_t": [
+   11.9,
+   13.1
+  ],
+  "note": {
+   "en": "50 kW · commercial string inverter, no battery",
+   "ar": "50 كيلوواط · انفرتر تجاري للشبكة بدون بطارية"
+  },
+  "calc": {
+   "lot": "s3",
+   "pallet": 2,
+   "tiers": [
+    1690
+   ],
+   "full": 1531,
+   "unit_kg": [
+    60,
+    66
+   ],
+   "unit_m3": [
+    0.3,
+    0.4
+   ]
+  }
+ },
+ {
+  "ref": "8",
+  "name": "Solis S5-GC60K",
+  "qty": 64,
+  "group": "s3",
+  "type_en": "On-grid inverter, 3-phase",
+  "type_ar": "انفرتر شبكة ثلاثي الطور",
+  "img": "img/p_solis_gc50.jpg",
+  "photo": "rep",
+  "weight_t": [
+   3.8,
+   4.2
+  ],
+  "note": {
+   "en": "60 kW · commercial string inverter, no battery",
+   "ar": "60 كيلوواط · انفرتر تجاري للشبكة بدون بطارية"
+  },
+  "calc": {
+   "lot": "s3",
+   "pallet": 2,
+   "tiers": [
+    1990
+   ],
+   "full": 1801,
+   "unit_kg": [
+    60,
+    66
+   ],
+   "unit_m3": [
+    0.3,
+    0.4
+   ]
+  }
+ }
+]

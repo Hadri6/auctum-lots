@@ -1,0 +1,143 @@
+{
+ "slug": "solis-inverters-it",
+ "page_title": "SOLIS Inverters – Stock Lot Italy",
+ "title": {
+  "en": "SOLIS hybrid & on-grid inverters – 12,582 new pieces, Italy",
+  "ar": "انفرترات SOLIS هجينة وشبكية – 12,582 قطعة جديدة، إيطاليا"
+ },
+ "subtitle": {
+  "en": "New, factory-packed Solis inverters in three lots: 6,492 single-phase hybrids for 48 V batteries, 5,792 three-phase hybrids for high-voltage batteries and 298 commercial on-grid units (30–60 kW). Solis-made units with a distributor co-brand label; hybrid units come with WiFi dongle and energy meter. Sold in full pallets, ex works Italy. Use the price calculator below: enter a quantity and the page shows the price per piece and the total.",
+  "ar": "انفرترات Solis جديدة بتغليف المصنع في ثلاث دفعات: 6,492 انفرتر هجين أحادي الطور لبطاريات 48 فولت، و5,792 انفرتر هجين ثلاثي الطور لبطاريات الجهد العالي، و298 انفرتر تجاري للشبكة (30–60 كيلوواط). من صنع Solis وعليها ملصق علامة موزّع مشتركة؛ الهجينة مع دونجل WiFi وعدّاد طاقة. البيع بالمنصّة الكاملة، تسليم أرض المستودع في إيطاليا. استعمل حاسبة الأسعار أدناه: أدخل الكمية فتظهر لك قيمة القطعة والمجموع."
+ },
+ "groups_word": [
+  "Lots",
+  "الدفعات"
+ ],
+ "qty_label": [
+  "Inverters",
+  "انفرتر"
+ ],
+ "qty_exact": true,
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "keep_order": true,
+ "all_cards": true,
+ "group_order": [
+  "s1",
+  "s2",
+  "s3"
+ ],
+ "kpis": [
+  {
+   "en": "Price per piece",
+   "ar": "سعر القطعة",
+   "value": "€ 485 – 1,990"
+  },
+  {
+   "en": "Condition",
+   "ar": "الحالة",
+   "value": "New · factory-packed"
+  }
+ ],
+ "location": {
+  "en": "Italy",
+  "ar": "إيطاليا"
+ },
+ "groups": {
+  "s1": {
+   "en": "Lot 1 · Single-phase hybrid inverters (48 V battery)",
+   "ar": "الدفعة 1 · انفرترات هجينة أحادية الطور (بطارية 48 فولت)",
+   "short": "Lot 1 · 1-phase hybrid"
+  },
+  "s2": {
+   "en": "Lot 2 · Three-phase hybrid inverters (high-voltage battery)",
+   "ar": "الدفعة 2 · انفرترات هجينة ثلاثية الطور (بطارية جهد عالٍ)",
+   "short": "Lot 2 · 3-phase hybrid"
+  },
+  "s3": {
+   "en": "Lot 3 · Three-phase on-grid commercial inverters",
+   "ar": "الدفعة 3 · انفرترات شبكة تجارية ثلاثية الطور",
+   "short": "Lot 3 · On-grid 30–60 kW"
+  }
+ },
+ "note": {
+  "en": "Photos are catalogue pictures of the same models; the units carry an additional co-brand label. All prices in EUR per piece, net, excluding VAT, ex works Italy. Subject to prior sale and written order confirmation.",
+  "ar": "الصور من كتالوج نفس الموديلات، وعلى القطع ملصق علامة مشتركة إضافي. كل الأسعار باليورو للقطعة، صافية بدون ضريبة القيمة المضافة، تسليم أرض المستودع في إيطاليا. البضاعة متاحة حتى نفادها، والطلب نهائي بعد تأكيد مكتوب."
+ },
+ "public_prices": true,
+ "price_calc": {
+  "title": {
+   "en": "Prices & order calculator",
+   "ar": "الأسعار وحاسبة الطلب"
+  },
+  "nav": {
+   "en": "Prices & calculator",
+   "ar": "الأسعار والحاسبة"
+  },
+  "intro": {
+   "en": "The price per piece depends on the quantity you take of each model. The complete-lot price applies only when you take the complete quantity of every model in that lot; any smaller quantity is priced by its quantity tier.",
+   "ar": "سعر القطعة يتحدد بالكمية التي تأخذها من كل موديل. سعر الدفعة كاملة يُطبَّق فقط عند أخذ الكمية الكاملة من كل موديل في تلك الدفعة؛ وأي كمية أقل تُسعَّر حسب شريحة كميتها."
+  },
+  "tiers": [
+   {
+    "min": 0,
+    "en": "1 pallet – 249 pcs",
+    "ar": "من منصّة حتى 249 قطعة"
+   },
+   {
+    "min": 250,
+    "en": "250+ pcs",
+    "ar": "250 قطعة فأكثر"
+   },
+   {
+    "min": 500,
+    "en": "500+ pcs",
+    "ar": "500 قطعة فأكثر"
+   },
+   {
+    "min": 1000,
+    "en": "1,000+ pcs",
+    "ar": "1,000 قطعة فأكثر"
+   },
+   {
+    "min": 2500,
+    "en": "2,500+ pcs",
+    "ar": "2,500 قطعة فأكثر"
+   }
+  ],
+  "full": {
+   "en": "Complete lot",
+   "ar": "الدفعة كاملة"
+  },
+  "lots": {
+   "s1": {
+    "en": "Lot 1 · Single-phase hybrid (48 V)",
+    "ar": "الدفعة 1 · هجين أحادي الطور (48 فولت)"
+   },
+   "s2": {
+    "en": "Lot 2 · Three-phase hybrid (HV battery)",
+    "ar": "الدفعة 2 · هجين ثلاثي الطور (بطارية جهد عالٍ)"
+   },
+   "s3": {
+    "en": "Lot 3 · Three-phase on-grid 30–60 kW",
+    "ar": "الدفعة 3 · شبكة ثلاثي الطور 30–60 كيلوواط"
+   }
+  },
+  "terms": {
+   "en": "Prices in EUR per piece, net, excluding VAT, ex works Italy. Sold in full pallets (quantities are rounded up to whole pallets). Lot 3 has one price per model below the complete lot. Weight, volume and container figures are estimates. Prices are subject to prior sale and become binding only with our written order confirmation.",
+   "ar": "الأسعار باليورو للقطعة، صافية بدون ضريبة القيمة المضافة، تسليم أرض المستودع في إيطاليا. البيع بالمنصّة الكاملة (تُقرَّب الكمية للأعلى إلى منصّات كاملة). للدفعة 3 سعر واحد لكل موديل دون الدفعة الكاملة. أرقام الوزن والحجم والحاويات تقديرية. الأسعار متاحة حتى نفاد البضاعة ولا تُلزم إلا بتأكيد طلب مكتوب منا."
+  }
+ },
+ "shipping": {
+  "volume_m3": [
+   1424,
+   1879
+  ],
+  "note": {
+   "en": "Estimate from the datasheet unit sizes and pallet loads (12 / 8 / 6 / 2 pieces per pallet); final loading plan confirmed before shipment. The calculator shows the estimate for your own selection.",
+   "ar": "تقدير من مقاسات القطع في النشرات الفنية وحمولة المنصّات (12 / 8 / 6 / 2 قطعة لكل منصّة)؛ يُؤكَّد مخطط التحميل النهائي قبل الشحن. الحاسبة تعرض التقدير لاختيارك أنت."
+  }
+ }
+}

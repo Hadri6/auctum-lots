@@ -7,6 +7,8 @@ Input:  lots/<slug>/lot.json    lot metadata (title, subtitle, KPIs, group label
 Output: <slug>/index.html + <slug>/img/  (published by GitHub Pages)
 
 The page is a manifest only: no prices, no contact links, no source/liquidator names.
+Founder exception (2026-10-31): lot.json "public_prices": true + "price_calc" adds a public price table and a quantity
+calculator (items[].calc, see tools/README.md). Without that flag a public build refuses items[].calc.
 Private price list:  python tools/build_lot.py <lot_dir> --private <out_dir>
   items[].price (EUR, line total) / items[].price_label {en, ar} are shown only in this mode, and the output
   goes to <out_dir> (never into the public repo). A public build refuses items that carry prices.
@@ -149,6 +151,60 @@ def build(lot_dir, out_dir=None, private=False):
     def money(v):
         return f'€ {v:,.0f}'
 
+    # Optional public price list + quantity calculator (founder exception, lot.json "public_prices": true):
+    # items[].calc = {lot, pallet, tiers: [EUR per tier of price_calc.tiers], full, unit_kg: [lo, hi], unit_m3: [lo, hi]}.
+    pc = lot.get('price_calc')
+    if any(it.get('calc') for it in items) and not (pc and (private or lot.get('public_prices'))):
+        sys.exit('items carry calc prices: set lot.json "price_calc" and "public_prices": true (founder exception) or use --private')
+
+    def calc_html(it):
+        c = it.get('calc')
+        if not pc or not c:
+            return ''
+        return (f'<div class="pr">{t("Per piece from", "سعر القطعة من")} <b>{money(c["full"])}</b>'
+                f'<div class="nt">{t(pc["full"]["en"], pc["full"]["ar"])} · {t("1 pallet", "منصّة واحدة")} {money(c["tiers"][0])}</div></div>')
+
+    def calc_section():
+        tiers, lots = pc['tiers'], pc.get('lots', {})
+        ncol = 4 + len(tiers)
+        grid, rows = '', ''
+        for lk in dict.fromkeys(it['calc']['lot'] for it in items if it.get('calc')):
+            L = [it for it in items if (it.get('calc') or {}).get('lot') == lk]
+            lab = lots.get(lk, {'en': lk, 'ar': lk})
+            tot = sum(x['qty'] for x in L)
+            grid += (f'<tr class="lh"><td colspan="{ncol}">{t(lab["en"], lab["ar"], tag="b")} '
+                     f'<span class="nt">· {tot:,} {t(unit_en, unit_ar)}</span></td></tr>')
+            rows += (f'<div class="clh">{t(lab["en"], lab["ar"], tag="b")}<span class="chint" data-lot="{E(lk)}"></span>'
+                     f'<button type="button" class="cfull" data-lot="{E(lk)}">'
+                     f'{t(f"Take complete lot ({tot:,} pcs)", f"خذ الدفعة كاملة ({tot:,} قطعة)")}</button></div>')
+            for it in L:
+                c = it['calc']
+                cells = ''.join(f'<td>{money(c["tiers"][i]) if i < len(c["tiers"]) else "–"}</td>' for i in range(len(tiers)))
+                grid += (f'<tr><td dir="ltr"><b>{E(it["name"])}</b></td><td>{it["qty"]:,}</td><td>{c["pallet"]}</td>'
+                         f'{cells}<td class="fp">{money(c["full"])}</td></tr>')
+                data = dict(c, max=it['qty'])
+                rows += (f'<div class="cr" data-c="{E(json.dumps(data))}"><div class="cm"><b dir="ltr">{E(it["name"])}</b>'
+                         f'<div class="nt">{t("Available", "المتوفر")} {it["qty"]:,} · {c["pallet"]} {t("pcs per pallet", "قطعة في المنصّة")}</div></div>'
+                         f'<div class="ci"><input type="number" inputmode="numeric" min="0" step="{c["pallet"]}" max="{it["qty"]}" '
+                         f'placeholder="0" aria-label="{E(it["name"])}"><button type="button" class="call">{t("All", "الكل")}</button></div>'
+                         f'<div class="co"><div class="cu"></div><b class="cl">–</b><div class="nt ct"></div></div></div>')
+        head = (f'<thead><tr>{t("Model", "الموديل", tag="th")}{t("Available", "المتوفر", tag="th")}'
+                f'{t("Pcs/pallet", "قطعة/منصّة", tag="th")}{"".join(t(x["en"], x["ar"], tag="th") for x in tiers)}'
+                f'{t(pc["full"]["en"], pc["full"]["ar"], tag="th")}</tr></thead>')
+        tot = ''.join(f'<div{" class=big" if k == "t-e" else ""}>{t(en, ar)}<b id="{k}">–</b></div>' for k, en, ar in [
+            ('t-q', 'Pieces', 'القطع'), ('t-p', 'Pallets', 'المنصّات'), ('t-w', 'Est. weight', 'الوزن التقديري'),
+            ('t-v', 'Est. volume · containers', 'الحجم التقديري · الحاويات'), ('t-e', 'Total (EUR, net)', 'المجموع (يورو، صافٍ)')])
+        cdata = json.dumps({'tiers': tiers, 'full': pc['full'], 'cap': [CONTAINERS[0][2], CONTAINERS[0][3]]},
+                           ensure_ascii=False).replace('</', r'<\/')
+        intro = t(pc['intro']['en'], pc['intro']['ar'], tag='p', cls='intro') if pc.get('intro') else ''
+        terms = t(pc['terms']['en'], pc['terms']['ar'], tag='div', cls='note') if pc.get('terms') else ''
+        return (f'<section id="prices" class="prices"><h2>{t(pc["title"]["en"], pc["title"]["ar"])}</h2>{intro}'
+                f'<div class="pg"><table>{head}<tbody>{grid}</tbody></table></div>'
+                f'<h3>{t("Calculator – enter the quantity per model", "الحاسبة – أدخل الكمية لكل موديل")}</h3>'
+                f'<div id="calc">{rows}<div class="ctot">{tot}</div>'
+                f'<button type="button" id="creset">{t("Clear", "مسح")}</button></div>{terms}'
+                f'<script type="application/json" id="calc-data">{cdata}</script></section>')
+
     def psum(lst):
         return sum(x.get('price') or 0 for x in lst)
 
@@ -237,7 +293,7 @@ def build(lot_dir, out_dir=None, private=False):
                 wline = (f'<div class="wt">{t("Est. weight", "الوزن التقديري")} <b>{_fmt_t(*w)}</b></div>' if w else '')
                 cards += (f'<figure class="card"{st_attr(it)}>{visual}<figcaption>{st_chip(it)}'
                           f'<div class="ty">{t(ten, tar)}</div><div class="nm" dir="ltr">{E(it["name"])}</div>'
-                          f'{note_html(it)}{wline}{pr_html(it)}'
+                          f'{note_html(it)}{wline}{pr_html(it)}{calc_html(it)}'
                           f'<div class="row"><span class="q"><b>{fq(it["qty"])}</b> {t(*it.get("unit", [unit_en, unit_ar]))}</span>'
                           f'<span class="ref">Ref {E(ref)}</span></div></figcaption></figure>')
             else:
@@ -343,6 +399,9 @@ def build(lot_dir, out_dir=None, private=False):
                f'<div class="sum"><table><thead><tr>{t("What", "الصنف", tag="th")}'
                f'{t(*sets.get("col", ["Quantity", "الكمية"]), tag="th")}</tr></thead><tbody>{srows}</tbody></table></div>{snote}</section>')
         nav = f'<a href="#sets">{t(sets.get("nav", {}).get("en", "Read first"), sets.get("nav", {}).get("ar", "اقرأ أولاً"))}</a>' + nav
+    if pc:
+        top = calc_section() + top
+        nav = f'<a href="#prices">{t(pc.get("nav", pc["title"])["en"], pc.get("nav", pc["title"])["ar"])}</a>' + nav
     if statuses:
         btns = ''.join(f'<button data-f="{E(k)}">{t(s["en"], s["ar"])} <span>'
                        f'{sum(pq(x) for x in items if x.get("status") == k):,}</span></button>'
@@ -371,6 +430,9 @@ def build(lot_dir, out_dir=None, private=False):
     credits = f'<footer class="credits">{E(lot["credits"])}</footer>\n' if lot.get('credits') else ''
     css = open(os.path.join(TOOLS, 'lot.css'), encoding='utf8').read()
     js = open(os.path.join(TOOLS, 'lot.js'), encoding='utf8').read()
+    if pc:
+        css += open(os.path.join(TOOLS, 'lot_calc.css'), encoding='utf8').read()
+        js += open(os.path.join(TOOLS, 'lot_calc.js'), encoding='utf8').read()
     if private:
         css += ('.pr{margin-top:6px;font-size:14px;color:var(--mut)}.pr b{color:var(--acc);font-size:17px}'
                 'td.num{text-align:end;white-space:nowrap;font-variant-numeric:tabular-nums}')
