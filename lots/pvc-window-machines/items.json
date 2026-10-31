@@ -1,0 +1,74 @@
+[
+ {
+  "ref": "1",
+  "name": "RAPID DGL 250 – double mitre saw (2022)",
+  "qty": 1,
+  "group": "cutting",
+  "type_en": "Double mitre saw",
+  "type_ar": "منشار زوايا مزدوج",
+  "img": "img/p_cutting.jpg",
+  "photo": "exact",
+  "weight_t": [
+   1.4,
+   1.8
+  ],
+  "note": {
+   "en": "Maker RAPID Maschinenbau (Germany), year 2022. Cuts PVC/aluminium profiles to length at both ends in one pass; 550 mm blades, 2,800 rpm, touch-screen control with motorised length positioning, 400 V, compressed air 6 bar. Nameplate weight 1,400 kg.",
+   "ar": "الصانع RAPID Maschinenbau (ألمانيا)، سنة 2022. يقص بروفيلات PVC والألمنيوم بالطول المطلوب من الطرفين بمرور واحد؛ شفرات 550 مم، 2,800 دورة/دقيقة، تحكم بشاشة لمس مع تحديد طول آلي، 400 فولت، هواء مضغوط 6 بار. الوزن حسب لوحة الصانع 1,400 كغ."
+  }
+ },
+ {
+  "ref": "2",
+  "name": "THORWESTEN PBZ-2 – CNC profile machining centre (2004)",
+  "qty": 1,
+  "group": "machining",
+  "type_en": "CNC profile machining centre",
+  "type_ar": "مركز تشغيل بروفيلات CNC",
+  "img": "img/p_machining.jpg",
+  "photo": "exact",
+  "weight_t": [
+   1.5,
+   2.5
+  ],
+  "note": {
+   "en": "Maker THORWESTEN Maschinenbau (Germany), year 2004. Drills and mills PVC profiles (hardware and lock slots, drainage, screw holes) with several spindle units on a rotating head; PC control with screen, infeed/outfeed roller tables, 400 V, 6 bar.",
+   "ar": "الصانع THORWESTEN Maschinenbau (ألمانيا)، سنة 2004. يثقب ويفرز بروفيلات PVC (مجاري الإكسسوارات والأقفال، فتحات التصريف، ثقوب البراغي) بعدة وحدات تشغيل على رأس دوّار؛ تحكم حاسوبي بشاشة، طاولات تغذية وإخراج، 400 فولت، 6 بار."
+  }
+ },
+ {
+  "ref": "3",
+  "name": "URBAN AKS 3900 – two-head welding machine (2016)",
+  "qty": 1,
+  "group": "welding",
+  "type_en": "Two-head PVC welding machine",
+  "type_ar": "ماكينة لحام PVC برأسين",
+  "img": "img/p_welding.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.8,
+   1.3
+  ],
+  "note": {
+   "en": "Maker URBAN (Germany), year 2016. Welds the corners of PVC window and door frames and sashes; two welding heads (1 + 2), heated plates, pneumatic profile clamping, temperature controllers.",
+   "ar": "الصانع URBAN (ألمانيا)، سنة 2016. تلحم زوايا إطارات وأجنحة النوافذ والأبواب PVC؛ رأسا لحام (1 و2)، ألواح تسخين، تثبيت هوائي للبروفيل، ومنظّمات حرارة."
+  }
+ },
+ {
+  "ref": "4",
+  "name": "URBAN SV 405 – CNC corner cleaning machine (2017)",
+  "qty": 1,
+  "group": "cleaning",
+  "type_en": "CNC corner cleaning machine",
+  "type_ar": "ماكينة تنظيف زوايا CNC",
+  "img": "img/p_cleaning.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.9,
+   1.4
+  ],
+  "note": {
+   "en": "Maker URBAN (Germany), year 2017. Removes the weld seams on the corners of welded PVC frames (top, bottom and outside contours) with CNC-controlled tools; feeding tables included.",
+   "ar": "الصانع URBAN (ألمانيا)، سنة 2017. تزيل خطوط اللحام عن زوايا إطارات PVC الملحومة (الوجه العلوي والسفلي والحواف الخارجية) بأدوات يتحكم بها CNC؛ مع طاولات التغذية."
+  }
+ }
+]

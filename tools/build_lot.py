@@ -256,8 +256,9 @@ def build(lot_dir, out_dir=None, private=False):
                 f'{f" · {pcs:,} " + t(unit_en, unit_ar) if pcs or not mtxt(L) else ""}{mtxt(L)}</small></h2>')
         gimg = labels.get(k, {}).get('img') or []  # optional representative photos for a group shown as a table
         if gimg:
+            gl = labels[k].get('img_label') or {'en': 'Representative photo', 'ar': 'صورة توضيحية', 'cls': 'rep'}  # e.g. actual site photos
             figs = ''.join(f'<figure><img loading="lazy" src="{photo({"img": p})}" alt="">'
-                           f'{t("Representative photo", "صورة توضيحية", cls="tag rep")}</figure>'
+                           f'{t(gl["en"], gl["ar"], cls="tag " + gl.get("cls", "rep"))}</figure>'
                            for p in gimg if photo({'img': p}))
             sec += f'<div class="gimg">{figs}</div>'
         if cards:

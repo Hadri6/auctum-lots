@@ -1,0 +1,139 @@
+{
+ "slug": "pvc-window-machines",
+ "page_title": "PVC Window & Door Machines",
+ "title": {
+  "en": "PVC window & door fabrication machines",
+  "ar": "ماكينات تصنيع نوافذ وأبواب PVC"
+ },
+ "subtitle": {
+  "en": "The core machines of a PVC window and door workshop, all German-made: RAPID DGL 250 double mitre saw (2022), URBAN AKS 3900 two-head welder (2016), URBAN SV 405 CNC corner cleaner (2017) and THORWESTEN PBZ-2 CNC profile machining centre (2004). Together they cover cutting, machining, welding and corner cleaning of PVC frames. Offered as one lot or per machine.",
+  "ar": "الماكينات الأساسية لورشة نوافذ وأبواب PVC، كلها صناعة ألمانية: منشار زوايا مزدوج RAPID DGL 250 ‏(2022)، ماكينة لحام برأسين URBAN AKS 3900 ‏(2016)، ماكينة تنظيف زوايا CNC ‏URBAN SV 405 ‏(2017)، ومركز تشغيل بروفيلات CNC ‏THORWESTEN PBZ-2 ‏(2004). معاً تغطي قص وتشغيل ولحام وتنظيف زوايا إطارات PVC. تُعرض كدفعة واحدة أو كل ماكينة على حدة."
+ },
+ "groups_word": [
+  "Process step",
+  "مرحلة التصنيع"
+ ],
+ "groups": {
+  "cutting": {
+   "en": "1 · Cutting – double mitre saw",
+   "ar": "1 · القص – منشار زوايا مزدوج",
+   "short": "Cutting",
+   "img": [
+    "img/p_cutting_1.jpg",
+    "img/p_cutting_2.jpg",
+    "img/p_cutting_3.jpg",
+    "img/p_cutting_4.jpg",
+    "img/p_cutting_5.jpg"
+   ],
+   "img_label": {
+    "en": "Actual photo",
+    "ar": "صورة فعلية",
+    "cls": "ok"
+   }
+  },
+  "machining": {
+   "en": "2 · Machining – CNC profile centre",
+   "ar": "2 · التشغيل – مركز بروفيلات CNC",
+   "short": "Machining",
+   "img": [
+    "img/p_machining_1.jpg",
+    "img/p_machining_2.jpg",
+    "img/p_machining_3.jpg",
+    "img/p_machining_4.jpg",
+    "img/p_machining_5.jpg"
+   ],
+   "img_label": {
+    "en": "Actual photo",
+    "ar": "صورة فعلية",
+    "cls": "ok"
+   }
+  },
+  "welding": {
+   "en": "3 · Welding – two-head welder",
+   "ar": "3 · اللحام – ماكينة لحام برأسين",
+   "short": "Welding",
+   "img": [
+    "img/p_welding_1.jpg",
+    "img/p_welding_2.jpg",
+    "img/p_welding_3.jpg",
+    "img/p_welding_4.jpg",
+    "img/p_welding_5.jpg"
+   ],
+   "img_label": {
+    "en": "Actual photo",
+    "ar": "صورة فعلية",
+    "cls": "ok"
+   }
+  },
+  "cleaning": {
+   "en": "4 · Corner cleaning – CNC cleaner",
+   "ar": "4 · تنظيف الزوايا – منظّف CNC",
+   "short": "Cleaning",
+   "img": [
+    "img/p_cleaning_1.jpg",
+    "img/p_cleaning_2.jpg",
+    "img/p_cleaning_3.jpg",
+    "img/p_cleaning_4.jpg",
+    "img/p_cleaning_5.jpg"
+   ],
+   "img_label": {
+    "en": "Actual photo",
+    "ar": "صورة فعلية",
+    "cls": "ok"
+   }
+  }
+ },
+ "group_order": [
+  "cutting",
+  "machining",
+  "welding",
+  "cleaning"
+ ],
+ "kpis": [
+  {
+   "en": "Maker",
+   "ar": "الصانع",
+   "value": "URBAN · RAPID · THORWESTEN"
+  },
+  {
+   "en": "Years",
+   "ar": "سنوات الصنع",
+   "value": "2004–2022"
+  },
+  {
+   "en": "Weight",
+   "ar": "الوزن",
+   "value": "≈ 4.6–7 t"
+  }
+ ],
+ "location": {
+  "en": "Czech Republic",
+  "ar": "جمهورية التشيك"
+ },
+ "note": {
+  "en": "Photos are the actual machines, taken on site in July 2026. The machines stand in a closed workshop without power, so they could not be run on site; they are sold as seen, without warranty. Professional dismantling and loading by the buyer (factory-trained technician recommended). Viewing on site by appointment. Subject to prior sale.",
+  "ar": "الصور للماكينات الفعلية، التُقطت في الموقع في يوليو 2026. الماكينات قائمة في ورشة مغلقة بلا كهرباء، لذلك لم يمكن تشغيلها في الموقع؛ تُباع بحالتها دون ضمان. الفك والتحميل الاحترافي على المشتري (يُنصح بفني مدرَّب من الصانع). المعاينة في الموقع بموعد. البضاعة متاحة حتى بيعها."
+ },
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "qty_label": [
+  "Machines",
+  "ماكينات"
+ ],
+ "qty_exact": true,
+ "all_cards": true,
+ "keep_order": true,
+ "shipping": {
+  "volume_m3": [
+   35,
+   60
+  ],
+  "no_20ft": true,
+  "note": {
+   "en": "Approximate: weights per machine are estimates (saw 1,400 kg per nameplate), the total is the sum of the lines. The saw bed and the roller tables are longer than a 20′ container, so 40′ HC only; depending on how the tables are dismantled and packed, 1–2 × 40′ HC. Forklift/crane loading needed.",
+   "ar": "تقديري: أوزان الماكينات تقديرية (المنشار 1,400 كغ حسب لوحة الصانع) والإجمالي مجموعها. سرير المنشار وطاولات البكرات أطول من حاوية 20′، لذا حاويات 40′ HC فقط؛ حسب طريقة فك الطاولات وتغليفها 1–2 حاوية 40′ HC. يلزم رافعة شوكية أو رافعة للتحميل."
+  }
+ }
+}
