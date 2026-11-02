@@ -1,0 +1,153 @@
+{
+ "slug": "heat-pumps-pl",
+ "page_title": "Heat Pumps & HVAC Installer Stock – Poland",
+ "title": {
+  "en": "Heat pumps, Panasonic compressors & HVAC installer equipment – Poland",
+  "ar": "مضخات حرارية وكمبروسرات Panasonic ومعدات تركيب التدفئة والتبريد – بولندا"
+ },
+ "subtitle": {
+  "en": "Stock of a heat-pump installation company: 40 air-to-water heat pumps – 21 new (9 kW R32 monoblocks, 10 kW 400 V Sunrain units and R410A split systems) and 19 ex-display / returned units – plus 10 Panasonic inverter compressors, circulation pumps, refrigerant recovery and service equipment, installer tools, fittings and a small office. Offered as a complete lot, ex warehouse Poland.",
+  "ar": "مخزون شركة تركيب مضخات حرارية: 40 مضخة حرارية هواء-ماء – منها 21 جديدة (مونوبلوك 9 كيلوواط بغاز R32، ووحدات Sunrain بقدرة 10 كيلوواط و400 فولت، وأنظمة سبليت R410A) و19 قطعة عرض ومرتجعات – ومعها 10 كمبروسرات إنفرتر من Panasonic ومضخات دوران ومعدات استرداد وصيانة غاز التبريد وعدد التركيب والوصلات وأثاث مكتب صغير. تُعرض كدفعة كاملة، تسليم أرض المستودع في بولندا."
+ },
+ "groups_word": [
+  "Categories",
+  "الفئات"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
+ "qty_exact": true,
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "all_cards": true,
+ "group_order": [
+  "heat-pumps",
+  "compressors",
+  "pumps",
+  "service",
+  "parts",
+  "tools",
+  "office"
+ ],
+ "kpis": [
+  {
+   "en": "Heat pumps",
+   "ar": "مضخات حرارية",
+   "value": "40"
+  },
+  {
+   "en": "of which new",
+   "ar": "منها جديدة",
+   "value": "21"
+  },
+  {
+   "en": "Panasonic compressors",
+   "ar": "كمبروسرات Panasonic",
+   "value": "10 + 9 scrap"
+  }
+ ],
+ "location": {
+  "en": "Poland",
+  "ar": "بولندا"
+ },
+ "groups": {
+  "heat-pumps": {
+   "en": "Air-to-water heat pumps",
+   "ar": "مضخات حرارية هواء-ماء",
+   "short": "Heat pumps"
+  },
+  "compressors": {
+   "en": "Inverter compressors (Panasonic)",
+   "ar": "كمبروسرات إنفرتر (Panasonic)",
+   "short": "Compressors"
+  },
+  "pumps": {
+   "en": "Circulation & water pumps",
+   "ar": "مضخات دوران ومياه",
+   "short": "Pumps"
+  },
+  "service": {
+   "en": "Refrigerant recovery & service equipment",
+   "ar": "معدات استرداد وصيانة غاز التبريد",
+   "short": "Service equipment"
+  },
+  "parts": {
+   "en": "Installation parts, fittings & components",
+   "ar": "قطع تركيب ووصلات ومكوّنات",
+   "short": "Parts & fittings"
+  },
+  "tools": {
+   "en": "Installer tools & workshop",
+   "ar": "عدد التركيب والورشة",
+   "short": "Tools"
+  },
+  "office": {
+   "en": "Office & other",
+   "ar": "مكتب وأخرى",
+   "short": "Office"
+  }
+ },
+ "statuses": {
+  "new": {
+   "en": "New",
+   "ar": "جديدة",
+   "cls": "ok",
+   "desc_en": "New, unused unit.",
+   "desc_ar": "قطعة جديدة غير مستعملة."
+  },
+  "returns": {
+   "en": "Ex-display / returns",
+   "ar": "عرض / مرتجعات",
+   "cls": "mod",
+   "desc_en": "Ex-display units, customer returns and complaint units – untested, condition varies.",
+   "desc_ar": "قطع عرض ومرتجعات عملاء وقطع عليها شكاوى – غير مفحوصة، والحالة متفاوتة."
+  },
+  "part": {
+   "en": "Spare part / component",
+   "ar": "قطعة غيار / مكوّن",
+   "cls": "part",
+   "desc_en": "Component or spare part for installation or repair, not a complete unit.",
+   "desc_ar": "مكوّن أو قطعة غيار للتركيب أو الإصلاح، وليست جهازاً كاملاً."
+  },
+  "used": {
+   "en": "Used / as seen",
+   "ar": "مستعملة / كما هي",
+   "cls": "add",
+   "desc_en": "Used equipment, sold as seen; condition not individually tested.",
+   "desc_ar": "معدات مستعملة تُباع كما هي؛ الحالة غير مفحوصة قطعةً قطعة."
+  },
+  "damaged": {
+   "en": "Damaged / for parts",
+   "ar": "تالفة / لقطع الغيار",
+   "cls": "bad",
+   "desc_en": "Not working – for spare parts or metal recovery.",
+   "desc_ar": "لا تعمل – لقطع الغيار أو استرداد المعادن."
+  }
+ },
+ "status_title": {
+  "en": "By condition",
+  "ar": "حسب الحالة"
+ },
+ "shipping": {
+  "volume_m3": [
+   28,
+   40
+  ],
+  "weight_t": [
+   4.8,
+   6.2
+  ],
+  "note": {
+   "en": "Estimated from typical packed sizes and weights of 9–10 kW outdoor units (≈ 0.5 m³, 100–130 kg each) plus compressors, pumps, tools and parts. Heat pumps ship upright on pallets; pre-charged units contain refrigerant (R32 / R410A).",
+   "ar": "تقدير من الأحجام والأوزان المعتادة لوحدات خارجية بقدرة 9–10 كيلوواط (≈ 0.5 م³ و100–130 كغ للقطعة) مع الكمبروسرات والمضخات والعدد والقطع. المضخات تُشحن قائمة على منصّات، والوحدات معبّأة مسبقاً بغاز التبريد (R32 / R410A)."
+  }
+ },
+ "note": {
+  "en": "Photos are catalogue pictures of the same or the closest model; pictures marked “Representative photo” show the product type only. Items are sold as seen; some used items may be incomplete or not working. Inspection possible by appointment. Subject to prior sale.",
+  "ar": "الصور من كتالوج نفس الموديل أو أقرب موديل له؛ الصور الموسومة «صورة توضيحية» تبيّن نوع المنتج فقط. البضاعة تُباع كما هي، وبعض القطع المستعملة قد تكون ناقصة أو لا تعمل. المعاينة ممكنة بموعد مسبق. البضاعة متاحة حتى نفادها."
+ },
+ "credits": "Product photos: manufacturer and retailer catalogue images (Sunrain, Grundfos, IBO, Shimge, Value, Cormak, Zebra, Flowair, Carel, Panasonic, LG, Mastercool, OEG, ebm-papst). Representative photos via Wikimedia Commons: Soldering iron: 2023 Lutownica transformatorowa Lutola 6B.jpg – Jacek Halicki, CC BY-SA 4.0; Small buffer / hot-water tank: Boiler and Cylinder.jpg – Andy Butkaj, CC BY 2.0; Box of fittings – PP: PPR pipe and Fitting.jpg – Mekalshan, CC BY-SA 4.0; Box of fittings – copper: Copper-press-fitting.JPG – Cschirp, CC BY-SA 3.0; Box of fittings – steel: Gas connections.jpg – Ghasemimoshref, CC BY-SA 4.0; Box of ball valves: Brass-Ball-Valve MF Butterfly 12592-360x480 (4999932531).jpg – Emilian Robert Vicol from Com. Balanesti, Romania, CC BY 2.0; Pipes, mixed (PP, drainage): HK public toilet bathing hand sink drain pipes December 2019 SS2 03.jpg – HODmsl SVUR, CC BY-SA 4.0; Switch: Brass electrical switch.JPG – S.J. de Waard, CC BY 2.5; Angle grinder: AngleGrinder.jpg – unknown, CC BY-SA 2.0; Bench drill: Drillpress.jpg – LHOON, CC BY-SA 2.5; Socket set (incomplete): Socket wrench and sockets.JPG – Kae, CC BY-SA 3.0; Vacuum cleaner: Craftsman 16 Gallon Wet-Dry Vac.jpg – Nynexman4464, CC BY-SA 2.5; Sound level meter: Sound level meter, DVM85.jpg – Jin Zan, CC BY-SA 4.0; Hole saw for drywall: TCT Tungsten Carbide Hole saw with arbor.jpg – Edenblijker, CC BY-SA 4.0; Cable tester: Network Cable Tester (1).jpg – Reise Reise, CC BY-SA 4.0; Water hardness tester: Hach Classroom Drinking Water Testing Kit 2006.526 open.jpg – ; Staff photographer, CC BY-SA 3.0; Bit set: Screwdriver set with great variety of bits and ratchet screwdriver.jpg – Pittigrilli, CC BY 4.0; Pressure gauge: MAXIMATOR-High-Pressure-Manometer-01a.jpg – CEphoto, Uwe Aranas, CC BY-SA 3.0; General hand tools: Hand-tool set with bits and accessories arranged on a white surface..jpg – Wilfredor, CC0; Inspection camera: Camera end of hobby borescope.jpg – Janke, CC BY 4.0; Label printer: Dymo operation.jpg – Oskay (https://www.flickr.com/photos/oskay/), CC BY 2.0; Trade-fair tent: High peak frame tent.JPG – Don Williams, Public domain; Chair: Buerostuhl (fcm).jpg – Photograph:  Frank C. Müller, Baden-Baden, CC BY-SA 4.0; Electric kettle: 2023 Czajnik elektryczny N'OVEEN.jpg – Jacek Halicki, CC BY-SA 4.0; Coat stand: Wrought iron coat stand and umbrella stand (4858064613).jpg – The Living Room from Kenmore, WA 98028, United States of Ame, CC BY 2.0; Brazing kit: Propane torch with handle and hose in Tuntorp 1.jpg – W.carter, CC BY-SA 4.0; Drill: Cordless Drill - unbranded.jpg – National Institute for Occupational Safety and Health, Public domain; Thread-cutting set: Schneideisen.jpg – Michael Häckel, Public domain; Printer: Canon imageRUNNER ADVANCE DX C5860 Color Laser Multifunction Printer & Canon imageRUNNER ADVANCE DX C7770 Color Laser Multifunction Printer.jpg – Dinkun Chen, CC BY-SA 4.0; Desk lamp: Lampada Naska Loris 01.jpg – Manuelarosi, CC BY-SA 4.0; Box of fittings – brass: Copper threaded adapters.jpg – Emilian Robert Vicol, CC BY 2.0."
+}

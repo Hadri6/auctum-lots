@@ -1,0 +1,977 @@
+[
+ {
+  "ref": "1",
+  "name": "Biurko",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Desk",
+  "type_ar": "مكتب",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2",
+  "name": "Bufor (butla mała - zasobnik CWU) [118]",
+  "qty": 2,
+  "group": "parts",
+  "type_en": "Small buffer / hot-water tank",
+  "type_ar": "خزان صغير (بافر / ماء ساخن)",
+  "status": "used",
+  "img": "img/p_2.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "3",
+  "name": "Butla jednofazowa do napełniania [10]",
+  "qty": 3,
+  "group": "service",
+  "type_en": "Refrigerant charging cylinder",
+  "type_ar": "أسطوانة تعبئة غاز التبريد",
+  "status": "used",
+  "img": "img/p_3.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "4",
+  "name": "Butla jednofazowa do napełniania [105]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Refrigerant charging cylinder",
+  "type_ar": "أسطوانة تعبئة غاز التبريد",
+  "status": "used",
+  "img": "img/p_4.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "5",
+  "name": "Butle dwufazowe – butle do odzysku czynnika chłodniczego [9]",
+  "qty": 4,
+  "group": "service",
+  "type_en": "Refrigerant recovery cylinder",
+  "type_ar": "أسطوانة استرداد غاز التبريد",
+  "status": "used",
+  "img": "img/p_5.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Two-port cylinders for refrigerant recovery",
+   "ar": "أسطوانات بصمامين لاسترداد غاز التبريد"
+  }
+ },
+ {
+  "ref": "6",
+  "name": "Czajnik elektryczny",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Electric kettle",
+  "type_ar": "غلاية كهربائية",
+  "status": "used",
+  "img": "img/p_6.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "7",
+  "name": "Decybelomierz Model GM 1356 [38]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Sound level meter",
+  "type_ar": "جهاز قياس الضوضاء",
+  "status": "used",
+  "img": "img/p_7.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "8",
+  "name": "Detektor do czynników chłodniczych – wykrywacz nieszczelności [40]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Refrigerant leak detector",
+  "type_ar": "كاشف تسريب غاز التبريد",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "9",
+  "name": "Detektor do przewodów",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Wire detector",
+  "type_ar": "كاشف أسلاك",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "10",
+  "name": "Drukarka DELL",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Printer",
+  "type_ar": "طابعة",
+  "status": "used",
+  "img": "img/p_10.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Dell",
+   "ar": "Dell"
+  }
+ },
+ {
+  "ref": "11",
+  "name": "Drukarka do etykiet gk420t [85]",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Label printer",
+  "type_ar": "طابعة ملصقات",
+  "status": "used",
+  "img": "img/p_11.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Zebra GK420t",
+   "ar": "Zebra GK420t"
+  }
+ },
+ {
+  "ref": "12",
+  "name": "Drukarka etykiet DYMO [86]",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Label printer",
+  "type_ar": "طابعة ملصقات",
+  "status": "used",
+  "img": "img/p_12.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "DYMO",
+   "ar": "DYMO"
+  }
+ },
+ {
+  "ref": "13",
+  "name": "Falowniki trójfazowe CAREL 0 (uszkodzone) [54]",
+  "qty": 2,
+  "group": "parts",
+  "type_en": "Three-phase inverter drive – damaged",
+  "type_ar": "إنفرتر ثلاثي الطور – معطّل",
+  "status": "damaged",
+  "img": "img/p_13.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Carel · damaged",
+   "ar": "Carel · معطّل"
+  },
+  "photo_label": {
+   "en": "Representative photo",
+   "ar": "صورة توضيحية"
+  }
+ },
+ {
+  "ref": "14",
+  "name": "Giętarka [49]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Pipe bender",
+  "type_ar": "ثانية أنابيب",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "15",
+  "name": "Gwintownice komplet [46]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Thread-cutting set",
+  "type_ar": "طقم قلاووظ",
+  "status": "used",
+  "img": "img/p_15.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "16",
+  "name": "Kamera inspekcyjna MAGNUSOM [50]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Inspection camera",
+  "type_ar": "كاميرا فحص",
+  "status": "used",
+  "img": "img/p_16.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "17",
+  "name": "Kielicharka [109]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Flaring tool",
+  "type_ar": "أداة توسيع الأنابيب (فلير)",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "18",
+  "name": "Krzesło biurowe",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Chair",
+  "type_ar": "كرسي",
+  "status": "used",
+  "img": "img/p_18.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "19",
+  "name": "Krzesło czarne kubełkowe plastikowe",
+  "qty": 2,
+  "group": "office",
+  "type_en": "Chair",
+  "type_ar": "كرسي",
+  "status": "used",
+  "img": "img/p_19.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "20",
+  "name": "Lampka biurkowa",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Desk lamp",
+  "type_ar": "مصباح مكتب",
+  "status": "used",
+  "img": "img/p_20.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "21",
+  "name": "Lutownica elektryczna UTL [52]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Soldering iron",
+  "type_ar": "كاوية لحام",
+  "status": "used",
+  "img": "img/p_21.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "22",
+  "name": "Lutownica Modeco – expert [36]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Soldering iron",
+  "type_ar": "كاوية لحام",
+  "status": "used",
+  "img": "img/p_22.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "23",
+  "name": "Manometr [114]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Pressure gauge",
+  "type_ar": "ساعة ضغط",
+  "status": "used",
+  "img": "img/p_23.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "24",
+  "name": "Mini sztaplarka hydrauliczna bezstopniowa 200 kg CORMAK [11]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Mini stacker 200 kg",
+  "type_ar": "رافعة صغيرة 200 كغ",
+  "status": "used",
+  "img": "img/p_24.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Cormak",
+   "ar": "Cormak"
+  }
+ },
+ {
+  "ref": "25",
+  "name": "Mini sztaplarka ręczna bezstopniowa 200 kg CORMAK [11a]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Mini stacker 200 kg",
+  "type_ar": "رافعة صغيرة 200 كغ",
+  "status": "used",
+  "img": "img/p_25.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Cormak",
+   "ar": "Cormak"
+  }
+ },
+ {
+  "ref": "26",
+  "name": "Nagrzewnica Flowair",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Air heater (unit heater)",
+  "type_ar": "سخّان هواء",
+  "status": "used",
+  "img": "img/p_26.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Flowair",
+   "ar": "Flowair"
+  }
+ },
+ {
+  "ref": "27",
+  "name": "Namiot na targi  [27]",
+  "qty": 2,
+  "group": "office",
+  "type_en": "Trade-fair tent",
+  "type_ar": "خيمة معارض",
+  "status": "used",
+  "img": "img/p_27.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "28",
+  "name": "Narzędzia ogólne (śrubokręty, piła, młotek, kombinerki itp.) [29]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "General hand tools",
+  "type_ar": "عدد يدوية متنوعة",
+  "status": "used",
+  "img": "img/p_28.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Screwdrivers, saw, hammer, pliers etc.",
+   "ar": "مفكات ومنشار ومطرقة وزرديات وغيرها"
+  }
+ },
+ {
+  "ref": "29",
+  "name": "Odkurzacz Riwall",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Vacuum cleaner",
+  "type_ar": "مكنسة كهربائية",
+  "status": "used",
+  "img": "img/p_29.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "30",
+  "name": "Otwornica do cięcia w regipsie o wartości [44]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Hole saw for drywall",
+  "type_ar": "منشار ثقوب للجبس",
+  "status": "used",
+  "img": "img/p_30.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "31",
+  "name": "Pompa ciepła (nowa) SPLIT R410 A - składa się z 2 części [3] [3a]",
+  "qty": 3,
+  "group": "heat-pumps",
+  "type_en": "Split heat pump (R410A)",
+  "type_ar": "مضخة حرارية سبليت (R410A)",
+  "status": "new",
+  "img": "img/p_31.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "New · split system in 2 parts (outdoor + indoor unit) · R410A",
+   "ar": "جديدة · نظام سبليت من قطعتين (وحدة خارجية + داخلية) · غاز R410A"
+  },
+  "weight_t": 0.36
+ },
+ {
+  "ref": "32",
+  "name": "Pompa ciepła (nowa) SUN 03R32B-240 9 kW (jedna sztuka bez kartonu) [1]",
+  "qty": 14,
+  "group": "heat-pumps",
+  "type_en": "Air-to-water heat pump 9 kW (R32)",
+  "type_ar": "مضخة حرارية هواء-ماء 9 كيلوواط (R32)",
+  "status": "new",
+  "img": "img/p_32.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "New · monoblock · 9 kW · refrigerant R32 · one unit without carton",
+   "ar": "جديدة · مونوبلوك · 9 كيلوواط · غاز R32 · قطعة واحدة بدون كرتون"
+  },
+  "weight_t": 1.54
+ },
+ {
+  "ref": "33",
+  "name": "Pompa ciepła REALM ENERGY RMAW-03ZR1-V [100]",
+  "qty": 1,
+  "group": "heat-pumps",
+  "type_en": "Air-to-water heat pump",
+  "type_ar": "مضخة حرارية هواء-ماء",
+  "status": "used",
+  "img": "img/p_33.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Realm Energy · condition not stated",
+   "ar": "Realm Energy · الحالة غير مذكورة"
+  },
+  "weight_t": 0.1
+ },
+ {
+  "ref": "34",
+  "name": "Pompa do napełniania instalacji na wózku [64]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "System filling pump on cart",
+  "type_ar": "مضخة تعبئة الأنظمة على عربة",
+  "status": "used",
+  "img": "img/p_34.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "35",
+  "name": "Pompa do oleju 160W - Marpol",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Oil pump",
+  "type_ar": "مضخة زيت",
+  "status": "used",
+  "img": null,
+  "photo": null,
+  "note": {
+   "en": "Marpol 160 W",
+   "ar": "Marpol 160 واط"
+  }
+ },
+ {
+  "ref": "36",
+  "name": "Pompa grundfoss - ALPHA1 L 25-60 180 [111]",
+  "qty": 1,
+  "group": "pumps",
+  "type_en": "Circulation pump",
+  "type_ar": "مضخة دوران",
+  "status": "used",
+  "img": "img/p_36.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Grundfos ALPHA1 L 25-60 180",
+   "ar": "Grundfos ALPHA1 L 25-60 180"
+  }
+ },
+ {
+  "ref": "37",
+  "name": "Pompa grundfoss - UPM GEO 130 [28]",
+  "qty": 3,
+  "group": "pumps",
+  "type_en": "Circulation pump",
+  "type_ar": "مضخة دوران",
+  "status": "used",
+  "img": "img/p_37.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Grundfos UPM GEO",
+   "ar": "Grundfos UPM GEO"
+  }
+ },
+ {
+  "ref": "38",
+  "name": "Pompa obiegowa IBO AMG 25-40 180 [102]",
+  "qty": 1,
+  "group": "pumps",
+  "type_en": "Circulation pump",
+  "type_ar": "مضخة دوران",
+  "status": "used",
+  "img": "img/p_38.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "IBO AMG 25-40 180",
+   "ar": "IBO AMG 25-40 180"
+  }
+ },
+ {
+  "ref": "39",
+  "name": "Pompa próżniowa VALUE [110]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Vacuum pump (refrigeration)",
+  "type_ar": "مضخة تفريغ (تبريد)",
+  "status": "used",
+  "img": "img/p_39.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Value",
+   "ar": "Value"
+  }
+ },
+ {
+  "ref": "40",
+  "name": "Pompa SHIMGE [112]",
+  "qty": 1,
+  "group": "pumps",
+  "type_en": "Water pump",
+  "type_ar": "مضخة مياه",
+  "status": "used",
+  "img": "img/p_40.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Shimge",
+   "ar": "Shimge"
+  }
+ },
+ {
+  "ref": "41",
+  "name": "Pompaciepła (nowa) SUNRAIN BLN010-3 400V 10 kW [2]",
+  "qty": 3,
+  "group": "heat-pumps",
+  "type_en": "Air-to-water heat pump 10 kW, 400 V",
+  "type_ar": "مضخة حرارية هواء-ماء 10 كيلوواط، 400 فولت",
+  "status": "new",
+  "img": "img/p_41.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "New · Sunrain monoblock · 10 kW · 400 V three-phase",
+   "ar": "جديدة · مونوبلوك Sunrain · 10 كيلوواط · 400 فولت ثلاثي الطور"
+  },
+  "weight_t": 0.39
+ },
+ {
+  "ref": "42",
+  "name": "Pompy ciepła (modele powystawowe, zwroty i reklamacje) [4]",
+  "qty": 19,
+  "group": "heat-pumps",
+  "type_en": "Air-to-water heat pump – ex-display / returns",
+  "type_ar": "مضخة حرارية – عرض / مرتجعات",
+  "status": "returns",
+  "img": "img/p_42.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Mixed models: ex-display units, customer returns and complaint units – untested",
+   "ar": "موديلات مختلطة: قطع عرض ومرتجعات وقطع عليها شكاوى – غير مفحوصة"
+  },
+  "weight_t": 1.9,
+  "photo_label": {
+   "en": "Representative photo – mixed models",
+   "ar": "صورة توضيحية – موديلات مختلطة"
+  }
+ },
+ {
+  "ref": "43",
+  "name": "Przełącznik [120]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Switch",
+  "type_ar": "مفتاح كهربائي",
+  "status": "part",
+  "img": "img/p_43.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "44",
+  "name": "Rury do klimatyzacji białe i czarne [136]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Air-conditioning pipes",
+  "type_ar": "أنابيب تكييف",
+  "status": "part",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "45",
+  "name": "Rury MIX (PP, kanalizacyjne)  [63]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Pipes, mixed (PP, drainage)",
+  "type_ar": "أنابيب مشكلة (PP، صرف)",
+  "status": "part",
+  "img": "img/p_45.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "46",
+  "name": "Skrzynka – zawory kulowe [124]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Box of ball valves",
+  "type_ar": "صندوق محابس كروية",
+  "status": "part",
+  "img": "img/p_46.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "47",
+  "name": "Skrzynka elektryczna duża [117]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Electrical box",
+  "type_ar": "علبة كهرباء",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "48",
+  "name": "Skrzynka elektryczna mała [116]",
+  "qty": 6,
+  "group": "parts",
+  "type_en": "Electrical box",
+  "type_ar": "علبة كهرباء",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "49",
+  "name": "Skrzynka złączek - miedź [129]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Box of fittings – copper",
+  "type_ar": "صندوق وصلات – نحاس",
+  "status": "part",
+  "img": "img/p_49.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "50",
+  "name": "Skrzynka złączek - mosiądz [119, 121, 122, 123, 127]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Box of fittings – brass",
+  "type_ar": "صندوق وصلات – نحاس أصفر",
+  "status": "part",
+  "img": "img/p_50.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "51",
+  "name": "Skrzynka złączek - pp [125, 126, 128, 130, 131, 132]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Box of fittings – PP",
+  "type_ar": "صندوق وصلات – PP",
+  "status": "part",
+  "img": "img/p_51.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "52",
+  "name": "Skrzynka złączek - stal [129]",
+  "qty": 1,
+  "group": "parts",
+  "type_en": "Box of fittings – steel",
+  "type_ar": "صندوق وصلات – فولاذ",
+  "status": "part",
+  "img": "img/p_52.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "53",
+  "name": "Sprężarka PANASONIC 5KD240ZFA21 [20]",
+  "qty": 3,
+  "group": "compressors",
+  "type_en": "Inverter rotary compressor (Panasonic)",
+  "type_ar": "كمبروسر روتاري إنفرتر (Panasonic)",
+  "status": "part",
+  "img": "img/p_53.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Panasonic DC inverter rotary compressor for heat pumps / air conditioners",
+   "ar": "كمبروسر روتاري إنفرتر DC من Panasonic للمضخات الحرارية والمكيفات"
+  },
+  "weight_t": 0.06
+ },
+ {
+  "ref": "54",
+  "name": "Sprężarka PANASONIC 9KD240ZAA2J [19]",
+  "qty": 4,
+  "group": "compressors",
+  "type_en": "Inverter rotary compressor (Panasonic)",
+  "type_ar": "كمبروسر روتاري إنفرتر (Panasonic)",
+  "status": "part",
+  "img": "img/p_54.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Panasonic DC inverter rotary compressor for heat pumps / air conditioners",
+   "ar": "كمبروسر روتاري إنفرتر DC من Panasonic للمضخات الحرارية والمكيفات"
+  },
+  "weight_t": 0.08
+ },
+ {
+  "ref": "55",
+  "name": "Sprężarka PANASONIC H240D5KZAAJ2 [103]",
+  "qty": 1,
+  "group": "compressors",
+  "type_en": "Inverter rotary compressor (Panasonic)",
+  "type_ar": "كمبروسر روتاري إنفرتر (Panasonic)",
+  "status": "part",
+  "img": "img/p_55.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Panasonic DC inverter rotary compressor for heat pumps / air conditioners",
+   "ar": "كمبروسر روتاري إنفرتر DC من Panasonic للمضخات الحرارية والمكيفات"
+  },
+  "weight_t": 0.02
+ },
+ {
+  "ref": "56",
+  "name": "Sprężarka PANASONIC H420D5VZAAJ2 [21]",
+  "qty": 1,
+  "group": "compressors",
+  "type_en": "Inverter rotary compressor (Panasonic)",
+  "type_ar": "كمبروسر روتاري إنفرتر (Panasonic)",
+  "status": "part",
+  "img": "img/p_56.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Panasonic DC inverter rotary compressor for heat pumps / air conditioners",
+   "ar": "كمبروسر روتاري إنفرتر DC من Panasonic للمضخات الحرارية والمكيفات"
+  },
+  "weight_t": 0.02
+ },
+ {
+  "ref": "57",
+  "name": "Sprężarka PANASONIC uszkodzona/złom [104]",
+  "qty": 9,
+  "group": "compressors",
+  "type_en": "Compressor – damaged / scrap",
+  "type_ar": "كمبروسر – تالف / خردة",
+  "status": "damaged",
+  "img": "img/p_57.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Panasonic compressors, damaged – for parts or metal recovery",
+   "ar": "كمبروسرات Panasonic تالفة – لقطع الغيار أو استرداد المعادن"
+  },
+  "weight_t": 0.18,
+  "photo_label": {
+   "en": "Representative photo – damaged units",
+   "ar": "صورة توضيحية – قطع تالفة"
+  }
+ },
+ {
+  "ref": "58",
+  "name": "Sprężarka PANASONIC-9 RD220ZA 2J [18]",
+  "qty": 1,
+  "group": "compressors",
+  "type_en": "Inverter rotary compressor (Panasonic)",
+  "type_ar": "كمبروسر روتاري إنفرتر (Panasonic)",
+  "status": "part",
+  "img": "img/p_58.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Panasonic DC inverter rotary compressor for heat pumps / air conditioners",
+   "ar": "كمبروسر روتاري إنفرتر DC من Panasonic للمضخات الحرارية والمكيفات"
+  },
+  "weight_t": 0.02
+ },
+ {
+  "ref": "59",
+  "name": "Szafa biurowa",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office cabinet",
+  "type_ar": "خزانة مكتبية",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "60",
+  "name": "Szafka z szufladami (kontenerek)",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Drawer unit",
+  "type_ar": "وحدة أدراج",
+  "status": "used",
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "61",
+  "name": "Szlifierka kątowa AINHEU 500V [107]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Angle grinder",
+  "type_ar": "صاروخ جلخ",
+  "status": "used",
+  "img": "img/p_61.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "62",
+  "name": "Szlifierka kątowa MACalister [106]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Angle grinder",
+  "type_ar": "صاروخ جلخ",
+  "status": "used",
+  "img": "img/p_62.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "63",
+  "name": "Szlifierka kątowa Makita [30]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Angle grinder",
+  "type_ar": "صاروخ جلخ",
+  "status": "used",
+  "img": "img/p_63.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "64",
+  "name": "Tester do kabli Master Splink [41]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Cable tester",
+  "type_ar": "فاحص كابلات",
+  "status": "used",
+  "img": "img/p_64.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "65",
+  "name": "Tester do twardości wody [113]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Water hardness tester",
+  "type_ar": "فاحص عسر المياه",
+  "status": "used",
+  "img": "img/p_65.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "66",
+  "name": "Urządzenie stacja do płukania układów chłodniczych [87]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Flushing station for refrigeration circuits",
+  "type_ar": "محطة غسيل دوائر التبريد",
+  "status": "used",
+  "img": "img/p_66.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "67",
+  "name": "VRR Stacja do odzysku czynnika Value Vrr 12L [6]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Refrigerant recovery machine",
+  "type_ar": "جهاز استرداد غاز التبريد",
+  "status": "used",
+  "img": "img/p_67.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Value VRR12L",
+   "ar": "Value VRR12L"
+  }
+ },
+ {
+  "ref": "68",
+  "name": "Wentylatory do pomp ciepła",
+  "qty": 11,
+  "group": "parts",
+  "type_en": "Heat pump fan",
+  "type_ar": "مروحة مضخة حرارية",
+  "status": "part",
+  "img": "img/p_68.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Outdoor-unit fans",
+   "ar": "مراوح الوحدة الخارجية"
+  }
+ },
+ {
+  "ref": "69",
+  "name": "Wiertarka ALTMANN K-MW1500B2 [101]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Drill",
+  "type_ar": "مثقب",
+  "status": "used",
+  "img": "img/p_69.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "70",
+  "name": "wiertarka MacAllister stołowa [5]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Bench drill",
+  "type_ar": "مثقب طاولة",
+  "status": "used",
+  "img": "img/p_70.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "71",
+  "name": "Wieszak na ubrania",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Coat stand",
+  "type_ar": "علّاقة ملابس",
+  "status": "used",
+  "img": "img/p_71.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "72",
+  "name": "Zestaw bitów YATO YT-0400 [1115]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Bit set",
+  "type_ar": "طقم رؤوس مفكات",
+  "status": "used",
+  "img": "img/p_72.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "73",
+  "name": "Zestaw do lutowania twardego [67]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Brazing kit",
+  "type_ar": "طقم لحام نحاس (براز)",
+  "status": "used",
+  "img": "img/p_73.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "74",
+  "name": "Zestaw kluczy nasadowych (niekompletny) [135]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Socket set (incomplete)",
+  "type_ar": "طقم لقم (غير مكتمل)",
+  "status": "used",
+  "img": "img/p_74.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "75",
+  "name": "Zestaw manometrów do klimatyzacji [8]",
+  "qty": 1,
+  "group": "service",
+  "type_en": "Manifold gauge set",
+  "type_ar": "طقم ساعات ضغط (مانيفولد)",
+  "status": "used",
+  "img": "img/p_75.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "76",
+  "name": "Zgrzewarka do rur PP MAR-POL (bez kamieni) [108]",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "PP pipe welder",
+  "type_ar": "ماكينة لحام أنابيب PP",
+  "status": "used",
+  "img": null,
+  "photo": null,
+  "note": {
+   "en": "Without heating dies",
+   "ar": "بدون رؤوس تسخين"
+  }
+ }
+]
