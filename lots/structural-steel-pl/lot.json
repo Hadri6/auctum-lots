@@ -1,0 +1,241 @@
+{
+ "slug": "structural-steel-pl",
+ "page_title": "Structural Steel Stock – Poland",
+ "title": {
+  "en": "Structural steel stock – ≈ 386 t of beams, sections, tubes & plates",
+  "ar": "مخزون فولاذ إنشائي – ≈ 386 طن من العوارض والمقاطع والأنابيب والصفائح"
+ },
+ "subtitle": {
+  "en": "Warehouse stock of a Polish steel-construction company: 1,911 pieces in 1,229 lines – HEA/HEB/HEM and IPE/IPN beams, UPN/UPE channels, angles, square and rectangular hollow sections, round tubes, plates from 2 to 40 mm and chequer plates, flats, bars and a few rails, mostly in grades S235JR and S355J2. Mixed lengths, most pieces up to 12 m. Sold as one complete lot only, as is, without mill certificates. Item names as written in the Polish stock list.",
+  "ar": "مخزون مستودع شركة بولندية للإنشاءات الفولاذية: 1,911 قطعة في 1,229 صنفاً – عوارض HEA/HEB/HEM وIPE/IPN، ومقاطع U ‏(UPN/UPE)، وزوايا، ومقاطع مجوفة مربعة ومستطيلة، وأنابيب دائرية، وصفائح من 2 إلى 40 مم، وصفائح مضلّعة، وشرائح وقضبان وبعض قضبان السكك، ومعظمها من درجتي S235JR وS355J2. أطوال مختلفة، ومعظم القطع حتى 12 م. تُباع دفعة واحدة كاملة فقط، بحالتها، ومن دون شهادات مصنع. أسماء الأصناف كما وردت في قائمة المخزون البولندية."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعة"
+ ],
+ "groups": {
+  "h": {
+   "en": "HEA / HEB / HEM wide-flange beams",
+   "ar": "عوارض عريضة الشفة HEA / HEB / HEM",
+   "short": "H-beams",
+   "img": [
+    "img/p_h.jpg"
+   ]
+  },
+  "pl": {
+   "en": "Steel plates 2–40 mm",
+   "ar": "صفائح فولاذية 2–40 مم",
+   "short": "Plates"
+  },
+  "rhs": {
+   "en": "Square & rectangular hollow sections",
+   "ar": "مقاطع مجوفة مربعة ومستطيلة",
+   "short": "Hollow sections"
+  },
+  "i": {
+   "en": "IPE / IPN beams & other I/H sections",
+   "ar": "عوارض IPE / IPN ومقاطع I/H أخرى",
+   "short": "I-beams",
+   "img": [
+    "img/p_i.jpg"
+   ]
+  },
+  "chs": {
+   "en": "Round tubes",
+   "ar": "أنابيب دائرية",
+   "short": "Tubes",
+   "img": [
+    "img/p_chs.jpg"
+   ]
+  },
+  "l": {
+   "en": "Angles & T-sections",
+   "ar": "زوايا ومقاطع T",
+   "short": "Angles"
+  },
+  "chq": {
+   "en": "Chequer plates",
+   "ar": "صفائح مضلّعة (Chequer)",
+   "short": "Chequer plates",
+   "img": [
+    "img/p_chq.jpg"
+   ]
+  },
+  "u": {
+   "en": "Channels (UPN / UPE / U)",
+   "ar": "مقاطع U (UPN / UPE)",
+   "short": "Channels"
+  },
+  "fb": {
+   "en": "Flats & bars",
+   "ar": "شرائح وقضبان مصمتة",
+   "short": "Flats & bars"
+  },
+  "rail": {
+   "en": "Rails",
+   "ar": "قضبان سكك",
+   "short": "Rails",
+   "img": [
+    "img/p_rail.jpg"
+   ]
+  },
+  "oth": {
+   "en": "Fabricated elements & thick plate offcuts",
+   "ar": "عناصر مصنّعة وقطع صفائح سميكة",
+   "short": "Other"
+  },
+  "ss": {
+   "en": "Stainless steel",
+   "ar": "فولاذ مقاوم للصدأ (ستانلس)",
+   "short": "Stainless"
+  }
+ },
+ "group_order": [
+  "h",
+  "pl",
+  "rhs",
+  "i",
+  "chs",
+  "l",
+  "chq",
+  "u",
+  "fb",
+  "rail",
+  "oth",
+  "ss"
+ ],
+ "other_group": "oth",
+ "keep_order": true,
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
+ "qty_exact": true,
+ "rows_title": {
+  "en": "Items ({n})",
+  "ar": "الأصناف ({n})"
+ },
+ "kpis": [
+  {
+   "en": "Total weight",
+   "ar": "الوزن الإجمالي",
+   "value": "≈ 386 t"
+  },
+  {
+   "en": "S235JR / S355J2",
+   "ar": "S235JR / S355J2",
+   "value": "≈ 218 t / 136 t"
+  }
+ ],
+ "location": {
+  "en": "Poland",
+  "ar": "بولندا"
+ },
+ "sets": {
+  "title": {
+   "en": "Read first – weight, grades and lengths",
+   "ar": "اقرأ أولاً – الوزن والدرجات والأطوال"
+  },
+  "nav": {
+   "en": "Read first",
+   "ar": "اقرأ أولاً"
+  },
+  "intro": {
+   "en": "Key figures for traders. Weights are calculated line by line from the section sizes in the stock list; the lot is sold complete, not by line.",
+   "ar": "أرقام أساسية للتجار. الأوزان محسوبة صنفاً صنفاً من مقاسات المقاطع في قائمة المخزون؛ والدفعة تُباع كاملة لا صنفاً صنفاً."
+  },
+  "rows": [
+   {
+    "en": "Total weight (approx.)",
+    "ar": "الوزن الإجمالي (تقريبي)",
+    "qty": "≈ 386 t",
+    "detail": {
+     "en": "90% of the tonnage is calculated from the profile sizes (EN section tables, 7.85 kg/dm³); the rest is estimated.",
+     "ar": "90% من الحمولة محسوبة من مقاسات المقاطع (جداول EN، ‏7.85 كغ/دسم³)، والباقي تقديري."
+    }
+   },
+   {
+    "en": "Grade S235JR",
+    "ar": "الدرجة S235JR",
+    "qty": "≈ 218 t",
+    "detail": {
+     "en": "General structural steel.",
+     "ar": "فولاذ إنشائي عام."
+    }
+   },
+   {
+    "en": "Grade S355J2",
+    "ar": "الدرجة S355J2",
+    "qty": "≈ 136 t",
+    "detail": {
+     "en": "Higher-strength structural steel.",
+     "ar": "فولاذ إنشائي عالي المقاومة."
+    }
+   },
+   {
+    "en": "Grade not stated / other",
+    "ar": "درجة غير مذكورة / أخرى",
+    "qty": "≈ 31 t",
+    "detail": {
+     "en": "Mostly chequer plates and non-standard sections; plus rails (R260/R600) and stainless 1.4301 (≈ 1 t).",
+     "ar": "معظمها صفائح مضلّعة ومقاطع بمقاسات غير قياسية؛ إضافة إلى قضبان سكك (R260/R600) وستانلس 1.4301 (≈ 1 طن)."
+    }
+   },
+   {
+    "en": "Pieces up to 5.9 m",
+    "ar": "قطع حتى 5.9 م",
+    "qty": "1,011 pcs · ≈ 170 t",
+    "detail": {
+     "en": "Fit 20′ and 40′ containers.",
+     "ar": "تدخل في حاويات 20 و40 قدماً."
+    }
+   },
+   {
+    "en": "Pieces 5.9–12.0 m",
+    "ar": "قطع 5.9–12.0 م",
+    "qty": "826 pcs · ≈ 152 t",
+    "detail": {
+     "en": "Fit 40′ containers.",
+     "ar": "تدخل في حاويات 40 قدماً."
+    }
+   },
+   {
+    "en": "Pieces longer than 12.0 m",
+    "ar": "قطع أطول من 12.0 م",
+    "qty": "71 pcs · ≈ 44 t",
+    "detail": {
+     "en": "48 pieces at 12.1 m (≈ 23 t), the rest 14–15 m and one 21 m chequer plate: flat-rack / open-top containers, trucks, or cutting to length.",
+     "ar": "منها 48 قطعة بطول 12.1 م (≈ 23 طن)، والباقي 14–15 م وصفيحة مضلّعة واحدة 21 م: تحتاج حاويات flat-rack / open-top أو شاحنات، أو القصّ إلى أطوال أقصر."
+    }
+   },
+   {
+    "en": "Sets and offcuts",
+    "ar": "أطقم وقطع",
+    "qty": "3 lines · ≈ 20 t",
+    "detail": {
+     "en": "A set of 139 chequer plates (6 mm, up to 6 m), thick plate offcuts and a fabricated element.",
+     "ar": "طقم من 139 صفيحة مضلّعة (6 مم، حتى 6 م)، وقطع صفائح سميكة، وعنصر مصنّع."
+    }
+   }
+  ],
+  "note": {
+   "en": "Weights and length bands are calculated from the stock list; actual weights confirmed at loading.",
+   "ar": "الأوزان وفئات الأطوال محسوبة من قائمة المخزون؛ والأوزان الفعلية تُؤكَّد عند التحميل."
+  }
+ },
+ "shipping": {
+  "note": {
+   "en": "Total weight = sum of the line weights. Steel loads are weight-bound, so the container count follows the weight. Only pieces up to 5.9 m go into 20′ containers; pieces longer than 12.0 m need flat-rack/open-top equipment or trucks. Nearest seaports: Gdańsk ≈ 565 km and Gdynia ≈ 580 km by road; Szczecin ≈ 705 km.",
+   "ar": "الوزن الإجمالي = مجموع أوزان الأصناف. حمولات الفولاذ محكومة بالوزن، لذا يتبع عدد الحاويات الوزن. القطع حتى 5.9 م فقط تدخل حاويات 20 قدماً؛ والقطع الأطول من 12.0 م تحتاج flat-rack / open-top أو شاحنات. أقرب الموانئ: غدانسك ≈ 565 كم وغدينيا ≈ 580 كم براً؛ وشتشيتسين ≈ 705 كم."
+  }
+ },
+ "note": {
+  "en": "Item names as in the Polish stock list: Kątownik = angle · Ceownik = channel · Dwuteownik = I/H section · Teownik = T-section · Płaskownik = flat bar · Pręt = bar · Rura = tube (okrągła round, kwadratowa square, prostokątna rectangular) · RO = round tube · RK = square tube · Blacha = plate (łezka = chequer) · Szyna = rail · nierdzewna = stainless · L = length in mm. Photos are representative pictures of the product type, not of the actual stock. Sold as one complete lot. Subject to prior sale.",
+  "ar": "أسماء الأصناف كما في قائمة المخزون البولندية: Kątownik = زاوية · Ceownik = مقطع U · Dwuteownik = مقطع I/H · Teownik = مقطع T · Płaskownik = شريحة مسطحة · Pręt = قضيب مصمت · Rura = أنبوب (okrągła دائري، kwadratowa مربع، prostokątna مستطيل) · RO = أنبوب دائري · RK = أنبوب مربع · Blacha = صفيحة (łezka = مضلّعة) · Szyna = قضيب سكة · nierdzewna = ستانلس · L = الطول بالمليمتر. الصور توضيحية لنوع المنتج وليست للمخزون الفعلي. تُباع دفعة واحدة كاملة. البضاعة متاحة حتى نفادها."
+ },
+ "credits": "Representative photos: H-beams: W.carter (CC0) · I-beams: W.carter (CC0) · Chequer plates: HoskingIndustries (CC BY 2.0) · Tubes: Sắt Thép Biên Hòa (CC BY-SA 4.0) · Rails: Mathias Lück (= Schreibschaf) (Attribution)"
+}
