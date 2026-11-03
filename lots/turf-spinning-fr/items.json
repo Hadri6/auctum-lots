@@ -1,0 +1,1228 @@
+[
+ {
+  "ref": "84",
+  "name": "Rouleaux de gazon synthétique 1 m x 30 m – listing 764 rouleaux (22 890 m²), déclaré premier choix, poussiéreux",
+  "qty": 22890,
+  "group": "turf",
+  "type_en": "Synthetic turf rolls",
+  "type_ar": "لفات عشب صناعي",
+  "status": "first",
+  "weight_t": [
+   36.6,
+   59.5
+  ],
+  "unit": [
+   "m²",
+   "م²"
+  ],
+  "note": {
+   "en": "764 rolls, each 1 m wide × 30 m long (≈ 30 m² per roll), finished goods declared first choice; dusty from storage. Pile height, yarn and backing specification on request.",
+   "ar": "764 لفة، عرض كل لفة 1 م وطولها 30 م (≈ 30 م² للفة)، منتج نهائي مصنّف درجة أولى؛ عليه غبار من التخزين. ارتفاع الوبر ونوع الخيط والظهر عند الطلب."
+  },
+  "img": "img/p_84.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "83",
+  "name": "Rouleaux de gazon, produit fini deci delà (en 2 m ou 1 m)",
+  "qty": 1,
+  "group": "turf",
+  "type_en": "Synthetic turf – loose rolls",
+  "type_ar": "عشب صناعي – لفات متفرقة",
+  "status": "mixed",
+  "weight_t": [
+   1,
+   3
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "note": {
+   "en": "Additional loose finished rolls in 1 m and 2 m width, various lengths.",
+   "ar": "لفات نهائية إضافية متفرقة بعرض 1 م و2 م وأطوال مختلفة."
+  },
+  "img": "img/p_83.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "51",
+  "name": "Continu à filer NSC CF 53 SCHLUMBERGER n° 7233 de 1993 – 288 broches, double étirage, anneaux Ø 90, fuseau 400, fil Nm 4.5–10 + bobinoir KARL MAYER 18 têtes RC 10 VD 14 (1992) + épurateur LOEPFE MASTER",
+  "qty": 1,
+  "group": "spinning",
+  "type_en": "Ring spinning frame with winder",
+  "type_ar": "آلة غزل حلقي مع آلة لف",
+  "status": "used",
+  "weight_t": [
+   6,
+   9
+  ],
+  "note": {
+   "en": "NSC / Schlumberger CF 53, year 1993: 288 spindles, double drafting, ring Ø 90 mm, 400 mm spindle, yarn count Nm 4.5–10 (coarse carpet yarns). Sold as a set with a Karl Mayer 18-head winder (1992) and a Loepfe yarn clearer.",
+   "ar": "NSC / Schlumberger CF 53، سنة 1993: ‏288 مغزلاً، سحب مزدوج، حلقة Ø 90 مم، مغزل 400 مم، نمرة خيط Nm 4.5–10 (خيوط سجاد سميكة). تُباع كطقم مع آلة لف Karl Mayer بـ18 رأساً (1992) ومنقّي خيوط Loepfe."
+  },
+  "img": "img/p_51.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "52",
+  "name": "Continu à filer NSC CF 53 SCHLUMBERGER n° 7234 de 1993 – même capacité + bobinoir KARL MAYER 18 têtes RC 10 VD n° 2615 (1992) + épurateur LOEPFE MASTER",
+  "qty": 1,
+  "group": "spinning",
+  "type_en": "Ring spinning frame with winder",
+  "type_ar": "آلة غزل حلقي مع آلة لف",
+  "status": "used",
+  "weight_t": [
+   6,
+   9
+  ],
+  "note": {
+   "en": "Second identical frame (same specification as line 51) with its own Karl Mayer winder and Loepfe clearer.",
+   "ar": "آلة ثانية مطابقة (نفس مواصفات البند 51) مع آلة لف Karl Mayer ومنقّي Loepfe خاصين بها."
+  },
+  "img": "img/p_52.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "53",
+  "name": "Machine de test USTER TESTER 5 type UT5-5400, sensor CS, n° 410101-04200 de 2010 + tables",
+  "qty": 1,
+  "group": "spinning",
+  "type_en": "Yarn evenness tester",
+  "type_ar": "جهاز فحص انتظام الخيوط",
+  "status": "used",
+  "weight_t": [
+   0.8,
+   1.5
+  ],
+  "note": {
+   "en": "Uster Tester 5 (UT5-S400 series, CS sensor), year 2010, with tables – laboratory evenness / hairiness testing of slivers and yarns.",
+   "ar": "Uster Tester 5 (فئة UT5-S400، حسّاس CS)، سنة 2010، مع الطاولات – فحص مخبري لانتظام وشعيرات الشرائط والخيوط."
+  },
+  "img": "img/p_53.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "35",
+  "name": "Machine laine peignée KARL MAYER (verte) de 1990 RC 10 VD n° 2339 – incomplet",
+  "qty": 1,
+  "group": "spinning",
+  "type_en": "Spinning winder (Karl Mayer)",
+  "type_ar": "آلة لف خيوط (Karl Mayer)",
+  "status": "incomplete",
+  "weight_t": [
+   1,
+   2
+  ],
+  "img": "img/p_35.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "36",
+  "name": "Bobinoir vert remisé MAYER 1992 RC 10 VD n° 2619 – incomplet",
+  "qty": 1,
+  "group": "spinning",
+  "type_en": "Spinning winder (Karl Mayer)",
+  "type_ar": "آلة لف خيوط (Karl Mayer)",
+  "status": "incomplete",
+  "weight_t": [
+   0.8,
+   1.5
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "57",
+  "name": "Ouvreuse LAROCHE suspendue de 1984 n° 689401",
+  "qty": 1,
+  "group": "spinning",
+  "type_en": "Fibre opener",
+  "type_ar": "آلة فتح الألياف",
+  "status": "used",
+  "weight_t": [
+   1,
+   2
+  ],
+  "img": "img/p_fibre-opener.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "55",
+  "name": "Pots à ressorts pour rubans – capacité 3 000 m de ruban / 22 kg, H 1000 x Ø 700",
+  "qty": 500,
+  "group": "spinning",
+  "type_en": "Sliver cans (with spring)",
+  "type_ar": "أوعية شرائط بنابض",
+  "status": "used",
+  "weight_t": [
+   5,
+   7
+  ],
+  "note": {
+   "en": "Approx. 500 spring cans, 1,000 mm high × 700 mm diameter, 3,000 m / 22 kg sliver each.",
+   "ar": "نحو 500 وعاء بنابض، ارتفاع 1,000 مم وقطر 700 مم، سعة 3,000 م / 22 كغ شريط."
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "56",
+  "name": "Pots sans ressorts pour rubans",
+  "qty": 800,
+  "group": "spinning",
+  "type_en": "Sliver cans (without spring)",
+  "type_ar": "أوعية شرائط بدون نابض",
+  "status": "used",
+  "weight_t": [
+   6.4,
+   8.8
+  ],
+  "note": {
+   "en": "Approx. 800 cans without spring.",
+   "ar": "نحو 800 وعاء بدون نابض."
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "54",
+  "name": "Balance plateau",
+  "qty": 1,
+  "group": "spinning",
+  "type_en": "Platform scale",
+  "type_ar": "ميزان منصة",
+  "status": "used",
+  "weight_t": [
+   0.02,
+   0.05
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "44",
+  "name": "Chariot élévateur CLARK thermique (gaz) avec pince à balles KAUP 2 T de 2019",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "LPG forklift with bale clamp",
+  "type_ar": "رافعة شوكية غاز مع ملقط بالات",
+  "status": "used",
+  "weight_t": [
+   3.2,
+   3.8
+  ],
+  "note": {
+   "en": "Clark LPG forklift, year 2019, with Kaup bale clamp, 2 t.",
+   "ar": "رافعة Clark تعمل بالغاز، سنة 2019، مع ملقط بالات Kaup، حمولة 2 طن."
+  },
+  "img": "img/p_44.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "40",
+  "name": "Chariot élévateur TOYOTA GF 18 thermique au gaz 1,5 T de 2015",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "LPG forklift",
+  "type_ar": "رافعة شوكية غاز",
+  "status": "used",
+  "weight_t": [
+   2.6,
+   3.0
+  ],
+  "img": "img/p_lpg-forklift.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "41",
+  "name": "Chariot élévateur TOYOTA 25 SAS avec barre, au gaz, de 2003",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "LPG forklift",
+  "type_ar": "رافعة شوكية غاز",
+  "status": "used",
+  "weight_t": [
+   3.5,
+   4.2
+  ],
+  "img": "img/p_lpg-forklift.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "39",
+  "name": "Chariot élévateur électrique CLARK vert, ancien modèle, bandages pleins + chargeur NORDYNE TS 4880",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "Electric forklift",
+  "type_ar": "رافعة شوكية كهربائية",
+  "status": "used",
+  "weight_t": [
+   3,
+   4
+  ],
+  "img": "img/p_electric-forklift.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "34",
+  "name": "Nacelle élévatrice MANITOU 80 EX (Maniaccess), ancien modèle, déclarée en état",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "Vertical mast lift",
+  "type_ar": "رافعة أفراد عمودية",
+  "status": "used",
+  "weight_t": [
+   1,
+   1.5
+  ],
+  "img": "img/p_34.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "61",
+  "name": "Rampe de chargement mobile STEIBLE ST 71 hydraulique de 2017",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "Mobile yard ramp",
+  "type_ar": "منصة تحميل متنقلة",
+  "status": "used",
+  "weight_t": [
+   4,
+   6
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "46",
+  "name": "Petit transpalette électrique orange de 2022",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "Electric pallet truck",
+  "type_ar": "رافعة طبالي كهربائية",
+  "status": "used",
+  "weight_t": [
+   0.15,
+   0.3
+  ],
+  "img": "img/p_electric-pallet-truck.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "48",
+  "name": "Transpalette électrique rouge FENWICK T 18 de 2001",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "Electric pallet truck",
+  "type_ar": "رافعة طبالي كهربائية",
+  "status": "used",
+  "weight_t": [
+   0.8,
+   1.2
+  ],
+  "img": "img/p_electric-pallet-truck.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "47",
+  "name": "2 transpalettes jaunes",
+  "qty": 2,
+  "group": "handling",
+  "type_en": "Hand pallet truck",
+  "type_ar": "رافعة طبالي يدوية",
+  "status": "used",
+  "weight_t": [
+   0.12,
+   0.16
+  ],
+  "img": "img/p_hand-pallet-truck.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "49",
+  "name": "1 transpalette rouge",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "Hand pallet truck",
+  "type_ar": "رافعة طبالي يدوية",
+  "status": "used",
+  "weight_t": [
+   0.06,
+   0.08
+  ],
+  "img": "img/p_hand-pallet-truck.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "37",
+  "name": "Ancien tracteur électrique d'atelier (HS)",
+  "qty": 1,
+  "group": "handling",
+  "type_en": "Electric tow tractor",
+  "type_ar": "جرّار كهربائي للورشة",
+  "status": "defect",
+  "weight_t": [
+   0.5,
+   1
+  ],
+  "img": "img/p_electric-tow-tractor.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "43",
+  "name": "Presse à balles GALICIA de 2007 n° 2430",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Baling press",
+  "type_ar": "مكبس بالات",
+  "status": "used",
+  "weight_t": [
+   3,
+   6
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "42",
+  "name": "Presse verticale SACRIA à balles SAM 20 de 1994",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Baling press",
+  "type_ar": "مكبس بالات",
+  "status": "used",
+  "weight_t": [
+   1.5,
+   3
+  ],
+  "img": "img/p_42.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "58",
+  "name": "Presse verticale SACRIA à balles CHF 12 n° 1780 de 1986",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Baling press",
+  "type_ar": "مكبس بالات",
+  "status": "used",
+  "weight_t": [
+   1.2,
+   2.5
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "63",
+  "name": "Importante presse LVD 60 T de 1973, balles de 135 à 300 kg (ferraille)",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Baling press",
+  "type_ar": "مكبس بالات",
+  "status": "used",
+  "weight_t": [
+   8,
+   15
+  ],
+  "note": {
+   "en": "LVD 60 t press, year 1973, bales of 135–300 kg (used for scrap).",
+   "ar": "مكبس LVD بقوة 60 طن، سنة 1973، بالات 135–300 كغ (مستخدم للخردة)."
+  },
+  "img": "img/p_63.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "45",
+  "name": "Presse 1,5 T n° 332, ancien modèle",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Baling press",
+  "type_ar": "مكبس بالات",
+  "status": "used",
+  "weight_t": [
+   0.5,
+   1.5
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "38",
+  "name": "Machine banderoleuse FILM 9 de 2019",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Pallet stretch wrapper",
+  "type_ar": "آلة تغليف طبالي بالنايلون",
+  "status": "used",
+  "weight_t": [
+   0.5,
+   0.8
+  ],
+  "img": "img/p_38.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "64",
+  "name": "2 importants videurs pour ferraille (verts)",
+  "qty": 2,
+  "group": "packing",
+  "type_en": "Container tipper",
+  "type_ar": "قلّاب حاويات",
+  "status": "used",
+  "weight_t": [
+   0.6,
+   1.2
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "62",
+  "name": "Ligne ouvreuse TAMAFA et MACKIE Louparc, 1965/68 (pour ferraille)",
+  "qty": 1,
+  "group": "packing",
+  "type_en": "Opener line (scrap value)",
+  "type_ar": "خط فتح ألياف (قيمة خردة)",
+  "status": "scrap",
+  "weight_t": [
+   4,
+   8
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "12",
+  "name": "Compresseur ATLAS COPCO GA 75, ancien modèle, 58 035 heures",
+  "qty": 1,
+  "group": "utilities",
+  "type_en": "Screw compressor",
+  "type_ar": "ضاغط هواء لولبي",
+  "status": "used",
+  "weight_t": [
+   1.5,
+   2
+  ],
+  "img": "img/p_12.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "13",
+  "name": "Compresseur KAESER ASD 40, ancien modèle – problème de carte",
+  "qty": 1,
+  "group": "utilities",
+  "type_en": "Screw compressor",
+  "type_ar": "ضاغط هواء لولبي",
+  "status": "defect",
+  "weight_t": [
+   0.5,
+   0.6
+  ],
+  "note": {
+   "en": "Control board fault declared.",
+   "ar": "عطل مُعلَن في لوحة التحكم."
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "15",
+  "name": "Sécheur PARTENAIR ACT-EVO-660, récent (2018)",
+  "qty": 1,
+  "group": "utilities",
+  "type_en": "Compressed-air dryer",
+  "type_ar": "مجفف هواء مضغوط",
+  "status": "used",
+  "weight_t": [
+   0.1,
+   0.2
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "14",
+  "name": "Cuve SECIM 2 000 litres (1981)",
+  "qty": 1,
+  "group": "utilities",
+  "type_en": "Air receiver tank",
+  "type_ar": "خزان هواء مضغوط",
+  "status": "used",
+  "weight_t": [
+   0.4,
+   0.6
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "65",
+  "name": "Cuve inox",
+  "qty": 1,
+  "group": "utilities",
+  "type_en": "Stainless steel tank",
+  "type_ar": "خزان ستانلس ستيل",
+  "status": "used",
+  "weight_t": [
+   0.2,
+   0.5
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "11",
+  "name": "Importante chaudière SELIM Automate (ancienne) avec bâche et accessoires – déclarée HS",
+  "qty": 1,
+  "group": "utilities",
+  "type_en": "Industrial boiler",
+  "type_ar": "غلاية صناعية",
+  "status": "defect",
+  "weight_t": [
+   4,
+   8
+  ],
+  "img": "img/p_11.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "27",
+  "name": "Tour GALLIC 16-320, ancien modèle",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Centre lathe",
+  "type_ar": "مخرطة",
+  "status": "used",
+  "weight_t": [
+   1.5,
+   2.5
+  ],
+  "img": "img/p_27.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "20",
+  "name": "Fraiseuse DUFOUR, ancien modèle (vers 1965)",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Milling machine",
+  "type_ar": "آلة تفريز",
+  "status": "used",
+  "weight_t": [
+   1,
+   2
+  ],
+  "img": "img/p_20.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "22",
+  "name": "Perceuse d'établi",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Bench drill",
+  "type_ar": "مثقب طاولة",
+  "status": "used",
+  "weight_t": [
+   0.1,
+   0.3
+  ],
+  "img": "img/p_bench-drill.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "23",
+  "name": "Très ancienne perceuse à poulies (milieu XXe)",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Bench drill",
+  "type_ar": "مثقب طاولة",
+  "status": "used",
+  "weight_t": [
+   0.1,
+   0.3
+  ],
+  "img": "img/p_bench-drill.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "24",
+  "name": "Important touret à polir",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Bench grinder",
+  "type_ar": "آلة جلخ وتلميع",
+  "status": "used",
+  "weight_t": [
+   0.1,
+   0.3
+  ],
+  "img": "img/p_bench-grinder.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "25",
+  "name": "Important touret double MAPE, ancien modèle",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Bench grinder",
+  "type_ar": "آلة جلخ وتلميع",
+  "status": "used",
+  "weight_t": [
+   0.05,
+   0.15
+  ],
+  "img": "img/p_bench-grinder.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "18",
+  "name": "Petite presse rouge d'établi, ancien modèle",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Bench press",
+  "type_ar": "مكبس طاولة",
+  "status": "used",
+  "weight_t": [
+   0.05,
+   0.15
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "21",
+  "name": "Petit poste à souder de chantier, ancien modèle",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Welding machine",
+  "type_ar": "ماكينة لحام",
+  "status": "used",
+  "weight_t": [
+   0.02,
+   0.05
+  ],
+  "img": "img/p_welding-machine.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "19",
+  "name": "Grande longueur d'établis en bois avec étaux",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Workbench with vice",
+  "type_ar": "طاولة عمل مع ملزمة",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   0.8
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_workbench-with-vice.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "28",
+  "name": "Armoires d'atelier en tôle bleue",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Tool cabinet",
+  "type_ar": "خزانة عدّة معدنية",
+  "status": "used",
+  "weight_t": [
+   0.2,
+   0.5
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_tool-cabinet.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "26",
+  "name": "Casiers en métal",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Tool cabinet",
+  "type_ar": "خزانة عدّة معدنية",
+  "status": "used",
+  "weight_t": [
+   0.05,
+   0.15
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_tool-cabinet.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "30",
+  "name": "Casier à trappes",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Tool cabinet",
+  "type_ar": "خزانة عدّة معدنية",
+  "status": "used",
+  "weight_t": [
+   0.02,
+   0.05
+  ],
+  "img": "img/p_tool-cabinet.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "29",
+  "name": "Caisse à outils incomplète et divers",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Hand tools",
+  "type_ar": "عدد يدوية",
+  "status": "used",
+  "weight_t": [
+   0.02,
+   0.05
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "31",
+  "name": "Ancienne forge avec hotte",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Forge with hood",
+  "type_ar": "كور حدادة مع شفاط",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   0.8
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "60",
+  "name": "Étagères en tôle grise",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Metal shelving",
+  "type_ar": "رفوف معدنية",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   0.8
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_60.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "77",
+  "name": "Nombreuses pièces détachées pour machines textiles : courroies, pièces métalliques et électriques, interrupteurs, poulies…",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Machine spare parts",
+  "type_ar": "قطع غيار ماكينات",
+  "status": "part",
+  "weight_t": [
+   1,
+   3
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "note": {
+   "en": "Large stock of spare parts for textile machines (belts, metal and electrical parts, switches, pulleys); old stock, partly for models no longer in use.",
+   "ar": "مخزون كبير من قطع غيار ماكينات النسيج (سيور، قطع معدنية وكهربائية، مفاتيح، بكرات)؛ مخزون قديم وبعضه لموديلات لم تعد مستعملة."
+  },
+  "img": "img/p_77.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "74",
+  "name": "RENAULT KANGOO (03/2008), 76 208 km",
+  "qty": 1,
+  "group": "vehicle",
+  "type_en": "Van",
+  "type_ar": "سيارة فان",
+  "status": "used",
+  "weight_t": [
+   1.2,
+   1.3
+  ],
+  "note": {
+   "en": "Renault Kangoo van, first registration 03/2008, 76,208 km.",
+   "ar": "فان Renault Kangoo، أول تسجيل 03/2008، ‏76,208 كم."
+  },
+  "img": "img/p_74.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "2",
+  "name": "Casier bois à 4 rideaux, 1 à 3 rideaux, 2 à 2 rideaux, perroquet, bureau administration bois",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office cabinets & desk",
+  "type_ar": "خزائن ومكتب إداري",
+  "status": "used",
+  "weight_t": [
+   0.2,
+   0.5
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_2.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "1",
+  "name": "Divers mobiliers courants : bureaux, tables, chaises – anciens modèles",
+  "qty": 1,
+  "group": "office",
+  "type_en": "Office furniture",
+  "type_ar": "أثاث مكتبي",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   0.8
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_1.jpg",
+  "photo": "exact",
+  "photo_label": {
+   "en": "Site photo",
+   "ar": "صورة من الموقع"
+  }
+ },
+ {
+  "ref": "3",
+  "name": "2 coffres-forts déclarés vides, sans clefs",
+  "qty": 2,
+  "group": "office",
+  "type_en": "Safe",
+  "type_ar": "خزنة حديدية",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   1
+  ],
+  "note": {
+   "en": "No keys.",
+   "ar": "بدون مفاتيح."
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "4",
+  "name": "2 baies informatiques",
+  "qty": 2,
+  "group": "office",
+  "type_en": "Server rack",
+  "type_ar": "خزانة شبكات (Rack)",
+  "status": "used",
+  "weight_t": [
+   0.1,
+   0.2
+  ],
+  "img": "img/p_server-rack.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "5",
+  "name": "Matériel informatique divers",
+  "qty": 1,
+  "group": "office",
+  "type_en": "IT equipment",
+  "type_ar": "أجهزة معلوماتية",
+  "status": "used",
+  "weight_t": [
+   0.05,
+   0.1
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "6",
+  "name": "Fort lot de palettes, état moyen",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Wooden pallets",
+  "type_ar": "طبالي خشبية",
+  "status": "used",
+  "weight_t": [
+   1,
+   3
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_wooden-pallets.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "67",
+  "name": "Palettes en bois en nombre",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Wooden pallets",
+  "type_ar": "طبالي خشبية",
+  "status": "used",
+  "weight_t": [
+   1,
+   3
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_wooden-pallets.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "9",
+  "name": "Bacs de transport d'atelier sur roulettes (verts ou bordeaux)",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Transport bins on castors",
+  "type_ar": "حاويات نقل بعجلات",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   0.8
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "50",
+  "name": "8 bacs verts à roulettes",
+  "qty": 8,
+  "group": "autres",
+  "type_en": "Transport bins on castors",
+  "type_ar": "حاويات نقل بعجلات",
+  "status": "used",
+  "weight_t": [
+   0.1,
+   0.2
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "66",
+  "name": "Cages en métal",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Wire cages",
+  "type_ar": "أقفاص معدنية",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   1
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "7",
+  "name": "Cartons d'échantillons (4 palettes)",
+  "qty": 4,
+  "group": "autres",
+  "type_en": "Sample boxes",
+  "type_ar": "كراتين عيّنات",
+  "status": "used",
+  "weight_t": [
+   0.4,
+   1
+  ],
+  "unit": [
+   "pallets",
+   "طبلية"
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "8",
+  "name": "Palettes de cartons plats d'emballage",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Cardboard packaging",
+  "type_ar": "كرتون تغليف",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   1
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "80",
+  "name": "Cartons en palettes : boîtes américaines, intercalaires",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Cardboard packaging",
+  "type_ar": "كرتون تغليف",
+  "status": "used",
+  "weight_t": [
+   0.3,
+   1
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "81",
+  "name": "Sacs big bag vides d'occasion",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Big bags (FIBC)",
+  "type_ar": "أكياس جامبو (Big bag)",
+  "status": "used",
+  "weight_t": [
+   0.05,
+   0.2
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "76",
+  "name": "Profilés en fer rouillés",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Scrap metal",
+  "type_ar": "خردة حديد",
+  "status": "scrap",
+  "weight_t": [
+   0.5,
+   2
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_scrap-metal.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "78",
+  "name": "Ferraille, profilés entamés",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Scrap metal",
+  "type_ar": "خردة حديد",
+  "status": "scrap",
+  "weight_t": [
+   0.3,
+   1
+  ],
+  "unit": [
+   "lot",
+   "دفعة"
+  ],
+  "img": "img/p_scrap-metal.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "68",
+  "name": "Élévateur plateau bleu (ferraille)",
+  "qty": 1,
+  "group": "autres",
+  "type_en": "Platform lift (scrap value)",
+  "type_ar": "رافعة منصة (قيمة خردة)",
+  "status": "scrap",
+  "weight_t": [
+   0.3,
+   0.8
+  ],
+  "img": null,
+  "photo": null
+ }
+]

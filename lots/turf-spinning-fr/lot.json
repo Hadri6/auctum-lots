@@ -1,0 +1,193 @@
+{
+ "slug": "turf-spinning-fr",
+ "page_title": "Synthetic Turf Stock & Textile Plant Equipment – France",
+ "title": {
+  "en": "Synthetic turf – 22,890 m² (764 rolls) & textile plant equipment – France",
+  "ar": "عشب صناعي – 22,890 م² (764 لفة) ومعدات مصنع نسيج – فرنسا"
+ },
+ "subtitle": {
+  "en": "Finished-goods stock of a French carpet-yarn and synthetic-turf producer: 764 rolls of synthetic turf (1 m × 30 m, 22,890 m², declared first choice) plus loose rolls, together with the plant equipment – two NSC/Schlumberger CF 53 ring spinning frames with Karl Mayer winders, an Uster Tester 5 laboratory, ≈ 1,300 sliver cans, four forklifts (Clark 2019 with bale clamp, Toyota 2015), a 2017 mobile yard ramp, baling presses, compressors, a maintenance workshop and a van. The turf can be taken separately from the equipment.",
+  "ar": "مخزون منتج نهائي لمصنع فرنسي لخيوط السجاد والعشب الصناعي: 764 لفة عشب صناعي (1 م × 30 م، ‏22,890 م²، مصنّفة درجة أولى) ولفات متفرقة، ومعها معدات المصنع – آلتا غزل حلقي NSC/Schlumberger CF 53 مع آلات لف Karl Mayer، ومختبر Uster Tester 5، ونحو 1,300 وعاء شرائط، وأربع رافعات شوكية (Clark 2019 مع ملقط بالات، Toyota 2015)، ومنصة تحميل متنقلة 2017، ومكابس بالات، وضواغط هواء، وورشة صيانة، وسيارة فان. يمكن أخذ العشب منفصلاً عن المعدات."
+ },
+ "groups_word": [
+  "Categories",
+  "الفئات"
+ ],
+ "qty_label": [
+  "Lines",
+  "بنود"
+ ],
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "all_cards": true,
+ "keep_order": true,
+ "group_order": [
+  "turf",
+  "spinning",
+  "handling",
+  "packing",
+  "utilities",
+  "workshop",
+  "vehicle",
+  "office",
+  "autres"
+ ],
+ "other_group": "autres",
+ "kpis": [
+  {
+   "en": "Synthetic turf",
+   "ar": "عشب صناعي",
+   "value": "22,890 m² · 764 rolls"
+  },
+  {
+   "en": "Spinning frames",
+   "ar": "آلات غزل",
+   "value": "2 × NSC CF 53"
+  },
+  {
+   "en": "Forklifts",
+   "ar": "رافعات شوكية",
+   "value": "4"
+  }
+ ],
+ "location": {
+  "en": "France",
+  "ar": "فرنسا"
+ },
+ "groups": {
+  "turf": {
+   "en": "Synthetic turf – finished goods",
+   "ar": "عشب صناعي – منتج نهائي",
+   "short": "Turf",
+   "img": [
+    "img/p_turf_1.jpg",
+    "img/p_turf_2.jpg",
+    "img/p_turf_3.jpg"
+   ],
+   "img_label": {
+    "en": "Actual photo",
+    "ar": "صورة فعلية",
+    "cls": "ok"
+   }
+  },
+  "spinning": {
+   "en": "Spinning & yarn laboratory",
+   "ar": "الغزل ومختبر الخيوط",
+   "short": "Spinning",
+   "img": [
+    "img/p_spin_1.jpg",
+    "img/p_spin_2.jpg",
+    "img/p_spin_3.jpg"
+   ],
+   "img_label": {
+    "en": "Actual photo",
+    "ar": "صورة فعلية",
+    "cls": "ok"
+   }
+  },
+  "handling": {
+   "en": "Forklifts & material handling",
+   "ar": "رافعات شوكية ومناولة",
+   "short": "Handling"
+  },
+  "packing": {
+   "en": "Baling & packing",
+   "ar": "الكبس والتغليف",
+   "short": "Baling"
+  },
+  "utilities": {
+   "en": "Compressed air & utilities",
+   "ar": "الهواء المضغوط والمرافق",
+   "short": "Utilities"
+  },
+  "workshop": {
+   "en": "Maintenance workshop & spare parts",
+   "ar": "ورشة الصيانة وقطع الغيار",
+   "short": "Workshop"
+  },
+  "vehicle": {
+   "en": "Vehicle",
+   "ar": "مركبة",
+   "short": "Vehicle"
+  },
+  "office": {
+   "en": "Office",
+   "ar": "المكتب",
+   "short": "Office"
+  },
+  "autres": {
+   "en": "Pallets, packaging & scrap",
+   "ar": "طبالي وتغليف وخردة",
+   "short": "Other"
+  }
+ },
+ "statuses": {
+  "first": {
+   "en": "First choice",
+   "ar": "درجة أولى",
+   "cls": "ok",
+   "desc_en": "Finished goods declared first choice (dusty from storage).",
+   "desc_ar": "منتج نهائي مصنّف درجة أولى (عليه غبار من التخزين)."
+  },
+  "mixed": {
+   "en": "Loose / remnants",
+   "ar": "متفرقة / بواقي",
+   "cls": "mod",
+   "desc_en": "Loose finished rolls of various widths and lengths.",
+   "desc_ar": "لفات نهائية متفرقة بعروض وأطوال مختلفة."
+  },
+  "used": {
+   "en": "Used – as seen",
+   "ar": "مستعملة – بحالتها",
+   "cls": "add",
+   "desc_en": "Used equipment, sold as seen, not individually tested.",
+   "desc_ar": "معدات مستعملة تُباع بحالتها دون فحص فردي."
+  },
+  "incomplete": {
+   "en": "Incomplete",
+   "ar": "ناقصة",
+   "cls": "bad",
+   "desc_en": "Machine declared incomplete.",
+   "desc_ar": "ماكينة مُعلَن أنها ناقصة."
+  },
+  "defect": {
+   "en": "Declared defective",
+   "ar": "معطّلة",
+   "cls": "bad",
+   "desc_en": "Declared out of order or with a known fault.",
+   "desc_ar": "مُعلَن أنها معطّلة أو فيها عطل معروف."
+  },
+  "part": {
+   "en": "Spare parts",
+   "ar": "قطع غيار",
+   "cls": "part",
+   "desc_en": "Spare parts and components, not complete machines.",
+   "desc_ar": "قطع غيار ومكوّنات، وليست ماكينات كاملة."
+  },
+  "scrap": {
+   "en": "Scrap value",
+   "ar": "قيمة خردة",
+   "cls": "bad",
+   "desc_en": "Old equipment or metal with scrap value only.",
+   "desc_ar": "معدات قديمة أو معدن بقيمة خردة فقط."
+  }
+ },
+ "note": {
+  "en": "Photos marked “Product photo”, “Site photo” or “Actual photo” were taken on site in October 2026 (a site photo may show the neighbouring machine of the same type); “Representative photo” shows the same type of equipment. Turf specification (pile height, yarn, backing, weight per m²) on request. Equipment sold as seen, without warranty; dismantling and loading by the buyer. Viewing by appointment. Subject to prior sale.",
+  "ar": "الصور الموسومة «صورة المنتج» أو «صورة من الموقع» أو «صورة فعلية» التُقطت في الموقع في أكتوبر 2026 (صورة الموقع قد تُظهر ماكينة مجاورة من نفس النوع)، و«صورة توضيحية» تُظهر نفس نوع المعدات. مواصفات العشب (ارتفاع الوبر، نوع الخيط، الظهر، الوزن لكل م²) عند الطلب. المعدات تُباع بحالتها دون ضمان، والفك والتحميل على المشتري. المعاينة بموعد. البضاعة متاحة حتى بيعها."
+ },
+ "shipping": {
+  "volume_m3": [
+   1200,
+   1900
+  ],
+  "no_20ft": true,
+  "note": {
+   "en": "Approximate. Synthetic turf alone ≈ 380–560 m³ / 37–60 t (rolls of ≈ 0.7–0.85 m diameter, 1.6–2.6 kg/m² estimated) = about 6–9 × 40′ HC. The ≈ 1,300 sliver cans are bulky (≈ 400–640 m³). The ring spinning frames are long machines and must be dismantled into sections; forklift / crane loading on site. Weights are the sum of per-line estimates.",
+   "ar": "تقديري. العشب الصناعي وحده ≈ 380–560 م³ / 37–60 طن (لفات بقطر ≈ 0.7–0.85 م، ووزن مقدّر 1.6–2.6 كغ/م²) = نحو 6–9 حاويات 40′ HC. أوعية الشرائط (≈ 1,300) كبيرة الحجم (≈ 400–640 م³). آلات الغزل الحلقي طويلة ويجب فكّها إلى أجزاء؛ التحميل برافعة شوكية أو رافعة في الموقع. الأوزان مجموع تقديرات البنود."
+  }
+ },
+ "credits": "Actual photos: on-site inventory, October 2026. Representative photos via Wikimedia Commons: Fibre opener: Batteur 1.JPG – Ryj, Public domain; LPG forklift: TAILIFT FORKLIFT (TOYOTA FORKLIFT).jpg – Dinkun Chen, CC BY-SA 4.0; LPG forklift: TAILIFT FORKLIFT (TOYOTA FORKLIFT).jpg – Dinkun Chen, CC BY-SA 4.0; Electric forklift: OM Elektrostapler l.jpg – Dieter Arndt, CC BY-SA 3.0; Electric pallet truck: Electric pallet jack.jpg – Three-quarter-ten, CC BY-SA 3.0; Electric pallet truck: Electric pallet jack.jpg – Three-quarter-ten, CC BY-SA 3.0; Hand pallet truck: Jungheinrich pallet jack in IKEA Copenhagen.jpg – Auledas, CC BY 4.0; Hand pallet truck: Jungheinrich pallet jack in IKEA Copenhagen.jpg – Auledas, CC BY 4.0; Electric tow tractor: Electric Towing Tractor Tecna VTA 10 - Strasbourg.jpg – Ralf Roletschek, CC BY 3.0; Bench drill: Induction motor drill press.jpg – Hardyplants, CC0; Bench drill: Induction motor drill press.jpg – Hardyplants, CC0; Bench grinder: Bench Grinder.jpg – Артём В., CC BY-SA 4.0; Bench grinder: Bench Grinder.jpg – Артём В., CC BY-SA 4.0; Welding machine: SMAW welding machine-2.jpg – Klaudio (Claudio Nardi), CC BY-SA 3.0; Workbench with vice: Upper part of a blue bench vise with clamping jaws in center, mounted on a wooden workbench, width c. 15 cm.jpg – Pittigrilli, CC BY 4.0; Tool cabinet: Tool Chest (5198803769).jpg – Charles &amp; Hudson, CC BY-SA 2.0; Tool cabinet: Tool Chest (5198803769).jpg – Charles &amp; Hudson, CC BY-SA 2.0; Tool cabinet: Tool Chest (5198803769).jpg – Charles &amp; Hudson, CC BY-SA 2.0; Server rack: Rack of Cisco Hyperflex HXAF 240c M5 nodes.jpg – Btrs, CC BY-SA 4.0; Wooden pallets: Wooden-pallets stacked 8.jpg – W.carter, CC0; Wooden pallets: Wooden-pallets stacked 8.jpg – W.carter, CC0; Scrap metal: Yorkshire Chemicals, tangled metal - geograph.org.uk - 1047015.jpg – RichTea, CC BY-SA 2.0; Scrap metal: Yorkshire Chemicals, tangled metal - geograph.org.uk - 1047015.jpg – RichTea, CC BY-SA 2.0."
+}
