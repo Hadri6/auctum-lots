@@ -67,6 +67,8 @@ def shipping_table(lot, item_weight=None):
     if wt:
         rows += f'<tr><td>{t("Total weight (approx.)", "الوزن الإجمالي (تقريبي)")}</td><td>{_fmt(*wt, " t")}</td></tr>'
     for en, ar, cap_v, cap_w in CONTAINERS:
+        if sh.get('no_containers'):   # parcel-sized lot: volume/weight + note only
+            break
         if en.startswith('20') and sh.get('no_20ft'):
             continue
         need = []

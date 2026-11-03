@@ -1,0 +1,91 @@
+{
+ "slug": "barber-clippers-pl",
+ "page_title": "Professional Hair Clippers & Parts",
+ "title": {
+  "en": "Professional hair clippers, trimmers & spare parts",
+  "ar": "ماكينات حلاقة احترافية وتريمرات وقطع غيار"
+ },
+ "subtitle": {
+  "en": "New barber machines from the warehouse stock of a barber-supply wholesaler: Wahl (Sterling 2 Plus, Taper 2000, Super Taper Cordless, Beret Prolithium), Artero (Poker+, Joker+ and the Joker Mini+ / Poker Mini+ trimmers), Fox Orion and Kemei – plus spare parts for Wahl and Andis machines (batteries, housings, motors, switches, blades, screws) and attachment guards. 446 pieces in 34 lines, offered as one lot.",
+  "ar": "ماكينات حلاقة جديدة من مخزون مستودع تاجر جملة لمستلزمات الحلاقين: Wahl ‏(Sterling 2 Plus وTaper 2000 وSuper Taper Cordless وBeret Prolithium)، وArtero ‏(Poker+ وJoker+ وتريمرات Joker Mini+ وPoker Mini+)، وFox Orion وKemei – مع قطع غيار لماكينات Wahl وAndis (بطاريات، أغلفة، محركات، مفاتيح، شفرات، براغي) وأمشاط تحديد. ‏446 قطعة في 34 بنداً، تُعرض كدفعة واحدة."
+ },
+ "groups_word": [
+  "Categories",
+  "الفئة"
+ ],
+ "kpis": [
+  {
+   "en": "Machines",
+   "ar": "ماكينات",
+   "value": "29"
+  },
+  {
+   "en": "Spare parts & guards",
+   "ar": "قطع غيار وأمشاط",
+   "value": "417"
+  }
+ ],
+ "location": {
+  "en": "Poland",
+  "ar": "بولندا"
+ },
+ "groups": {
+  "a_machines": {
+   "en": "Hair clippers & trimmers",
+   "ar": "ماكينات قص وتريمرات",
+   "short": "Machines"
+  },
+  "b_parts": {
+   "en": "Spare parts for Wahl & Andis machines",
+   "ar": "قطع غيار لماكينات Wahl وAndis",
+   "short": "Spare parts"
+  },
+  "c_guards": {
+   "en": "Attachment guards",
+   "ar": "أمشاط تحديد",
+   "short": "Guards"
+  }
+ },
+ "group_order": [
+  "a_machines",
+  "b_parts",
+  "c_guards"
+ ],
+ "other_group": "autres",
+ "statuses": {
+  "new": {
+   "en": "New machine",
+   "ar": "ماكينة جديدة",
+   "cls": "ok",
+   "desc_en": "Complete new machine from warehouse stock; not individually tested.",
+   "desc_ar": "ماكينة كاملة جديدة من مخزون المستودع؛ لم تُفحص قطعةً قطعة."
+  },
+  "part": {
+   "en": "Spare part",
+   "ar": "قطعة غيار",
+   "cls": "part",
+   "desc_en": "Single spare part for repairing Wahl or Andis machines; the stock list does not say whether a part is original or compatible.",
+   "desc_ar": "قطعة غيار منفردة لإصلاح ماكينات Wahl أو Andis؛ قائمة المخزون لا تذكر إن كانت أصلية أو متوافقة."
+  },
+  "addon": {
+   "en": "Attachment",
+   "ar": "ملحق",
+   "cls": "add",
+   "desc_en": "Clip-on attachment guard for clippers.",
+   "desc_ar": "مشط تحديد يُركَّب على الماكينة."
+  }
+ },
+ "shipping": {
+  "volume_m3": [0.15, 0.3],
+  "weight_t": [0.03, 0.05],
+  "no_containers": true,
+  "note": {
+   "en": "Small lot: about 2–3 cartons, shipped as parcels or on one pallet together with other goods. Estimate from typical box sizes.",
+   "ar": "دفعة صغيرة: نحو 2–3 كراتين، تُشحن طروداً أو على منصّة واحدة مع بضائع أخرى. تقدير من أحجام العلب المعتادة."
+  }
+ },
+ "note": {
+  "en": "Product names are kept as written in the stock list (Polish). Photos are manufacturer or retailer pictures of the same models; spare-part photos may be representative. Subject to prior sale.",
+  "ar": "أسماء الأصناف كما وردت في قائمة المخزون (بالبولندية). الصور من الشركة المصنّعة أو المتاجر لنفس الموديلات، وقد تكون صور قطع الغيار تمثيلية. البضاعة متاحة حتى نفادها."
+ }
+}

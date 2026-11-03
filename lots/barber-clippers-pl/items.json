@@ -1,0 +1,512 @@
+[
+ {
+  "ref": "1926",
+  "name": "Wahl - Sterling 2 Plus Trymer do Włosów",
+  "qty": 7,
+  "group": "a_machines",
+  "type_en": "Hair trimmer",
+  "type_ar": "ماكينة تحديد (تريمر)",
+  "status": "new",
+  "note": {
+   "en": "Wahl Sterling 2 Plus",
+   "ar": "Wahl Sterling 2 Plus"
+  },
+  "img": "img/p_1926.jpg",
+  "photo": "rep"
+ },
+ {
+  "ref": "1826",
+  "name": "Wahl - Taper 2000 Maszynka do Włosów",
+  "qty": 4,
+  "group": "a_machines",
+  "type_en": "Hair clipper (corded)",
+  "type_ar": "ماكينة قص شعر (سلكية)",
+  "status": "new",
+  "note": {
+   "en": "Wahl Taper 2000",
+   "ar": "Wahl Taper 2000"
+  },
+  "img": "img/p_1826.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "911",
+  "name": "Wahl - Super Taper Cordless Maszynka do Włosów",
+  "qty": 2,
+  "group": "a_machines",
+  "type_en": "Cordless hair clipper",
+  "type_ar": "ماكينة قص شعر لاسلكية",
+  "status": "new",
+  "note": {
+   "en": "Wahl Super Taper Cordless",
+   "ar": "Wahl Super Taper Cordless"
+  },
+  "img": "img/p_911.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "1177",
+  "name": "Wahl - Beret Black Prolithium Trymer do Włosów",
+  "qty": 2,
+  "group": "a_machines",
+  "type_en": "Cordless hair trimmer",
+  "type_ar": "تريمر لاسلكي",
+  "status": "new",
+  "note": {
+   "en": "Wahl Beret Prolithium, black",
+   "ar": "Wahl Beret Prolithium، أسود"
+  },
+  "img": "img/p_1177.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "2849",
+  "name": "Artero - Maszynka Fryzjerska Bezprzewodo wa Poker+",
+  "qty": 3,
+  "group": "a_machines",
+  "type_en": "Cordless hair clipper",
+  "type_ar": "ماكينة قص شعر لاسلكية",
+  "status": "new",
+  "note": {
+   "en": "Artero Poker+",
+   "ar": "Artero Poker+"
+  },
+  "img": "img/p_2849.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "2847",
+  "name": "Artero - Maszynka Fryzjerska Bezprzewodo wa Joker+",
+  "qty": 2,
+  "group": "a_machines",
+  "type_en": "Cordless hair clipper",
+  "type_ar": "ماكينة قص شعر لاسلكية",
+  "status": "new",
+  "note": {
+   "en": "Artero Joker+",
+   "ar": "Artero Joker+"
+  },
+  "img": "img/p_2847.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "2848",
+  "name": "Artero - Trymer Fryzjerski Bezprzewodo wy Joker Mini+",
+  "qty": 3,
+  "group": "a_machines",
+  "type_en": "Cordless hair trimmer",
+  "type_ar": "تريمر لاسلكي",
+  "status": "new",
+  "note": {
+   "en": "Artero Joker Mini+",
+   "ar": "Artero Joker Mini+"
+  },
+  "img": "img/p_2848.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "2850",
+  "name": "Artero - Trymer Fryzjerski Bezprzewodo wy Poker Mini+",
+  "qty": 3,
+  "group": "a_machines",
+  "type_en": "Cordless hair trimmer",
+  "type_ar": "تريمر لاسلكي",
+  "status": "new",
+  "note": {
+   "en": "Artero Poker Mini+",
+   "ar": "Artero Poker Mini+"
+  },
+  "img": "img/p_2850.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "1922",
+  "name": "Fox - Orion Bezprzewodo wa Maszynka do Włosów",
+  "qty": 1,
+  "group": "a_machines",
+  "type_en": "Cordless hair clipper",
+  "type_ar": "ماكينة قص شعر لاسلكية",
+  "status": "new",
+  "note": {
+   "en": "Fox Orion",
+   "ar": "Fox Orion"
+  },
+  "img": "img/p_1922.jpg",
+  "photo": "exact"
+ },
+ {
+  "ref": "2642",
+  "name": "Kemei - KM - 2010 GOLD Maszynka do włosów",
+  "qty": 1,
+  "group": "a_machines",
+  "type_en": "Hair clipper",
+  "type_ar": "ماكينة قص شعر",
+  "status": "new",
+  "note": {
+   "en": "Kemei KM-2010, gold",
+   "ar": "Kemei KM-2010، ذهبي"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2653",
+  "name": "Kemei - KM - 735 BLUE Maszynka do włosów",
+  "qty": 1,
+  "group": "a_machines",
+  "type_en": "Hair clipper",
+  "type_ar": "ماكينة قص شعر",
+  "status": "new",
+  "note": {
+   "en": "Kemei KM-735, blue",
+   "ar": "Kemei KM-735، أزرق"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1897",
+  "name": "Wahl - Nóż do maszynki WAHL Beretto All - in - One",
+  "qty": 2,
+  "group": "b_parts",
+  "type_en": "Replacement blade",
+  "type_ar": "شفرة بديلة",
+  "status": "part",
+  "note": {
+   "en": "For Wahl Beretto (all-in-one blade)",
+   "ar": "لماكينة Wahl Beretto"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "3047",
+  "name": "Bateria do maszynki Wahl 3400 mAh",
+  "qty": 21,
+  "group": "b_parts",
+  "type_en": "Battery",
+  "type_ar": "بطارية",
+  "status": "part",
+  "note": {
+   "en": "3400 mAh, for Wahl cordless clippers",
+   "ar": "3400 mAh لماكينات Wahl اللاسلكية"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2766",
+  "name": "Obudowa do Maszynki Wahl Magic Clip Cordless",
+  "qty": 18,
+  "group": "b_parts",
+  "type_en": "Housing",
+  "type_ar": "غلاف ماكينة",
+  "status": "part",
+  "note": {
+   "en": "For Wahl Magic Clip Cordless",
+   "ar": "لماكينة Wahl Magic Clip Cordless"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2260",
+  "name": "Pokrywa silnika do maszynki Wahl",
+  "qty": 69,
+  "group": "b_parts",
+  "type_en": "Motor cover",
+  "type_ar": "غطاء محرك",
+  "status": "part",
+  "note": {
+   "en": "For Wahl clippers",
+   "ar": "لماكينات Wahl"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2261",
+  "name": "Śruby do maszynki Wahl",
+  "qty": 72,
+  "group": "b_parts",
+  "type_en": "Screws",
+  "type_ar": "براغي",
+  "status": "part",
+  "note": {
+   "en": "For Wahl clippers",
+   "ar": "لماكينات Wahl"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "3588",
+  "name": "Mocowanie Ostrza do Maszynki Wahl",
+  "qty": 10,
+  "group": "b_parts",
+  "type_en": "Blade mount",
+  "type_ar": "حامل شفرة",
+  "status": "part",
+  "note": {
+   "en": "For Wahl clippers",
+   "ar": "لماكينات Wahl"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2259",
+  "name": "Układ zasilający do maszynki Wahl",
+  "qty": 2,
+  "group": "b_parts",
+  "type_en": "Power board",
+  "type_ar": "دارة تغذية",
+  "status": "part",
+  "note": {
+   "en": "For Wahl clippers",
+   "ar": "لماكينات Wahl"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2763",
+  "name": "Prowadnica do Docisku Ostrza Maszynek Wahl",
+  "qty": 7,
+  "group": "b_parts",
+  "type_en": "Blade tension guide",
+  "type_ar": "دليل ضاغط الشفرة",
+  "status": "part",
+  "note": {
+   "en": "For Wahl clippers",
+   "ar": "لماكينات Wahl"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2694",
+  "name": "Silnik do trymera Andis Slimline Pro Li",
+  "qty": 14,
+  "group": "b_parts",
+  "type_en": "Motor",
+  "type_ar": "محرك",
+  "status": "part",
+  "note": {
+   "en": "For Andis Slimline Pro Li trimmer",
+   "ar": "لتريمر Andis Slimline Pro Li"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2685",
+  "name": "Andis - Obudowa do Trymera Slimline Pro Li Różowa",
+  "qty": 9,
+  "group": "b_parts",
+  "type_en": "Housing",
+  "type_ar": "غلاف ماكينة",
+  "status": "part",
+  "note": {
+   "en": "Andis Slimline Pro Li, pink",
+   "ar": "Andis Slimline Pro Li، وردي"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2686",
+  "name": "Andis - Obudowa do Trymera Slimline Pro Li Złota",
+  "qty": 8,
+  "group": "b_parts",
+  "type_en": "Housing",
+  "type_ar": "غلاف ماكينة",
+  "status": "part",
+  "note": {
+   "en": "Andis Slimline Pro Li, gold",
+   "ar": "Andis Slimline Pro Li، ذهبي"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2687",
+  "name": "Andis - Obudowa do Trymera Slimline Pro Li Srebrna",
+  "qty": 6,
+  "group": "b_parts",
+  "type_en": "Housing",
+  "type_ar": "غلاف ماكينة",
+  "status": "part",
+  "note": {
+   "en": "Andis Slimline Pro Li, silver",
+   "ar": "Andis Slimline Pro Li، فضي"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2696",
+  "name": "Włącznik do trymera Switch Andis Slimline Pro Li",
+  "qty": 20,
+  "group": "b_parts",
+  "type_en": "Switch",
+  "type_ar": "مفتاح تشغيل",
+  "status": "part",
+  "note": {
+   "en": "For Andis Slimline Pro Li trimmer",
+   "ar": "لتريمر Andis Slimline Pro Li"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2698",
+  "name": "Sprężyna do trymera Andis Slimline Pro Li",
+  "qty": 74,
+  "group": "b_parts",
+  "type_en": "Spring",
+  "type_ar": "نابض",
+  "status": "part",
+  "note": {
+   "en": "For Andis Slimline Pro Li trimmer",
+   "ar": "لتريمر Andis Slimline Pro Li"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2697",
+  "name": "Docisk ostrza do trymera Andis Slimline Pro Li",
+  "qty": 23,
+  "group": "b_parts",
+  "type_en": "Blade clamp",
+  "type_ar": "ضاغط شفرة",
+  "status": "part",
+  "note": {
+   "en": "For Andis Slimline Pro Li trimmer",
+   "ar": "لتريمر Andis Slimline Pro Li"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2699",
+  "name": "Listwa Wewnętrzna do trymera Andis Slimline Pro Li",
+  "qty": 24,
+  "group": "b_parts",
+  "type_en": "Inner strip",
+  "type_ar": "شريحة داخلية",
+  "status": "part",
+  "note": {
+   "en": "For Andis Slimline Pro Li trimmer",
+   "ar": "لتريمر Andis Slimline Pro Li"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2695",
+  "name": "Układ zasilający do trymera Andis Slimline Pro Li",
+  "qty": 10,
+  "group": "b_parts",
+  "type_en": "Power board",
+  "type_ar": "دارة تغذية",
+  "status": "part",
+  "note": {
+   "en": "For Andis Slimline Pro Li trimmer",
+   "ar": "لتريمر Andis Slimline Pro Li"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2701",
+  "name": "Śruby do Trymera Andis Slimline Pro Li",
+  "qty": 19,
+  "group": "b_parts",
+  "type_en": "Screws",
+  "type_ar": "براغي",
+  "status": "part",
+  "note": {
+   "en": "For Andis Slimline Pro Li trimmer",
+   "ar": "لتريمر Andis Slimline Pro Li"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "2762",
+  "name": "Zamiennik Ostrza do trymera Slimline Pro Li D - 8",
+  "qty": 1,
+  "group": "b_parts",
+  "type_en": "Replacement blade",
+  "type_ar": "شفرة بديلة",
+  "status": "part",
+  "note": {
+   "en": "Compatible blade for Andis Slimline Pro Li (D-8)",
+   "ar": "شفرة متوافقة لتريمر Andis Slimline Pro Li ‏(D-8)"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "929",
+  "name": "Wahl - Nasadka Plastikowa do Maszynek nr 4 1/2\" 13mm",
+  "qty": 3,
+  "group": "c_guards",
+  "type_en": "Attachment guard",
+  "type_ar": "مشط تحديد",
+  "status": "addon",
+  "note": {
+   "en": "Wahl #4 – 1/2\" (13 mm)",
+   "ar": "Wahl رقم 4 – 13 مم"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "928",
+  "name": "Wahl - Nasadka Plastikowa do Maszynek nr 3 3/8\" 10mm",
+  "qty": 2,
+  "group": "c_guards",
+  "type_en": "Attachment guard",
+  "type_ar": "مشط تحديد",
+  "status": "addon",
+  "note": {
+   "en": "Wahl #3 – 3/8\" (10 mm)",
+   "ar": "Wahl رقم 3 – 10 مم"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "927",
+  "name": "Wahl - Nasadka Plastikowa do Maszynek nr 2 1/4\" 6mm",
+  "qty": 2,
+  "group": "c_guards",
+  "type_en": "Attachment guard",
+  "type_ar": "مشط تحديد",
+  "status": "addon",
+  "note": {
+   "en": "Wahl #2 – 1/4\" (6 mm)",
+   "ar": "Wahl رقم 2 – 6 مم"
+  },
+  "img": null,
+  "photo": null
+ },
+ {
+  "ref": "1908",
+  "name": "Andis - Nasadki Single Magnet DP 2 szt. (2.25 i 4.5 mm)",
+  "qty": 1,
+  "group": "c_guards",
+  "type_en": "Attachment guard",
+  "type_ar": "مشط تحديد",
+  "status": "addon",
+  "note": {
+   "en": "Andis Single Magnet, set of 2 (2.25 + 4.5 mm)",
+   "ar": "Andis Single Magnet، طقم 2 ‏(2.25 + 4.5 مم)"
+  },
+  "img": null,
+  "photo": null
+ }
+]
