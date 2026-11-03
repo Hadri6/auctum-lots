@@ -14,9 +14,10 @@
   "الفئات"
  ],
  "qty_label": [
-  "Lines",
-  "بنود"
+  "Pieces (excl. turf)",
+  "قطعة (عدا العشب)"
  ],
+ "qty_exact": true,
  "unit": [
   "pcs",
   "قطعة"
