@@ -404,6 +404,18 @@ def build(lot_dir, out_dir=None, private=False):
     if pc:
         top = calc_section() + top
         nav = f'<a href="#prices">{t(pc.get("nav", pc["title"])["en"], pc.get("nav", pc["title"])["ar"])}</a>' + nav
+    # Optional photo gallery at the very top (lot.json "gallery": {title, nav, intro, label, img: [...]}),
+    # e.g. the seller's own photos of the actual stock. Each photo opens full size in a new tab.
+    gal = lot.get('gallery')
+    if gal:
+        gl = gal.get('label') or {'en': 'Actual stock', 'ar': 'المخزون الفعلي', 'cls': 'ok'}
+        figs = ''.join(f'<figure><a href="{src}" target="_blank" rel="noopener"><img loading="lazy" src="{src}" alt=""></a>'
+                       f'{t(gl["en"], gl["ar"], cls="tag " + gl.get("cls", "ok"))}</figure>'
+                       for src in (photo({'img': p}) for p in gal['img']) if src)
+        gintro = t(gal['intro']['en'], gal['intro']['ar'], tag='p', cls='intro') if gal.get('intro') else ''
+        top = (f'<section id="gallery" class="sets"><h2>{t(gal["title"]["en"], gal["title"]["ar"])}</h2>{gintro}'
+               f'<div class="gal">{figs}</div></section>') + top
+        nav = f'<a href="#gallery">{t(gal.get("nav", gal["title"])["en"], gal.get("nav", gal["title"])["ar"])}</a>' + nav
     if statuses:
         btns = ''.join(f'<button data-f="{E(k)}">{t(s["en"], s["ar"])} <span>'
                        f'{sum(pq(x) for x in items if x.get("status") == k):,}</span></button>'

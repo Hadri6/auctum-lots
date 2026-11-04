@@ -1,0 +1,156 @@
+{
+ "slug": "tile-profiles-cz",
+ "page_title": "Tile & Floor Profiles Lot – Czech Republic",
+ "title": {
+  "en": "Tile & floor profiles – Schlüter-Systems, Profilpas and more",
+  "ar": "بروفايلات البلاط والأرضيات – Schlüter-Systems وProfilpas وغيرها"
+ },
+ "subtitle": {
+  "en": "Complete warehouse and showroom stock of a tile-accessories distributor: tile edge trims, transition, ramp and stair profiles, movement joints, balcony and terrace systems, skirting, waterproofing and wall protection. About half of the lines are Schlüter-Systems; also Profilpas, Arfen, Havos, Bohemia Profil, Profilitec, Sika/Schönox. New goods, original packaging.",
+  "ar": "كامل مخزون المستودع وصالة العرض لموزّع ملحقات بلاط: بروفايلات إنهاء الحواف، وبروفايلات الانتقال والمنحدرات وحواف الدرج، وفواصل التمدد، وأنظمة الشرفات والتراسات، والوزرات، والعزل المائي، وحماية الجدران. نحو نصف البنود من Schlüter-Systems؛ ومعها Profilpas وArfen وHavos وBohemia Profil وProfilitec وSika/Schönox. بضاعة جديدة بتغليفها الأصلي."
+ },
+ "groups_word": [
+  "Brands",
+  "علامة"
+ ],
+ "qty_label": [
+  "Pieces",
+  "قطعة"
+ ],
+ "unit": [
+  "pcs",
+  "قطعة"
+ ],
+ "keep_order": true,
+ "kpis": [
+  {
+   "en": "Main brand",
+   "ar": "العلامة الرئيسية",
+   "value": "Schlüter-Systems"
+  },
+  {
+   "en": "Stock list",
+   "ar": "قائمة المخزون",
+   "value": "08/2026"
+  }
+ ],
+ "location": {
+  "en": "Czech Republic",
+  "ar": "التشيك"
+ },
+ "other_group": "other",
+ "group_order": [
+  "schluter",
+  "profilpas",
+  "arfen",
+  "profilitec",
+  "havos",
+  "bohemia",
+  "chem",
+  "house",
+  "other"
+ ],
+ "groups": {
+  "schluter": {
+   "en": "Schlüter-Systems",
+   "ar": "Schlüter-Systems",
+   "short": "Schlüter"
+  },
+  "profilpas": {
+   "en": "Profilpas",
+   "ar": "Profilpas",
+   "short": "Profilpas"
+  },
+  "arfen": {
+   "en": "Arfen – wall protection & expansion joints",
+   "ar": "Arfen – حماية الجدران وفواصل التمدد",
+   "short": "Arfen"
+  },
+  "profilitec": {
+   "en": "Profilitec",
+   "ar": "Profilitec",
+   "short": "Profilitec"
+  },
+  "havos": {
+   "en": "Havos",
+   "ar": "Havos",
+   "short": "Havos"
+  },
+  "bohemia": {
+   "en": "Bohemia Profil",
+   "ar": "Bohemia Profil",
+   "short": "Bohemia"
+  },
+  "chem": {
+   "en": "Adhesives, sealants & waterproofing (Sika, Schönox, Mapei…)",
+   "ar": "لواصق ومانعات تسرب وعزل (Sika وSchönox وMapei…)",
+   "short": "Chemicals"
+  },
+  "house": {
+   "en": "Distributor's own-brand profiles",
+   "ar": "بروفايلات العلامة الخاصة بالموزّع",
+   "short": "Own brand"
+  },
+  "other": {
+   "en": "Other brands & unbranded profiles",
+   "ar": "علامات أخرى وبروفايلات بدون علامة",
+   "short": "Other"
+  }
+ },
+ "gallery": {
+  "title": {
+   "en": "Photos of the actual stock",
+   "ar": "صور المخزون الفعلي"
+  },
+  "nav": {
+   "en": "Photos",
+   "ar": "الصور"
+  },
+  "intro": {
+   "en": "Taken in the warehouse and the showroom where the goods are stored. Tap a photo to open it full size.",
+   "ar": "مُلتقطة في المستودع وصالة العرض حيث تُخزَّن البضاعة. اضغط على أي صورة لفتحها بالحجم الكامل."
+  },
+  "label": {
+   "en": "Actual stock",
+   "ar": "المخزون الفعلي",
+   "cls": "ok"
+  },
+  "img": [
+   "img/s_01.jpg",
+   "img/s_02.jpg",
+   "img/s_03.jpg",
+   "img/s_04.jpg",
+   "img/s_05.jpg",
+   "img/s_06.jpg",
+   "img/s_07.jpg",
+   "img/s_08.jpg",
+   "img/s_09.jpg",
+   "img/s_10.jpg",
+   "img/s_11.jpg",
+   "img/s_12.jpg",
+   "img/s_13.jpg",
+   "img/s_14.jpg",
+   "img/s_15.jpg",
+   "img/s_16.jpg",
+   "img/s_17.jpg"
+  ]
+ },
+ "note": {
+  "en": "Item photos are catalogue pictures of the same article, or a representative photo of the same product family (marked); finishes and colours may differ. Quantities from the stock list of August 2026; the physical count may differ slightly. Subject to prior sale.",
+  "ar": "صور البنود من كتالوج نفس الصنف، أو صورة توضيحية من نفس عائلة المنتج (موسومة)؛ وقد يختلف اللون أو التشطيب. الكميات من قائمة المخزون بتاريخ أغسطس 2026، وقد يختلف العدّ الفعلي قليلاً. البضاعة متاحة حتى نفادها."
+ },
+ "shipping": {
+  "volume_m3": [
+   40,
+   70
+  ],
+  "weight_t": [
+   10,
+   20
+  ],
+  "note": {
+   "en": "Estimate: the stock list has no weights or volumes. Mostly 2.5–3 m profiles in bundles plus boxed parts and accessories; longest pieces ≈ 3.4 m, so 20′ containers are possible too. Final loading plan confirmed after counting.",
+   "ar": "تقدير: قائمة المخزون بلا أوزان ولا أحجام. معظمها بروفايلات بطول 2.5–3 م في حزم، مع قطع وملحقات في صناديق؛ أطول قطعة ≈ 3.4 م، فتصلح حاويات 20 قدماً أيضاً. يُؤكَّد مخطط التحميل بعد العدّ."
+  }
+ }
+}
