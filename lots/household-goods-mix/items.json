@@ -1,0 +1,1414 @@
+[
+ {
+  "ref": "1",
+  "name": "椭圆形灯罩 多个颜色",
+  "qty": 12,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_001.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Oval lampshades - assorted colors",
+   "ar": "أغطية مصابيح بيضاوية – ألوان متنوعة"
+  }
+ },
+ {
+  "ref": "2",
+  "name": "亚麻6件套灯罩",
+  "qty": 8,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_002.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Linen lampshades, 6-piece set",
+   "ar": "أغطية مصابيح من الكتان، طقم من 6 قطع"
+  }
+ },
+ {
+  "ref": "3",
+  "name": "方形灯罩",
+  "qty": 16,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_003.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Square lampshades",
+   "ar": "أغطية مصابيح مربعة"
+  }
+ },
+ {
+  "ref": "4",
+  "name": "雪纱灯罩10件套配灯头 多个颜色",
+  "qty": 29,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_004.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Sheer-fabric lampshades with lamp holders, 10-piece set - assorted colors",
+   "ar": "أغطية مصابيح من قماش شفاف مع حوامل مصابيح، طقم من 10 قطع – ألوان متنوعة"
+  }
+ },
+ {
+  "ref": "5",
+  "name": "多款钉子 各种型号",
+  "qty": 18,
+  "group": "d_hard",
+  "type_en": "Nails, rivets & fasteners",
+  "type_ar": "مسامير وبرشام ومثبتات",
+  "img": "img/p_005.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted nails - various types and sizes",
+   "ar": "مسامير متنوعة – أنواع ومقاسات مختلفة"
+  }
+ },
+ {
+  "ref": "6",
+  "name": "多款钉子 各种型号",
+  "qty": 25,
+  "group": "d_hard",
+  "type_en": "Nails, rivets & fasteners",
+  "type_ar": "مسامير وبرشام ومثبتات",
+  "img": "img/p_006.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted nails - various types and sizes",
+   "ar": "مسامير متنوعة – أنواع ومقاسات مختلفة"
+  }
+ },
+ {
+  "ref": "7",
+  "name": "防水凳15件+2件皂液分装瓶",
+  "qty": 17,
+  "group": "e_bath",
+  "type_en": "Waterproof stools",
+  "type_ar": "مقاعد مقاومة للماء",
+  "img": "img/p_007.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Waterproof stools (15) + soap dispenser bottles (2)",
+   "ar": "مقاعد مقاومة للماء (15) + عبوات موزع صابون (2)"
+  }
+ },
+ {
+  "ref": "8",
+  "name": "各种 水龙头花洒",
+  "qty": 20,
+  "group": "e_bath",
+  "type_en": "Faucets & shower heads",
+  "type_ar": "حنفيات ورؤوس دش",
+  "img": "img/p_008.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted faucets and shower heads",
+   "ar": "حنفيات ورؤوس دش متنوعة"
+  }
+ },
+ {
+  "ref": "9",
+  "name": "彩色包装纸",
+  "qty": 30,
+  "group": "g_paper",
+  "type_en": "Wrapping paper",
+  "type_ar": "ورق تغليف",
+  "img": "img/p_009.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored wrapping paper",
+   "ar": "ورق تغليف ملون"
+  }
+ },
+ {
+  "ref": "10",
+  "name": "2彩色收纳盒",
+  "qty": 22,
+  "group": "c_store",
+  "type_en": "Storage boxes & baskets",
+  "type_ar": "صناديق وسلال تخزين",
+  "img": "img/p_010.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored storage boxes",
+   "ar": "صناديق تخزين ملونة"
+  }
+ },
+ {
+  "ref": "11",
+  "name": "塑胶拼接格栅",
+  "qty": 25,
+  "group": "d_hard",
+  "type_en": "Plastic grating panels",
+  "type_ar": "ألواح شبكية بلاستيكية متداخلة",
+  "img": "img/p_011.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Interlocking plastic grating panels",
+   "ar": "ألواح شبكية بلاستيكية متداخلة"
+  }
+ },
+ {
+  "ref": "12",
+  "name": "皂液分装瓶",
+  "qty": 14,
+  "group": "e_bath",
+  "type_en": "Soap & liquid dispensers",
+  "type_ar": "موزعات صابون وسوائل",
+  "img": "img/p_012.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Soap dispenser bottles",
+   "ar": "عبوات موزع صابون"
+  }
+ },
+ {
+  "ref": "13",
+  "name": "小款化妆盒",
+  "qty": 16,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_013.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Small cosmetic cases",
+   "ar": "علب مكياج صغيرة"
+  }
+ },
+ {
+  "ref": "14",
+  "name": "大款彩色收纳鞋盒",
+  "qty": 12,
+  "group": "c_store",
+  "type_en": "Shoe boxes",
+  "type_ar": "صناديق أحذية",
+  "img": "img/p_014.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Large colored shoe storage boxes",
+   "ar": "صناديق تخزين أحذية كبيرة ملونة"
+  }
+ },
+ {
+  "ref": "15",
+  "name": "化装皮箱2件+4件小款装饰球+10件大款装饰球",
+  "qty": 16,
+  "group": "h_decor",
+  "type_en": "Decorative balls",
+  "type_ar": "كرات زينة",
+  "img": "img/p_015.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Leather cosmetic cases (2) + small decorative balls (4) + large decorative balls (10)",
+   "ar": "حقائب مكياج جلدية (2) + كرات زينة صغيرة (4) + كرات زينة كبيرة (10)"
+  }
+ },
+ {
+  "ref": "16",
+  "name": "小款化妆盒 5.5*11cm",
+  "qty": 20,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_016.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Small cosmetic cases, 5.5 x 11 cm",
+   "ar": "علب مكياج صغيرة، 5.5 × 11 سم"
+  }
+ },
+ {
+  "ref": "17",
+  "name": "小款化妆盒 5.5*11cm",
+  "qty": 20,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_017.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Small cosmetic cases, 5.5 x 11 cm",
+   "ar": "علب مكياج صغيرة، 5.5 × 11 سم"
+  }
+ },
+ {
+  "ref": "18",
+  "name": "小款化妆盒 4.2*20cm",
+  "qty": 16,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_018.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Small cosmetic cases, 4.2 x 20 cm",
+   "ar": "علب مكياج صغيرة، 4.2 × 20 سم"
+  }
+ },
+ {
+  "ref": "19",
+  "name": "方形灯罩",
+  "qty": 29,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_019.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Square lampshades",
+   "ar": "أغطية مصابيح مربعة"
+  }
+ },
+ {
+  "ref": "20",
+  "name": "彩色纺织收纳框1件+16件黑色化妆盒（5.5*13）",
+  "qty": 17,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_020.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored fabric storage baskets (1) + black cosmetic cases (16; 5.5 x 13)",
+   "ar": "سلال تخزين قماشية ملونة (1) + علب مكياج سوداء (16؛ 5.5 × 13)"
+  }
+ },
+ {
+  "ref": "21",
+  "name": "TC圆灯罩12件+方灯罩25件",
+  "qty": 37,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_021.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "TC fabric round lampshades (12) + square lampshades (25)",
+   "ar": "أغطية مصابيح دائرية من قماش TC (12) + أغطية مصابيح مربعة (25)"
+  }
+ },
+ {
+  "ref": "22",
+  "name": "亚麻三连体灯罩",
+  "qty": 30,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_022.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Linen triple-section lampshades",
+   "ar": "أغطية مصابيح كتانية ثلاثية الأقسام"
+  }
+ },
+ {
+  "ref": "23",
+  "name": "TC圆灯罩22件+六件套灯罩1箱",
+  "qty": 23,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_023.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "TC fabric round lampshades (22) + 6-piece lampshade sets (1 carton)",
+   "ar": "أغطية مصابيح دائرية من قماش TC (22) + أطقم أغطية مصابيح من 6 قطع (1 كرتونة)"
+  }
+ },
+ {
+  "ref": "24",
+  "name": "TC布三连圆灯罩19箱+亚麻三连体方灯罩11箱",
+  "qty": 30,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_024.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "TC fabric triple-section round lampshades (19 cartons) + linen triple-section square lampshades (11 cartons)",
+   "ar": "أغطية مصابيح دائرية ثلاثية الأقسام من قماش TC (19 كرتونة) + أغطية مصابيح مربعة ثلاثية الأقسام من الكتان (11 كرتونة)"
+  }
+ },
+ {
+  "ref": "25",
+  "name": "包装纸",
+  "qty": 40,
+  "group": "g_paper",
+  "type_en": "Wrapping paper",
+  "type_ar": "ورق تغليف",
+  "img": "img/p_025.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Wrapping paper",
+   "ar": "ورق تغليف"
+  }
+ },
+ {
+  "ref": "26",
+  "name": "杯钩十字钩+灯钩膨胀",
+  "qty": 31,
+  "group": "d_hard",
+  "type_en": "Hooks & small hardware",
+  "type_ar": "خطافات وعُدد صغيرة",
+  "img": "img/p_026.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Cup hooks and cross hooks + expansion-anchor lamp hooks",
+   "ar": "خطافات أكواب وخطافات صليبية + خطافات مصابيح بمثبتات تمدد"
+  }
+ },
+ {
+  "ref": "27",
+  "name": "按摩器2件+化装17件",
+  "qty": 19,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_027.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Massagers (2) + cosmetic items (17)",
+   "ar": "أجهزة تدليك (2) + أدوات تجميل (17)"
+  }
+ },
+ {
+  "ref": "28",
+  "name": "2寸锈钢合2件+水龙头15件+插销3件",
+  "qty": 20,
+  "group": "e_bath",
+  "type_en": "Faucets & shower heads",
+  "type_ar": "حنفيات ورؤوس دش",
+  "img": "img/p_028.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "2-inch stainless steel hinges (2) + faucets (15) + slide bolts (3)",
+   "ar": "مفصلات فولاذية مقاومة للصدأ مقاس 2 بوصة (2) + حنفيات (15) + مزاليج (3)"
+  }
+ },
+ {
+  "ref": "29",
+  "name": "鞋盒25件+刮板1件",
+  "qty": 26,
+  "group": "c_store",
+  "type_en": "Shoe boxes",
+  "type_ar": "صناديق أحذية",
+  "img": "img/p_029.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Shoe boxes (25) + scrapers (1)",
+   "ar": "صناديق أحذية (25) + مكاشط (1)"
+  }
+ },
+ {
+  "ref": "30",
+  "name": "大款鞋盒",
+  "qty": 12,
+  "group": "c_store",
+  "type_en": "Shoe boxes",
+  "type_ar": "صناديق أحذية",
+  "img": "img/p_030.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Large shoe boxes",
+   "ar": "صناديق أحذية كبيرة"
+  }
+ },
+ {
+  "ref": "31",
+  "name": "小款花园椅",
+  "qty": 6,
+  "group": "f_furn",
+  "type_en": "Garden chairs",
+  "type_ar": "كراسي حدائق",
+  "img": "img/p_031.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Small garden chairs",
+   "ar": "كراسي حدائق صغيرة"
+  }
+ },
+ {
+  "ref": "32",
+  "name": "大款花园椅",
+  "qty": 5,
+  "group": "f_furn",
+  "type_en": "Garden chairs",
+  "type_ar": "كراسي حدائق",
+  "img": "img/p_032.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Large garden chairs",
+   "ar": "كراسي حدائق كبيرة"
+  }
+ },
+ {
+  "ref": "33",
+  "name": "大款花园椅2件+小款1件",
+  "qty": 3,
+  "group": "f_furn",
+  "type_en": "Garden chairs",
+  "type_ar": "كراسي حدائق",
+  "img": "img/p_033.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Large garden chairs (2) + small garden chairs (1)",
+   "ar": "كراسي حدائق كبيرة (2) + كراسي حدائق صغيرة (1)"
+  },
+  "photo_label": {
+   "en": "Photo of the same goods (pallet 31/32)",
+   "ar": "صورة نفس البضاعة (منصّة 31/32)"
+  }
+ },
+ {
+  "ref": "34",
+  "name": "小款花园椅",
+  "qty": 6,
+  "group": "f_furn",
+  "type_en": "Garden chairs",
+  "type_ar": "كراسي حدائق",
+  "img": "img/p_034.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Small garden chairs",
+   "ar": "كراسي حدائق صغيرة"
+  },
+  "photo_label": {
+   "en": "Photo of the same goods (pallet 31/32)",
+   "ar": "صورة نفس البضاعة (منصّة 31/32)"
+  }
+ },
+ {
+  "ref": "35",
+  "name": "大款花园椅2件+小款2件",
+  "qty": 4,
+  "group": "f_furn",
+  "type_en": "Garden chairs",
+  "type_ar": "كراسي حدائق",
+  "img": "img/p_035.jpg",
+  "photo": "rep",
+  "note": {
+   "en": "Large garden chairs (2) + small garden chairs (2)",
+   "ar": "كراسي حدائق كبيرة (2) + كراسي حدائق صغيرة (2)"
+  },
+  "photo_label": {
+   "en": "Photo of the same goods (pallet 31/32)",
+   "ar": "صورة نفس البضاعة (منصّة 31/32)"
+  }
+ },
+ {
+  "ref": "36",
+  "name": "彩色纺织收纳盒",
+  "qty": 6,
+  "group": "c_store",
+  "type_en": "Storage boxes & baskets",
+  "type_ar": "صناديق وسلال تخزين",
+  "img": "img/p_036.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored fabric storage boxes",
+   "ar": "صناديق تخزين قماشية ملونة"
+  }
+ },
+ {
+  "ref": "37",
+  "name": "彩色纺织收纳盒10件套",
+  "qty": 12,
+  "group": "c_store",
+  "type_en": "Storage boxes & baskets",
+  "type_ar": "صناديق وسلال تخزين",
+  "img": "img/p_037.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored fabric storage boxes, 10-piece set",
+   "ar": "صناديق تخزين قماشية ملونة، طقم من 10 قطع"
+  }
+ },
+ {
+  "ref": "38",
+  "name": "圆地碰4件+相框24件",
+  "qty": 28,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_038.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Round floor-mounted door stops (4) + picture frames (24)",
+   "ar": "سدادات أبواب أرضية دائرية (4) + إطارات صور (24)"
+  }
+ },
+ {
+  "ref": "39",
+  "name": "大鞋盒6件+羊眼膨胀螺丝13件",
+  "qty": 19,
+  "group": "d_hard",
+  "type_en": "Nails, rivets & fasteners",
+  "type_ar": "مسامير وبرشام ومثبتات",
+  "img": "img/p_039.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Large shoe boxes (6) + eye-bolt expansion anchors (13)",
+   "ar": "صناديق أحذية كبيرة (6) + مثبتات تمدد بعيون براغي (13)"
+  }
+ },
+ {
+  "ref": "40",
+  "name": "插销2布拼色连体圆形6件+水龙头11件+插销2件+颌1件",
+  "qty": 20,
+  "group": "e_bath",
+  "type_en": "Faucets & shower heads",
+  "type_ar": "حنفيات ورؤوس دش",
+  "img": "img/p_040.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Two-tone fabric joined round lampshades (6) + faucets (11) + slide bolts (2) + other item (1)",
+   "ar": "أغطية مصابيح دائرية متصلة من قماش بلونين (6) + حنفيات (11) + مزاليج (2) + صنف آخر (1)"
+  }
+ },
+ {
+  "ref": "41",
+  "name": "塑料油灰刀1件+带盖垃圾桶5件+不带盖垃圾桶3件+长锁扣1箱",
+  "qty": 10,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_041.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Plastic putty knives (1) + trash bins with lids (5) + trash bins without lids (3) + long hasp latches (1 carton)",
+   "ar": "سكاكين معجون بلاستيكية (1) + صناديق قمامة بأغطية (5) + صناديق قمامة بدون أغطية (3) + مزاليج طويلة (1 كرتونة)"
+  }
+ },
+ {
+  "ref": "42",
+  "name": "TC布圆A12寸13件+亚麻方A14寸5箱+亚麻圆B10寸10箱",
+  "qty": 28,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_042.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "TC fabric round lampshades, type A, 12-inch (13) + linen square lampshades, type A, 14-inch (5 cartons) + linen round lampshades, type B, 10-inch (10 cartons)",
+   "ar": "أغطية مصابيح دائرية من قماش TC، نوع A، مقاس 12 بوصة (13) + أغطية مصابيح مربعة من الكتان، نوع A، مقاس 14 بوصة (5 كراتين) + أغطية مصابيح دائرية من الكتان، نوع B، مقاس 10 بوصات (10 كراتين)"
+  }
+ },
+ {
+  "ref": "43",
+  "name": "带管花洒",
+  "qty": 16,
+  "group": "e_bath",
+  "type_en": "Faucets & shower heads",
+  "type_ar": "حنفيات ورؤوس دش",
+  "img": "img/p_043.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Shower heads with hoses",
+   "ar": "رؤوس دش مع خراطيم"
+  }
+ },
+ {
+  "ref": "44",
+  "name": "相机架",
+  "qty": 32,
+  "group": "f_furn",
+  "type_en": "Camera stands",
+  "type_ar": "حوامل كاميرا",
+  "img": "img/p_044.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Camera stands",
+   "ar": "حوامل كاميرا"
+  }
+ },
+ {
+  "ref": "45",
+  "name": "各类钉子8件+十字架塑料扣11件+花洒5件+子母扣塑料扣1件+绿色装饰配件1件+拼接格栅",
+  "qty": 27,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_045.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted nails (8) + cross-shaped plastic clips (11) + shower heads (5) + two-part plastic fasteners (1) + green decorative accessories (1) + interlocking grating panels",
+   "ar": "مسامير متنوعة (8) + مشابك بلاستيكية صليبية (11) + رؤوس دش (5) + مثبتات بلاستيكية من قطعتين (1) + إكسسوارات زينة خضراء (1) + ألواح شبكية متداخلة"
+  }
+ },
+ {
+  "ref": "46",
+  "name": "大款装饰球",
+  "qty": 17,
+  "group": "h_decor",
+  "type_en": "Decorative balls",
+  "type_ar": "كرات زينة",
+  "img": "img/p_046.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Large decorative balls",
+   "ar": "كرات زينة كبيرة"
+  }
+ },
+ {
+  "ref": "47",
+  "name": "彩色塑料置物框",
+  "qty": 12,
+  "group": "c_store",
+  "type_en": "Storage boxes & baskets",
+  "type_ar": "صناديق وسلال تخزين",
+  "img": "img/p_047.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored plastic storage baskets",
+   "ar": "سلال تخزين بلاستيكية ملونة"
+  }
+ },
+ {
+  "ref": "48",
+  "name": "动感单车4件+1套中号化装皮箱",
+  "qty": 5,
+  "group": "f_furn",
+  "type_en": "Indoor exercise bikes",
+  "type_ar": "دراجات تمارين منزلية",
+  "img": "img/p_048.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Indoor cycling bikes (4) + medium-sized leather cosmetic cases (1 set)",
+   "ar": "دراجات تمارين منزلية (4) + حقائب مكياج جلدية متوسطة الحجم (1 طقم)"
+  }
+ },
+ {
+  "ref": "49",
+  "name": "动感单车简易款4件",
+  "qty": 4,
+  "group": "f_furn",
+  "type_en": "Indoor exercise bikes",
+  "type_ar": "دراجات تمارين منزلية",
+  "img": "img/p_049.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Basic indoor cycling bikes (4)",
+   "ar": "دراجات تمارين منزلية بسيطة (4)"
+  }
+ },
+ {
+  "ref": "50",
+  "name": "动感单车简易款4件",
+  "qty": 4,
+  "group": "f_furn",
+  "type_en": "Indoor exercise bikes",
+  "type_ar": "دراجات تمارين منزلية",
+  "img": "img/p_050.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Basic indoor cycling bikes (4)",
+   "ar": "دراجات تمارين منزلية بسيطة (4)"
+  }
+ },
+ {
+  "ref": "51",
+  "name": "彩色本29件+鞋钉10件",
+  "qty": 39,
+  "group": "g_paper",
+  "type_en": "Stationery & folders",
+  "type_ar": "قرطاسية وملفات",
+  "img": "img/p_051.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored notebooks (29) + shoe tacks (10)",
+   "ar": "دفاتر ملونة (29) + مسامير أحذية (10)"
+  }
+ },
+ {
+  "ref": "52",
+  "name": "动感单车优惠款4件",
+  "qty": 4,
+  "group": "f_furn",
+  "type_en": "Indoor exercise bikes",
+  "type_ar": "دراجات تمارين منزلية",
+  "img": "img/p_052.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Budget indoor cycling bikes (4)",
+   "ar": "دراجات تمارين منزلية اقتصادية (4)"
+  }
+ },
+ {
+  "ref": "53",
+  "name": "头部按摩器+化妆盒",
+  "qty": 22,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_053.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Scalp massagers + cosmetic cases",
+   "ar": "أجهزة تدليك فروة الرأس + علب مكياج"
+  }
+ },
+ {
+  "ref": "54",
+  "name": "10寸木柄刮板",
+  "qty": 24,
+  "group": "d_hard",
+  "type_en": "Scrapers & putty knives",
+  "type_ar": "مكاشط وسكاكين معجون",
+  "img": "img/p_054.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "10-inch scrapers with wooden handles",
+   "ar": "مكاشط مقاس 10 بوصات بمقابض خشبية"
+  }
+ },
+ {
+  "ref": "55",
+  "name": "塑料文件夹",
+  "qty": 20,
+  "group": "g_paper",
+  "type_en": "Stationery & folders",
+  "type_ar": "قرطاسية وملفات",
+  "img": "img/p_055.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Plastic document folders",
+   "ar": "ملفات مستندات بلاستيكية"
+  }
+ },
+ {
+  "ref": "56",
+  "name": "花洒3件+方形灯罩7件+圆形灯罩8件",
+  "qty": 18,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_056.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Shower heads (3) + square lampshades (7) + round lampshades (8)",
+   "ar": "رؤوس دش (3) + أغطية مصابيح مربعة (7) + أغطية مصابيح دائرية (8)"
+  }
+ },
+ {
+  "ref": "57",
+  "name": "花园椅3件+化装箱3件（3个/件）",
+  "qty": 6,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_057.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Garden chairs (3) + cosmetic cases (3 packages; 3 cases per package)",
+   "ar": "كراسي حدائق (3) + علب مكياج (3 عبوات؛ 3 علب في كل عبوة)"
+  }
+ },
+ {
+  "ref": "58",
+  "name": "彩色编织储物框3件+化妆盒12件",
+  "qty": 15,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_058.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored woven storage baskets (3) + cosmetic cases (12)",
+   "ar": "سلال تخزين منسوجة ملونة (3) + علب مكياج (12)"
+  }
+ },
+ {
+  "ref": "59",
+  "name": "彩色动物贴纸15件",
+  "qty": 15,
+  "group": "g_paper",
+  "type_en": "Stickers",
+  "type_ar": "ملصقات",
+  "img": "img/p_059.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored animal stickers (15)",
+   "ar": "ملصقات حيوانات ملونة (15)"
+  }
+ },
+ {
+  "ref": "60",
+  "name": "五金垫片11件+五金各类钉子11件+化妆盒1件+子母扣1件",
+  "qty": 24,
+  "group": "d_hard",
+  "type_en": "Nails, rivets & fasteners",
+  "type_ar": "مسامير وبرشام ومثبتات",
+  "img": "img/p_060.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Metal washers (11) + assorted hardware nails (11) + cosmetic cases (1) + two-part fasteners (1)",
+   "ar": "حلقات معدنية (11) + مسامير متنوعة (11) + علب مكياج (1) + مثبتات من قطعتين (1)"
+  }
+ },
+ {
+  "ref": "61",
+  "name": "动感单车简易款3件",
+  "qty": 3,
+  "group": "f_furn",
+  "type_en": "Indoor exercise bikes",
+  "type_ar": "دراجات تمارين منزلية",
+  "img": "img/p_061.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Basic indoor cycling bikes (3)",
+   "ar": "دراجات تمارين منزلية بسيطة (3)"
+  }
+ },
+ {
+  "ref": "62",
+  "name": "动感单车简易款4件",
+  "qty": 4,
+  "group": "f_furn",
+  "type_en": "Indoor exercise bikes",
+  "type_ar": "دراجات تمارين منزلية",
+  "img": "img/p_062.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Basic indoor cycling bikes (4)",
+   "ar": "دراجات تمارين منزلية بسيطة (4)"
+  }
+ },
+ {
+  "ref": "63",
+  "name": "雪纱灯罩10件套 多色",
+  "qty": 30,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_063.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Sheer-fabric lampshades, 10-piece set - assorted colors",
+   "ar": "أغطية مصابيح من قماش شفاف، طقم من 10 قطع – ألوان متنوعة"
+  }
+ },
+ {
+  "ref": "64",
+  "name": "TC圆灯罩9件+方灯罩21件",
+  "qty": 30,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_064.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "TC fabric round lampshades (9) + square lampshades (21)",
+   "ar": "أغطية مصابيح دائرية من قماش TC (9) + أغطية مصابيح مربعة (21)"
+  }
+ },
+ {
+  "ref": "65",
+  "name": "黑色手提化装箱（皮质）",
+  "qty": 13,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_065.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Black portable leather cosmetic cases",
+   "ar": "حقائب مكياج جلدية سوداء محمولة"
+  }
+ },
+ {
+  "ref": "66",
+  "name": "彩色包装纸",
+  "qty": 28,
+  "group": "g_paper",
+  "type_en": "Wrapping paper",
+  "type_ar": "ورق تغليف",
+  "img": "img/p_066.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored wrapping paper",
+   "ar": "ورق تغليف ملون"
+  }
+ },
+ {
+  "ref": "67",
+  "name": "黑色圆化装盒",
+  "qty": 16,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_067.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Black round cosmetic cases",
+   "ar": "علب مكياج دائرية سوداء"
+  }
+ },
+ {
+  "ref": "68",
+  "name": "雪纱灯罩10件套 多色",
+  "qty": 32,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_068.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Sheer-fabric lampshades, 10-piece set - assorted colors",
+   "ar": "أغطية مصابيح من قماش شفاف، طقم من 10 قطع – ألوان متنوعة"
+  }
+ },
+ {
+  "ref": "69",
+  "name": "各种 铆钉 钢钉 轴心钉",
+  "qty": 32,
+  "group": "d_hard",
+  "type_en": "Nails, rivets & fasteners",
+  "type_ar": "مسامير وبرشام ومثبتات",
+  "img": "img/p_069.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted rivets, steel nails and axle pins",
+   "ar": "برشام ومسامير فولاذية ومسامير محاور متنوعة"
+  }
+ },
+ {
+  "ref": "70",
+  "name": "亚麻三连体灯罩（圆11件/方13件）形",
+  "qty": 24,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_070.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Linen triple-section lampshades - round (11) / square (13)",
+   "ar": "أغطية مصابيح كتانية ثلاثية الأقسام – دائرية (11) / مربعة (13)"
+  }
+ },
+ {
+  "ref": "71",
+  "name": "白色装饰球",
+  "qty": 18,
+  "group": "h_decor",
+  "type_en": "Decorative balls",
+  "type_ar": "كرات زينة",
+  "img": "img/p_071.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "White decorative balls",
+   "ar": "كرات زينة بيضاء"
+  }
+ },
+ {
+  "ref": "72",
+  "name": "黑色圆化装盒",
+  "qty": 16,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_072.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Black round cosmetic cases",
+   "ar": "علب مكياج دائرية سوداء"
+  }
+ },
+ {
+  "ref": "73",
+  "name": "白色装饰球24件 亚麻三连体灯罩方形1件",
+  "qty": 25,
+  "group": "h_decor",
+  "type_en": "Decorative balls",
+  "type_ar": "كرات زينة",
+  "img": "img/p_073.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "White decorative balls (24) + linen triple-section square lampshades (1)",
+   "ar": "كرات زينة بيضاء (24) + أغطية مصابيح مربعة كتانية ثلاثية الأقسام (1)"
+  }
+ },
+ {
+  "ref": "74",
+  "name": "长款皮质化妆箱",
+  "qty": 21,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_074.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Long leather cosmetic cases",
+   "ar": "حقائب مكياج جلدية طويلة"
+  }
+ },
+ {
+  "ref": "75",
+  "name": "亚麻三连体灯罩（圆8件/方件4）形+六件套灯罩4件",
+  "qty": 16,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_075.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Linen triple-section lampshades - round (8) / square (4) + 6-piece lampshade sets (4)",
+   "ar": "أغطية مصابيح كتانية ثلاثية الأقسام – دائرية (8) / مربعة (4) + أطقم أغطية مصابيح من 6 قطع (4)"
+  }
+ },
+ {
+  "ref": "76",
+  "name": "黑色圆化装盒 5.3*13",
+  "qty": 16,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_076.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Black round cosmetic cases, 5.3 x 13",
+   "ar": "علب مكياج دائرية سوداء، 5.3 × 13"
+  }
+ },
+ {
+  "ref": "77",
+  "name": "黑色圆化装盒5.5*11共16件 +彩色置物框1件",
+  "qty": 17,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_077.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Black round cosmetic cases, 5.5 x 11 (16) + colored storage baskets (1)",
+   "ar": "علب مكياج دائرية سوداء، 5.5 × 11 (16) + سلال تخزين ملونة (1)"
+  }
+ },
+ {
+  "ref": "78",
+  "name": "绕布条圆形10件+椭圆形11件",
+  "qty": 21,
+  "group": "a_lamp",
+  "type_en": "Lampshades",
+  "type_ar": "أغطية مصابيح (أباجورات)",
+  "img": "img/p_078.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Fabric-strip-wrapped lampshades - round (10) + oval (11)",
+   "ar": "أغطية مصابيح ملفوفة بشرائط قماشية – دائرية (10) + بيضاوية (11)"
+  }
+ },
+ {
+  "ref": "79",
+  "name": "花洒管7件+洗手液瓶7件+亚麻方形灯罩1件",
+  "qty": 15,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_079.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Shower hoses (7) + liquid soap bottles (7) + linen square lampshades (1)",
+   "ar": "خراطيم دش (7) + عبوات صابون سائل (7) + أغطية مصابيح مربعة من الكتان (1)"
+  }
+ },
+ {
+  "ref": "80",
+  "name": "彩色罩物框1件+带钻手掉化妆箱6件",
+  "qty": 7,
+  "group": "b_cosm",
+  "type_en": "Cosmetic cases",
+  "type_ar": "علب وحقائب مكياج",
+  "img": "img/p_080.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored storage baskets (1) + rhinestone-decorated portable cosmetic cases (6)",
+   "ar": "سلال تخزين ملونة (1) + حقائب مكياج محمولة مزينة بأحجار الراين (6)"
+  }
+ },
+ {
+  "ref": "81",
+  "name": "编织花园椅",
+  "qty": 5,
+  "group": "f_furn",
+  "type_en": "Garden chairs",
+  "type_ar": "كراسي حدائق",
+  "img": "img/p_081.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Woven garden chairs",
+   "ar": "كراسي حدائق منسوجة"
+  }
+ },
+ {
+  "ref": "82",
+  "name": "彩色陶瓷分装瓶",
+  "qty": 12,
+  "group": "e_bath",
+  "type_en": "Soap & liquid dispensers",
+  "type_ar": "موزعات صابون وسوائل",
+  "img": "img/p_082.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored ceramic dispenser bottles",
+   "ar": "عبوات موزعات خزفية ملونة"
+  }
+ },
+ {
+  "ref": "83",
+  "name": "彩色长款垫子（卷）",
+  "qty": 49,
+  "group": "h_decor",
+  "type_en": "Floor mats",
+  "type_ar": "سجاد وحصائر",
+  "img": "img/p_083.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Colored long mats (rolls)",
+   "ar": "حصائر طويلة ملونة (لفائف)"
+  }
+ },
+ {
+  "ref": "84",
+  "name": "各种 铆钉 钢钉 轴心钉 六角钉",
+  "qty": 34,
+  "group": "d_hard",
+  "type_en": "Nails, rivets & fasteners",
+  "type_ar": "مسامير وبرشام ومثبتات",
+  "img": "img/p_084.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted rivets, steel nails, axle pins and hex-head fasteners",
+   "ar": "برشام ومسامير فولاذية ومسامير محاور ومثبتات سداسية الرأس متنوعة"
+  }
+ },
+ {
+  "ref": "85",
+  "name": "编织花园椅",
+  "qty": 6,
+  "group": "f_furn",
+  "type_en": "Garden chairs",
+  "type_ar": "كراسي حدائق",
+  "img": "img/p_085.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Woven garden chairs",
+   "ar": "كراسي حدائق منسوجة"
+  }
+ },
+ {
+  "ref": "86",
+  "name": "各种 铆钉 钢钉 轴心钉 六角钉",
+  "qty": 22,
+  "group": "d_hard",
+  "type_en": "Nails, rivets & fasteners",
+  "type_ar": "مسامير وبرشام ومثبتات",
+  "img": "img/p_086.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted rivets, steel nails, axle pins and hex-head fasteners",
+   "ar": "برشام ومسامير فولاذية ومسامير محاور ومثبتات سداسية الرأس متنوعة"
+  }
+ },
+ {
+  "ref": "87",
+  "name": "台布夹1件/相框1件/木头拉手8件/方形灯罩1件/塑料柜锁1件/地碰1件",
+  "qty": 13,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_087.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Tablecloth clips (1) / picture frames (1) / wooden handles (8) / square lampshades (1) / plastic cabinet locks (1) / floor-mounted door stops (1)",
+   "ar": "مشابك مفارش طاولة (1) / إطارات صور (1) / مقابض خشبية (8) / أغطية مصابيح مربعة (1) / أقفال خزائن بلاستيكية (1) / سدادات أبواب أرضية (1)"
+  }
+ },
+ {
+  "ref": "88",
+  "name": "防水凳",
+  "qty": 9,
+  "group": "e_bath",
+  "type_en": "Waterproof stools",
+  "type_ar": "مقاعد مقاومة للماء",
+  "img": "img/p_088.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Waterproof stools",
+   "ar": "مقاعد مقاومة للماء"
+  }
+ },
+ {
+  "ref": "89",
+  "name": "塑料衣架（袋）",
+  "qty": 6,
+  "group": "c_store",
+  "type_en": "Plastic hangers",
+  "type_ar": "علّاقات ملابس بلاستيكية",
+  "img": "img/p_089.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Plastic clothes hangers (bags)",
+   "ar": "علاقات ملابس بلاستيكية (أكياس)"
+  }
+ },
+ {
+  "ref": "90",
+  "name": "塑料垃圾桶2款 小款2件+大款4件\n+六件套灯罩1件+雪纱圆灯罩3件+亚麻圆灯罩3件\n珠宝展示盒4件+黑色方形灯罩1件+头发定型绳2件+水龙头1件",
+  "qty": 21,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_090.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Plastic trash bins, 2 types: small (2) + large (4) + 6-piece lampshade sets (1) + sheer-fabric round lampshades (3) + linen round lampshades (3) + jewelry display boxes (4) + black square lampshades (1) + hair-styling cords (2) + faucets (1)",
+   "ar": "صناديق قمامة بلاستيكية، نوعان: صغيرة (2) + كبيرة (4) + أطقم أغطية مصابيح من 6 قطع (1) + أغطية مصابيح دائرية من قماش شفاف (3) + أغطية مصابيح دائرية من الكتان (3) + علب عرض مجوهرات (4) + أغطية مصابيح مربعة سوداء (1) + أربطة تصفيف شعر (2) + حنفيات (1)"
+  }
+ },
+ {
+  "ref": "91",
+  "name": "头发定型绳1件+1件加湿器+水龙头11件+多方位小镜子1件+大款鞋盒4件+文件夹1件+橡皮筋5件+头绳2件+头发定型绳1件+加温器1件",
+  "qty": 28,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_091.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Hair-styling cords (1) + humidifiers (1) + faucets (11) + small multi-angle mirrors (1) + large shoe boxes (4) + document folders (1) + rubber bands (5) + hair ties (2) + hair-styling cords (1) + heaters (1)",
+   "ar": "أربطة تصفيف شعر (1) + أجهزة ترطيب (1) + حنفيات (11) + مرايا صغيرة متعددة الزوايا (1) + صناديق أحذية كبيرة (4) + ملفات مستندات (1) + أربطة مطاطية (5) + ربطات شعر (2) + أربطة تصفيف شعر (1) + سخانات (1)"
+  }
+ },
+ {
+  "ref": "92",
+  "name": "各种钉13件+各种五金钥匙扣",
+  "qty": 34,
+  "group": "d_hard",
+  "type_en": "Nails, rivets & fasteners",
+  "type_ar": "مسامير وبرشام ومثبتات",
+  "img": "img/p_092.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted nails (13) + assorted metal key rings",
+   "ar": "مسامير متنوعة (13) + حلقات مفاتيح معدنية متنوعة"
+  }
+ },
+ {
+  "ref": "93",
+  "name": "柜子锁（塑料）2件+台布夹4件+双泡塑料刮刀1件+\n彩色贴纸9件+衣服枪钉塑料2件+化装盒5.5*13 共1件",
+  "qty": 19,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_093.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Plastic cabinet locks (2) + tablecloth clips (4) + double-blister plastic scrapers (1) + colored stickers (9) + plastic garment tagging fasteners (2) + cosmetic cases, 5.5 x 13 (1)",
+   "ar": "أقفال خزائن بلاستيكية (2) + مشابك مفارش طاولة (4) + مكاشط بلاستيكية بتغليف مزدوج (1) + ملصقات ملونة (9) + مثبتات بلاستيكية لتعليق الملابس (2) + علب مكياج، 5.5 × 13 (1)"
+  }
+ },
+ {
+  "ref": "94",
+  "name": "递须刀1件+儿童划冰袜子1件+餐厅台布1件+狗狗驱虫器1件器（塑料）\n+蓝牙耳机1件+面膜硅胶碗3件+五金柜门拉手2件+白色2件套塑料沥水器1件\n+硅胶沥水蓝5件+蓝牙耳机1件+苹果夜灯2件+1件溜冰袜+彩色包装纸6件",
+  "qty": 25,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_094.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Shavers (1) + children's ice-skating socks (1) + dining tablecloths (1) + plastic dog parasite-removal tools (1) + Bluetooth earphones (1) + silicone facial-mask mixing bowls (3) + metal cabinet door handles (2) + white plastic drainers, 2-piece set (1) + silicone colanders (5) + Bluetooth earphones (1) + apple-shaped night lights (2) + skating socks (1) + colored wrapping paper (6)",
+   "ar": "ماكينات حلاقة (1) + جوارب تزلج للأطفال (1) + مفارش طاولة طعام (1) + أدوات بلاستيكية لإزالة طفيليات الكلاب (1) + سماعات بلوتوث (1) + أوعية سيليكون لخلط أقنعة الوجه (3) + مقابض أبواب خزائن معدنية (2) + مصافي بلاستيكية بيضاء، طقم من قطعتين (1) + مصافي سيليكون (5) + سماعات بلوتوث (1) + مصابيح ليلية على شكل تفاحة (2) + جوارب تزلج (1) + ورق تغليف ملون (6)"
+  }
+ },
+ {
+  "ref": "95",
+  "name": "充电器6件+方形花洒4件+木质刮化装盒1件+LED夜灯1件+车辆变速杆2件+\n五金柜门把手1件+五金钥匙扣13件+透明塑料手机壳3件+mini塑料抓夹1件+亚麻3体圆灯罩1件+不锈钢猫铲1件",
+  "qty": 35,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_095.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Chargers (6) + square shower heads (4) + other item (1) + LED night lights (1) + vehicle gearshift levers (2) + metal cabinet door handles (1) + metal key rings (13) + transparent plastic phone cases (3) + mini plastic hair claw clips (1) + linen triple-section round lampshades (1) + stainless steel cat litter scoops (1)",
+   "ar": "شواحن (6) + رؤوس دش مربعة (4) + صنف آخر (1) + مصابيح ليلية LED (1) + مقابض ناقل حركة للسيارات (2) + مقابض أبواب خزائن معدنية (1) + حلقات مفاتيح معدنية (13) + أغطية هواتف بلاستيكية شفافة (3) + مشابك شعر بلاستيكية صغيرة (1) + أغطية مصابيح دائرية كتانية ثلاثية الأقسام (1) + مجارف فضلات قطط من الفولاذ المقاوم للصدأ (1)"
+  }
+ },
+ {
+  "ref": "96",
+  "name": "塑料防水凳2件+布料防水凳6件+下班装饰盘7件",
+  "qty": 15,
+  "group": "e_bath",
+  "type_en": "Waterproof stools",
+  "type_ar": "مقاعد مقاومة للماء",
+  "img": "img/p_096.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Plastic waterproof stools (2) + fabric waterproof stools (6) + decorative plates (7)",
+   "ar": "مقاعد بلاستيكية مقاومة للماء (2) + مقاعد قماشية مقاومة للماء (6) + أطباق زينة (7)"
+  }
+ },
+ {
+  "ref": "97",
+  "name": "硅胶手机支架5件+塑料LED灯1件+帆布包1件+蓝色包装LED灯1件\n+沙滩鞋2件+发形加热棒1箱",
+  "qty": 11,
+  "group": "z_mix",
+  "type_en": "Mixed household goods",
+  "type_ar": "سلع منزلية متنوعة",
+  "img": "img/p_097.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Silicone phone stands (5) + plastic LED lights (1) + canvas bags (1) + LED lights in blue packaging (1) + beach shoes (2) + heated hair-styling rods (1 carton)",
+   "ar": "حوامل هواتف من السيليكون (5) + مصابيح LED بلاستيكية (1) + حقائب قماشية (1) + مصابيح LED بتغليف أزرق (1) + أحذية شاطئ (2) + أعواد تصفيف شعر حرارية (1 كرتونة)"
+  }
+ },
+ {
+  "ref": "98",
+  "name": "陶瓷花瓶+陶瓷洗手液+各种异域风器具12件+圣诞树装饰小配件1件",
+  "qty": 13,
+  "group": "h_decor",
+  "type_en": "Home decor & ceramics",
+  "type_ar": "ديكور منزلي وخزف",
+  "img": "img/p_098.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Ceramic vases + ceramic liquid soap dispensers + assorted folk-style items (12) + small Christmas tree decorations (1)",
+   "ar": "مزهريات خزفية + موزعات صابون سائل خزفية + قطع متنوعة بطابع فولكلوري (12) + زينة صغيرة لشجرة عيد الميلاد (1)"
+  }
+ },
+ {
+  "ref": "99",
+  "name": "展会用各类装饰品（假花草）",
+  "qty": 12,
+  "group": "h_decor",
+  "type_en": "Home decor & ceramics",
+  "type_ar": "ديكور منزلي وخزف",
+  "img": "img/p_099.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Assorted exhibition decorations (artificial flowers and greenery)",
+   "ar": "زينة معارض متنوعة (زهور ونباتات صناعية)"
+  }
+ },
+ {
+  "ref": "100",
+  "name": "陶瓷工艺品16件",
+  "qty": 17,
+  "group": "h_decor",
+  "type_en": "Home decor & ceramics",
+  "type_ar": "ديكور منزلي وخزف",
+  "img": "img/p_100.jpg",
+  "photo": "exact",
+  "note": {
+   "en": "Decorative ceramic items (16)",
+   "ar": "قطع خزفية للزينة (16)"
+  }
+ }
+]

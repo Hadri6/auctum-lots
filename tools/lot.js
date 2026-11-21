@@ -12,6 +12,8 @@
   var s = null;
   try { s = localStorage.getItem('lang'); } catch (e) {}
   if (!s && (navigator.language || '').indexOf('ar') === 0) s = 'ar';
+  var q = (location.search.match(/[?&]lang=(ar|en)\b/) || [])[1];  // ?lang=ar opens the Arabic version
+  if (q) s = q;
   if (s === 'ar') set('ar');
 })();
 (function () {

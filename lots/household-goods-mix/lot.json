@@ -1,0 +1,115 @@
+{
+ "slug": "household-goods-mix",
+ "page_title": "Household Goods – 100 Pallets",
+ "title": {
+  "en": "Household & home goods – 100 pallets",
+  "ar": "سلع منزلية وأدوات بيت – 100 منصّة"
+ },
+ "subtitle": {
+  "en": "New, boxed general merchandise on 100 pallets (1,871 cartons): lampshades in many shapes and fabrics, cosmetic and make-up cases, storage boxes and baskets, shoe boxes, nails, rivets and small hardware, faucets and shower heads, soap dispensers, waterproof stools, garden chairs, indoor exercise bikes, wrapping paper, decorative balls and ceramic decor. Every pallet is shown with the real photos of its cartons. Offered as one lot.",
+  "ar": "بضائع منزلية جديدة في كراتينها على 100 منصّة (1,871 كرتونة): أغطية مصابيح (أباجورات) بأشكال وأقمشة متعددة، علب وحقائب مكياج، صناديق وسلال تخزين، صناديق أحذية، مسامير وبرشام وعُدد صغيرة، حنفيات ورؤوس دش، موزعات صابون، مقاعد مقاومة للماء، كراسي حدائق، دراجات تمارين منزلية، ورق تغليف، كرات زينة وديكور خزفي. كل منصّة معروضة بصورها الفعلية من المستودع. تُعرض كدفعة واحدة."
+ },
+ "groups_word": [
+  "Categories",
+  "الفئة"
+ ],
+ "qty_label": [
+  "Cartons",
+  "كرتونة"
+ ],
+ "qty_exact": true,
+ "unit": [
+  "cartons",
+  "كرتونة"
+ ],
+ "kpis": [
+  {
+   "en": "Pallets",
+   "ar": "منصّات",
+   "value": "100"
+  }
+ ],
+ "location": {
+  "en": "EU warehouse",
+  "ar": "مستودع داخل الاتحاد الأوروبي"
+ },
+ "all_cards": true,
+ "groups": {
+  "a_lamp": {
+   "en": "Lampshades",
+   "ar": "أغطية مصابيح (أباجورات)",
+   "short": "Lampshades"
+  },
+  "b_cosm": {
+   "en": "Cosmetic & make-up cases",
+   "ar": "علب وحقائب مكياج",
+   "short": "Cosmetic cases"
+  },
+  "c_store": {
+   "en": "Storage boxes, baskets & shoe boxes",
+   "ar": "صناديق وسلال تخزين وصناديق أحذية",
+   "short": "Storage"
+  },
+  "d_hard": {
+   "en": "Nails, rivets & small hardware",
+   "ar": "مسامير وبرشام وعُدد صغيرة",
+   "short": "Hardware"
+  },
+  "e_bath": {
+   "en": "Bathroom: faucets, showers, dispensers, stools",
+   "ar": "مستلزمات حمّام: حنفيات ودُش وموزعات ومقاعد",
+   "short": "Bathroom"
+  },
+  "f_furn": {
+   "en": "Garden chairs, exercise bikes & stands",
+   "ar": "كراسي حدائق ودراجات تمارين وحوامل",
+   "short": "Chairs & bikes"
+  },
+  "g_paper": {
+   "en": "Wrapping paper, stationery & stickers",
+   "ar": "ورق تغليف وقرطاسية وملصقات",
+   "short": "Paper"
+  },
+  "h_decor": {
+   "en": "Home decor, decorative balls & mats",
+   "ar": "ديكور منزلي وكرات زينة وحصائر",
+   "short": "Decor"
+  },
+  "z_mix": {
+   "en": "Mixed pallets",
+   "ar": "منصّات مختلطة",
+   "short": "Mixed"
+  }
+ },
+ "group_order": [
+  "a_lamp",
+  "b_cosm",
+  "c_store",
+  "d_hard",
+  "e_bath",
+  "f_furn",
+  "g_paper",
+  "h_decor",
+  "z_mix"
+ ],
+ "other_group": "autres",
+ "shipping": {
+  "volume_m3": [
+   150,
+   230
+  ],
+  "weight_t": [
+   15,
+   25
+  ],
+  "no_20ft": true,
+  "note": {
+   "en": "Estimate for 100 standard pallets (no exact dimensions or weights in the list). Lampshades, boxes and cases are light and bulky; nails and exercise bikes are the heavy pallets. Loaded single-stacked, 100 pallets need about 4–5 × 40′ HC; light pallets that can be double-stacked bring it down to about 3.",
+   "ar": "تقدير لـ100 منصّة قياسية (القائمة بلا أبعاد أو أوزان دقيقة). أغطية المصابيح والصناديق والعلب خفيفة وكبيرة الحجم، والمنصّات الثقيلة هي المسامير ودراجات التمارين. بالتحميل بطبقة واحدة تحتاج 100 منصّة نحو 4–5 حاويات 40 قدم HC، ومع تكديس المنصّات الخفيفة طبقتين تنخفض إلى نحو 3."
+  }
+ },
+ "note": {
+  "en": "Item names are kept as written in the original stock list (Chinese) with the translation underneath. Quantities are cartons per pallet; the number of pieces per carton is not stated. Photos are the seller's own photos of the actual cartons (two per pallet where available); styles and colours vary within a carton. Subject to prior sale.",
+  "ar": "أسماء الأصناف كما وردت في قائمة المخزون الأصلية (بالصينية) وتحتها الترجمة. الكميات بعدد الكراتين في كل منصّة، وعدد القطع في الكرتونة غير مذكور. الصور هي صور البائع الفعلية للكراتين نفسها (صورتان لكل منصّة حين تتوفر)، وتتنوع الموديلات والألوان داخل الكرتونة. البضاعة متاحة حتى نفادها."
+ }
+}
