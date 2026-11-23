@@ -166,7 +166,11 @@ td .st{margin:0}
   v.addEventListener('click', function (ev) {
     var b = ev.target.closest('button');
     if (b) { var k = b.getAttribute('data-a'); if (k === 'x') close(); else step(k === 'n' ? 1 : -1); return; }
-    if (ev.target === img) v.classList.toggle('big');
+    if (ev.target === img) {
+      // 100 % view only helps when the photo is larger than the screen; small photos stay fitted
+      var zw0 = v.querySelector('.zw');
+      if (v.classList.contains('big') || img.naturalWidth > zw0.clientWidth || img.naturalHeight > zw0.clientHeight) v.classList.toggle('big');
+    }
   });
   document.addEventListener('keydown', function (ev) {
     if (!v.classList.contains('on')) return;
