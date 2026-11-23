@@ -11,6 +11,9 @@
   "weight_t": [
    2.5,
    4
+  ],
+  "zoom": [
+   "img/full/p_1_0.jpg"
   ]
  },
  {
@@ -25,6 +28,9 @@
   "weight_t": [
    0.6,
    1.0
+  ],
+  "zoom": [
+   "img/full/p_2_0.jpg"
   ]
  },
  {
@@ -39,7 +45,15 @@
   "weight_t": [
    0.2,
    0.4
-  ]
+  ],
+  "zoom": [
+   "img/full/p_3_0.jpg",
+   "img/full/p_3_1.jpg"
+  ],
+  "note": {
+   "en": "Now stored in a trailer, ready for loading (see photos).",
+   "ar": "مخزّنة حالياً في مقطورة وجاهزة للتحميل (انظر الصور)."
+  }
  },
  {
   "ref": "4",
@@ -53,7 +67,15 @@
   "weight_t": [
    0.8,
    1.3
-  ]
+  ],
+  "zoom": [
+   "img/full/p_4_0.jpg",
+   "img/full/p_4_1.jpg"
+  ],
+  "note": {
+   "en": "Now stored in a trailer, ready for loading (see photos).",
+   "ar": "مخزّنة حالياً في مقطورة وجاهزة للتحميل (انظر الصور)."
+  }
  },
  {
   "ref": "5",
@@ -67,6 +89,9 @@
   "weight_t": [
    0.1,
    0.2
+  ],
+  "zoom": [
+   "img/full/p_5_0.jpg"
   ]
  },
  {
@@ -81,6 +106,9 @@
   "weight_t": [
    0.1,
    0.3
+  ],
+  "zoom": [
+   "img/full/p_6_0.jpg"
   ]
  },
  {
@@ -95,7 +123,15 @@
   "weight_t": [
    0.4,
    0.8
-  ]
+  ],
+  "zoom": [
+   "img/full/p_7_0.jpg",
+   "img/full/p_7_1.jpg"
+  ],
+  "note": {
+   "en": "Now stored in a trailer, ready for loading (see photos).",
+   "ar": "مخزّنة حالياً في مقطورة وجاهزة للتحميل (انظر الصور)."
+  }
  },
  {
   "ref": "8",
@@ -109,6 +145,9 @@
   "weight_t": [
    3,
    5
+  ],
+  "zoom": [
+   "img/full/p_8_0.jpg"
   ]
  },
  {
@@ -123,6 +162,9 @@
   "weight_t": [
    0.2,
    0.5
+  ],
+  "zoom": [
+   "img/full/p_9_0.jpg"
   ]
  },
  {
@@ -137,7 +179,15 @@
   "weight_t": [
    2,
    8
-  ]
+  ],
+  "zoom": [
+   "img/full/p_10_0.jpg",
+   "img/full/p_10_1.jpg"
+  ],
+  "note": {
+   "en": "Now stored in a trailer, ready for loading (see photos).",
+   "ar": "مخزّنة حالياً في مقطورة وجاهزة للتحميل (انظر الصور)."
+  }
  },
  {
   "ref": "11",
@@ -151,6 +201,9 @@
   "weight_t": [
    0.5,
    2
+  ],
+  "zoom": [
+   "img/full/p_11_0.jpg"
   ]
  },
  {
@@ -165,6 +218,9 @@
   "weight_t": [
    0.08,
    0.12
+  ],
+  "zoom": [
+   "img/full/p_12_0.jpg"
   ]
  },
  {
@@ -179,6 +235,9 @@
   "weight_t": [
    0.2,
    0.3
+  ],
+  "zoom": [
+   "img/full/p_13_0.jpg"
   ]
  },
  {
@@ -193,7 +252,15 @@
   "weight_t": [
    0.1,
    0.3
-  ]
+  ],
+  "zoom": [
+   "img/full/p_14_0.jpg",
+   "img/full/p_14_1.jpg"
+  ],
+  "note": {
+   "en": "Wall rack full of bar and screw clamps.",
+   "ar": "حامل جداري مليء بملازم الشدّ."
+  }
  },
  {
   "ref": "15",
@@ -207,7 +274,21 @@
   "weight_t": [
    0.2,
    0.6
-  ]
+  ],
+  "zoom": [
+   "img/full/p_15_0.jpg",
+   "img/full/p_15_1.jpg",
+   "img/full/p_15_2.jpg",
+   "img/full/p_15_3.jpg",
+   "img/full/p_15_4.jpg",
+   "img/full/p_15_5.jpg",
+   "img/full/p_15_6.jpg",
+   "img/full/p_15_7.jpg"
+  ],
+  "note": {
+   "en": "Several pallets: hardware and fittings in bins, edge-banding rolls, boxed accessories, cables, plus shelving racks — 8 photos.",
+   "ar": "عدة منصات: مسامير وإكسسوارات في صناديق، لفّات شريط حواف، إكسسوارات مغلّفة، كابلات، ورفوف تخزين — 8 صور."
+  }
  },
  {
   "ref": "16",
@@ -221,6 +302,9 @@
   "weight_t": [
    0.2,
    0.5
+  ],
+  "zoom": [
+   "img/full/p_16_0.jpg"
   ]
  },
  {
@@ -235,6 +319,9 @@
   "weight_t": [
    0.3,
    0.6
+  ],
+  "zoom": [
+   "img/full/p_17_0.jpg"
   ]
  },
  {
@@ -249,6 +336,9 @@
   "weight_t": [
    0.002,
    0.003
+  ],
+  "zoom": [
+   "img/full/p_18_0.jpg"
   ]
  },
  {
@@ -263,6 +353,9 @@
   "weight_t": [
    0.01,
    0.02
+  ],
+  "zoom": [
+   "img/full/p_19_0.jpg"
   ]
  },
  {
@@ -277,6 +370,9 @@
   "weight_t": [
    0.15,
    0.3
+  ],
+  "zoom": [
+   "img/full/p_20_0.jpg"
   ]
  },
  {
@@ -291,6 +387,9 @@
   "weight_t": [
    0.1,
    0.2
+  ],
+  "zoom": [
+   "img/full/p_21_0.jpg"
   ]
  },
  {
@@ -305,7 +404,16 @@
   "weight_t": [
    1,
    4
-  ]
+  ],
+  "zoom": [
+   "img/full/p_22_0.jpg",
+   "img/full/p_22_1.jpg",
+   "img/full/p_22_2.jpg"
+  ],
+  "note": {
+   "en": "Board offcuts, beams and mixed timber, partly loaded in a trailer.",
+   "ar": "بقايا ألواح وعوارض وأخشاب متنوعة، جزء منها محمّل في مقطورة."
+  }
  },
  {
   "ref": "23",
@@ -319,7 +427,17 @@
   "weight_t": [
    0.2,
    0.5
-  ]
+  ],
+  "zoom": [
+   "img/full/p_23_0.jpg",
+   "img/full/p_23_1.jpg",
+   "img/full/p_23_2.jpg",
+   "img/full/p_23_3.jpg"
+  ],
+  "note": {
+   "en": "Incl. spiral ducting of the extraction system.",
+   "ar": "مع أنابيب الشفط الحلزونية الخاصة بالنظام."
+  }
  },
  {
   "ref": "24",
@@ -333,6 +451,9 @@
   "weight_t": [
    0.5,
    2
+  ],
+  "zoom": [
+   "img/full/p_24_0.jpg"
   ]
  },
  {
@@ -347,6 +468,9 @@
   "weight_t": [
    0.001,
    0.002
+  ],
+  "zoom": [
+   "img/full/p_25_0.jpg"
   ]
  },
  {
@@ -361,7 +485,16 @@
   "weight_t": [
    0.3,
    0.8
-  ]
+  ],
+  "zoom": [
+   "img/full/p_26_0.jpg",
+   "img/full/p_26_1.jpg",
+   "img/full/p_26_2.jpg"
+  ],
+  "note": {
+   "en": "Black kitchen and furniture units (showroom).",
+   "ar": "وحدات مطبخ وأثاث سوداء (صالة عرض)."
+  }
  },
  {
   "ref": "27",
@@ -375,6 +508,10 @@
   "weight_t": [
    0.2,
    0.6
+  ],
+  "zoom": [
+   "img/full/p_27_0.jpg",
+   "img/full/p_27_1.jpg"
   ]
  },
  {
@@ -389,6 +526,9 @@
   "weight_t": [
    0.005,
    0.01
+  ],
+  "zoom": [
+   "img/full/p_28_0.jpg"
   ]
  },
  {
@@ -403,6 +543,9 @@
   "weight_t": [
    0.02,
    0.04
+  ],
+  "zoom": [
+   "img/full/p_29_0.jpg"
   ]
  },
  {
@@ -417,6 +560,9 @@
   "weight_t": [
    0.2,
    0.4
+  ],
+  "zoom": [
+   "img/full/p_30_0.jpg"
   ]
  },
  {
@@ -431,6 +577,10 @@
   "weight_t": [
    0.1,
    0.3
+  ],
+  "zoom": [
+   "img/full/p_31_0.jpg",
+   "img/full/p_31_1.jpg"
   ]
  },
  {
@@ -445,6 +595,9 @@
   "weight_t": [
    0.05,
    0.2
+  ],
+  "zoom": [
+   "img/full/p_32_0.jpg"
   ]
  },
  {
@@ -459,6 +612,9 @@
   "weight_t": [
    0.1,
    0.2
+  ],
+  "zoom": [
+   "img/full/p_33_0.jpg"
   ]
  },
  {
@@ -473,6 +629,9 @@
   "weight_t": [
    0.06,
    0.09
+  ],
+  "zoom": [
+   "img/full/p_34_0.jpg"
   ]
  },
  {
@@ -487,34 +646,58 @@
   "weight_t": [
    0.3,
    1.5
-  ]
+  ],
+  "zoom": [
+   "img/full/p_35_0.jpg",
+   "img/full/p_35_1.jpg"
+  ],
+  "note": {
+   "en": "Wrapped furniture on pallets.",
+   "ar": "أثاث مغلّف على منصات."
+  }
  },
  {
   "ref": "36",
   "name": "Fiat Ducato",
   "qty": 1,
   "group": "vehicles",
-  "type_en": "Van",
-  "type_ar": "فان (شاحنة صغيرة)",
-  "img": null,
-  "photo": null,
+  "type_en": "Panel van",
+  "type_ar": "فان مغلق",
+  "img": "img/p_36.jpg",
+  "photo": "exact",
   "weight_t": [
    2.0,
    2.5
-  ]
+  ],
+  "zoom": [
+   "img/full/p_36_0.jpg",
+   "img/full/p_36_1.jpg"
+  ],
+  "note": {
+   "en": "Fiat Ducato panel van, standard roof, white, Czech registration. Year and mileage on request.",
+   "ar": "فان Fiat Ducato مغلق بسقف عادي، أبيض، بلوحات تشيكية. سنة الصنع وعدد الكيلومترات عند الطلب."
+  }
  },
  {
   "ref": "37",
   "name": "Fiat Ducato Maxi – skříňová nástavba",
   "qty": 1,
   "group": "vehicles",
-  "type_en": "Box van",
-  "type_ar": "فان بصندوق",
-  "img": null,
-  "photo": null,
+  "type_en": "Box van (curtain-side)",
+  "type_ar": "فان بصندوق (جوانب قماشية)",
+  "img": "img/p_37.jpg",
+  "photo": "exact",
   "weight_t": [
    2.3,
    3.0
-  ]
+  ],
+  "zoom": [
+   "img/full/p_37_0.jpg",
+   "img/full/p_37_1.jpg"
+  ],
+  "note": {
+   "en": "Fiat Ducato Maxi with curtain-side box body (tarpaulin sides, roof deflector), white, Czech registration. Year and mileage on request.",
+   "ar": "Fiat Ducato Maxi بصندوق جوانبه ستائر قماشية مع عاكس هواء على السقف، أبيض، بلوحات تشيكية. سنة الصنع وعدد الكيلومترات عند الطلب."
+  }
  }
 ]

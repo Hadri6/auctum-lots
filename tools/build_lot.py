@@ -135,6 +135,22 @@ def build(lot_dir, out_dir=None, private=False):
             copied.add(name)
         return 'img/' + name
 
+    # Optional full-resolution zoom per line (items[].zoom = ["img/full/a.jpg", ...], first = the card photo in high
+    # resolution, then detail shots). Tapping the card photo opens a full-screen viewer (tools/lot_zoom.js).
+    def zoom_srcs(it):
+        res = []
+        for p in it.get('zoom') or []:
+            src = os.path.join(lot_dir, p)
+            if not os.path.exists(src):
+                continue
+            os.makedirs(os.path.join(out, 'img', 'full'), exist_ok=True)
+            name = os.path.basename(src)
+            if 'full/' + name not in copied:
+                shutil.copy(src, os.path.join(out, 'img', 'full', name))
+                copied.add('full/' + name)
+            res.append('img/full/' + name)
+        return res
+
     # Optional completeness status per line (lot.json "statuses": {key: {en, ar, cls, desc_en, desc_ar}}):
     # shown as a chip on cards/rows, as a filter bar and as a summary table.
     statuses = lot.get('statuses', {})
@@ -289,6 +305,12 @@ def build(lot_dir, out_dir=None, private=False):
                              t('Product photo', 'صورة المنتج', cls='tag ok') if it.get('photo') == 'exact'
                              else t('Representative photo', 'صورة توضيحية', cls='tag rep'))
                     visual = f'<img loading="lazy" src="{src}" alt="{E(ten)}">{badge}'
+                    zs = zoom_srcs(it)
+                    if zs:
+                        more = (t(f'{len(zs)} photos · tap to zoom', f'{len(zs)} صور · اضغط للتكبير', cls='zc') if len(zs) > 1
+                                else t('Tap to zoom', 'اضغط للتكبير', cls='zc'))
+                        visual = (f'<a class="zm" href="{zs[0]}" data-z="{E(json.dumps(zs))}">'
+                                  f'<img loading="lazy" src="{src}" alt="{E(ten)}"></a>{badge}{more}')
                 else:
                     visual = f'<div class="ph">{t(ten, tar)}</div>'
                 w = _rng(it.get('weight_t'))
@@ -444,6 +466,9 @@ def build(lot_dir, out_dir=None, private=False):
     credits = f'<footer class="credits">{E(lot["credits"])}</footer>\n' if lot.get('credits') else ''
     css = open(os.path.join(TOOLS, 'lot.css'), encoding='utf8').read()
     js = open(os.path.join(TOOLS, 'lot.js'), encoding='utf8').read()
+    if any(it.get('zoom') for it in items):
+        css += open(os.path.join(TOOLS, 'lot_zoom.css'), encoding='utf8').read()
+        js += open(os.path.join(TOOLS, 'lot_zoom.js'), encoding='utf8').read()
     if pc:
         css += open(os.path.join(TOOLS, 'lot_calc.css'), encoding='utf8').read()
         js += open(os.path.join(TOOLS, 'lot_calc.js'), encoding='utf8').read()

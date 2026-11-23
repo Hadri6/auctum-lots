@@ -88,3 +88,8 @@ rounded up to whole pallets, priced by the highest tier reached, and the complet
 of that lot is taken in full. Totals show pieces, pallets, estimated weight/volume, 40′ HC count and EUR net.
 Without `public_prices` the builder refuses `items[].calc`. Supplier part numbers and purchase prices stay in
 `auctum-lots-src/<slug>/` (e.g. `refs.json`). The page check then allows `€` but still no contact or source names.
+
+## Zoomable photos (2026-11-23, reference `woodwork-workshop-cz/`)
+`items[].zoom = ["img/full/<x>.jpg", ...]` (first = the card photo in high resolution, ≤1600 px, then detail shots).
+The card photo becomes tappable and opens a full-screen viewer (`tools/lot_zoom.js/.css`, only included when a lot uses it):
+swipe/arrows for the next photo, tap the image for 100 % size, "Original" opens the file. A badge shows "N photos · tap to zoom".

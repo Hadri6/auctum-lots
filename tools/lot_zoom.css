@@ -1,0 +1,11 @@
+.zm{display:block;cursor:zoom-in}
+.zc{position:absolute;top:8px;inset-inline-end:8px;background:rgba(0,0,0,.62);color:#fff;font-size:12px;padding:3px 8px;border-radius:999px;pointer-events:none}
+#zv{position:fixed;inset:0;background:#000;z-index:50;display:none;flex-direction:column}
+#zv.on{display:flex}
+#zv .zw{flex:1;overflow:auto;display:flex;align-items:center;justify-content:center;touch-action:pinch-zoom pan-x pan-y}
+#zv img{max-width:100%;max-height:100%;object-fit:contain;cursor:zoom-in}
+#zv.big .zw{display:block}
+#zv.big img{max-width:none;max-height:none;cursor:zoom-out}
+#zv .zb{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:8px 12px;color:#fff;font-size:14px;background:#111}
+#zv button{background:#333;color:#fff;border:0;border-radius:8px;font-size:18px;min-width:44px;height:40px;cursor:pointer}
+#zv a{color:#9cf;font-size:13px}
