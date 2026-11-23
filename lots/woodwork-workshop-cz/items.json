@@ -1,0 +1,520 @@
+[
+ {
+  "ref": "1",
+  "name": "SCM Sigma Impact – pila",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Panel saw (beam saw)",
+  "type_ar": "منشار ألواح",
+  "img": "img/p_1.jpg",
+  "photo": "exact",
+  "weight_t": [
+   2.5,
+   4
+  ]
+ },
+ {
+  "ref": "2",
+  "name": "SCM SI 300 E – pila, v.č. 29465371530",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Sliding table saw",
+  "type_ar": "منشار طاولة منزلقة",
+  "img": "img/p_2.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.6,
+   1.0
+  ]
+ },
+ {
+  "ref": "3",
+  "name": "Kompresor Orlík ORL 7,5 CX",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Air compressor",
+  "type_ar": "ضاغط هواء",
+  "img": "img/p_3.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.2,
+   0.4
+  ]
+ },
+ {
+  "ref": "4",
+  "name": "Olimpic K 560 – olepovačka hran",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Edge banding machine",
+  "type_ar": "آلة لصق الحواف",
+  "img": "img/p_4.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.8,
+   1.3
+  ]
+ },
+ {
+  "ref": "5",
+  "name": "Konvektomat Eloma Genius",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Combi steamer oven",
+  "type_ar": "فرن بخاري (كونفكتوميت)",
+  "img": "img/p_5.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.1,
+   0.2
+  ]
+ },
+ {
+  "ref": "6",
+  "name": "Kuchyň",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Kitchen equipment",
+  "type_ar": "تجهيزات مطبخ",
+  "img": "img/p_6.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.1,
+   0.3
+  ]
+ },
+ {
+  "ref": "7",
+  "name": "SCM Nova TI 105 – fréza, v.č. KK00038493",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Spindle moulder",
+  "type_ar": "آلة تفريز (فريزة)",
+  "img": "img/p_7.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.4,
+   0.8
+  ]
+ },
+ {
+  "ref": "8",
+  "name": "SCM Tech Z2 – CNC, 29911055950",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "CNC machining centre",
+  "type_ar": "مركز تشغيل CNC",
+  "img": "img/p_8.jpg",
+  "photo": "exact",
+  "weight_t": [
+   3,
+   5
+  ]
+ },
+ {
+  "ref": "9",
+  "name": "Pemal Malbork – vrtačka",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Drilling machine",
+  "type_ar": "آلة ثقب",
+  "img": "img/p_9.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.2,
+   0.5
+  ]
+ },
+ {
+  "ref": "10",
+  "name": "Soubor materiálu – OSB a dřevotřískové desky",
+  "qty": 1,
+  "group": "materials",
+  "type_en": "Board material (OSB / chipboard)",
+  "type_ar": "ألواح OSB وخشب حبيبي",
+  "img": "img/p_10.jpg",
+  "photo": "exact",
+  "weight_t": [
+   2,
+   8
+  ]
+ },
+ {
+  "ref": "11",
+  "name": "Soubor materiálu – dýhy",
+  "qty": 1,
+  "group": "materials",
+  "type_en": "Veneer",
+  "type_ar": "قشرة خشب",
+  "img": "img/p_11.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.5,
+   2
+  ]
+ },
+ {
+  "ref": "12",
+  "name": "BMW disky + pneu 4 ks",
+  "qty": 4,
+  "group": "other",
+  "type_en": "Wheels with tyres",
+  "type_ar": "جنوط مع إطارات",
+  "img": "img/p_12.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.08,
+   0.12
+  ]
+ },
+ {
+  "ref": "13",
+  "name": "Pneu 22 ks",
+  "qty": 22,
+  "group": "other",
+  "type_en": "Tyres",
+  "type_ar": "إطارات",
+  "img": "img/p_13.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.2,
+   0.3
+  ]
+ },
+ {
+  "ref": "14",
+  "name": "Nářadí – stahováky",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Clamps",
+  "type_ar": "ملازم ومشابك",
+  "img": "img/p_14.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.1,
+   0.3
+  ]
+ },
+ {
+  "ref": "15",
+  "name": "Příruční sklad – spojovací materiál, lepení, kování",
+  "qty": 1,
+  "group": "materials",
+  "type_en": "Fasteners, fittings & glue stock",
+  "type_ar": "مخزون مسامير وإكسسوارات وغراء",
+  "img": "img/p_15.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.2,
+   0.6
+  ]
+ },
+ {
+  "ref": "16",
+  "name": "Kamna Heater s příslušenstvím",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Workshop heater with accessories",
+  "type_ar": "مدفأة ورشة مع ملحقاتها",
+  "img": "img/p_16.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.2,
+   0.5
+  ]
+ },
+ {
+  "ref": "17",
+  "name": "Pracovní stoly 6 ks",
+  "qty": 6,
+  "group": "workshop",
+  "type_en": "Workbench",
+  "type_ar": "طاولة عمل",
+  "img": "img/p_17.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.3,
+   0.6
+  ]
+ },
+ {
+  "ref": "18",
+  "name": "Makita HP1621 – vrtačka",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Impact drill",
+  "type_ar": "مثقاب",
+  "img": "img/p_18.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.002,
+   0.003
+  ]
+ },
+ {
+  "ref": "19",
+  "name": "Narex EPR 40-20 – pila",
+  "qty": 1,
+  "group": "tools",
+  "type_en": "Circular saw",
+  "type_ar": "منشار دائري",
+  "img": "img/p_19.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.01,
+   0.02
+  ]
+ },
+ {
+  "ref": "20",
+  "name": "Pracovní stoly 3x",
+  "qty": 3,
+  "group": "workshop",
+  "type_en": "Workbench",
+  "type_ar": "طاولة عمل",
+  "img": "img/p_20.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.15,
+   0.3
+  ]
+ },
+ {
+  "ref": "21",
+  "name": "Flowair ke kamnům 5x",
+  "qty": 5,
+  "group": "workshop",
+  "type_en": "Air heater unit (Flowair)",
+  "type_ar": "سخان هواء (Flowair)",
+  "img": "img/p_21.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.1,
+   0.2
+  ]
+ },
+ {
+  "ref": "22",
+  "name": "OSB desky, trámy + ostatní materiál",
+  "qty": 1,
+  "group": "materials",
+  "type_en": "Board material & beams",
+  "type_ar": "ألواح وعوارض خشبية",
+  "img": "img/p_22.jpg",
+  "photo": "exact",
+  "weight_t": [
+   1,
+   4
+  ]
+ },
+ {
+  "ref": "23",
+  "name": "Elektroprof – odsávačka pilin, v.č. 1179",
+  "qty": 1,
+  "group": "machines",
+  "type_en": "Dust extractor",
+  "type_ar": "شفاط نشارة",
+  "img": "img/p_23.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.2,
+   0.5
+  ]
+ },
+ {
+  "ref": "24",
+  "name": "Soubor kuchyňských desek",
+  "qty": 1,
+  "group": "materials",
+  "type_en": "Kitchen worktops",
+  "type_ar": "أسطح مطابخ",
+  "img": "img/p_24.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.5,
+   2
+  ]
+ },
+ {
+  "ref": "25",
+  "name": "Braun – žehlička",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Iron",
+  "type_ar": "مكواة",
+  "img": "img/p_25.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "ref": "26",
+  "name": "Soubor nábytku – vestavěná kuchyň + nábytek",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Built-in kitchen & furniture",
+  "type_ar": "مطبخ مدمج وأثاث",
+  "img": "img/p_26.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.3,
+   0.8
+  ]
+ },
+ {
+  "ref": "27",
+  "name": "Soubor kancelářského nábytku (židle, stoly)",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Office furniture",
+  "type_ar": "أثاث مكتبي",
+  "img": "img/p_27.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.2,
+   0.6
+  ]
+ },
+ {
+  "ref": "28",
+  "name": "Epson – tiskárna",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Printer",
+  "type_ar": "طابعة",
+  "img": "img/p_28.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.005,
+   0.01
+  ]
+ },
+ {
+  "ref": "29",
+  "name": "Mobilní klimatizace Sencor",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Mobile air conditioner",
+  "type_ar": "مكيّف متنقل",
+  "img": "img/p_29.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.02,
+   0.04
+  ]
+ },
+ {
+  "ref": "30",
+  "name": "Kuchyňská linka vč. lednice a myčky",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Kitchen unit with fridge & dishwasher",
+  "type_ar": "مطبخ مع ثلاجة وجلّاية",
+  "img": "img/p_30.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.2,
+   0.4
+  ]
+ },
+ {
+  "ref": "31",
+  "name": "Šatní skříně",
+  "qty": 1,
+  "group": "kitchen",
+  "type_en": "Wardrobe lockers",
+  "type_ar": "خزائن ملابس",
+  "img": "img/p_31.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.1,
+   0.3
+  ]
+ },
+ {
+  "ref": "32",
+  "name": "Rozvodní skříň",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Electrical distribution cabinet",
+  "type_ar": "خزانة توزيع كهرباء",
+  "img": "img/p_32.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.05,
+   0.2
+  ]
+ },
+ {
+  "ref": "33",
+  "name": "Plynové nádoby 6 ks",
+  "qty": 6,
+  "group": "workshop",
+  "type_en": "Gas cylinders",
+  "type_ar": "أسطوانات غاز",
+  "img": "img/p_33.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.1,
+   0.2
+  ]
+ },
+ {
+  "ref": "34",
+  "name": "Paletový vozík",
+  "qty": 1,
+  "group": "workshop",
+  "type_en": "Pallet truck",
+  "type_ar": "رافعة منصات يدوية",
+  "img": "img/p_34.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.06,
+   0.09
+  ]
+ },
+ {
+  "ref": "35",
+  "name": "Hotové výrobky",
+  "qty": 1,
+  "group": "other",
+  "type_en": "Finished products (furniture)",
+  "type_ar": "منتجات جاهزة (أثاث)",
+  "img": "img/p_35.jpg",
+  "photo": "exact",
+  "weight_t": [
+   0.3,
+   1.5
+  ]
+ },
+ {
+  "ref": "36",
+  "name": "Fiat Ducato",
+  "qty": 1,
+  "group": "vehicles",
+  "type_en": "Van",
+  "type_ar": "فان (شاحنة صغيرة)",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   2.0,
+   2.5
+  ]
+ },
+ {
+  "ref": "37",
+  "name": "Fiat Ducato Maxi – skříňová nástavba",
+  "qty": 1,
+  "group": "vehicles",
+  "type_en": "Box van",
+  "type_ar": "فان بصندوق",
+  "img": null,
+  "photo": null,
+  "weight_t": [
+   2.3,
+   3.0
+  ]
+ }
+]

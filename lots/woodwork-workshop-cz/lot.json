@@ -1,0 +1,95 @@
+{
+ "slug": "woodwork-workshop-cz",
+ "page_title": "Woodworking & Furniture Workshop Equipment",
+ "title": {
+  "en": "Woodworking & furniture workshop equipment",
+  "ar": "معدات ورشة نجارة وتصنيع أثاث"
+ },
+ "subtitle": {
+  "en": "Complete equipment of a Czech furniture and kitchen workshop: SCM panel saw (Sigma Impact), SCM SI 300 E sliding table saw, SCM Tech Z2 CNC machining centre, SCM Nova TI 105 spindle moulder, Olimpic K 560 edge bander, Pemal drilling machine, compressor and dust extraction, board material (OSB, chipboard, veneer, kitchen worktops), hardware stock, power tools, workbenches, heating, office and kitchen furniture, finished products and two Fiat Ducato vans. Used, sold as seen. Available as one lot.",
+  "ar": "تجهيزات كاملة لورشة تشيكية لتصنيع الأثاث والمطابخ: منشار ألواح SCM ‏(Sigma Impact)، منشار طاولة منزلقة SCM SI 300 E، مركز تشغيل CNC ‏SCM Tech Z2، آلة تفريز SCM Nova TI 105، آلة لصق حواف Olimpic K 560، آلة ثقب Pemal، ضاغط هواء وشفاط نشارة، ألواح (OSB وخشب حبيبي وقشرة وأسطح مطابخ)، مخزون إكسسوارات ومسامير، عدد كهربائية، طاولات عمل، تدفئة، أثاث مكتب ومطبخ، منتجات جاهزة وسيارتا فان Fiat Ducato. مستعملة وتُباع بحالتها. متاحة كدفعة كاملة."
+ },
+ "groups_word": [
+  "Groups",
+  "المجموعة"
+ ],
+ "groups": {
+  "machines": {
+   "en": "Woodworking machines",
+   "ar": "آلات النجارة",
+   "short": "Machines"
+  },
+  "materials": {
+   "en": "Board material & hardware",
+   "ar": "الألواح والإكسسوارات",
+   "short": "Materials"
+  },
+  "tools": {
+   "en": "Power & hand tools",
+   "ar": "عدد كهربائية ويدوية",
+   "short": "Tools"
+  },
+  "workshop": {
+   "en": "Workshop equipment & heating",
+   "ar": "تجهيزات الورشة والتدفئة",
+   "short": "Workshop"
+  },
+  "kitchen": {
+   "en": "Office, kitchen & staff room",
+   "ar": "المكتب والمطبخ وغرفة الاستراحة",
+   "short": "Office"
+  },
+  "vehicles": {
+   "en": "Vehicles",
+   "ar": "المركبات",
+   "short": "Vehicles"
+  },
+  "other": {
+   "en": "Other items",
+   "ar": "بنود أخرى",
+   "short": "Other"
+  }
+ },
+ "group_order": [
+  "machines",
+  "materials",
+  "tools",
+  "workshop",
+  "kitchen",
+  "vehicles",
+  "other"
+ ],
+ "other_group": "other",
+ "location": {
+  "en": "Czech Republic",
+  "ar": "التشيك"
+ },
+ "note": {
+  "en": "Photos show the actual items on site. Model and serial number as stated per line. Used equipment, sold as seen without warranty; viewing on site by appointment. Vans listed without photo. Subject to prior sale.",
+  "ar": "الصور للقطع الفعلية في الموقع. الموديل والرقم التسلسلي كما هما مذكوران في كل سطر. معدات مستعملة تُباع بحالتها دون ضمان؛ المعاينة في الموقع بموعد. السيارتان مدرجتان بلا صور. البضاعة متاحة حتى بيعها."
+ },
+ "unit": [
+  "pcs / set",
+  "قطعة / طقم"
+ ],
+ "qty_label": [
+  "Quantity",
+  "الكمية"
+ ],
+ "qty_exact": true,
+ "all_cards": true,
+ "shipping": {
+  "volume_m3": [
+   60,
+   110
+  ],
+  "weight_t": [
+   12,
+   30
+  ],
+  "note": {
+   "en": "Estimate from the inventory photos (volume and weight are ranges; board stock dominates the weight). The panel saw and the CNC centre need forklift or crane loading. The two vans are driven, not containerised, and are not counted here. Final figures after the packing list.",
+   "ar": "تقدير من صور الجرد (الحجم والوزن نطاقات تقريبية؛ معظم الوزن من الألواح). منشار الألواح ومركز CNC يحتاجان رافعة شوكية أو ونشاً للتحميل. السيارتان تُقادان ولا تُشحنان في حاويات ولم تُحسبا هنا. الأرقام النهائية بعد قائمة التعبئة."
+  }
+ }
+}
