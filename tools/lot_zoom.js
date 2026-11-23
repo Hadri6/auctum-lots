@@ -5,7 +5,7 @@
   if (!links.length) return;
   var v = document.createElement('div');
   v.id = 'zv';
-  v.innerHTML = '<div class="zb"><button type="button" data-a="x" aria-label="Close">✕</button><span class="zn"></span>' +
+  v.innerHTML = '<div class="zb"><button type="button" data-a="x" aria-label="Close">✕</button><span class="zn" dir="ltr"></span>' +
     '<a class="zo" target="_blank" rel="noopener">Original</a><span><button type="button" data-a="p" aria-label="Previous">‹</button> ' +
     '<button type="button" data-a="n" aria-label="Next">›</button></span></div><div class="zw"><img alt=""></div>';
   document.body.appendChild(v);
