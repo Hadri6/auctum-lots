@@ -1,0 +1,1200 @@
+[
+ {
+  "ref": "1",
+  "name": "GC006-GREY · 办公椅/OFFICE CHAIR",
+  "qty": 867,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006, colour grey",
+   "ar": "الموديل GC006، اللون رمادي"
+  },
+  "weight_t": [
+   16.473,
+   20.808
+  ],
+  "img": "img/p_01.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_01.jpg"
+  ]
+ },
+ {
+  "ref": "2",
+  "name": "GC006-BLACK · 办公椅/OFFICE CHAIR",
+  "qty": 315,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006, colour black",
+   "ar": "الموديل GC006، اللون أسود"
+  },
+  "weight_t": [
+   5.985,
+   7.56
+  ],
+  "img": "img/p_02.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_02.jpg"
+  ]
+ },
+ {
+  "ref": "3",
+  "name": "GC006-PINK · 办公椅/OFFICE CHAIR",
+  "qty": 250,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006, colour pink",
+   "ar": "الموديل GC006، اللون وردي"
+  },
+  "weight_t": [
+   4.75,
+   6.0
+  ],
+  "img": "img/p_03.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_03.jpg"
+  ]
+ },
+ {
+  "ref": "4",
+  "name": "GC006PRO-LIGHT BLUE · 电竞椅/gaming chair",
+  "qty": 39,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006PRO, colour light blue",
+   "ar": "الموديل GC006PRO، اللون أزرق فاتح"
+  },
+  "weight_t": [
+   0.741,
+   0.936
+  ],
+  "img": "img/p_04.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_04.jpg"
+  ]
+ },
+ {
+  "ref": "5",
+  "name": "GC006PRO-BLACK · 电竞椅/gaming chair",
+  "qty": 86,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006PRO, colour black",
+   "ar": "الموديل GC006PRO، اللون أسود"
+  },
+  "weight_t": [
+   1.634,
+   2.064
+  ],
+  "img": "img/p_05.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_05.jpg"
+  ]
+ },
+ {
+  "ref": "6",
+  "name": "GC006PRO-DARK BLUE · 电竞椅/gaming chair",
+  "qty": 36,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006PRO, colour dark blue",
+   "ar": "الموديل GC006PRO، اللون أزرق داكن"
+  },
+  "weight_t": [
+   0.684,
+   0.864
+  ],
+  "img": "img/p_06.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_06.jpg"
+  ]
+ },
+ {
+  "ref": "7",
+  "name": "GC006PRO-RED · 电竞椅/gaming chair",
+  "qty": 40,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006PRO, colour red",
+   "ar": "الموديل GC006PRO، اللون أحمر"
+  },
+  "weight_t": [
+   0.76,
+   0.96
+  ],
+  "img": "img/p_07.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_07.jpg"
+  ]
+ },
+ {
+  "ref": "8",
+  "name": "GC006MAX-GREY · 办公椅/office chair",
+  "qty": 19,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006MAX, colour grey",
+   "ar": "الموديل GC006MAX، اللون رمادي"
+  },
+  "weight_t": [
+   0.361,
+   0.456
+  ],
+  "img": "img/p_08.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_08.jpg"
+  ]
+ },
+ {
+  "ref": "9",
+  "name": "GC006AMG-GREY · 办公椅/office chair",
+  "qty": 18,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC006AMG, colour grey",
+   "ar": "الموديل GC006AMG، اللون رمادي"
+  },
+  "weight_t": [
+   0.342,
+   0.432
+  ],
+  "img": "img/p_09.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_09.jpg"
+  ]
+ },
+ {
+  "ref": "10",
+  "name": "GC008-GREEN · 电竞椅/gaming chair",
+  "qty": 52,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC008, colour green",
+   "ar": "الموديل GC008، اللون أخضر"
+  },
+  "weight_t": [
+   0.988,
+   1.248
+  ],
+  "img": "img/p_10.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_10.jpg"
+  ]
+ },
+ {
+  "ref": "11",
+  "name": "GC008-RED · 电竞椅/gaming chair",
+  "qty": 93,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC008, colour red",
+   "ar": "الموديل GC008، اللون أحمر"
+  },
+  "weight_t": [
+   1.767,
+   2.232
+  ],
+  "img": "img/p_11.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_11.jpg"
+  ]
+ },
+ {
+  "ref": "12",
+  "name": "GC008-WHITE · 电竞椅/gaming chair",
+  "qty": 277,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC008, colour white",
+   "ar": "الموديل GC008، اللون أبيض"
+  },
+  "weight_t": [
+   5.263,
+   6.648
+  ],
+  "img": "img/p_12.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_12.jpg"
+  ]
+ },
+ {
+  "ref": "13",
+  "name": "WY001-BLACK · 办公椅/office chair",
+  "qty": 58,
+  "group": "b_office",
+  "type_en": "Ergonomic mesh office chair",
+  "type_ar": "كرسي مكتب شبكي مريح",
+  "note": {
+   "en": "Model WY001, colour black",
+   "ar": "الموديل WY001، اللون أسود"
+  },
+  "weight_t": [
+   0.696,
+   0.87
+  ],
+  "img": "img/p_13.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_13.jpg"
+  ]
+ },
+ {
+  "ref": "14",
+  "name": "WY001-BLUE · 办公椅/office chair",
+  "qty": 8,
+  "group": "b_office",
+  "type_en": "Ergonomic mesh office chair",
+  "type_ar": "كرسي مكتب شبكي مريح",
+  "note": {
+   "en": "Model WY001, colour blue",
+   "ar": "الموديل WY001، اللون أزرق"
+  },
+  "weight_t": [
+   0.096,
+   0.12
+  ],
+  "img": "img/p_14.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_14.jpg"
+  ]
+ },
+ {
+  "ref": "15",
+  "name": "WY001-RED · 办公椅/office chair",
+  "qty": 10,
+  "group": "b_office",
+  "type_en": "Ergonomic mesh office chair",
+  "type_ar": "كرسي مكتب شبكي مريح",
+  "note": {
+   "en": "Model WY001, colour red",
+   "ar": "الموديل WY001، اللون أحمر"
+  },
+  "weight_t": [
+   0.12,
+   0.15
+  ],
+  "img": "img/p_15.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_15.jpg"
+  ]
+ },
+ {
+  "ref": "16",
+  "name": "WY001-GREY · 办公椅/office chair",
+  "qty": 10,
+  "group": "b_office",
+  "type_en": "Ergonomic mesh office chair",
+  "type_ar": "كرسي مكتب شبكي مريح",
+  "note": {
+   "en": "Model WY001, colour grey",
+   "ar": "الموديل WY001، اللون رمادي"
+  },
+  "weight_t": [
+   0.12,
+   0.15
+  ],
+  "img": "img/p_16.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_16.jpg"
+  ]
+ },
+ {
+  "ref": "17",
+  "name": "OC007-BEIGE · 办公椅/office chair",
+  "qty": 6,
+  "group": "b_office",
+  "type_en": "Upholstered office chair",
+  "type_ar": "كرسي مكتب منجّد",
+  "note": {
+   "en": "Model OC007, colour beige",
+   "ar": "الموديل OC007، اللون بيج"
+  },
+  "weight_t": [
+   0.066,
+   0.084
+  ],
+  "img": "img/p_17.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_17.jpg"
+  ]
+ },
+ {
+  "ref": "18",
+  "name": "OC001-BLACK · 办公椅/OFFICE CHAIR",
+  "qty": 11,
+  "group": "b_office",
+  "type_en": "Executive chair with footrest",
+  "type_ar": "كرسي مدير مع مسند للقدمين",
+  "note": {
+   "en": "Model OC001, colour black",
+   "ar": "الموديل OC001، اللون أسود"
+  },
+  "weight_t": [
+   0.187,
+   0.242
+  ],
+  "img": "img/p_18.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_18.jpg"
+  ]
+ },
+ {
+  "ref": "19",
+  "name": "OC001-YELLOW · 办公椅/OFFICE CHAIR",
+  "qty": 8,
+  "group": "b_office",
+  "type_en": "Executive chair with footrest",
+  "type_ar": "كرسي مدير مع مسند للقدمين",
+  "note": {
+   "en": "Model OC001, colour yellow",
+   "ar": "الموديل OC001، اللون أصفر"
+  },
+  "weight_t": [
+   0.136,
+   0.176
+  ],
+  "img": "img/p_19.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_19.jpg"
+  ]
+ },
+ {
+  "ref": "20",
+  "name": "OC001-BROWN · 办公椅/OFFICE CHAIR",
+  "qty": 25,
+  "group": "b_office",
+  "type_en": "Executive chair with footrest",
+  "type_ar": "كرسي مدير مع مسند للقدمين",
+  "note": {
+   "en": "Model OC001, colour brown",
+   "ar": "الموديل OC001، اللون بني"
+  },
+  "weight_t": [
+   0.425,
+   0.55
+  ],
+  "img": "img/p_20.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_20.jpg"
+  ]
+ },
+ {
+  "ref": "21",
+  "name": "OC002-GREY · 办公椅/OFFICE CHAIR",
+  "qty": 17,
+  "group": "b_office",
+  "type_en": "Executive chair with footrest",
+  "type_ar": "كرسي مدير مع مسند للقدمين",
+  "note": {
+   "en": "Model OC002, colour grey",
+   "ar": "الموديل OC002، اللون رمادي"
+  },
+  "weight_t": [
+   0.289,
+   0.374
+  ],
+  "img": "img/p_21.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_21.jpg"
+  ]
+ },
+ {
+  "ref": "22",
+  "name": "OC002-BLACK · 办公椅/OFFICE CHAIR",
+  "qty": 40,
+  "group": "b_office",
+  "type_en": "Executive chair with footrest",
+  "type_ar": "كرسي مدير مع مسند للقدمين",
+  "note": {
+   "en": "Model OC002, colour black",
+   "ar": "الموديل OC002، اللون أسود"
+  },
+  "weight_t": [
+   0.68,
+   0.88
+  ],
+  "img": "img/p_22.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_22.jpg"
+  ]
+ },
+ {
+  "ref": "23",
+  "name": "GC003-RED · 电竞椅/gaming chair",
+  "qty": 29,
+  "group": "a_gaming",
+  "type_en": "Gaming chair",
+  "type_ar": "كرسي ألعاب",
+  "note": {
+   "en": "Model GC003, colour red",
+   "ar": "الموديل GC003، اللون أحمر"
+  },
+  "weight_t": [
+   0.464,
+   0.58
+  ],
+  "img": "img/p_23.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_23.jpg"
+  ]
+ },
+ {
+  "ref": "24",
+  "name": "GC003-BLUE · 电竞椅/gaming chair",
+  "qty": 9,
+  "group": "a_gaming",
+  "type_en": "Gaming chair",
+  "type_ar": "كرسي ألعاب",
+  "note": {
+   "en": "Model GC003, colour blue",
+   "ar": "الموديل GC003، اللون أزرق"
+  },
+  "weight_t": [
+   0.144,
+   0.18
+  ],
+  "img": "img/p_24.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_24.jpg"
+  ]
+ },
+ {
+  "ref": "25",
+  "name": "GC003-BEIGE · 电竞椅/gaming chair",
+  "qty": 5,
+  "group": "a_gaming",
+  "type_en": "Gaming chair",
+  "type_ar": "كرسي ألعاب",
+  "note": {
+   "en": "Model GC003, colour beige",
+   "ar": "الموديل GC003، اللون بيج"
+  },
+  "weight_t": [
+   0.08,
+   0.1
+  ],
+  "img": "img/p_25.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_25.jpg"
+  ]
+ },
+ {
+  "ref": "26",
+  "name": "GC004-BELGE · 电竞椅/gaming chair",
+  "qty": 9,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC004, colour beige",
+   "ar": "الموديل GC004، اللون بيج"
+  },
+  "weight_t": [
+   0.171,
+   0.216
+  ],
+  "img": "img/p_26.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_26.jpg"
+  ]
+ },
+ {
+  "ref": "27",
+  "name": "GC004-BLUE · 电竞椅/gaming chair",
+  "qty": 8,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC004, colour blue",
+   "ar": "الموديل GC004، اللون أزرق"
+  },
+  "weight_t": [
+   0.152,
+   0.192
+  ],
+  "img": "img/p_27.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_27.jpg"
+  ]
+ },
+ {
+  "ref": "28",
+  "name": "GC004-RED · 电竞椅/gaming chair",
+  "qty": 15,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC004, colour red",
+   "ar": "الموديل GC004، اللون أحمر"
+  },
+  "weight_t": [
+   0.285,
+   0.36
+  ],
+  "img": "img/p_28.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_28.jpg"
+  ]
+ },
+ {
+  "ref": "29",
+  "name": "GC004-BLACK · 电竞椅/gaming chair",
+  "qty": 5,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC004, colour black",
+   "ar": "الموديل GC004، اللون أسود"
+  },
+  "weight_t": [
+   0.095,
+   0.12
+  ],
+  "img": "img/p_29.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_29.jpg"
+  ]
+ },
+ {
+  "ref": "30",
+  "name": "OD001-BLACK · 电竞桌/gaming desk",
+  "qty": 1,
+  "group": "c_desk",
+  "type_en": "Gaming desk with drawers",
+  "type_ar": "مكتب ألعاب بأدراج",
+  "note": {
+   "en": "Model OD001, colour black",
+   "ar": "الموديل OD001، اللون أسود"
+  },
+  "weight_t": [
+   0.025,
+   0.032
+  ],
+  "img": "img/p_30.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_30.jpg"
+  ]
+ },
+ {
+  "ref": "31",
+  "name": "OD001-YELLOW · 电竞桌/gaming desk",
+  "qty": 24,
+  "group": "c_desk",
+  "type_en": "Gaming desk with drawers",
+  "type_ar": "مكتب ألعاب بأدراج",
+  "note": {
+   "en": "Model OD001, colour yellow",
+   "ar": "الموديل OD001، اللون أصفر"
+  },
+  "weight_t": [
+   0.6,
+   0.768
+  ],
+  "img": "img/p_31.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_31.jpg"
+  ]
+ },
+ {
+  "ref": "32",
+  "name": "OD002-YELLOW · 电竞桌/gaming desk",
+  "qty": 6,
+  "group": "c_desk",
+  "type_en": "Rolling drawer cabinet",
+  "type_ar": "خزانة أدراج بعجلات",
+  "note": {
+   "en": "Listed by the seller as a gaming desk (OD002); the seller's photo shows a rolling drawer cabinet",
+   "ar": "مُدرج لدى البائع كمكتب ألعاب (OD002)؛ صورة البائع تُظهر خزانة أدراج بعجلات"
+  },
+  "weight_t": [
+   0.09,
+   0.12
+  ],
+  "img": "img/p_32.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_32.jpg"
+  ]
+ },
+ {
+  "ref": "33",
+  "name": "LC001-GREY · 办公椅/office chair",
+  "qty": 9,
+  "group": "b_office",
+  "type_en": "Swivel desk chair, low back",
+  "type_ar": "كرسي مكتب دوّار بظهر منخفض",
+  "note": {
+   "en": "Model LC001, colour grey",
+   "ar": "الموديل LC001، اللون رمادي"
+  },
+  "weight_t": [
+   0.063,
+   0.09
+  ],
+  "img": "img/p_33.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_33.jpg"
+  ]
+ },
+ {
+  "ref": "34",
+  "name": "OC015-GREY · 办公椅/OFFICE CHAIR",
+  "qty": 66,
+  "group": "b_office",
+  "type_en": "Task chair, mesh back",
+  "type_ar": "كرسي عمل بظهر شبكي",
+  "note": {
+   "en": "Model OC015, colour grey",
+   "ar": "الموديل OC015، اللون رمادي"
+  },
+  "weight_t": [
+   0.462,
+   0.66
+  ],
+  "img": "img/p_34.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_34.jpg"
+  ]
+ },
+ {
+  "ref": "35",
+  "name": "GC005-GREEN · 办公椅/OFFICE CHAIR",
+  "qty": 90,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC005, colour green",
+   "ar": "الموديل GC005، اللون أخضر"
+  },
+  "weight_t": [
+   1.71,
+   2.16
+  ],
+  "img": "img/p_35.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_35.jpg"
+  ]
+ },
+ {
+  "ref": "36",
+  "name": "GC005-PINK · 电竞椅/gaming chair",
+  "qty": 9,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC005, colour pink",
+   "ar": "الموديل GC005، اللون وردي"
+  },
+  "weight_t": [
+   0.171,
+   0.216
+  ],
+  "img": "img/p_36.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_36.jpg"
+  ]
+ },
+ {
+  "ref": "37",
+  "name": "GC005-RED · 办公椅/OFFICE CHAIR",
+  "qty": 106,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC005, colour red",
+   "ar": "الموديل GC005، اللون أحمر"
+  },
+  "weight_t": [
+   2.014,
+   2.544
+  ],
+  "img": "img/p_37.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_37.jpg"
+  ]
+ },
+ {
+  "ref": "38",
+  "name": "GC005-WHITE · 办公椅/OFFICE CHAIR",
+  "qty": 90,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC005, colour white",
+   "ar": "الموديل GC005، اللون أبيض"
+  },
+  "weight_t": [
+   1.71,
+   2.16
+  ],
+  "img": "img/p_38.jpg",
+  "photo": "rep",
+  "zoom": [
+   "img/full/p_38.jpg"
+  ],
+  "photo_label": {
+   "en": "Photo shows the black version",
+   "ar": "الصورة للنسخة السوداء"
+  }
+ },
+ {
+  "ref": "39",
+  "name": "GC005-BLUE · 电竞椅/gaming chair",
+  "qty": 9,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC005, colour blue",
+   "ar": "الموديل GC005، اللون أزرق"
+  },
+  "weight_t": [
+   0.171,
+   0.216
+  ],
+  "img": "img/p_39.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_39.jpg"
+  ]
+ },
+ {
+  "ref": "40",
+  "name": "OC013-GREY · 办公椅/OFFICE CHAIR",
+  "qty": 3,
+  "group": "b_office",
+  "type_en": "Office chair, mid-back",
+  "type_ar": "كرسي مكتب بظهر متوسط",
+  "note": {
+   "en": "Model OC013, colour grey",
+   "ar": "الموديل OC013، اللون رمادي"
+  },
+  "weight_t": [
+   0.033,
+   0.042
+  ],
+  "img": "img/p_40.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_40.jpg"
+  ]
+ },
+ {
+  "ref": "41",
+  "name": "OC013-CHAMPANGE · 办公椅/OFFICE CHAIR",
+  "qty": 2,
+  "group": "b_office",
+  "type_en": "Office chair, mid-back",
+  "type_ar": "كرسي مكتب بظهر متوسط",
+  "note": {
+   "en": "Model OC013, colour champagne",
+   "ar": "الموديل OC013، اللون شامبانيا"
+  },
+  "weight_t": [
+   0.022,
+   0.028
+  ],
+  "img": "img/p_41.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_41.jpg"
+  ]
+ },
+ {
+  "ref": "42",
+  "name": "DE-GC002-PAN · 电竞椅/gaming chair",
+  "qty": 9,
+  "group": "a_gaming",
+  "type_en": "Gaming chair with footrest",
+  "type_ar": "كرسي ألعاب مع مسند للقدمين",
+  "note": {
+   "en": "Model GC002, colour brown/beige (per photo)",
+   "ar": "الموديل GC002، اللون بني/بيج (حسب الصورة)"
+  },
+  "weight_t": [
+   0.171,
+   0.216
+  ],
+  "img": "img/p_42.jpg",
+  "photo": "exact",
+  "zoom": [
+   "img/full/p_42.jpg"
+  ]
+ },
+ {
+  "ref": "43",
+  "name": "GC006-T · T型背杆/T-shaped back bar",
+  "qty": 15,
+  "group": "d_parts",
+  "type_en": "T-shaped back bar",
+  "type_ar": "قضيب ظهر على شكل T",
+  "img": null,
+  "weight_t": [
+   0.0045,
+   0.045
+  ]
+ },
+ {
+  "ref": "44",
+  "name": "GC006-SCREWPACK · 螺丝包/Screwpack",
+  "qty": 26,
+  "group": "d_parts",
+  "type_en": "Screw pack",
+  "type_ar": "كيس براغي",
+  "img": null,
+  "weight_t": [
+   0.0078,
+   0.078
+  ]
+ },
+ {
+  "ref": "45",
+  "name": "GC006-WHEEL · 脚轮/WHEEL",
+  "qty": 10,
+  "group": "d_parts",
+  "type_en": "Caster wheels",
+  "type_ar": "عجلات",
+  "img": null,
+  "weight_t": [
+   0.003,
+   0.03
+  ]
+ },
+ {
+  "ref": "46",
+  "name": "DE-GC002-DISASSEMBLYFOOT · 拆装脚/disassemblyfoot",
+  "qty": 4,
+  "group": "d_parts",
+  "type_en": "Detachable foot",
+  "type_ar": "قدم قابلة للفك",
+  "img": null,
+  "weight_t": [
+   0.0012,
+   0.012
+  ]
+ },
+ {
+  "ref": "47",
+  "name": "DE-GC004-TRAY · 托盘/tray",
+  "qty": 4,
+  "group": "d_parts",
+  "type_en": "Seat plate (tray)",
+  "type_ar": "قاعدة المقعد",
+  "img": null,
+  "weight_t": [
+   0.0012,
+   0.012
+  ]
+ },
+ {
+  "ref": "48",
+  "name": "DE-GC003-TRAY · 托盘/tray",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Seat plate (tray)",
+  "type_ar": "قاعدة المقعد",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ },
+ {
+  "ref": "49",
+  "name": "DE-GC002-TRAY · 托盘/tray",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Seat plate (tray)",
+  "type_ar": "قاعدة المقعد",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ },
+ {
+  "ref": "50",
+  "name": "DE-GC002-FIVE-STARFEET · 五星脚/Five-starfeet",
+  "qty": 3,
+  "group": "d_parts",
+  "type_en": "Five-star base",
+  "type_ar": "قاعدة نجمية خماسية",
+  "img": null,
+  "weight_t": [
+   0.0009,
+   0.009
+  ]
+ },
+ {
+  "ref": "51",
+  "name": "DE-GC004-ARMREST-LEFT · 扶手-左/armrest-left",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Armrest, left",
+  "type_ar": "مسند ذراع أيسر",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ },
+ {
+  "ref": "52",
+  "name": "DE-GC003-ARMREST-LEFT · 扶手-左/armrest-left",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Armrest, left",
+  "type_ar": "مسند ذراع أيسر",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ },
+ {
+  "ref": "53",
+  "name": "DE-GC002CYAN-ARMREST-LEFT · 扶手-左/armrest-left",
+  "qty": 3,
+  "group": "d_parts",
+  "type_en": "Armrest, left",
+  "type_ar": "مسند ذراع أيسر",
+  "img": null,
+  "weight_t": [
+   0.0009,
+   0.009
+  ]
+ },
+ {
+  "ref": "54",
+  "name": "DE-GC002MF-ARMREST-LEFT · 扶手-左/armrest-left",
+  "qty": 3,
+  "group": "d_parts",
+  "type_en": "Armrest, left",
+  "type_ar": "مسند ذراع أيسر",
+  "img": null,
+  "weight_t": [
+   0.0009,
+   0.009
+  ]
+ },
+ {
+  "ref": "55",
+  "name": "DE-GC004-SCREWPACK · 螺丝包/Screwpack",
+  "qty": 3,
+  "group": "d_parts",
+  "type_en": "Screw pack",
+  "type_ar": "كيس براغي",
+  "img": null,
+  "weight_t": [
+   0.0009,
+   0.009
+  ]
+ },
+ {
+  "ref": "56",
+  "name": "DE-GC003-SCREWPACK · 螺丝包/Screwpack",
+  "qty": 4,
+  "group": "d_parts",
+  "type_en": "Screw pack",
+  "type_ar": "كيس براغي",
+  "img": null,
+  "weight_t": [
+   0.0012,
+   0.012
+  ]
+ },
+ {
+  "ref": "57",
+  "name": "DE-GC002-SCREWPACK · 螺丝包/Screwpack",
+  "qty": 2,
+  "group": "d_parts",
+  "type_en": "Screw pack",
+  "type_ar": "كيس براغي",
+  "img": null,
+  "weight_t": [
+   0.0006,
+   0.006
+  ]
+ },
+ {
+  "ref": "58",
+  "name": "DE-GC001-SCREWPACK · 螺丝包/Screwpack",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Screw pack",
+  "type_ar": "كيس براغي",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ },
+ {
+  "ref": "59",
+  "name": "DE-THREE-SECTIONSET · 三节套/Three-section set",
+  "qty": 10,
+  "group": "d_parts",
+  "type_en": "Three-section cover set",
+  "type_ar": "غطاء ثلاثي الأجزاء",
+  "img": null,
+  "weight_t": [
+   0.003,
+   0.03
+  ]
+ },
+ {
+  "ref": "60",
+  "name": "DE-GC004-ARMREST · 扶手/armrest",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Armrest",
+  "type_ar": "مسند ذراع",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ },
+ {
+  "ref": "61",
+  "name": "DE-GC003-ARMREST · 扶手/armrest",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Armrest",
+  "type_ar": "مسند ذراع",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ },
+ {
+  "ref": "62",
+  "name": "DE-GC002-CYAN-ARMREST · 扶手/armrest",
+  "qty": 3,
+  "group": "d_parts",
+  "type_en": "Armrest",
+  "type_ar": "مسند ذراع",
+  "img": null,
+  "weight_t": [
+   0.0009,
+   0.009
+  ]
+ },
+ {
+  "ref": "63",
+  "name": "DE-GC002-MF-ARMREST · 扶手/armrest",
+  "qty": 3,
+  "group": "d_parts",
+  "type_en": "Armrest",
+  "type_ar": "مسند ذراع",
+  "img": null,
+  "weight_t": [
+   0.0009,
+   0.009
+  ]
+ },
+ {
+  "ref": "64",
+  "name": "DE-GC003WHEEL · 脚轮/wheel",
+  "qty": 9,
+  "group": "d_parts",
+  "type_en": "Caster wheels",
+  "type_ar": "عجلات",
+  "img": null,
+  "weight_t": [
+   0.0027,
+   0.027
+  ]
+ },
+ {
+  "ref": "65",
+  "name": "DE-GC002WHEEL · 脚轮/wheel",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Caster wheels",
+  "type_ar": "عجلات",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ },
+ {
+  "ref": "66",
+  "name": "DE-GC001WHEEL · 脚轮/wheel",
+  "qty": 5,
+  "group": "d_parts",
+  "type_en": "Caster wheels",
+  "type_ar": "عجلات",
+  "img": null,
+  "weight_t": [
+   0.0015,
+   0.015
+  ]
+ }
+]

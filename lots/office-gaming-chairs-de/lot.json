@@ -1,0 +1,89 @@
+{
+ "slug": "office-gaming-chairs-de",
+ "page_title": "Office & Gaming Chairs – 2,758 pcs – Germany",
+ "title": {
+  "en": "Office & gaming chairs – 2,758 pieces + 31 desks",
+  "ar": "كراسي مكتب وكراسي ألعاب – 2,758 قطعة + 31 مكتباً وخزانة"
+ },
+ "subtitle": {
+  "en": "Sellable warehouse stock (overstock of an online retailer) in Germany: 2,758 chairs in 16 models and 39 model/colour lines – racing-style gaming chairs with footrest, ergonomic mesh office chairs, executive chairs and task chairs – plus 31 gaming desks / drawer cabinets and 147 spare parts (casters, armrests, screw packs, bases). Every chair line is shown with the seller's product photo.",
+  "ar": "مخزون مستودع قابل للبيع (فائض بائع إلكتروني) في ألمانيا: 2,758 كرسياً من 16 موديلاً و39 سطر موديل/لون – كراسي ألعاب بتصميم رياضي مع مسند للقدمين، كراسي مكتب شبكية مريحة، كراسي مدير وكراسي عمل – إضافة إلى 31 مكتب ألعاب/خزانة أدراج و147 قطعة غيار (عجلات، مساند أذرع، أكياس براغي، قواعد). كل سطر كراسٍ معروض بصورة المنتج من البائع."
+ },
+ "groups_word": [
+  "Category",
+  "الفئة"
+ ],
+ "kpis": [
+  {
+   "en": "Chairs",
+   "ar": "كراسي",
+   "value": "2,758"
+  },
+  {
+   "en": "Models",
+   "ar": "موديلات",
+   "value": "18"
+  },
+  {
+   "en": "Desks & cabinets",
+   "ar": "مكاتب وخزائن",
+   "value": "31"
+  },
+  {
+   "en": "Spare parts",
+   "ar": "قطع غيار",
+   "value": "147"
+  }
+ ],
+ "location": {
+  "en": "Germany (warehouse stock)",
+  "ar": "ألمانيا (مخزون مستودع)"
+ },
+ "group_order": [
+  "a_gaming",
+  "b_office",
+  "c_desk",
+  "d_parts"
+ ],
+ "groups": {
+  "a_gaming": {
+   "en": "Gaming chairs",
+   "ar": "كراسي ألعاب",
+   "short": "Gaming chairs"
+  },
+  "b_office": {
+   "en": "Office & executive chairs",
+   "ar": "كراسي مكتب ومدير",
+   "short": "Office chairs"
+  },
+  "c_desk": {
+   "en": "Gaming desks & drawer cabinets",
+   "ar": "مكاتب ألعاب وخزائن أدراج",
+   "short": "Desks"
+  },
+  "d_parts": {
+   "en": "Spare parts",
+   "ar": "قطع غيار",
+   "short": "Parts"
+  }
+ },
+ "rows_title": {
+  "en": "Spare parts – no photo ({n})",
+  "ar": "قطع غيار – بدون صورة ({n})"
+ },
+ "shipping": {
+  "volume_m3": [
+   455,
+   565
+  ],
+  "no_20ft": true,
+  "note": {
+   "en": "Estimate: the list gives no carton sizes or weights. Typical flat-pack cartons were assumed per chair type (gaming chair with footrest ≈ 0.17–0.21 m³ / 19–24 kg, mesh office chair ≈ 0.10–0.13 m³ / 12–15 kg, small task chairs ≈ 0.07–0.10 m³). Chairs are bulky rather than heavy, so volume decides the container count.",
+   "ar": "تقدير: القائمة لا تذكر مقاسات الكراتين ولا أوزانها. افترضنا كراتين التعبئة المعتادة لكل نوع (كرسي ألعاب مع مسند قدمين ≈ 0.17–0.21 م³ / 19–24 كغ، كرسي مكتب شبكي ≈ 0.10–0.13 م³ / 12–15 كغ، كراسي العمل الصغيرة ≈ 0.07–0.10 م³). الكراسي كبيرة الحجم لا ثقيلة، لذا الحجم هو ما يحدد عدد الحاويات."
+  }
+ },
+ "note": {
+  "en": "Item names are kept as written in the seller's stock list (SKU · product name); model and colour are given underneath. Photos are the seller's product photos of the same model and colour (one line marked where the photo shows another colour). Quantities are the sellable pieces per line. Subject to prior sale.",
+  "ar": "أسماء الأصناف كما وردت في قائمة مخزون البائع (رمز الصنف · اسم المنتج)، والموديل واللون مذكوران تحتها. الصور هي صور المنتج من البائع لنفس الموديل واللون (سطر واحد مُعلَّم لأن صورته بلون آخر). الكميات هي عدد القطع القابلة للبيع في كل سطر. البيع رهن عدم البيع المسبق."
+ }
+}
